@@ -2,8 +2,6 @@ import AllJobsTable from "@/components/AllJobsTable";
 import { loadAllJobsEver } from "@/lib/loadRuns";
 import { flattenAllJobs } from "@/lib/groupByDate";
 
-export const dynamic = "force-static";
-
 export default function AllJobsPage() {
   const snapshots = loadAllJobsEver();
   const rows = flattenAllJobs(snapshots);

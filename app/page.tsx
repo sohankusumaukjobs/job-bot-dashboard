@@ -3,7 +3,10 @@ import Stats from "@/components/Stats";
 import { loadAllDailyRuns } from "@/lib/loadRuns";
 import { groupByDate } from "@/lib/groupByDate";
 
-export const dynamic = "force-static";
+// Server component reads from the file system at build time; Next.js SSGs it
+// automatically. We don't need `dynamic = "force-static"` and removing it
+// avoids an edge-cache interaction that prevented Vercel from re-rendering
+// the page when new state JSONs landed in `public/state/`.
 
 export default function DailyPage() {
   const snapshots = loadAllDailyRuns();

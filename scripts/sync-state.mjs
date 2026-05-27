@@ -7,10 +7,13 @@
  *   BOT_REPO_PAT  — fine-grained PAT with Contents: Read on the bot repo.
  *
  * Env (with defaults):
- *   BOT_REPO_OWNER  (default: sohankusumaukjobs)
- *   BOT_REPO_NAME   (default: job-bot)
- *   BOT_REPO_BRANCH (default: main)
- *   STATE_PATH      (default: state)
+ *   BOT_REPO_OWNER     (default: sohankusumaukjobs)
+ *   BOT_REPO_NAME      (default: job-bot)
+ *   BOT_REPO_BRANCH    (default: main)
+ *   STATE_REMOTE_PATH  (default: state)         path inside the bot repo
+ *   STATE_TARGET       (default: public/state)  path inside this repo (must
+ *                                               live under public/ so Vercel
+ *                                               serves files as static assets)
  */
 
 import { mkdir, writeFile, readdir, stat } from "node:fs/promises";
@@ -20,7 +23,15 @@ import { join, dirname } from "node:path";
 const OWNER = process.env.BOT_REPO_OWNER ?? "sohankusumaukjobs";
 const REPO = process.env.BOT_REPO_NAME ?? "job-bot";
 const BRANCH = process.env.BOT_REPO_BRANCH ?? "main";
-const STATE_PATH = process.env.STATE_PATH ?? "state";
+// Default target is `public/state` so Vercel serves the JSONs and any binary
+// artifacts (e.g. resume DOCXes under state/resumes/) as static assets.
+// Override via STATE_TARGET / STATE_REMOTE_PATH env vars if needed.
+const STATE_REMOTE_PATH = process.env.STATE_REMOTE_PATH ?? "state";
+const STATE_TARGET = process.env.STATE_TARGET ?? "public/state";
+// Back-compat: if STATE_PATH was the old usage, mirror it onto both fields.
+const _legacyPath = process.env.STATE_PATH;
+const REMOTE_DIR = _legacyPath ?? STATE_REMOTE_PATH;
+const LOCAL_DIR = _legacyPath ? `public/${_legacyPath}` : STATE_TARGET;
 const TOKEN = process.env.BOT_REPO_PAT;
 
 if (!TOKEN) {
@@ -91,8 +102,8 @@ async function syncDirectory(remoteDir, localDir) {
 }
 
 async function main() {
-  console.log(`Syncing ${OWNER}/${REPO}@${BRANCH}:${STATE_PATH}/ → ./${STATE_PATH}/`);
-  await syncDirectory(STATE_PATH, STATE_PATH);
+  console.log(`Syncing ${OWNER}/${REPO}@${BRANCH}:${REMOTE_DIR}/ → ./${LOCAL_DIR}/`);
+  await syncDirectory(REMOTE_DIR, LOCAL_DIR);
   console.log("Sync complete.");
 }
 

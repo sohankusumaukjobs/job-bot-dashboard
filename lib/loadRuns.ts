@@ -3,7 +3,9 @@ import { join } from "node:path";
 import type { RunIndexEntry, RunSnapshot } from "./types";
 
 // State JSONs are committed into the dashboard repo by the sync workflow.
-const STATE_RUNS_DIR = join(process.cwd(), "state", "runs");
+// They live under public/state/ so Vercel also serves them (and the resume
+// DOCXes alongside them) as static assets at /state/...
+const STATE_RUNS_DIR = join(process.cwd(), "public", "state", "runs");
 
 export function loadIndex(): RunIndexEntry[] {
   const indexPath = join(STATE_RUNS_DIR, "index.json");

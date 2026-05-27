@@ -61,18 +61,40 @@ export default function JobCard({ job }: { job: Job }) {
         )}
       </div>
 
-      {job.apply_url && (
-        <div className="mt-3">
-          <a
-            href={job.apply_url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-1 rounded-md bg-accent px-3 py-1.5 text-sm font-semibold text-bg transition hover:bg-emerald-400"
-          >
-            Apply →
-          </a>
+      {(job.apply_url || job.resume_file) && (
+        <div className="mt-3 flex flex-wrap items-center gap-2">
+          {job.apply_url && (
+            <a
+              href={job.apply_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 rounded-md bg-accent px-3 py-1.5 text-sm font-semibold text-bg transition hover:bg-emerald-400"
+            >
+              Apply →
+            </a>
+          )}
+          {job.resume_file && (
+            <a
+              href={resumeHref(job.resume_file)}
+              download
+              className="inline-flex items-center gap-1 rounded-md border border-white/15 bg-bg-surface px-3 py-1.5 text-sm font-semibold text-ink transition hover:border-accent hover:text-accent"
+            >
+              📄 Download resume
+            </a>
+          )}
         </div>
       )}
     </article>
   );
+}
+
+function resumeHref(resumeFile: string): string {
+  // job.resume_file is a path relative to the bot's state/ dir
+  // (e.g. "resumes/20260527T1100/01_Acme_Engineer_82.docx"). The dashboard
+  // serves the synced state tree under /state/ so the public URL is:
+  //   /state/resumes/<run_id>/<file>.docx
+  // For older runs that stored the path as "resumes/<file>.docx" without a
+  // run_id, fall back to /state/<as-is> so they still work.
+  const normalized = resumeFile.replace(/\\/g, "/").replace(/^\/+/, "");
+  return `/state/${normalized}`;
 }

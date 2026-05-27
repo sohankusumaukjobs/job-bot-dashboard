@@ -13,10 +13,10 @@ Public Vercel-deployed Next.js dashboard for the private `job-bot` companion rep
 ```
 private repo: job-bot                     this public repo: job-bot-dashboard
   python job_bot.py                          .github/workflows/sync.yml
-  └─ writes state/runs/*.json                └─ runs every 30 min (cron)
+  └─ writes public/state/runs/*.json                └─ runs every 30 min (cron)
   └─ git push to main                        └─ repository_dispatch (bot triggers it)
                                              └─ scripts/sync-state.mjs pulls
-                                                state/runs/*.json via GitHub
+                                                public/state/runs/*.json via GitHub
                                                 API using BOT_REPO_PAT
                                              └─ commits to this repo
                                              └─ Vercel auto-rebuilds

@@ -39,11 +39,19 @@ jobs:
         run: |
           git config user.email "dashboard-sync@local"
           git config user.name "Dashboard Sync"
-          if [ -d state ]; then
-            git add state/
+          # public/state/ is the live tree Vercel serves; clean up the old
+          # top-level state/ tree if it's still around from earlier syncs.
+          if [ -d public/state ]; then
+            git add public/state/
           else
-            echo "No state/ directory yet (bot hasn't run --bootstrap?). Skipping."
+            echo "No public/state/ directory yet (bot hasn't run --bootstrap?). Skipping."
             exit 0
+          fi
+          # Remove legacy top-level state/ contents if present (cleanup of old layout).
+          if [ -d state ]; then
+            git rm -r --cached --ignore-unmatch state/ 2>/dev/null || true
+            rm -rf state/runs state/seen_jobs.json state/.gitkeep 2>/dev/null || true
+            git add -A state/ 2>/dev/null || true
           fi
           if git diff --cached --quiet; then
             echo "No changes — nothing to commit."

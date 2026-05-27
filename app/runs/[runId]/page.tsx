@@ -2,8 +2,6 @@ import { notFound } from "next/navigation";
 import JobCard from "@/components/JobCard";
 import { loadIndex, loadRun } from "@/lib/loadRuns";
 
-export const dynamic = "force-static";
-
 export function generateStaticParams() {
   return loadIndex().map((entry) => ({ runId: entry.run_id }));
 }
