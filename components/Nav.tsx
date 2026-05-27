@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import { useStatusCount, STATUS_ICONS } from "@/lib/jobStatus";
+import SyncPanel from "./SyncPanel";
 
 function TabLink({
   href,
@@ -59,6 +60,7 @@ export default function Nav() {
             count={rejectedCount}
           />
         </div>
+        <SyncPanel />
       </div>
     </nav>
   );

@@ -141,3 +141,46 @@ export function useStatusCount(status: Exclude<JobStatus, "">): number {
   for (const k in map) if (map[k] === status) n++;
   return n;
 }
+
+// ── Imperative helpers (used by cloud sync) ───────────────────────────────
+
+/** Non-hook snapshot of the current status map — for "Save to cloud". */
+export function readStatusMapNow(): StatusMap {
+  hydrate();
+  return { ...cachedMap };
+}
+
+/** Replace the entire status map (used after "Load from cloud"). */
+export function replaceStatusMap(next: StatusMap): void {
+  hydrate();
+  // Defensively coerce: only keep entries that look like valid statuses.
+  const sanitized: StatusMap = {};
+  if (next && typeof next === "object") {
+    for (const [k, v] of Object.entries(next)) {
+      if (v === "applied" || v === "interview" || v === "rejected") {
+        sanitized[k] = v;
+      }
+    }
+  }
+  persist(sanitized);
+}
+
+/**
+ * Merge a remote map into the local one (used by smart Load).
+ * On conflict, the remote value wins — caller is expected to have decided
+ * whether remote is fresher already.
+ */
+export function mergeStatusMap(remote: StatusMap): void {
+  hydrate();
+  const next: StatusMap = { ...cachedMap };
+  if (remote && typeof remote === "object") {
+    for (const [k, v] of Object.entries(remote)) {
+      if (v === "applied" || v === "interview" || v === "rejected") {
+        next[k] = v;
+      } else if (v === "" || v === null || v === undefined) {
+        delete next[k];
+      }
+    }
+  }
+  persist(next);
+}
