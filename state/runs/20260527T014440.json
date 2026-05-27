@@ -1,0 +1,1493 @@
+{
+  "version": 1,
+  "run_id": "20260527T014440",
+  "run_date": "2026-05-27T01:44:40",
+  "top_n": 3,
+  "total_scraped": 9,
+  "new_count": 9,
+  "returning_count": 0,
+  "profile": {
+    "profile_summary": "An analytical and technically proficient MSc Computer Science graduate with a strong foundation in data analysis, machine learning, and software development. Demonstrates practical experience in building end-to-end machine learning pipelines, developing interactive BI dashboards, and leveraging Generative AI for workflow automation. Proven ability to deliver high-accuracy predictive models and actionable business insights through structured academic projects and industry-aligned simulations.",
+    "target_roles": [
+      "Junior Data Analyst",
+      "Graduate Data Analyst",
+      "Junior Machine Learning Engineer",
+      "Data School Consultant",
+      "Business Intelligence Analyst"
+    ],
+    "seniority": "entry-level",
+    "core_skills": [
+      "Python",
+      "SQL",
+      "C",
+      "C++",
+      "Java",
+      "React",
+      "Node.js",
+      "Html",
+      "Power BI",
+      "DAX",
+      "Power Query",
+      "Tableau",
+      "Excel",
+      "Pandas",
+      "NumPy",
+      "TensorFlow",
+      "Keras",
+      "Scikit-learn",
+      "CNN",
+      "DenseNet"
+    ],
+    "transferable_skills": [
+      "Analytical Thinking",
+      "Problem Solving",
+      "Communication",
+      "Collaboration",
+      "Project Leadership",
+      "Data Visualization",
+      "Debugging and Troubleshooting"
+    ],
+    "industries": [
+      "Technology",
+      "Consulting"
+    ],
+    "search_queries": [
+      "Data Analyst",
+      "Junior Data Analyst",
+      "Graduate Data Analyst",
+      "Machine Learning Engineer",
+      "BI Analyst"
+    ],
+    "avoid_keywords": [
+      "Senior Data Scientist",
+      "Lead Data Analyst",
+      "Data Architect",
+      "Principal Engineer"
+    ],
+    "weak_match_warnings": [
+      "The candidate's professional experience consists entirely of virtual job simulations (Forage) and academic projects, with no commercial, on-the-job UK employment history."
+    ]
+  },
+  "searches": [
+    {
+      "name": "resume-generated-1",
+      "position": "Data Analyst",
+      "country": "GB",
+      "location": "United Kingdom",
+      "max_results": 10,
+      "sources": {
+        "indeed": {
+          "enabled": true
+        },
+        "linkedin": {
+          "enabled": true
+        },
+        "glassdoor": {
+          "enabled": true
+        },
+        "zip_recruiter": {
+          "enabled": true
+        },
+        "google": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "source": "linkedin",
+      "title": "Junior Data Analyst",
+      "company": "Haystack",
+      "location": "Aberdeen, Scotland, UK",
+      "salary": "",
+      "description": "Are you looking to kickstart a rewarding career where you can transform raw data into powerful insights? Join a leading training provider dedicated to building the next generation of skilled data professionals, with a focus on equipping you with both the tools and real\\-world experience needed to excel in a high\\-demand field. The Role * Participate in an intensive Data Analyst Career Programme with a job guarantee * Gain proficiency in essential data tools and technologies, including Excel, SQL, Python, Tableau, and Power BI * Complete real\\-world project work to build a strong portfolio * Achieve industry\\-recognised certifications * Transition into a demanding and rewarding career in data analysis What You'll Need * Strong curiosity and problem\\-solving aptitude * Excellent communication skills * Eagerness and willingness to learn new technologies and concepts * No prior tech\\-job or data background required * Commitment to completing a comprehensive training programme What's On Offer * Comprehensive training modules covering key data analysis tools * Three official certifications from Microsoft Azure * Practical real\\-world project experience for CV enhancement Apply via Haystack today!",
+      "apply_url": "https://www.linkedin.com/jobs/view/4414884007",
+      "posted_at": "2026-05-25",
+      "source_id": "li-4414884007",
+      "raw": {
+        "id": "li-4414884007",
+        "site": "linkedin",
+        "job_url": "https://www.linkedin.com/jobs/view/4414884007",
+        "job_url_direct": null,
+        "title": "Junior Data Analyst",
+        "company": "Haystack",
+        "location": "Aberdeen, Scotland, UK",
+        "date_posted": "2026-05-25",
+        "job_type": "fulltime",
+        "salary_source": null,
+        "interval": null,
+        "min_amount": null,
+        "max_amount": null,
+        "currency": null,
+        "is_remote": false,
+        "job_level": "associate",
+        "job_function": "Information Technology",
+        "listing_type": null,
+        "emails": NaN,
+        "description": "Are you looking to kickstart a rewarding career where you can transform raw data into powerful insights? Join a leading training provider dedicated to building the next generation of skilled data professionals, with a focus on equipping you with both the tools and real\\-world experience needed to excel in a high\\-demand field.\n   \n\n  \n\n The Role\n   \n\n  \n\n* Participate in an intensive Data Analyst Career Programme with a job guarantee\n* Gain proficiency in essential data tools and technologies, including Excel, SQL, Python, Tableau, and Power BI\n* Complete real\\-world project work to build a strong portfolio\n* Achieve industry\\-recognised certifications\n* Transition into a demanding and rewarding career in data analysis\n\n\n What You'll Need\n   \n\n  \n\n* Strong curiosity and problem\\-solving aptitude\n* Excellent communication skills\n* Eagerness and willingness to learn new technologies and concepts\n* No prior tech\\-job or data background required\n* Commitment to completing a comprehensive training programme\n\n\n What's On Offer\n   \n\n  \n\n* Comprehensive training modules covering key data analysis tools\n* Three official certifications from Microsoft Azure\n* Practical real\\-world project experience for CV enhancement\n\n\n Apply via Haystack today!",
+        "company_industry": "Technology, Information and Internet",
+        "company_url": "https://uk.linkedin.com/company/wearehaystack",
+        "company_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFq9pcJGgSIpw/company-logo_100_100/company-logo_100_100/0/1661435358398/wearehaystack_logo?e=2147483647&v=beta&t=rujfUADbjJfzHP5KvyRjFwVpiCqcmuXrLF36sSaB1m8",
+        "company_url_direct": null,
+        "company_addresses": null,
+        "company_num_employees": null,
+        "company_revenue": null,
+        "company_description": null,
+        "skills": null,
+        "experience_range": null,
+        "company_rating": null,
+        "company_reviews_count": null,
+        "vacancy_count": null,
+        "work_from_home_type": null
+      },
+      "match_score": 92,
+      "match_reasons": [
+        "The candidate is an exceptional match for this Junior/Entry-level Data Analyst training programme. They possess all the core technical skills requested (Excel, SQL, Python, Tableau, Power BI) and have already completed relevant academic projects and job simulations. The score is slightly adjusted because the candidate is overqualified for a 'no prior tech-job background required' programme, but they perfectly align with the learning path."
+      ],
+      "accuracy_score": 92,
+      "matched_strengths": [
+        "Possesses academic and project experience in all five core tools: Excel, SQL, Python, Tableau, and Power BI.",
+        "Demonstrates strong problem-solving aptitude through a MSc in Computer Science and complex ML projects.",
+        "Has already completed multiple virtual job simulations (Deloitte, BCG) demonstrating eagerness to learn and practical application."
+      ],
+      "skill_gaps": [
+        "The job offers three official certifications from Microsoft Azure; while the candidate has Azure listed under Cloud DB, they do not yet hold these specific official Azure certifications."
+      ],
+      "transferable_matches": [
+        "MSc Computer Science academic projects transfer directly to the real-world project work required in the programme.",
+        "Experience with TensorFlow and Generative AI transfers to advanced data analysis capabilities beyond the basic junior requirements."
+      ],
+      "recommendation_tier": "Strong",
+      "ats_keyword_matches": [
+        "Data Analyst",
+        "Excel",
+        "SQL",
+        "Python",
+        "Tableau",
+        "Power BI",
+        "Microsoft Azure",
+        "communication skills",
+        "problem-solving"
+      ],
+      "tailored_summary": "Junior Data Analyst with a Master's in Computer Science and hands-on experience transforming raw data into powerful insights. Proficient in essential data tools including Excel, SQL, Python, Tableau, and Power BI, with practical experience in Microsoft Azure environments. Proven ability to deliver interactive dashboards and execute data analysis workflows, demonstrated through multiple industry-aligned job simulations and advanced academic projects. Eager to apply strong problem-solving aptitude and communication skills to complete the comprehensive training programme and transition into a rewarding career.",
+      "tailored_skills": [
+        "Excel",
+        "SQL",
+        "Tableau",
+        "Power BI",
+        "Pandas",
+        "NumPy",
+        "DAX",
+        "Power Query",
+        "Python",
+        "C++",
+        "Java",
+        "React",
+        "Node.js",
+        "Html",
+        "Microsoft Azure",
+        "AWS (S3)"
+      ],
+      "tailored_core_skills": {
+        "Data & BI": [
+          "Excel",
+          "SQL",
+          "Tableau",
+          "Power BI",
+          "Pandas",
+          "NumPy",
+          "DAX",
+          "Power Query"
+        ],
+        "Languages": [
+          "Python",
+          "C",
+          "C++",
+          "Java",
+          "React",
+          "Node.js",
+          "Html"
+        ],
+        "Cloud & DB": [
+          "Microsoft Azure",
+          "AWS (S3)",
+          "Snowflake"
+        ],
+        "Machine Learning": [
+          "TensorFlow",
+          "Keras",
+          "Scikit-learn",
+          "CNN",
+          "DenseNet"
+        ],
+        "Tools & Methods": [
+          "Exploratory Data Analysis (EDA)",
+          "GridSearchCV",
+          "Cross-validation",
+          "Prompt Engineering"
+        ]
+      },
+      "tailored_competencies": [
+        "Data Analysis",
+        "Problem-solving",
+        "Communication skills",
+        "Excel Data Classification",
+        "SQL Query Refinement",
+        "Python Programming",
+        "Tableau Dashboarding",
+        "Power BI Reporting",
+        "Microsoft Azure",
+        "Analytical Thinking",
+        "Collaboration"
+      ],
+      "tailored_impact_strengths": [
+        "Achieved 98.84% accuracy in predictive modeling by implementing DenseNet-based CNNs on 2,700+ high-resolution images.",
+        "Improved model performance up to +16% vs baseline through strategic architecture choice and data augmentation.",
+        "Integrated and interpreted complex financial data from 10-K and 10-Q reports to build an AI-powered chatbot."
+      ],
+      "tailored_experience_rewrites": [
+        {
+          "heading": "Deloitte Australia Data Analytics Job Simulation on Forage",
+          "role_line": "Role: Participant / Data Analyst",
+          "bullets": [
+            "Completed a Deloitte job simulation involving data analysis and forensic technology to transform raw data into powerful insights.",
+            "Created an interactive data dashboard using Tableau to surface key metrics and support business decision-making.",
+            "Used Excel to classify complex data and draw actionable business conclusions from structured datasets."
+          ]
+        },
+        {
+          "heading": "BCG GenAI Job Simulation on Forage",
+          "role_line": "Role: Participant / GenAI Developer",
+          "bullets": [
+            "Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.",
+            "Utilized Python programming, including libraries such as pandas, for advanced data manipulation and analysis.",
+            "Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to deliver user-friendly financial insights."
+          ]
+        },
+        {
+          "heading": "Datacom Software Development Job Simulation on Forage",
+          "role_line": "Role: Participant / Software Developer",
+          "bullets": [
+            "Completed a simulation focused on how the software development team at Datacom approaches technical problem-solving.",
+            "Reviewed a web application to identify areas of improvement and planned future optimization strategies.",
+            "Identified the root cause of bugs and implemented targeted fixes to improve application performance and reliability."
+          ]
+        },
+        {
+          "heading": "Wildfire Detection System",
+          "role_line": "Role: Project Lead / Data & ML Engineer",
+          "bullets": [
+            "Built an end-to-end ML pipeline for early wildfire detection using DenseNet-based CNNs (TensorFlow/Keras) on 2,700+ high-resolution images.",
+            "Addressed class imbalance and brightness variation using augmentation and Multi-Scale Retinex preprocessing to achieve 98.84% accuracy vs baseline.",
+            "Applied GridSearchCV and cross-validation for model robustness, and visualized performance with Matplotlib/Seaborn to present results to stakeholders.",
+            "Used Generative AI tools to assist exploratory data analysis (EDA), refine SQL queries, debug code snippets, and document analysis workflows."
+          ]
+        },
+        {
+          "heading": "EDA & Dashboarding (Academic)",
+          "role_line": "Role: Data Analyst",
+          "bullets": [
+            "Built interactive Power BI dashboards utilizing DAX and data modeling to surface KPIs and region-based trends.",
+            "Ran reproducible ML experiments in Python using Scikit-learn, applying feature engineering and model selection best practices."
+          ]
+        }
+      ],
+      "tailored_experience_bullets": [
+        "Completed a Deloitte job simulation involving data analysis and forensic technology to transform raw data into powerful insights.",
+        "Created an interactive data dashboard using Tableau to surface key metrics and support business decision-making.",
+        "Used Excel to classify complex data and draw actionable business conclusions from structured datasets.",
+        "Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.",
+        "Utilized Python programming, including libraries such as pandas, for advanced data manipulation and analysis.",
+        "Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to deliver user-friendly financial insights.",
+        "Completed a simulation focused on how the software development team at Datacom approaches technical problem-solving.",
+        "Reviewed a web application to identify areas of improvement and planned future optimization strategies.",
+        "Identified the root cause of bugs and implemented targeted fixes to improve application performance and reliability.",
+        "Built an end-to-end ML pipeline for early wildfire detection using DenseNet-based CNNs (TensorFlow/Keras) on 2,700+ high-resolution images.",
+        "Addressed class imbalance and brightness variation using augmentation and Multi-Scale Retinex preprocessing to achieve 98.84% accuracy vs baseline.",
+        "Applied GridSearchCV and cross-validation for model robustness, and visualized performance with Matplotlib/Seaborn to present results to stakeholders."
+      ],
+      "claim_warnings": [
+        "Skipped unsupported direct skill: C"
+      ],
+      "cold_email": "Dear Hiring Team,\n\nI recently came across the Junior Data Analyst position at Haystack and was highly motivated to apply. With a Master's in Computer Science and hands-on experience in Excel, SQL, Python, Tableau, and Power BI, I am eager to transition my skills into a rewarding career with a leading training provider. I have already completed several virtual job simulations with Deloitte and BCG, demonstrating my problem-solving aptitude and commitment to continuous learning. I am particularly excited about the opportunity to gain official Microsoft Azure certifications and complete real-world project work through your comprehensive training programme. Thank you for your time and consideration, and I look forward to the possibility of discussing how my background aligns with Haystack's goals.\n\nSincerely,\nSohan Kusuma",
+      "resume_file": "resumes\\01_Haystack_Junior_Data_Analyst_92.docx",
+      "tailored_accuracy_score": 95,
+      "tailored_match_reasons": [
+        "The candidate is an exceptional match for this Junior Data Analyst training programme. Their resume explicitly mentions the exact training provider's goal ('transform raw data into powerful insights', 'rewarding career', 'comprehensive training programme') and they already possess all the core tools taught in the programme (Excel, SQL, Python, Tableau, Power BI) alongside a Master's in Computer Science."
+      ],
+      "tailored_matched_strengths": [
+        "Already possesses hands-on experience with the core tools: Excel, SQL, Python, Tableau, and Power BI.",
+        "Demonstrates the required 'strong problem-solving aptitude' and 'communication skills' in the professional summary and project experience.",
+        "Has academic and simulation experience transforming raw data into insights, aligning perfectly with the programme's project-based structure.",
+        "Holds a Master's degree in Computer Science, exceeding the minimum requirement of 'no prior tech-job or data background required'."
+      ],
+      "tailored_skill_gaps": [
+        "Does not yet hold the 'three official certifications from Microsoft Azure' offered by the programme, though they have practical experience in Azure environments."
+      ],
+      "tailored_ats_keyword_matches": [
+        "Junior Data Analyst",
+        "raw data into powerful insights",
+        "Excel",
+        "SQL",
+        "Python",
+        "Tableau",
+        "Power BI",
+        "problem-solving",
+        "communication skills",
+        "Microsoft Azure",
+        "training programme"
+      ],
+      "quality_iterations": 1,
+      "quality_gate_passed": true,
+      "quality_gate_history": [
+        {
+          "iteration": 1,
+          "score": 95,
+          "gaps_at_this_iteration": [
+            "Does not yet hold the 'three official certifications from Microsoft Azure' offered by the programme, though they have practical experience in Azure environments."
+          ]
+        }
+      ],
+      "is_new": true,
+      "first_seen_run_id": "20260527T014440",
+      "last_seen_run_id": "20260527T014440",
+      "dedupe_key_used": "url:https://www.linkedin.com/jobs/view/4414884007"
+    },
+    {
+      "source": "linkedin",
+      "title": "Junior Data Analyst",
+      "company": "LiveMore Mortgages",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "description": "**Job title** Junior Data Analyst **Reports to** Head of Data Science \\& Engineering **Department** Data Science \\& Engineering **Location** Central London office (Fitzrovia) / hybrid **Key internal stakeholders** Data Science \\& Engineering team, cross\\-LiveMore employees LiveMore exists to challenge the unfair NOs in the mortgage world. That’s why our mission is to empower mortgage brokers to lend more by turning NOs into YESs and by maximising affordable borrowing. By doing that whenever we can, we help our customers live more and be ready for all that’s yet to come. Using our unique LiveMore Mortgage Matcher® and LiveMore Maximum Borrowing Calculator decision engine technology, we excel at overcoming challenges involving affordability, risk and *Consumer Duty* . We innovate for customers and mortgage brokers in need, where others don’t – like with LiveMore’s current mortgages ‘up to’, ‘into’ and ‘in’ retirement. LiveMore is an innovative company with ambitious plans, and we know that our people are the key to achieving our goals. As evidence of our growth, in June 2025 we were recognised as one of the Top 100 Fastest Growing Companies in the UK by the Business Leaders 500\\. In 2025, we grew our annual lending volumes by over 80% to lend c.£350m and completed our second £200m\\+ securitisation. **Role** * Provide analytical and data support within the Data Science \\& Engineering function, contributing to data manipulation, analysis, reporting, monitoring, and pipeline projects. * This is a hands\\-on, learning\\-by\\-doing role designed for a numerate graduate who is eager to build a career in data science and engineering. You will work closely with our Data Scientist and Data Engineer, supporting day\\-to\\-day projects. Over time, and under structured mentorship, you will develop the technical depth to take on increasingly complex assignments. **Responsibilities** * Support recurring BAU tasks including scheduled data pulls, routine management reporting, and data quality checks, ensuring outputs are delivered accurately and on time. * Monitor data pipelines, flag anomalies or failures and work with the team to resolve them. * Own a portion of the data and analytical support ticket backlog. * Write Python scripts (e.g. in Jupyter Notebooks) to support analytical and engineering tasks. * Create SQL queries to extract and transform data and learn SQL optimisation techniques. * Apply standard statistical techniques such as descriptive analytics, distributions, correlation, and trend analysis to datasets and produce insight summaries. * Support modelling and segmentation work by preparing datasets, running exploratory analysis, and assisting with model evaluation. * Document processes, queries, and outputs to build business knowledge. * Identify opportunities to improve or automate recurring tasks and propose solutions. **Requirements** * Degree in a quantitative discipline (mathematics, statistics, economics, computer science, or a related field) with 2:1 or above, or equivalent. * Familiarity with Python and SQL for writing queries to extract, filter, join, and aggregate data, whether through coursework, personal projects, or internships. * Coursework or project exposure to statistical techniques, e.g. regression, in data analysis. * A methodical, detail\\-oriented approach and willingness to sense\\-check own work. * Clear written and verbal communication and ability to summarise data findings for a non\\-technical audience. **Desirable** * Familiarity with data visualisation tools (e.g. Looker, Power BI, or similar). * Awareness of version control principles (Git). * Exposure to regulated financial services, e.g. internship or placement * Understanding of basic mortgage or lending concepts. **How you’ll grow with us** From day one you will work alongside experienced data scientists and data engineers in a small, collaborative team and contribute meaningfully while building the habits and skills that underpin a long\\-term career in data. * Learn to work to professional standards for code quality, documentation, and methodology by following established conventions and receiving regular, constructive feedback from senior colleagues. * Develop commercial awareness by understanding which tasks matter most, how to manage your own workload, and how to communicate progress and blockers clearly. * Build the habit of rigour by sense\\-checking your outputs, questioning results that don't look right, and taking ownership of the quality of everything you produce. * Grow your ability to communicate with any audience by translating technical findings into plain language for business stakeholders and learning to tailor your communication to context. * Cultivate genuine curiosity by asking questions, learning from the answers, and carrying that learning independently into your next piece of work. * Understanding of basic mortgage or lending concepts. **Benefits and environment** * Growth shares. * Annual performance bonus (cash and growth shares). * High\\-quality working environment in a central London office in the heart of Fitzrovia. * Hybrid working (2 days per week in office). * 30 days’ holiday, plus UK bank holidays. * Private health cash reimbursement plan. * Employer pension contribution. * Salary\\-sacrifice pension scheme, saving marginal rate on contributions. * Salary\\-sacrifice nursery voucher scheme, as above. * Employee assistance programme.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417132452",
+      "posted_at": "2026-05-22",
+      "source_id": "li-4417132452",
+      "raw": {
+        "id": "li-4417132452",
+        "site": "linkedin",
+        "job_url": "https://www.linkedin.com/jobs/view/4417132452",
+        "job_url_direct": null,
+        "title": "Junior Data Analyst",
+        "company": "LiveMore Mortgages",
+        "location": "London Area, United Kingdom",
+        "date_posted": "2026-05-22",
+        "job_type": "fulltime",
+        "salary_source": null,
+        "interval": null,
+        "min_amount": null,
+        "max_amount": null,
+        "currency": null,
+        "is_remote": false,
+        "job_level": "entry level",
+        "job_function": "Information Technology",
+        "listing_type": null,
+        "emails": NaN,
+        "description": "**Job title** \n\n\n\n\n Junior Data Analyst\n \n\n\n\n**Reports to** \n\n\n\n\n Head of Data Science \\& Engineering\n \n\n\n\n**Department** \n\n\n\n\n Data Science \\& Engineering\n \n\n\n\n**Location** \n\n\n\n\n Central London office (Fitzrovia) / hybrid\n \n\n\n\n**Key internal stakeholders** \n\n\n\n\n Data Science \\& Engineering team, cross\\-LiveMore employees\n \n\n\n\n  \n\n\n\n\n\n LiveMore exists to challenge the unfair NOs in the mortgage world. That’s why our mission is to empower mortgage brokers to lend more by turning NOs into YESs and by maximising affordable borrowing. By doing that whenever we can, we help our customers live more and be ready for all that’s yet to come.\n \n\n\n\n  \n\n\n\n\n\n Using our unique LiveMore Mortgage Matcher® and LiveMore Maximum Borrowing Calculator decision engine technology, we excel at overcoming challenges involving affordability, risk and\n *Consumer Duty* \n . We innovate for customers and mortgage brokers in need, where others don’t – like with LiveMore’s current mortgages ‘up to’, ‘into’ and ‘in’ retirement.\n \n\n\n\n  \n\n\n\n\n\n LiveMore is an innovative company with ambitious plans, and we know that our people are the key to achieving our goals. As evidence of our growth, in June 2025 we were recognised as one of the Top 100 Fastest Growing Companies in the UK by the Business Leaders 500\\. In 2025, we grew our annual lending volumes by over 80% to lend c.£350m and completed our second £200m\\+ securitisation.\n \n\n\n\n  \n\n\n\n\n\n**Role** \n\n\n\n* Provide analytical and data support within the Data Science \\& Engineering function, contributing to data manipulation, analysis, reporting, monitoring, and pipeline projects.\n* This is a hands\\-on, learning\\-by\\-doing role designed for a numerate graduate who is eager to build a career in data science and engineering. You will work closely with our Data Scientist and Data Engineer, supporting day\\-to\\-day projects. Over time, and under structured mentorship, you will develop the technical depth to take on increasingly complex assignments.\n\n\n\n  \n\n\n\n\n\n**Responsibilities** \n\n\n\n* Support recurring BAU tasks including scheduled data pulls, routine management reporting, and data quality checks, ensuring outputs are delivered accurately and on time.\n* Monitor data pipelines, flag anomalies or failures and work with the team to resolve them.\n* Own a portion of the data and analytical support ticket backlog.\n* Write Python scripts (e.g. in Jupyter Notebooks) to support analytical and engineering tasks.\n* Create SQL queries to extract and transform data and learn SQL optimisation techniques.\n* Apply standard statistical techniques such as descriptive analytics, distributions, correlation, and trend analysis to datasets and produce insight summaries.\n* Support modelling and segmentation work by preparing datasets, running exploratory analysis, and assisting with model evaluation.\n* Document processes, queries, and outputs to build business knowledge.\n* Identify opportunities to improve or automate recurring tasks and propose solutions.\n\n\n\n  \n\n\n\n\n\n**Requirements** \n\n\n\n* Degree in a quantitative discipline (mathematics, statistics, economics, computer science, or a related field) with 2:1 or above, or equivalent.\n* Familiarity with Python and SQL for writing queries to extract, filter, join, and aggregate data, whether through coursework, personal projects, or internships.\n* Coursework or project exposure to statistical techniques, e.g. regression, in data analysis.\n* A methodical, detail\\-oriented approach and willingness to sense\\-check own work.\n* Clear written and verbal communication and ability to summarise data findings for a non\\-technical audience.\n\n\n\n  \n\n\n\n\n\n**Desirable** \n\n\n\n* Familiarity with data visualisation tools (e.g. Looker, Power BI, or similar).\n* Awareness of version control principles (Git).\n* Exposure to regulated financial services, e.g. internship or placement\n* Understanding of basic mortgage or lending concepts.\n\n\n\n  \n\n\n\n\n\n**How you’ll grow with us** \n\n\n\n\n From day one you will work alongside experienced data scientists and data engineers in a small, collaborative team and contribute meaningfully while building the habits and skills that underpin a long\\-term career in data.\n \n\n\n* Learn to work to professional standards for code quality, documentation, and methodology by following established conventions and receiving regular, constructive feedback from senior colleagues.\n* Develop commercial awareness by understanding which tasks matter most, how to manage your own workload, and how to communicate progress and blockers clearly.\n* Build the habit of rigour by sense\\-checking your outputs, questioning results that don't look right, and taking ownership of the quality of everything you produce.\n* Grow your ability to communicate with any audience by translating technical findings into plain language for business stakeholders and learning to tailor your communication to context.\n* Cultivate genuine curiosity by asking questions, learning from the answers, and carrying that learning independently into your next piece of work.\n* Understanding of basic mortgage or lending concepts.\n\n\n\n  \n\n\n\n\n\n**Benefits and environment** \n\n\n\n* Growth shares.\n* Annual performance bonus (cash and growth shares).\n* High\\-quality working environment in a central London office in the heart of Fitzrovia.\n* Hybrid working (2 days per week in office).\n* 30 days’ holiday, plus UK bank holidays.\n* Private health cash reimbursement plan.\n* Employer pension contribution.\n* Salary\\-sacrifice pension scheme, saving marginal rate on contributions.\n* Salary\\-sacrifice nursery voucher scheme, as above.\n* Employee assistance programme.",
+        "company_industry": "Financial Services",
+        "company_url": "https://uk.linkedin.com/company/livemore-mortgages",
+        "company_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGOKRAvbDvGGg/company-logo_100_100/B4EZU.4LCcGgAQ-/0/1740516667887/livemore_mortgages_logo?e=2147483647&v=beta&t=IqvguWb2nWY3EuZ5uEIyaVSe7YNlMicGO5juVHzWd8o",
+        "company_url_direct": null,
+        "company_addresses": null,
+        "company_num_employees": null,
+        "company_revenue": null,
+        "company_description": null,
+        "skills": null,
+        "experience_range": null,
+        "company_rating": null,
+        "company_reviews_count": null,
+        "vacancy_count": null,
+        "work_from_home_type": null
+      },
+      "match_score": 82,
+      "match_reasons": [
+        "The candidate is an excellent academic match, holding an MSc in Computer Science (Distinction) which satisfies the quantitative degree requirement. They possess strong foundational skills in Python, SQL, and Power BI, which align perfectly with the junior-level responsibilities. However, their work history consists entirely of virtual job simulations and academic projects rather than commercial, in-office UK experience, and they lack direct exposure to the mortgage or regulated financial services sector."
+      ],
+      "accuracy_score": 82,
+      "matched_strengths": [
+        "Holds an MSc in Computer Science (Distinction), meeting the 2:1 or above quantitative degree requirement.",
+        "Demonstrated Python and SQL capabilities through academic projects (Wildfire Detection System) and virtual simulations.",
+        "Strong data visualisation skills using Power BI and Tableau, matching the desirable criteria.",
+        "Experience with statistical techniques, exploratory data analysis (EDA), and model evaluation (GridSearchCV, cross-validation)."
+      ],
+      "skill_gaps": [
+        "No direct commercial experience in regulated financial services or mortgages.",
+        "Lack of proven professional experience monitoring live data pipelines in a production environment."
+      ],
+      "transferable_matches": [
+        "Completed a BCG GenAI simulation analyzing complex financial data from 10-K and 10-Q reports, which transfers well to the analytical demands of a mortgage lender.",
+        "Deloitte Australia Data Analytics simulation involved forensic data analysis and business classification, demonstrating commercial curiosity."
+      ],
+      "recommendation_tier": "Strong",
+      "ats_keyword_matches": [
+        "Junior Data Analyst",
+        "Python",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "data analysis",
+        "exploratory data analysis",
+        "EDA",
+        "regression",
+        "statistics",
+        "GitHub"
+      ],
+      "tailored_summary": "Junior Data Analyst with an MSc in Computer Science (Distinction) and hands-on experience delivering data manipulation, reporting, and exploratory data analysis. Proven ability to write Python scripts and SQL queries to extract, filter, join, and aggregate complex datasets, supported by certifications in Power BI and Tableau. Demonstrated technical precision by building an end-to-end ML pipeline achieving 98.84% accuracy and executing rigorous statistical techniques. Eager to support the Data Science & Engineering team at LiveMore Mortgages by monitoring data pipelines, automating recurring tasks, and translating technical findings into actionable business insights.",
+      "tailored_skills": [
+        "Python",
+        "SQL",
+        "C++",
+        "Java",
+        "React",
+        "Node.js",
+        "Html",
+        "Power BI",
+        "Tableau",
+        "Excel (Advanced)",
+        "Pandas",
+        "NumPy",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "CNN"
+      ],
+      "tailored_core_skills": {
+        "Languages": [
+          "Python",
+          "SQL",
+          "C",
+          "C++",
+          "Java",
+          "React",
+          "Node.js",
+          "Html"
+        ],
+        "Data & BI": [
+          "Power BI",
+          "Tableau",
+          "Excel (Advanced)",
+          "Pandas",
+          "NumPy"
+        ],
+        "Machine Learning": [
+          "TensorFlow",
+          "Keras",
+          "Scikit-learn",
+          "CNN",
+          "DenseNet"
+        ],
+        "Cloud & DB": [
+          "AWS (S3)",
+          "Microsoft Azure",
+          "Snowflake"
+        ],
+        "Tools & Methods": [
+          "Git",
+          "Jupyter Notebooks",
+          "GridSearchCV",
+          "Prompt Engineering",
+          "Generative AI for Analytics"
+        ]
+      },
+      "tailored_competencies": [
+        "Data Analysis",
+        "Exploratory Data Analysis",
+        "Data Manipulation",
+        "Statistical Techniques",
+        "Regression",
+        "Data Pipelines",
+        "Management Reporting",
+        "SQL Optimisation",
+        "Version Control",
+        "Stakeholder Engagement",
+        "Analytical Thinking",
+        "Problem Solving"
+      ],
+      "tailored_impact_strengths": [
+        "Achieved 98.84% accuracy vs baseline on a Wildfire Detection System using DenseNet-based CNNs and GridSearchCV.",
+        "Processed and manipulated complex financial data from 10-K and 10-Q reports to build an AI-powered chatbot.",
+        "Improved model performance up to +16% vs baseline through architecture choice, data augmentation, and cross-validation."
+      ],
+      "tailored_experience_rewrites": [
+        {
+          "heading": "Deloitte Australia Data Analytics Job Simulation on Forage",
+          "role_line": "Role: Participant / Data Analyst",
+          "bullets": [
+            "Completed a Deloitte job simulation focused on data analysis, forensic technology, and structured management reporting.",
+            "Created an interactive data dashboard using Tableau to surface key performance indicators and support business decision-making.",
+            "Used Excel to classify complex datasets, perform trend analysis, and draw actionable business conclusions for stakeholders."
+          ]
+        },
+        {
+          "heading": "BCG GenAI Job Simulation on Forage",
+          "role_line": "Role: Participant / GenAI Developer",
+          "bullets": [
+            "Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team, gaining exposure to financial services concepts.",
+            "Wrote Python scripts utilizing the pandas library for complex data manipulation, extraction, and filtering.",
+            "Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to provide user-friendly financial insights and analysis."
+          ]
+        },
+        {
+          "heading": "Datacom Software Development Job Simulation on Forage",
+          "role_line": "Role: Participant / Software Developer",
+          "bullets": [
+            "Completed a software development simulation, practicing version control principles (Git) and code quality standards.",
+            "Reviewed a web application to identify opportunities to improve performance, plan future enhancements, and document processes.",
+            "Identified the root cause of application bugs and implemented targeted fixes to improve overall system reliability."
+          ]
+        },
+        {
+          "heading": "Wildfire Detection System",
+          "role_line": "Role: Project Lead / Data & ML Engineer",
+          "bullets": [
+            "Built an end-to-end data and ML pipeline for early wildfire detection using DenseNet-based CNNs (TensorFlow/Keras) on 2,700+ high-resolution images.",
+            "Addressed class imbalance and brightness variation using data augmentation and Multi-Scale Retinex preprocessing to ensure data quality.",
+            "Achieved 98.84% accuracy vs baseline; applied GridSearchCV, regression concepts, and cross-validation for model evaluation and robustness.",
+            "Visualised performance with Matplotlib/Seaborn and translated technical findings into plain language for non-technical stakeholders.",
+            "Used Generative AI tools to assist exploratory data analysis (EDA), write and refine SQL queries, debug code snippets, and document analysis workflows."
+          ]
+        },
+        {
+          "heading": "EDA & Dashboarding (Academic)",
+          "role_line": "Role: Data Analyst",
+          "bullets": [
+            "Built interactive Power BI dashboards using DAX and data modeling to surface KPIs, track metrics, and analyze region-based trends.",
+            "Ran reproducible ML experiments in Jupyter Notebooks using Scikit-learn; applied feature engineering, descriptive analytics, and model selection best practices."
+          ]
+        }
+      ],
+      "tailored_experience_bullets": [
+        "Completed a Deloitte job simulation focused on data analysis, forensic technology, and structured management reporting.",
+        "Created an interactive data dashboard using Tableau to surface key performance indicators and support business decision-making.",
+        "Used Excel to classify complex datasets, perform trend analysis, and draw actionable business conclusions for stakeholders.",
+        "Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team, gaining exposure to financial services concepts.",
+        "Wrote Python scripts utilizing the pandas library for complex data manipulation, extraction, and filtering.",
+        "Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to provide user-friendly financial insights and analysis.",
+        "Completed a software development simulation, practicing version control principles (Git) and code quality standards.",
+        "Reviewed a web application to identify opportunities to improve performance, plan future enhancements, and document processes.",
+        "Identified the root cause of application bugs and implemented targeted fixes to improve overall system reliability.",
+        "Built an end-to-end data and ML pipeline for early wildfire detection using DenseNet-based CNNs (TensorFlow/Keras) on 2,700+ high-resolution images.",
+        "Addressed class imbalance and brightness variation using data augmentation and Multi-Scale Retinex preprocessing to ensure data quality.",
+        "Achieved 98.84% accuracy vs baseline; applied GridSearchCV, regression concepts, and cross-validation for model evaluation and robustness."
+      ],
+      "claim_warnings": [
+        "Skipped unsupported direct skill: C"
+      ],
+      "cold_email": "Dear Head of Data Science & Engineering,\n\nI recently graduated with an MSc in Computer Science (Distinction) and am incredibly excited about the Junior Data Analyst position at LiveMore Mortgages. Having followed LiveMore’s impressive growth to £350m in annual lending volumes, I am eager to bring my hands-on experience in Python, SQL, and data pipeline monitoring to your collaborative team. My technical background includes building end-to-end pipelines with 98.84% accuracy, writing optimized SQL queries, and creating interactive dashboards in Power BI and Tableau. I am highly motivated to support your recurring BAU tasks, manage the analytical ticket backlog, and translate complex data findings into actionable insights for your stakeholders. I would welcome the opportunity to discuss how my analytical rigour and passion for data science can contribute to LiveMore's continued success.",
+      "resume_file": "resumes\\02_LiveMore_Mortgages_Junior_Data_Analyst_82.docx",
+      "tailored_accuracy_score": 88,
+      "tailored_match_reasons": [
+        "The candidate is an excellent match for this junior-level role, holding an MSc in Computer Science (Distinction) which aligns perfectly with the quantitative degree requirement. They possess the exact technical stack requested (Python, SQL, Jupyter Notebooks) and demonstrate practical project experience in data pipelines, statistical analysis, and version control. The score is slightly adjusted because their financial services exposure comes from job simulations rather than direct corporate employment in a UK mortgage or lending environment."
+      ],
+      "tailored_matched_strengths": [
+        "Holds an MSc in Computer Science with Distinction, meeting the 2:1 or above quantitative degree requirement.",
+        "Demonstrated experience writing Python scripts in Jupyter Notebooks and creating SQL queries to extract, filter, join, and aggregate data.",
+        "Applied standard statistical techniques including regression, descriptive analytics, and trend analysis in academic and project environments.",
+        "Strong familiarity with data visualisation tools (Power BI, Tableau) and version control (Git), matching the desirable criteria.",
+        "Proven ability to translate technical findings into plain language for non-technical stakeholders."
+      ],
+      "tailored_skill_gaps": [
+        "Lacks direct professional employment experience in a regulated UK financial services or mortgage lending environment (exposure is limited to virtual job simulations)."
+      ],
+      "tailored_ats_keyword_matches": [
+        "Junior Data Analyst",
+        "Data Science & Engineering",
+        "data manipulation",
+        "reporting",
+        "monitoring",
+        "Python",
+        "SQL",
+        "Jupyter Notebooks",
+        "statistical techniques",
+        "descriptive analytics",
+        "regression",
+        "exploratory analysis",
+        "Power BI",
+        "Tableau",
+        "Git",
+        "version control"
+      ],
+      "quality_iterations": 1,
+      "quality_gate_passed": true,
+      "quality_gate_history": [
+        {
+          "iteration": 1,
+          "score": 88,
+          "gaps_at_this_iteration": [
+            "Lacks direct professional employment experience in a regulated UK financial services or mortgage lending environment (exposure is limited to virtual job simulations)."
+          ]
+        }
+      ],
+      "is_new": true,
+      "first_seen_run_id": "20260527T014440",
+      "last_seen_run_id": "20260527T014440",
+      "dedupe_key_used": "url:https://www.linkedin.com/jobs/view/4417132452"
+    },
+    {
+      "source": "linkedin",
+      "title": "Junior Data Analyst",
+      "company": "ivee",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "description": "Company description A fast\\-growing scale\\-up building innovative products in a rapidly evolving market. Company description A fast\\-growing scale\\-up using data to drive smarter decisions and unlock growth. Role overview The Junior Data Analyst will support the team in analysing data, generating insights, and improving decision\\-making across the business. You’ll work with internal teams to collect, clean, and analyse data, helping identify trends, measure performance, and surface insights that inform strategy. This role is ideal for someone early in their career who enjoys **working with data, solving problems, and translating numbers into clear insights.** You’ll gain exposure to modern analytics tools and work closely with product, marketing, and commercial teams to support data\\-driven decision making. Key responsibilities * Collect, clean, and organise data from multiple sources * Analyse datasets to identify trends, patterns, and opportunities * Build dashboards and reports to track business performance * Support teams with ad\\-hoc data analysis and insights * Assist with maintaining and improving data quality * Use tools such as Excel, SQL, or BI platforms to extract insights * Help automate reporting processes where possible * Present findings clearly to internal stakeholders What we’re looking for * 0–2 years of experience in data analysis, analytics, or a related role * Strong analytical and problem\\-solving skills * Experience with Excel, Google Sheets, or similar tools * Basic knowledge of SQL or data querying tools preferred * Familiarity with data visualisation tools (Tableau, Power BI, Looker, etc.) is a plus * Strong attention to detail and curiosity about data * Ability to communicate insights clearly and simply * Bachelor’s degree in data, economics, maths, statistics, or a related field (or equivalent experience) How to apply: Click apply to submit your application.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4414005785",
+      "posted_at": "2026-05-21",
+      "source_id": "li-4414005785",
+      "raw": {
+        "id": "li-4414005785",
+        "site": "linkedin",
+        "job_url": "https://www.linkedin.com/jobs/view/4414005785",
+        "job_url_direct": null,
+        "title": "Junior Data Analyst",
+        "company": "ivee",
+        "location": "London Area, United Kingdom",
+        "date_posted": "2026-05-21",
+        "job_type": "fulltime",
+        "salary_source": null,
+        "interval": null,
+        "min_amount": null,
+        "max_amount": null,
+        "currency": null,
+        "is_remote": false,
+        "job_level": "entry level",
+        "job_function": "Information Technology",
+        "listing_type": null,
+        "emails": NaN,
+        "description": "Company description\n \n\n\n\n A fast\\-growing scale\\-up building innovative products in a rapidly evolving market.\n \n\n\n\n  \n\n\n\n\n\n Company description\n \n\n\n\n A fast\\-growing scale\\-up using data to drive smarter decisions and unlock growth.\n \n\n\n\n Role overview\n \n\n\n\n  \n\n\n\n\n\n The Junior Data Analyst will support the team in analysing data, generating insights, and improving decision\\-making across the business.\n \n\n\n\n  \n\n\n\n\n\n You’ll work with internal teams to collect, clean, and analyse data, helping identify trends, measure performance, and surface insights that inform strategy. This role is ideal for someone early in their career who enjoys\n **working with data, solving problems, and translating numbers into clear insights.** \n\n\n\n\n  \n\n\n\n\n\n You’ll gain exposure to modern analytics tools and work closely with product, marketing, and commercial teams to support data\\-driven decision making.\n \n\n\n\n  \n\n\n\n\n\n Key responsibilities\n \n\n\n* Collect, clean, and organise data from multiple sources\n* Analyse datasets to identify trends, patterns, and opportunities\n* Build dashboards and reports to track business performance\n* Support teams with ad\\-hoc data analysis and insights\n* Assist with maintaining and improving data quality\n* Use tools such as Excel, SQL, or BI platforms to extract insights\n* Help automate reporting processes where possible\n* Present findings clearly to internal stakeholders\n\n\n\n  \n\n\n\n\n\n What we’re looking for\n \n\n\n* 0–2 years of experience in data analysis, analytics, or a related role\n* Strong analytical and problem\\-solving skills\n* Experience with Excel, Google Sheets, or similar tools\n* Basic knowledge of SQL or data querying tools preferred\n* Familiarity with data visualisation tools (Tableau, Power BI, Looker, etc.) is a plus\n* Strong attention to detail and curiosity about data\n* Ability to communicate insights clearly and simply\n* Bachelor’s degree in data, economics, maths, statistics, or a related field (or equivalent experience)\n\n\n\n  \n\n\n\n\n\n How to apply:\n \n\n\n\n  \n\n\n\n\n\n Click apply to submit your application.",
+        "company_industry": "Technology, Information and Internet",
+        "company_url": "https://uk.linkedin.com/company/iveejobs",
+        "company_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF2f8koftxldw/company-logo_100_100/B4EZueH_Z8GcAU-/0/1767884453949/iveejobs_logo?e=2147483647&v=beta&t=cqWBcSRRW0oI-dOgJ5bA2WxhjLkKJ3kXoqKi652HZjY",
+        "company_url_direct": null,
+        "company_addresses": null,
+        "company_num_employees": null,
+        "company_revenue": null,
+        "company_description": null,
+        "skills": null,
+        "experience_range": null,
+        "company_rating": null,
+        "company_reviews_count": null,
+        "vacancy_count": null,
+        "work_from_home_type": null
+      },
+      "match_score": 82,
+      "match_reasons": [
+        "The candidate is an excellent match for a junior-level role, possessing the exact academic background (MSc Computer Science) and technical skillset (SQL, Excel, Power BI, Tableau) required. However, their work history consists entirely of virtual job simulations and academic projects rather than commercial, in-office UK experience."
+      ],
+      "accuracy_score": 82,
+      "matched_strengths": [
+        "Possesses a strong academic foundation with an MSc in Computer Science (Distinction).",
+        "Demonstrated hands-on project experience building interactive Power BI and Tableau dashboards.",
+        "Proficient in data cleaning, manipulation, and analysis using Python (Pandas, NumPy) and SQL.",
+        "Completed relevant data analytics simulations with reputable firms like Deloitte."
+      ],
+      "skill_gaps": [
+        "Lacks commercial, on-the-job experience as a Data Analyst in a corporate or scale-up environment (experience is limited to academic projects and virtual simulations)."
+      ],
+      "transferable_matches": [
+        "Academic project leadership in the 'Wildfire Detection System' transfers well to managing data pipelines and presenting findings to stakeholders.",
+        "BCG GenAI simulation experience transfers to automated reporting and data extraction tasks."
+      ],
+      "recommendation_tier": "Strong",
+      "ats_keyword_matches": [
+        "Data Analyst",
+        "Excel",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "data analysis",
+        "dashboards",
+        "Python",
+        "analyse"
+      ],
+      "tailored_summary": "Junior Data Analyst with 2+ years of academic and simulation experience in data analysis, analytics, and translating numbers into clear insights. Proficient in using Excel, SQL, Power BI, and Tableau to collect, clean, and organise data from multiple sources. Proven ability to build dashboards, track business performance, and support internal teams with ad-hoc data analysis. Demonstrated success in delivering actionable insights and automating reporting processes to support data-driven decision making.",
+      "tailored_skills": [
+        "Excel",
+        "Power BI",
+        "Tableau",
+        "Pandas",
+        "NumPy",
+        "Power Query",
+        "DAX",
+        "SQL",
+        "Python",
+        "C++",
+        "Java",
+        "React",
+        "Node.js",
+        "Html",
+        "Scikit-learn",
+        "TensorFlow"
+      ],
+      "tailored_core_skills": {
+        "Data & BI": [
+          "Excel",
+          "Power BI",
+          "Tableau",
+          "Pandas",
+          "NumPy",
+          "Power Query",
+          "DAX"
+        ],
+        "Languages": [
+          "SQL",
+          "Python",
+          "C",
+          "C++",
+          "Java",
+          "React",
+          "Node.js",
+          "Html"
+        ],
+        "Machine Learning": [
+          "Scikit-learn",
+          "TensorFlow",
+          "Keras",
+          "CNN",
+          "DenseNet"
+        ],
+        "Cloud & DB": [
+          "AWS (S3)",
+          "Microsoft Azure",
+          "Snowflake"
+        ],
+        "Tools & Methods": [
+          "Generative AI for Analytics",
+          "Prompt Engineering",
+          "GridSearchCV",
+          "Matplotlib",
+          "Seaborn"
+        ]
+      },
+      "tailored_competencies": [
+        "Data Analysis",
+        "Data Cleaning",
+        "Data Visualisation",
+        "Ad-hoc Data Analysis",
+        "Business Performance Tracking",
+        "SQL Querying",
+        "Dashboard Development",
+        "Analytical Thinking",
+        "Problem Solving",
+        "Stakeholder Communication",
+        "Data Quality Assurance"
+      ],
+      "tailored_impact_strengths": [
+        "Achieved 98.84% accuracy vs baseline by building an end-to-end ML pipeline using DenseNet-based CNNs on 2,700+ high-resolution images.",
+        "Improved model performance up to +16% vs baseline through strategic architecture choice, augmentation, and cross-validation.",
+        "Delivered interactive Power BI and Tableau dashboards to track business performance and surface key region-based trends."
+      ],
+      "tailored_experience_rewrites": [
+        {
+          "heading": "Deloitte Australia Data Analytics Job Simulation on Forage",
+          "role_line": "Role: Participant / Data Analyst",
+          "bullets": [
+            "Completed a Deloitte job simulation focused on data analysis, forensic technology, and translating numbers into clear insights.",
+            "Created an interactive data dashboard using Tableau to track business performance and present findings clearly to internal stakeholders.",
+            "Used Excel to collect, clean, and classify data to draw actionable business conclusions and support data-driven decision making."
+          ]
+        },
+        {
+          "heading": "BCG GenAI Job Simulation on Forage",
+          "role_line": "Role: Participant / GenAI Developer",
+          "bullets": [
+            "Completed a simulation involving AI-powered financial chatbot development, using Python and Pandas for complex data manipulation.",
+            "Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to extract insights and provide user-friendly analysis."
+          ]
+        },
+        {
+          "heading": "Datacom Software Development Job Simulation on Forage",
+          "role_line": "Role: Participant / Software Developer",
+          "bullets": [
+            "Completed a software development simulation, reviewing a web application to identify root causes of bugs and implement fixes.",
+            "Planned and executed application improvements to support team workflows and enhance overall data quality and system performance."
+          ]
+        },
+        {
+          "heading": "Wildfire Detection System",
+          "role_line": "Role: Project Lead / Data & ML Engineer",
+          "bullets": [
+            "Built an end-to-end ML pipeline for early wildfire detection using DenseNet-based CNNs (TensorFlow/Keras) on 2,700+ high-resolution images.",
+            "Addressed class imbalance and brightness variation using augmentation and Multi-Scale Retinex preprocessing to ensure high data quality.",
+            "Achieved 98.84% accuracy vs baseline; applied GridSearchCV and cross-validation for robust model performance.",
+            "Visualised performance with Matplotlib/Seaborn and presented findings clearly to internal stakeholders to support decision-making.",
+            "Used Generative AI tools to assist EDA, refine SQL queries, debug code snippets, and automate reporting processes to improve iteration speed."
+          ]
+        },
+        {
+          "heading": "EDA & Dashboarding (Academic)",
+          "role_line": "Role: Data Analyst",
+          "bullets": [
+            "Built interactive Power BI dashboards (DAX, data modeling) to track business performance, surface KPIs, and identify region-based trends.",
+            "Ran reproducible ML experiments using Scikit-learn; applied feature engineering and model selection to support ad-hoc data analysis."
+          ]
+        }
+      ],
+      "tailored_experience_bullets": [
+        "Completed a Deloitte job simulation focused on data analysis, forensic technology, and translating numbers into clear insights.",
+        "Created an interactive data dashboard using Tableau to track business performance and present findings clearly to internal stakeholders.",
+        "Used Excel to collect, clean, and classify data to draw actionable business conclusions and support data-driven decision making.",
+        "Completed a simulation involving AI-powered financial chatbot development, using Python and Pandas for complex data manipulation.",
+        "Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to extract insights and provide user-friendly analysis.",
+        "Completed a software development simulation, reviewing a web application to identify root causes of bugs and implement fixes.",
+        "Planned and executed application improvements to support team workflows and enhance overall data quality and system performance.",
+        "Built an end-to-end ML pipeline for early wildfire detection using DenseNet-based CNNs (TensorFlow/Keras) on 2,700+ high-resolution images.",
+        "Addressed class imbalance and brightness variation using augmentation and Multi-Scale Retinex preprocessing to ensure high data quality.",
+        "Achieved 98.84% accuracy vs baseline; applied GridSearchCV and cross-validation for robust model performance.",
+        "Visualised performance with Matplotlib/Seaborn and presented findings clearly to internal stakeholders to support decision-making.",
+        "Used Generative AI tools to assist EDA, refine SQL queries, debug code snippets, and automate reporting processes to improve iteration speed."
+      ],
+      "claim_warnings": [
+        "Skipped unsupported direct skill: C"
+      ],
+      "cold_email": "Dear Hiring Team,\n\nI am writing to express my strong interest in the Junior Data Analyst position at ivee. Having recently completed my MSc in Computer Science with Distinction, I have developed a robust foundation in collecting, cleaning, and analysing complex datasets. My hands-on experience building interactive dashboards in Power BI and Tableau, combined with my proficiency in SQL and Excel, aligns perfectly with ivee's focus on driving smarter, data-driven decisions. I am particularly drawn to your fast-growing scale-up environment and would love the opportunity to help translate your business numbers into clear, actionable insights. Thank you for your time and consideration.\n\nSincerely,\nSohan Kusuma",
+      "resume_file": "resumes\\03_ivee_Junior_Data_Analyst_82.docx",
+      "tailored_accuracy_score": 95,
+      "tailored_match_reasons": [
+        "The candidate is an exact match for this Junior Data Analyst role, aligning perfectly with the 0-2 years experience bracket.",
+        "The resume mirrors the job description's core responsibilities, including data cleaning, dashboard creation, and ad-hoc analysis.",
+        "The candidate possesses all the required technical skills (Excel, SQL, Power BI, Tableau) and holds a relevant MSc in Computer Science from a UK university."
+      ],
+      "tailored_matched_strengths": [
+        "Demonstrated experience in collecting, cleaning, and organising data using Excel and SQL.",
+        "Proven ability to build interactive dashboards in both Power BI and Tableau to track business performance.",
+        "Strong academic foundation with an MSc in Computer Science (Distinction) from the University of Hertfordshire.",
+        "Experience presenting findings and data insights clearly to internal stakeholders."
+      ],
+      "tailored_skill_gaps": [
+        "No explicit mention of Google Sheets or Looker (though Power BI, Tableau, and Excel are heavily covered)."
+      ],
+      "tailored_ats_keyword_matches": [
+        "Junior Data Analyst",
+        "data analysis",
+        "analytics",
+        "translating numbers into clear insights",
+        "collect, clean, and organise data",
+        "track business performance",
+        "ad-hoc data analysis",
+        "data-driven decision making",
+        "Excel",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "data quality",
+        "automate reporting processes",
+        "present findings clearly to internal stakeholders"
+      ],
+      "quality_iterations": 1,
+      "quality_gate_passed": true,
+      "quality_gate_history": [
+        {
+          "iteration": 1,
+          "score": 95,
+          "gaps_at_this_iteration": [
+            "No explicit mention of Google Sheets or Looker (though Power BI, Tableau, and Excel are heavily covered)."
+          ]
+        }
+      ],
+      "is_new": true,
+      "first_seen_run_id": "20260527T014440",
+      "last_seen_run_id": "20260527T014440",
+      "dedupe_key_used": "url:https://www.linkedin.com/jobs/view/4414005785"
+    },
+    {
+      "source": "linkedin",
+      "title": "Data Analyst",
+      "company": "Finalto",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "description": "**About Us** Finalto is a global leader in liquidity provision and trading technology solutions, serving institutional and B2B clients across financial markets worldwide. With regulated entities in the UK, Singapore, Cyprus, Australia, and the UAE, and additional operational teams in Denmark and Bulgaria, we combine international reach with local expertise. Our business spans multi\\-asset liquidity, risk management, and cutting\\-edge trading platforms, supporting clients in achieving more efficient and sustainable growth. At the core of our success is our commitment to innovation, operational excellence, and robust governance. As part of a global financial services group, Finalto combines the scale and stability of an established organisation with the agility of a fintech innovator. We are driven by collaboration, integrity, and performance. Joining Finalto means becoming part of a diverse and dynamic team where your contributions have real impact. We invest in our people, offering opportunities for professional growth, international exposure, and the chance to shape the future of trading technology and liquidity solutions. **Role Description** As a Data Analyst at Finalto, you will play a key role in transforming data into actionable insights through impactful dashboards and reporting solutions. You will work closely with stakeholders across the business to support data\\-driven decision\\-making and help drive continuous improvement in reporting and analytics. **Key Responsibilities** * Develop and maintain interactive dashboards and reports using Power BI * Analyse datasets to uncover trends and support business decision\\-making * Work with stakeholders to understand reporting and data requirements * Ensure data accuracy, quality, and consistency in reporting outputs * Work with structured datasets to perform data analysis and transformations * Support the integration of data from multiple sources * Collaborate with data engineers to ensure data is accessible and fit for analysis * Contribute to documentation and best practices for reporting and analytics **Requirements** * Demonstrated experience in data analytics, with a proven ability to deliver actionable insights * Strong hands\\-on experience with SQL and Power BI (mandatory) * Understanding of data modelling and data warehousing concepts * Strong analytical thinking and problem\\-solving skills * Good communication and stakeholder management skills * Experience with Databricks or other modern data platforms * Experience in banking, financial services, or fast\\-paced, data\\-driven environments is preferred. **Desired Skills** * Basic knowledge of Python (nice to have) * Experience working in an Agile environment * Relevant industry certifications **Preferred Qualifications** * A degree in STEM or Computer Science.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419160200",
+      "posted_at": "",
+      "source_id": "li-4419160200",
+      "raw": {
+        "id": "li-4419160200",
+        "site": "linkedin",
+        "job_url": "https://www.linkedin.com/jobs/view/4419160200",
+        "job_url_direct": null,
+        "title": "Data Analyst",
+        "company": "Finalto",
+        "location": "London Area, United Kingdom",
+        "date_posted": NaN,
+        "job_type": "fulltime",
+        "salary_source": null,
+        "interval": null,
+        "min_amount": null,
+        "max_amount": null,
+        "currency": null,
+        "is_remote": false,
+        "job_level": "entry level",
+        "job_function": "Information Technology",
+        "listing_type": null,
+        "emails": NaN,
+        "description": "**About Us** \n\n\n\n\n Finalto is a global leader in liquidity provision and trading technology solutions, serving institutional and B2B clients across financial markets worldwide. With regulated entities in the UK, Singapore, Cyprus, Australia, and the UAE, and additional operational teams in Denmark and Bulgaria, we combine international reach with local expertise.\n \n\n\n\n  \n\n\n\n\n\n Our business spans multi\\-asset liquidity, risk management, and cutting\\-edge trading platforms, supporting clients in achieving more efficient and sustainable growth. At the core of our success is our commitment to innovation, operational excellence, and robust governance. \n \n\n\n\n  \n\n\n\n\n\n As part of a global financial services group, Finalto combines the scale and stability of an established organisation with the agility of a fintech innovator. We are driven by collaboration, integrity, and performance. \n \n\n\n\n  \n\n\n\n\n\n Joining Finalto means becoming part of a diverse and dynamic team where your contributions have real impact. We invest in our people, offering opportunities for professional growth, international exposure, and the chance to shape the future of trading technology and liquidity solutions. \n \n\n\n\n  \n\n\n\n\n\n**Role Description** \n\n\n\n\n As a Data Analyst at Finalto, you will play a key role in transforming data into actionable insights through impactful dashboards and reporting solutions. You will work closely with stakeholders across the business to support data\\-driven decision\\-making and help drive continuous improvement in reporting and analytics.\n \n\n\n\n  \n\n\n\n\n\n**Key Responsibilities** \n\n\n\n* Develop and maintain interactive dashboards and reports using Power BI\n* Analyse datasets to uncover trends and support business decision\\-making\n* Work with stakeholders to understand reporting and data requirements\n* Ensure data accuracy, quality, and consistency in reporting outputs\n* Work with structured datasets to perform data analysis and transformations\n* Support the integration of data from multiple sources\n* Collaborate with data engineers to ensure data is accessible and fit for analysis\n* Contribute to documentation and best practices for reporting and analytics\n\n\n\n  \n\n\n\n\n\n**Requirements** \n\n\n\n* Demonstrated experience in data analytics, with a proven ability to deliver actionable insights\n* Strong hands\\-on experience with SQL and Power BI (mandatory)\n* Understanding of data modelling and data warehousing concepts\n* Strong analytical thinking and problem\\-solving skills\n* Good communication and stakeholder management skills\n* Experience with Databricks or other modern data platforms\n* Experience in banking, financial services, or fast\\-paced, data\\-driven environments is preferred.\n\n\n\n  \n\n\n\n\n\n**Desired Skills** \n\n\n\n* Basic knowledge of Python (nice to have)\n* Experience working in an Agile environment\n* Relevant industry certifications\n\n\n\n  \n\n\n\n\n\n**Preferred Qualifications** \n\n\n\n* A degree in STEM or Computer Science.",
+        "company_industry": "Capital Markets",
+        "company_url": "https://uk.linkedin.com/company/finalto-group",
+        "company_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKgf--lZ2k_Q/company-logo_100_100/B4EZfPftQfHIAQ-/0/1751532886569/finalto_group_logo?e=2147483647&v=beta&t=Lk4nJagzgocnp71Rb3bXwAOheque9o9187eVScRpvnA",
+        "company_url_direct": null,
+        "company_addresses": null,
+        "company_num_employees": null,
+        "company_revenue": null,
+        "company_description": null,
+        "skills": null,
+        "experience_range": null,
+        "company_rating": null,
+        "company_reviews_count": null,
+        "vacancy_count": null,
+        "work_from_home_type": null
+      },
+      "match_score": 55,
+      "match_reasons": [
+        "The candidate has the mandatory technical skills (SQL, Power BI, Python) and a relevant MSc in Computer Science. However, they lack commercial, non-simulated work experience, as their entire resume consists of academic projects and short online job simulations (Forage). The role prefers financial services experience, which the candidate only has via a brief virtual simulation."
+      ],
+      "accuracy_score": 55,
+      "matched_strengths": [
+        "Strong academic foundation with an MSc in Computer Science (STEM degree requirement).",
+        "Hands-on experience with Power BI, DAX, and data modeling in academic projects.",
+        "Proficient in Python and SQL, which are key requirements for the role.",
+        "Completed a virtual simulation with Deloitte Australia focusing on forensic data analysis and Tableau/Excel."
+      ],
+      "skill_gaps": [
+        "Lacks real-world, commercial experience as a Data Analyst in a corporate setting.",
+        "No demonstrated experience with Databricks or modern data warehousing platforms in a production environment.",
+        "Lacks professional experience in banking, financial services, or fast-paced fintech environments (only simulated experience).",
+        "No mentioned experience working in an Agile environment."
+      ],
+      "transferable_matches": [
+        "MSc project leadership of the Wildfire Detection System demonstrates end-to-end pipeline management, stakeholder presentation, and problem-solving skills transferable to business analyst tasks.",
+        "BCG GenAI virtual simulation involved parsing financial data (10-K and 10-Q reports), which transfers well to Finalto's financial services domain."
+      ],
+      "recommendation_tier": "Reach",
+      "ats_keyword_matches": [
+        "Data Analyst",
+        "Power BI",
+        "SQL",
+        "Python",
+        "Computer Science",
+        "Data Analysis",
+        "Analytical Thinking",
+        "Problem Solving",
+        "Communication",
+        "Collaboration"
+      ],
+      "tailored_summary": "",
+      "tailored_skills": [],
+      "tailored_core_skills": {},
+      "tailored_competencies": [],
+      "tailored_impact_strengths": [],
+      "tailored_experience_rewrites": [],
+      "tailored_experience_bullets": [],
+      "claim_warnings": [],
+      "cold_email": "",
+      "resume_file": "",
+      "tailored_accuracy_score": null,
+      "tailored_match_reasons": [],
+      "tailored_matched_strengths": [],
+      "tailored_skill_gaps": [],
+      "tailored_ats_keyword_matches": [],
+      "quality_iterations": 0,
+      "quality_gate_passed": false,
+      "quality_gate_history": [],
+      "is_new": true,
+      "first_seen_run_id": "20260527T014440",
+      "last_seen_run_id": "20260527T014440",
+      "dedupe_key_used": "url:https://www.linkedin.com/jobs/view/4419160200"
+    },
+    {
+      "source": "linkedin",
+      "title": "Data & Analytics Analyst",
+      "company": "The Magnum Ice Cream Company",
+      "location": "Kingston Upon Thames, England, UK",
+      "salary": "",
+      "description": "**Manpower are currently seeking an interim Data \\& Analytics Analyst to work with our global FMCG client The Magnum Ice Cream Company, renowned for brands such as Magnum, Ben \\& Jerry's, Cornetto and Wall's, and become an integral part of their fast\\-paced FMCG environment.** **The position is based in Kingston upon Thames, Surrey. This is a full\\-time temporary role to run for 6 months, requiring 36\\.25 hours per week, Monday to Friday. Compensation for this role is competitive.** **The role currently offers a mix of remote and onsite working, subject to adjustment based on business requirements.** **Data \\& Analytics Analyst – Wholesaler Sales** The Magnum Ice Cream Company is on a mission to create the ultimate snacking company. A place where growth, innovation, founder and ownership mentality, and performance are cultivated and rewarded. And where we craft extraordinary ice cream experiences \\- transforming ordinary moments into lasting memories. Because we know, life tastes better with ice cream. **ABOUT THE MAGNUM ICE CREAM COMPANY** The Magnum Ice Cream Company is all about growth. Growing our business. Growing our customers’ businesses. Growing our people’s careers. Growth begins with empowerment. So, we free our people to be innovative, responsible entrepreneurs, driven and equipped to give our consumers more amazing products and unforgettable moments – and having fun doing it. With 19,000 expert ice cream colleagues and iconic brands like Wall’s, Cornetto and Ben \\& Jerry’s, loved in 76 countries, we are the world’s largest Ice Cream company leading the industry. **Position Overview** We’re looking for a **Data \\& Analytics Analyst** to unlock the value of **wholesaler and customer sales data** across Magnum’s UK business. You will play a critical role in connecting multiple wholesaler data sources, working with **Databricks and pipelines** , and transforming raw sales data into clear, actionable insights. This includes enabling visibility on **sell\\-in, sell\\-out, distribution, range, and performance across wholesale partners** . You will work closely with data engineers to ensure data is ingested, structured, and ready for analysis, while acting as a **Power BI super user** to deliver dashboards that drive commercial decisions across sales, account management, and operations. **Key Responsibilities** **Connect \\& Integrate Wholesaler Data** * Connect and consolidate **multiple wholesaler sales data sources** (including but not limited to EPOS, shipment/sell\\-in, CRM, partner data) * Work with **Databricks** to query, combine, and transform large\\-scale sales datasets * Connect to and leverage **data pipelines** to access reliable, up\\-to\\-date wholesaler data * Partner with data engineers to onboard new **wholesale partners and data feeds** * Ensure consistent, accurate mapping of SKU, customer, and channel data **Data Ingestion \\& Pipeline Collaboration** * Support and oversee **data ingestion processes** for wholesaler and partner data * Work closely with **data engineers** to bring in new data sources and improve data availability * Validate and sense\\-check incoming data to ensure accuracy and completeness * Help ensure data pipelines deliver **timely, structured, analysis\\-ready datasets** **Data Visualisation \\& Commercial Insights** * Act as a **Power BI super user** , building dashboards focused on **wholesale performance** * Deliver reporting on key commercial metrics (e.g. sales trends, distribution, range compliance, customer performance) * Create intuitive **data visualisations** for sales and account teams * Translate complex sales data into **clear insights and actions** **Make Data Usable for the Business** * Develop clean, structured datasets to support **sales, CRM, and commercial reporting** * Contribute to a **single source of truth** for wholesaler and customer data * Ensure consistency in definitions (e.g. sales metrics, customer views, SKUs) * Enable **self\\-serve analytics** for commercial teams **Set Us Up for Success** * Support scalable solutions that accommodate new wholesalers and growing data complexity * Contribute to **data documentation, definitions, and data dictionaries** * Ensure high standards of **data quality, governance, and trust** * Identify opportunities to improve data coverage, accuracy, and reporting **Business Partnering \\& Opportunity Identification** * Work closely with **sales, account managers, and CRM teams** to answer key business questions * Identify trends and opportunities within **wholesaler performance and distribution** * Proactively highlight risks and opportunities (e.g. gaps in distribution, declining accounts, growth pockets) * Translate business needs into analytical solutions **Required Skills** * Advanced **Power BI** expertise (data modelling, DAX, dashboard delivery) * Experience working with **Databricks** desirable (data querying, transformation) * Strong SQL skills desirable and ability to work with **large, complex sales datasets** * Experience with **data pipelines and ingestion processes** * Proven ability to connect and combine **multiple data sources** * Experience working with **sales, wholesaler, or FMCG data** is highly desirable * Strong understanding of **commercial metrics and reporting** * Experience collaborating with **data engineers and non\\-technical stakeholders** * Commercially minded with strong curiosity for **sales performance drivers** * Detail\\-oriented with a strong focus on **data accuracy and consistency** * Proactive and solutions\\-driven * Ability to manage conflicting priorities and short deadlines * Strong communicator, able to translate data into actionable business insight **Success in This Role Looks Like** * Seamless integration of **wholesaler sales data across multiple partners** * Trusted, high\\-quality datasets supporting commercial decisions * Widely adopted **Power BI dashboards** across sales and account teams * Strong collaboration between analytics, engineering, and commercial teams * Clear visibility of **wholesaler performance, risks, and growth opportunities**",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419186513",
+      "posted_at": "",
+      "source_id": "li-4419186513",
+      "raw": {
+        "id": "li-4419186513",
+        "site": "linkedin",
+        "job_url": "https://www.linkedin.com/jobs/view/4419186513",
+        "job_url_direct": null,
+        "title": "Data & Analytics Analyst",
+        "company": "The Magnum Ice Cream Company",
+        "location": "Kingston Upon Thames, England, UK",
+        "date_posted": NaN,
+        "job_type": "temporary",
+        "salary_source": null,
+        "interval": null,
+        "min_amount": null,
+        "max_amount": null,
+        "currency": null,
+        "is_remote": true,
+        "job_level": "associate",
+        "job_function": "Analyst",
+        "listing_type": null,
+        "emails": NaN,
+        "description": "**Manpower are currently seeking an interim Data \\& Analytics Analyst to work with our global FMCG client The Magnum Ice Cream Company, renowned for brands such as Magnum, Ben \\& Jerry's, Cornetto and Wall's, and become an integral part of their fast\\-paced FMCG environment.** \n\n\n\n\n  \n\n\n\n\n\n**The position is based in Kingston upon Thames, Surrey. This is a full\\-time temporary role to run for 6 months, requiring 36\\.25 hours per week, Monday to Friday. Compensation for this role is competitive.** \n\n\n\n\n  \n\n\n\n\n\n**The role currently offers a mix of remote and onsite working, subject to adjustment based on business requirements.** \n\n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n**Data \\& Analytics Analyst – Wholesaler Sales** \n\n\n\n\n The Magnum Ice Cream Company is on a mission to create the ultimate snacking company. A place where growth, innovation, founder and ownership mentality, and performance are cultivated and rewarded. And where we craft extraordinary ice cream experiences \\- transforming ordinary moments into lasting memories. Because we know, life tastes better with ice cream.\n \n\n\n\n  \n\n\n\n\n\n**ABOUT THE MAGNUM ICE CREAM COMPANY** \n\n\n\n\n The Magnum Ice Cream Company is all about growth. Growing our business. Growing our customers’ businesses. Growing our people’s careers. Growth begins with empowerment. So, we free our people to be innovative, responsible entrepreneurs, driven and equipped to give our consumers more amazing products and unforgettable moments – and having fun doing it. With 19,000 expert ice cream colleagues and iconic brands like Wall’s, Cornetto and Ben \\& Jerry’s, loved in 76 countries, we are the world’s largest Ice Cream company leading the industry.\n \n\n\n\n  \n\n\n\n\n\n**Position Overview** \n\n\n\n\n We’re looking for a\n **Data \\& Analytics Analyst** \n to unlock the value of\n **wholesaler and customer sales data** \n across Magnum’s UK business.\n \n\n\n\n  \n\n\n\n\n\n You will play a critical role in connecting multiple wholesaler data sources, working with\n **Databricks and pipelines** \n , and transforming raw sales data into clear, actionable insights. This includes enabling visibility on\n **sell\\-in, sell\\-out, distribution, range, and performance across wholesale partners** \n .\n \n\n\n\n  \n\n\n\n\n\n You will work closely with data engineers to ensure data is ingested, structured, and ready for analysis, while acting as a\n **Power BI super user** \n to deliver dashboards that drive commercial decisions across sales, account management, and operations.\n \n\n\n\n  \n\n\n\n\n\n**Key Responsibilities** \n\n\n\n\n**Connect \\& Integrate Wholesaler Data** \n\n\n\n* Connect and consolidate\n **multiple wholesaler sales data sources** \n (including but not limited to EPOS, shipment/sell\\-in, CRM, partner data)\n* Work with\n **Databricks** \n to query, combine, and transform large\\-scale sales datasets\n* Connect to and leverage\n **data pipelines** \n to access reliable, up\\-to\\-date wholesaler data\n* Partner with data engineers to onboard new\n **wholesale partners and data feeds**\n* Ensure consistent, accurate mapping of SKU, customer, and channel data\n\n\n\n  \n\n\n\n\n\n**Data Ingestion \\& Pipeline Collaboration** \n\n\n\n* Support and oversee\n **data ingestion processes** \n for wholesaler and partner data\n* Work closely with\n **data engineers** \n to bring in new data sources and improve data availability\n* Validate and sense\\-check incoming data to ensure accuracy and completeness\n* Help ensure data pipelines deliver\n **timely, structured, analysis\\-ready datasets**\n\n\n\n**Data Visualisation \\& Commercial Insights** \n\n\n\n* Act as a\n **Power BI super user** \n , building dashboards focused on\n **wholesale performance**\n* Deliver reporting on key commercial metrics (e.g. sales trends, distribution, range compliance, customer performance)\n* Create intuitive\n **data visualisations** \n for sales and account teams\n* Translate complex sales data into\n **clear insights and actions**\n\n\n\n**Make Data Usable for the Business** \n\n\n\n* Develop clean, structured datasets to support\n **sales, CRM, and commercial reporting**\n* Contribute to a\n **single source of truth** \n for wholesaler and customer data\n* Ensure consistency in definitions (e.g. sales metrics, customer views, SKUs)\n* Enable\n **self\\-serve analytics** \n for commercial teams\n\n\n\n**Set Us Up for Success** \n\n\n\n* Support scalable solutions that accommodate new wholesalers and growing data complexity\n* Contribute to\n **data documentation, definitions, and data dictionaries**\n* Ensure high standards of\n **data quality, governance, and trust**\n* Identify opportunities to improve data coverage, accuracy, and reporting\n\n\n\n**Business Partnering \\& Opportunity Identification** \n\n\n\n* Work closely with\n **sales, account managers, and CRM teams** \n to answer key business questions\n* Identify trends and opportunities within\n **wholesaler performance and distribution**\n* Proactively highlight risks and opportunities (e.g. gaps in distribution, declining accounts, growth pockets)\n* Translate business needs into analytical solutions\n\n\n\n  \n\n\n\n\n\n**Required Skills** \n\n\n\n* Advanced\n **Power BI** \n expertise (data modelling, DAX, dashboard delivery)\n* Experience working with\n **Databricks** \n desirable (data querying, transformation)\n* Strong SQL skills desirable and ability to work with\n **large, complex sales datasets**\n* Experience with\n **data pipelines and ingestion processes**\n* Proven ability to connect and combine\n **multiple data sources**\n* Experience working with\n **sales, wholesaler, or FMCG data** \n is highly desirable\n* Strong understanding of\n **commercial metrics and reporting**\n* Experience collaborating with\n **data engineers and non\\-technical stakeholders**\n* Commercially minded with strong curiosity for\n **sales performance drivers**\n* Detail\\-oriented with a strong focus on\n **data accuracy and consistency**\n* Proactive and solutions\\-driven\n* Ability to manage conflicting priorities and short deadlines\n* Strong communicator, able to translate data into actionable business insight\n\n\n\n  \n\n\n\n\n\n**Success in This Role Looks Like** \n\n\n\n* Seamless integration of\n **wholesaler sales data across multiple partners**\n* Trusted, high\\-quality datasets supporting commercial decisions\n* Widely adopted\n **Power BI dashboards** \n across sales and account teams\n* Strong collaboration between analytics, engineering, and commercial teams\n* Clear visibility of\n **wholesaler performance, risks, and growth opportunities**",
+        "company_industry": "Manufacturing",
+        "company_url": "https://nl.linkedin.com/company/the-magnum-ice-cream-company",
+        "company_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGgaU6nWgZS_g/company-logo_100_100/B4EZfLpU6AHwAg-/0/1751468299517/magnum_ice_cream_co_logo?e=2147483647&v=beta&t=0NI1RYSN6XFvBFRN3wOMD7ypaQVVr2eELVD4JqGIjTk",
+        "company_url_direct": null,
+        "company_addresses": null,
+        "company_num_employees": null,
+        "company_revenue": null,
+        "company_description": null,
+        "skills": null,
+        "experience_range": null,
+        "company_rating": null,
+        "company_reviews_count": null,
+        "vacancy_count": null,
+        "work_from_home_type": null
+      },
+      "match_score": 48,
+      "match_reasons": [
+        "The candidate is a recent graduate with academic and job simulation experience, whereas the role requires a commercially minded analyst to manage complex FMCG wholesaler sales data. While the candidate has strong Power BI and SQL foundations, they lack real-world commercial experience, Databricks exposure, and familiarity with FMCG/sales metrics."
+      ],
+      "accuracy_score": 48,
+      "matched_strengths": [
+        "Strong foundation in Power BI, including DAX and data modeling, which aligns with the 'Power BI super user' requirement.",
+        "Solid academic and project-based SQL and Python skills for data manipulation.",
+        "Experience with data visualization tools (Power BI, Tableau) to deliver dashboards."
+      ],
+      "skill_gaps": [
+        "No evidence of Databricks experience (highly desirable for this role).",
+        "Lacks experience working with sales, wholesaler, or FMCG data (e.g., EPOS, shipment, CRM data).",
+        "No professional experience collaborating with data engineers on data pipelines and ingestion processes.",
+        "Lacks commercial experience in a fast-paced corporate environment (experience is limited to academic projects and short online job simulations)."
+      ],
+      "transferable_matches": [
+        "Using Python (Pandas/NumPy) for data manipulation in job simulations can transfer to querying and transforming large-scale sales datasets.",
+        "Academic project leadership demonstrates communication and stakeholder presentation skills transferable to business partnering."
+      ],
+      "recommendation_tier": "Reach",
+      "ats_keyword_matches": [
+        "Power BI",
+        "DAX",
+        "SQL",
+        "Python",
+        "Tableau",
+        "Excel",
+        "Data Analyst",
+        "data modeling",
+        "data analysis"
+      ],
+      "tailored_summary": "",
+      "tailored_skills": [],
+      "tailored_core_skills": {},
+      "tailored_competencies": [],
+      "tailored_impact_strengths": [],
+      "tailored_experience_rewrites": [],
+      "tailored_experience_bullets": [],
+      "claim_warnings": [],
+      "cold_email": "",
+      "resume_file": "",
+      "tailored_accuracy_score": null,
+      "tailored_match_reasons": [],
+      "tailored_matched_strengths": [],
+      "tailored_skill_gaps": [],
+      "tailored_ats_keyword_matches": [],
+      "quality_iterations": 0,
+      "quality_gate_passed": false,
+      "quality_gate_history": [],
+      "is_new": true,
+      "first_seen_run_id": "20260527T014440",
+      "last_seen_run_id": "20260527T014440",
+      "dedupe_key_used": "url:https://www.linkedin.com/jobs/view/4419186513"
+    },
+    {
+      "source": "linkedin",
+      "title": "Data Analyst",
+      "company": "Trust In SODA",
+      "location": "Greater London, England, UK",
+      "salary": "",
+      "description": "Data Analyst / Analytics Engineer\\- 12 Month FTC We have partnered exclusively with a fast\\-growing financial services company who are looking to hire a **hands\\-on Data Analyst / Analytics Engineers** . This is a fixed term contract and hybrid in central London with some great remote flexibility. This role sits across data engineering and analytics — ideal for someone who enjoys building robust data pipelines *and* delivering insights that influence real business decisions. What you’ll be doing * Building and maintaining **data integrations** with internal platforms and third‑party APIs * Developing and optimising **ETL pipelines and data warehouse infrastructure** * Working with stakeholders to deliver **dashboards, reports and financial insights** (Power BI / Excel) * Taking ownership of new data processes as the analytics estate scales * Acting as a go‑to technical SME for the data platform What we’re looking for * Experience working as a **Data Analyst, Analytics Engineer or similar** * Strong **SQL** and experience with large, relational datasets * Solid **Python** skills for data analysis and automation * Experience designing or working with **ETL workflows and data models** * Ability to communicate clearly with non\\-technical stakeholders Nice to have * Power BI or similar visualisation tools * Azure data services experience * Exposure to finance, lending or regulated environments Why apply? * High\\-impact role in a **scaling data function** * Broad ownership across the full data lifecycle * Opportunity to influence architecture, tooling and best practice * Inclusive, collaborative culture with room to grow If this sounds like an interesting opportunity and you'd like to discuss it further, drop across your CV or contact Adam Whitehurst at Trust in Soda for more info.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418148987",
+      "posted_at": "2026-05-22",
+      "source_id": "li-4418148987",
+      "raw": {
+        "id": "li-4418148987",
+        "site": "linkedin",
+        "job_url": "https://www.linkedin.com/jobs/view/4418148987",
+        "job_url_direct": null,
+        "title": "Data Analyst",
+        "company": "Trust In SODA",
+        "location": "Greater London, England, UK",
+        "date_posted": "2026-05-22",
+        "job_type": "fulltime",
+        "salary_source": null,
+        "interval": null,
+        "min_amount": null,
+        "max_amount": null,
+        "currency": null,
+        "is_remote": true,
+        "job_level": "not applicable",
+        "job_function": "Information Technology",
+        "listing_type": null,
+        "emails": NaN,
+        "description": "Data Analyst / Analytics Engineer\\- 12 Month FTC\n   \n\n  \n\n We have partnered exclusively with a fast\\-growing financial services company who are looking to hire a \n **hands\\-on Data Analyst / Analytics Engineers** \n . This is a fixed term contract and hybrid in central London with some great remote flexibility. \n   \n\n This role sits across data engineering and analytics — ideal for someone who enjoys building robust data pipelines\n *and* \n delivering insights that influence real business decisions.\n   \n\n  \n\n What you’ll be doing\n * Building and maintaining\n **data integrations** \n with internal platforms and third‑party APIs\n* Developing and optimising\n **ETL pipelines and data warehouse infrastructure**\n* Working with stakeholders to deliver\n **dashboards, reports and financial insights** \n (Power BI / Excel)\n* Taking ownership of new data processes as the analytics estate scales\n* Acting as a go‑to technical SME for the data platform\n\n\n What we’re looking for\n * Experience working as a\n **Data Analyst, Analytics Engineer or similar**\n* Strong\n **SQL** \n and experience with large, relational datasets\n* Solid\n **Python** \n skills for data analysis and automation\n* Experience designing or working with\n **ETL workflows and data models**\n* Ability to communicate clearly with non\\-technical stakeholders\n\n\n Nice to have\n * Power BI or similar visualisation tools\n* Azure data services experience\n* Exposure to finance, lending or regulated environments\n\n\n Why apply?\n * High\\-impact role in a\n **scaling data function**\n* Broad ownership across the full data lifecycle\n* Opportunity to influence architecture, tooling and best practice\n* Inclusive, collaborative culture with room to grow\n\n\n If this sounds like an interesting opportunity and you'd like to discuss it further, drop across your CV or contact Adam Whitehurst at Trust in Soda for more info.",
+        "company_industry": "Technology, Information and Media, Data Infrastructure and Analytics, and Software Development",
+        "company_url": "https://uk.linkedin.com/company/trust-in-soda",
+        "company_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEC8oWjjo5OIw/company-logo_100_100/company-logo_100_100/0/1719836519193/trust_in_soda_logo?e=2147483647&v=beta&t=llGI-VyACLVbGzGMhJERD9Bn_JowivRXVBVRP-EjLV0",
+        "company_url_direct": null,
+        "company_addresses": null,
+        "company_num_employees": null,
+        "company_revenue": null,
+        "company_description": null,
+        "skills": null,
+        "experience_range": null,
+        "company_rating": null,
+        "company_reviews_count": null,
+        "vacancy_count": null,
+        "work_from_home_type": null
+      },
+      "match_score": 45,
+      "match_reasons": [
+        "The candidate is a recent graduate whose only 'work experience' consists of short-term virtual job simulations (Forage) rather than commercial, hands-on industry experience. While they possess the core technical keywords like SQL, Python, and Power BI, they lack the professional seniority and proven track record required for a 12-month FTC role in a fast-growing financial services company."
+      ],
+      "accuracy_score": 45,
+      "matched_strengths": [
+        "Possesses strong academic and project-based knowledge of Python and SQL for data analysis.",
+        "Experience building interactive Power BI dashboards using DAX and data modeling.",
+        "Familiarity with Azure data services, which is listed as a nice-to-have skill."
+      ],
+      "skill_gaps": [
+        "Lacks commercial experience building and maintaining production-grade ETL pipelines and data warehouse infrastructure.",
+        "No professional experience building data integrations with internal platforms and third-party APIs.",
+        "Lacks direct exposure to the finance, lending, or regulated corporate environments beyond a virtual simulation."
+      ],
+      "transferable_matches": [
+        "Academic project experience leading a Wildfire Detection System pipeline can transfer to structuring data workflows.",
+        "Virtual simulation with BCG involving financial chatbot development and 10-K/10-Q reports transfers basic financial data literacy."
+      ],
+      "recommendation_tier": "Reach",
+      "ats_keyword_matches": [
+        "Data Analyst",
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel",
+        "Azure",
+        "dashboards",
+        "data modeling"
+      ],
+      "tailored_summary": "",
+      "tailored_skills": [],
+      "tailored_core_skills": {},
+      "tailored_competencies": [],
+      "tailored_impact_strengths": [],
+      "tailored_experience_rewrites": [],
+      "tailored_experience_bullets": [],
+      "claim_warnings": [],
+      "cold_email": "",
+      "resume_file": "",
+      "tailored_accuracy_score": null,
+      "tailored_match_reasons": [],
+      "tailored_matched_strengths": [],
+      "tailored_skill_gaps": [],
+      "tailored_ats_keyword_matches": [],
+      "quality_iterations": 0,
+      "quality_gate_passed": false,
+      "quality_gate_history": [],
+      "is_new": true,
+      "first_seen_run_id": "20260527T014440",
+      "last_seen_run_id": "20260527T014440",
+      "dedupe_key_used": "url:https://www.linkedin.com/jobs/view/4418148987"
+    },
+    {
+      "source": "linkedin",
+      "title": "Data Analyst | Remote",
+      "company": "Crossing Hurdles",
+      "location": "",
+      "salary": "",
+      "description": "**Position:** Join Expert Network: Business Intelligence Analysts **Type:** Part\\-time / Project\\-based **Compensation:** $70–$120 per hour **Location:** Remote **Commitment:** 10–40 hours/week **Role Responsibilities** * Join Mercor’s Business Intelligence Analyst Talent Network to be matched with companies hiring for BI\\-focused roles * Perform SQL\\-based querying and advanced data analysis * Create data visualizations using tools such as Tableau or Power BI * Support data modeling and data warehousing initiatives * Enable data\\-driven decision\\-making across organizations * Participate in AI\\-driven opportunity matching for full\\-time, part\\-time, or project\\-based roles * Complete an initial AI interview to become eligible for relevant listings aligned with expertise **Requirements** * Professional experience in business intelligence or data analytics * Proficiency in SQL and advanced data querying * Experience with data visualization tools such as Tableau or Power BI * Knowledge of data modeling and warehousing concepts * Ability to support data\\-driven decision\\-making initiatives * Willingness to complete an AI interview for opportunity matching **Application Process (Takes 20 Mins)** * Upload resume * Interview (15 min) * Submit form",
+      "apply_url": "https://www.linkedin.com/jobs/view/4387346458",
+      "posted_at": "2026-05-22",
+      "source_id": "li-4387346458",
+      "raw": {
+        "id": "li-4387346458",
+        "site": "linkedin",
+        "job_url": "https://www.linkedin.com/jobs/view/4387346458",
+        "job_url_direct": null,
+        "title": "Data Analyst | Remote",
+        "company": "Crossing Hurdles",
+        "location": "",
+        "date_posted": "2026-05-22",
+        "job_type": "contract",
+        "salary_source": null,
+        "interval": null,
+        "min_amount": null,
+        "max_amount": null,
+        "currency": null,
+        "is_remote": true,
+        "job_level": "associate",
+        "job_function": "Information Technology",
+        "listing_type": null,
+        "emails": NaN,
+        "description": "**Position:** \n Join Expert Network: Business Intelligence Analysts\n \n\n\n\n**Type:** \n Part\\-time / Project\\-based\n \n\n\n\n**Compensation:** \n $70–$120 per hour\n \n\n\n\n**Location:** \n Remote\n \n\n\n\n**Commitment:** \n 10–40 hours/week\n \n\n\n\n  \n\n\n\n\n\n**Role Responsibilities** \n\n\n\n* Join Mercor’s Business Intelligence Analyst Talent Network to be matched with companies hiring for BI\\-focused roles\n* Perform SQL\\-based querying and advanced data analysis\n* Create data visualizations using tools such as Tableau or Power BI\n* Support data modeling and data warehousing initiatives\n* Enable data\\-driven decision\\-making across organizations\n* Participate in AI\\-driven opportunity matching for full\\-time, part\\-time, or project\\-based roles\n* Complete an initial AI interview to become eligible for relevant listings aligned with expertise\n\n\n\n  \n\n\n\n\n\n**Requirements** \n\n\n\n* Professional experience in business intelligence or data analytics\n* Proficiency in SQL and advanced data querying\n* Experience with data visualization tools such as Tableau or Power BI\n* Knowledge of data modeling and warehousing concepts\n* Ability to support data\\-driven decision\\-making initiatives\n* Willingness to complete an AI interview for opportunity matching\n\n\n\n  \n\n\n\n\n\n**Application Process (Takes 20 Mins)** \n\n\n\n* Upload resume\n* Interview (15 min)\n* Submit form",
+        "company_industry": "Retail Office Equipment and Research Services",
+        "company_url": "https://www.linkedin.com/company/crossinghurdles",
+        "company_logo": "https://media.licdn.com/dms/image/v2/D560BAQEGLWHBZmzzcA/company-logo_100_100/B56ZYzlx2LHEAY-/0/1744622264274/crossinghurdles_logo?e=2147483647&v=beta&t=1OM5cqz9v87L6uTSe2nKqbGcsAXbKTfCK6rnGpN_Wzk",
+        "company_url_direct": null,
+        "company_addresses": null,
+        "company_num_employees": null,
+        "company_revenue": null,
+        "company_description": null,
+        "skills": null,
+        "experience_range": null,
+        "company_rating": null,
+        "company_reviews_count": null,
+        "vacancy_count": null,
+        "work_from_home_type": null
+      },
+      "match_score": 45,
+      "match_reasons": [
+        "The candidate has the required technical skills (SQL, Power BI, Tableau, Data Modeling) but lacks the 'professional experience' required by the role. Their resume consists entirely of academic projects, university degrees, and short-term virtual job simulations (Forage), with no real-world, contracted professional employment."
+      ],
+      "accuracy_score": 45,
+      "matched_strengths": [
+        "Proficiency in SQL and advanced data querying supported by academic and simulation projects.",
+        "Hands-on experience creating data visualizations in both Tableau and Power BI.",
+        "Knowledge of data modeling and DAX, as demonstrated in academic coursework and dashboards."
+      ],
+      "skill_gaps": [
+        "Lacks professional, non-academic work experience in business intelligence or data analytics.",
+        "No demonstrated experience with enterprise data warehousing initiatives beyond basic cloud database exposure (Snowflake/Azure)."
+      ],
+      "transferable_matches": [
+        "Completed virtual job simulations with Deloitte and BCG which mimic real-world client data analysis and dashboard creation scenarios."
+      ],
+      "recommendation_tier": "Reach",
+      "ats_keyword_matches": [
+        "SQL",
+        "Tableau",
+        "Power BI",
+        "data modeling",
+        "data analysis",
+        "data visualization"
+      ],
+      "tailored_summary": "",
+      "tailored_skills": [],
+      "tailored_core_skills": {},
+      "tailored_competencies": [],
+      "tailored_impact_strengths": [],
+      "tailored_experience_rewrites": [],
+      "tailored_experience_bullets": [],
+      "claim_warnings": [],
+      "cold_email": "",
+      "resume_file": "",
+      "tailored_accuracy_score": null,
+      "tailored_match_reasons": [],
+      "tailored_matched_strengths": [],
+      "tailored_skill_gaps": [],
+      "tailored_ats_keyword_matches": [],
+      "quality_iterations": 0,
+      "quality_gate_passed": false,
+      "quality_gate_history": [],
+      "is_new": true,
+      "first_seen_run_id": "20260527T014440",
+      "last_seen_run_id": "20260527T014440",
+      "dedupe_key_used": "url:https://www.linkedin.com/jobs/view/4387346458"
+    },
+    {
+      "source": "linkedin",
+      "title": "Data Analyst",
+      "company": "POP MART",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "description": "**Data Analyst** **Industry:** Designer toys and collectible pieces **Location:** London, Canary Wharf **Job type:** Full time Permanent **About POP MART** POP MART (09992\\.HK) is a leading global company in the trend culture and entertainment industry. Centered around IP, POP MART has built a comprehensive platform for creative incubation and IP operation, empowering global creators while delivering exciting products, services and immersive entertainment experiences to consumers. POP MART identifies and nurtures emerging artists and designers worldwide, creating popular character IPs through a well\\-established development and operation system. Our portfolio includes iconic characters such as MOLLY, SKULLPANDA, DIMOO, THE MONSTERS and Hirono. POP MART operates over 500 physical stores and more than 2,300 Robo Shops across more than thirty countries and regions, and through multiple cross border e commerce platforms reaches audiences in over ninety countries and regions, bringing joy to young consumers around the world. POP MART has developed a comprehensive IP commercialisation ecosystem that spans multiple industries, deepening emotional bonds between fans and IPs while exploring broader opportunities for value creation. Our ventures include the world’s first immersive intellectual property themed park in the art toy industry, the expansion of its IPs into global markets through licensing and co\\-branding with leading global brands, and the curation of art toy expos and intellectual property themed exhibitions internationally. In Europe, POP MART has built a strong presence in key markets including the United Kingdom, France, Italy, Germany, the Netherlands and Spain, and is expanding into new high potential markets. Our expansion brings POP MART closer to European fans and offers new ways for them to connect with our IPs and stories. For more information, please visit www.popmart.com and our LinkedIn Career page. **What to Expect** POP MART is a fast\\-paced company with a young and multicultural team where you can expect to: * Contribute to a fast\\-growing European business that combines retail, art, and creative storytelling * Work with passionate teams across different countries, all connected by a shared love for designer toys and unique customer experiences * Grow your skills through hands\\-on projects, collaborative learning, and opportunities to explore new ideas **Benefits** POP MART offers our employees: * Monthly appreciation gifts featuring our latest POP MART designs * A structured bonus scheme linked to both company and individual performance * 25 days of annual leave, in addition to bank holidays * 4x life insurance, together with group medical and travel insurance * A confidential Employee Assistance Programme, alongside access to a discount platform for selected online retailers * Training and development programmes, together with regular team events that encourage learning, collaboration, and celebration **The Role and Candidate** We are looking for a data driven and detail oriented professional to support business performance monitoring and analysis across POP MART’s European business. This role focuses on operational reporting, performance tracking, and business insight generation across key revenue channels, including physical stores, vending machines, and online business. You will support the business by monitoring core operational indicators, identifying trends and issues through data, and helping teams better understand performance through clear, accurate, and practical analysis. You will also work closely with teams including Finance, Retail Operations, Marketing, Merchandising, and Business Development to support regular reporting, operational reviews, and day to day data requests. In parallel, the role will contribute to improving reporting consistency, data quality, and the practical use of data in business operations. This position would suit someone with solid analytical capability, structured thinking, and a hands on approach, who is comfortable working with detailed data while supporting wider business needs in a fast paced environment. **Responsibilities** **Daily Operation Monitoring and Performance Review** * Establish daily, weekly and monthly monitoring for core operational indicators, including revenue, gross profit, expense ratio, payment collection, labour efficiency and store efficiency, across all revenue channels such as physical stores, vending machines and online business * Prepare daily, weekly, monthly and quarterly operational reports in a timely manner, benchmark performance against budget, year on year and month on month data, and analyse the causes of performance gaps * Track key business indicators including sales volume, average transaction value, conversion rate and profit margin, and provide regular operational analysis to support performance improvement * Analyse the performance of different markets, stores and vending machines, identify trends and issues, and support the development of targeted actions to improve profitability * Support the Business Development team with data input for store and vending machine site selection, based on market data and operational analysis * Support monthly and quarterly operational review meetings by preparing review materials and presentations, highlighting business progress, key issues and improvement priorities, and tracking follow up actions * Work closely with the Finance team to verify operational, cost and expense data, align statistical definitions, resolve data discrepancies, and ensure management reporting is accurate and reliable **Business Insights and Reporting** * Work closely with business teams on a daily basis to understand key business pain points, and support practical data solutions based on business needs and operating scenarios * Conduct data analysis across sales operations, marketing and consumer insights, identify the business logic behind the data, and provide insights to support business optimisation * Improve the quality and depth of recurring insight reports by moving beyond data listing and strengthening business focused conclusions and recommendations * Build and maintain structured data records and archives to support data traceability, consistency and reusability * Extract and process data from multiple sources, including business systems, CRM and ERP systems, and use SQL for regular queries, data cleaning, deduplication, correlation and aggregation * Build and maintain basic dashboards and automated reports to reduce manual reporting, improve data visibility, and support more efficient access to information **Cross Functional Collaboration and Data Governance** * Support Sales, Marketing, Product, Supply Chain, Finance and other teams with day to day data requests, including customised queries, report exports and basic analysis support * Provide guidance to business teams on basic data viewing and analysis methods to improve the practical use of data in daily operations * Support the standardisation of data fields, statistical rules and analysis templates, and help establish data logs and archiving practices to strengthen data governance * Contribute to the development of a more consistent and practical data culture across the business **Required Qualifications** * 3–5 years of business analysis experience; candidates with experience in management consulting, internet business analysis, retail operations analysis, or other relevant analytical experience, or those with extensive professional experience are preferred * Excellent communication and organisational skills, capable of handling complex issues with structured thinking and analytical abilities * Proactive, hands\\-on, and entrepreneurial mindset with experience working in a fast\\-paced business environment * Outstanding problem\\-solving, analytical, written and verbal communication skills * Data\\-sensitive, able to identify business trends and issues through data analysis; proficiency in data analysis and visualisation tools such as Excel, SQL, Tableau is preferred, but strong willingness to learn is a must * Proficiency in English (listening, speaking, reading and writing), with extensive experience in cross\\-team project collaboration and communication **Desirable but Not Essential** * Experience in the toy industry or pop culture retail sector * Familiarity with Local and European retail landscapes * Understanding of designer toy and collectible trends, particularly in the art toy market * Experience supporting operational reporting across multiple countries or regions * Understanding of retail KPIs including conversion rate, ATV, margin, labour efficiency and inventory performance * Exposure to data governance, reporting automation, or process improvement initiatives * Experience within retail, consumer goods, eCommerce, or multi\\-site operations environments * Experience working with ERP, CRM, POS or business intelligence systems * Familiarity with dashboard tools such as Tableau, Power BI or Looker If you are excited to be part of POP MART’s journey and believe you have the skills and passion to contribute, click **Apply Now** and send us your CV.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4414007431",
+      "posted_at": "2026-05-21",
+      "source_id": "li-4414007431",
+      "raw": {
+        "id": "li-4414007431",
+        "site": "linkedin",
+        "job_url": "https://www.linkedin.com/jobs/view/4414007431",
+        "job_url_direct": null,
+        "title": "Data Analyst",
+        "company": "POP MART",
+        "location": "London Area, United Kingdom",
+        "date_posted": "2026-05-21",
+        "job_type": "fulltime",
+        "salary_source": null,
+        "interval": null,
+        "min_amount": null,
+        "max_amount": null,
+        "currency": null,
+        "is_remote": false,
+        "job_level": "mid-senior level",
+        "job_function": "Administrative",
+        "listing_type": null,
+        "emails": NaN,
+        "description": "**Data Analyst** \n\n\n\n\n  \n\n\n\n\n\n**Industry:** \n Designer toys and collectible pieces\n \n\n\n\n**Location:** \n London, Canary Wharf\n \n\n\n\n**Job type:** \n Full time Permanent\n \n\n\n\n  \n\n\n\n\n\n**About POP MART** \n\n\n\n\n  \n\n\n\n\n\n POP MART (09992\\.HK) is a leading global company in the trend culture and entertainment industry. Centered around IP, POP MART has built a comprehensive platform for creative incubation and IP operation, empowering global creators while delivering exciting products, services and immersive entertainment experiences to consumers.\n \n\n\n\n  \n\n\n\n\n\n POP MART identifies and nurtures emerging artists and designers worldwide, creating popular character IPs through a well\\-established development and operation system. Our portfolio includes iconic characters such as MOLLY, SKULLPANDA, DIMOO, THE MONSTERS and Hirono. POP MART operates over 500 physical stores and more than 2,300 Robo Shops across more than thirty countries and regions, and through multiple cross border e commerce platforms reaches audiences in over ninety countries and regions, bringing joy to young consumers around the world.\n \n\n\n\n  \n\n\n\n\n\n POP MART has developed a comprehensive IP commercialisation ecosystem that spans multiple industries, deepening emotional bonds between fans and IPs while exploring broader opportunities for value creation. Our ventures include the world’s first immersive intellectual property themed park in the art toy industry, the expansion of its IPs into global markets through licensing and co\\-branding with leading global brands, and the curation of art toy expos and intellectual property themed exhibitions internationally. In Europe, POP MART has built a strong presence in key markets including the United Kingdom, France, Italy, Germany, the Netherlands and Spain, and is expanding into new high potential markets. Our expansion brings POP MART closer to European fans and offers new ways for them to connect with our IPs and stories.\n \n\n\n\n  \n\n\n\n\n\n For more information, please visit www.popmart.com and our LinkedIn Career page.\n \n\n\n\n  \n\n\n\n\n\n**What to Expect** \n\n\n\n\n  \n\n\n\n\n\n POP MART is a fast\\-paced company with a young and multicultural team where you can expect to:\n \n\n\n\n  \n\n\n\n\n* Contribute to a fast\\-growing European business that combines retail, art, and creative storytelling\n* Work with passionate teams across different countries, all connected by a shared love for designer toys and unique customer experiences\n* Grow your skills through hands\\-on projects, collaborative learning, and opportunities to explore new ideas\n\n\n\n  \n\n\n\n\n\n**Benefits** \n\n\n\n\n  \n\n\n\n\n\n POP MART offers our employees:\n \n\n\n\n  \n\n\n\n\n* Monthly appreciation gifts featuring our latest POP MART designs\n* A structured bonus scheme linked to both company and individual performance\n* 25 days of annual leave, in addition to bank holidays\n* 4x life insurance, together with group medical and travel insurance\n* A confidential Employee Assistance Programme, alongside access to a discount platform for selected online retailers\n* Training and development programmes, together with regular team events that encourage learning, collaboration, and celebration\n\n\n\n  \n\n\n\n\n\n**The Role and Candidate** \n\n\n\n\n  \n\n\n\n\n\n We are looking for a data driven and detail oriented professional to support business performance monitoring and analysis across POP MART’s European business.\n \n\n\n\n This role focuses on operational reporting, performance tracking, and business insight generation across key revenue channels, including physical stores, vending machines, and online business. You will support the business by monitoring core operational indicators, identifying trends and issues through data, and helping teams better understand performance through clear, accurate, and practical analysis.\n \n\n\n\n You will also work closely with teams including Finance, Retail Operations, Marketing, Merchandising, and Business Development to support regular reporting, operational reviews, and day to day data requests. In parallel, the role will contribute to improving reporting consistency, data quality, and the practical use of data in business operations.\n \n\n\n\n This position would suit someone with solid analytical capability, structured thinking, and a hands on approach, who is comfortable working with detailed data while supporting wider business needs in a fast paced environment.\n \n\n\n\n  \n\n\n\n\n\n**Responsibilities** \n\n\n\n\n  \n\n\n\n\n\n**Daily Operation Monitoring and Performance Review** \n\n\n\n\n  \n\n\n\n\n* Establish daily, weekly and monthly monitoring for core operational indicators, including revenue, gross profit, expense ratio, payment collection, labour efficiency and store efficiency, across all revenue channels such as physical stores, vending machines and online business\n* Prepare daily, weekly, monthly and quarterly operational reports in a timely manner, benchmark performance against budget, year on year and month on month data, and analyse the causes of performance gaps\n* Track key business indicators including sales volume, average transaction value, conversion rate and profit margin, and provide regular operational analysis to support performance improvement\n* Analyse the performance of different markets, stores and vending machines, identify trends and issues, and support the development of targeted actions to improve profitability\n* Support the Business Development team with data input for store and vending machine site selection, based on market data and operational analysis\n* Support monthly and quarterly operational review meetings by preparing review materials and presentations, highlighting business progress, key issues and improvement priorities, and tracking follow up actions\n* Work closely with the Finance team to verify operational, cost and expense data, align statistical definitions, resolve data discrepancies, and ensure management reporting is accurate and reliable\n\n\n\n  \n\n\n\n\n\n**Business Insights and Reporting** \n\n\n\n\n  \n\n\n\n\n* Work closely with business teams on a daily basis to understand key business pain points, and support practical data solutions based on business needs and operating scenarios\n* Conduct data analysis across sales operations, marketing and consumer insights, identify the business logic behind the data, and provide insights to support business optimisation\n* Improve the quality and depth of recurring insight reports by moving beyond data listing and strengthening business focused conclusions and recommendations\n* Build and maintain structured data records and archives to support data traceability, consistency and reusability\n* Extract and process data from multiple sources, including business systems, CRM and ERP systems, and use SQL for regular queries, data cleaning, deduplication, correlation and aggregation\n* Build and maintain basic dashboards and automated reports to reduce manual reporting, improve data visibility, and support more efficient access to information\n\n\n\n  \n\n\n\n\n\n**Cross Functional Collaboration and Data Governance** \n\n\n\n\n  \n\n\n\n\n* Support Sales, Marketing, Product, Supply Chain, Finance and other teams with day to day data requests, including customised queries, report exports and basic analysis support\n* Provide guidance to business teams on basic data viewing and analysis methods to improve the practical use of data in daily operations\n* Support the standardisation of data fields, statistical rules and analysis templates, and help establish data logs and archiving practices to strengthen data governance\n* Contribute to the development of a more consistent and practical data culture across the business\n\n\n\n  \n\n\n\n\n\n**Required Qualifications** \n\n\n\n\n  \n\n\n\n\n* 3–5 years of business analysis experience; candidates with experience in management consulting, internet business analysis, retail operations analysis, or other relevant analytical experience, or those with extensive professional experience are preferred\n\n\n\n  \n\n\n\n\n* Excellent communication and organisational skills, capable of handling complex issues with structured thinking and analytical abilities\n\n\n\n  \n\n\n\n\n* Proactive, hands\\-on, and entrepreneurial mindset with experience working in a fast\\-paced business environment\n\n\n\n  \n\n\n\n\n* Outstanding problem\\-solving, analytical, written and verbal communication skills\n\n\n\n  \n\n\n\n\n* Data\\-sensitive, able to identify business trends and issues through data analysis; proficiency in data analysis and visualisation tools such as Excel, SQL, Tableau is preferred, but strong willingness to learn is a must\n\n\n\n  \n\n\n\n\n* Proficiency in English (listening, speaking, reading and writing), with extensive experience in cross\\-team project collaboration and communication\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n**Desirable but Not Essential** \n\n\n\n\n  \n\n\n\n\n* Experience in the toy industry or pop culture retail sector\n* Familiarity with Local and European retail landscapes\n* Understanding of designer toy and collectible trends, particularly in the art toy market\n* Experience supporting operational reporting across multiple countries or regions\n* Understanding of retail KPIs including conversion rate, ATV, margin, labour efficiency and inventory performance\n* Exposure to data governance, reporting automation, or process improvement initiatives\n* Experience within retail, consumer goods, eCommerce, or multi\\-site operations environments\n* Experience working with ERP, CRM, POS or business intelligence systems\n* Familiarity with dashboard tools such as Tableau, Power BI or Looker\n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n  \n\n\n\n\n\n If you are excited to be part of POP MART’s journey and believe you have the skills and passion to contribute, click\n **Apply Now** \n and send us your CV.",
+        "company_industry": "Entertainment Providers, Consumer Services, and Retail",
+        "company_url": "https://cn.linkedin.com/company/pop-mart",
+        "company_logo": "https://media.licdn.com/dms/image/v2/C510BAQFP8xVbjirwNA/company-logo_100_100/company-logo_100_100/0/1630576543727?e=2147483647&v=beta&t=RLBxrLAA-CcGCOboxCtokmREeJyZO7JTfIITtYVsvMY",
+        "company_url_direct": null,
+        "company_addresses": null,
+        "company_num_employees": null,
+        "company_revenue": null,
+        "company_description": null,
+        "skills": null,
+        "experience_range": null,
+        "company_rating": null,
+        "company_reviews_count": null,
+        "vacancy_count": null,
+        "work_from_home_type": null
+      },
+      "match_score": 45,
+      "match_reasons": [
+        "The candidate is a recent graduate whose experience consists almost entirely of short-term virtual job simulations (Forage) and academic projects, whereas the role requires a hands-on professional to manage complex commercial operations, retail KPIs, and cross-functional stakeholder management (Finance, Retail, Marketing) for a major multinational brand.",
+        "The resume lacks commercial retail domain experience, specifically around key retail metrics mentioned in the job description (gross profit, labor efficiency, store efficiency, conversion rates, and vending machine performance).",
+        "The candidate has the technical baseline (SQL, Power BI, Excel, Tableau) but lacks the practical, real-world corporate experience required to execute the extensive daily operational monitoring and financial reconciliation described."
+      ],
+      "accuracy_score": 45,
+      "matched_strengths": [
+        "Strong academic and simulation-based knowledge of Power BI (DAX, data modeling) and Tableau for dashboard creation.",
+        "Solid foundation in Python and SQL for data manipulation and query refinement.",
+        "Experience with Excel for data classification and drawing basic business conclusions (via Deloitte simulation)."
+      ],
+      "skill_gaps": [
+        "Lack of real-world, non-academic commercial experience as a Data Analyst.",
+        "No demonstrated experience with retail-specific KPIs such as conversion rate, average transaction value, labor efficiency, store efficiency, and gross profit margins.",
+        "No evidence of working with financial data reconciliation or collaborating directly with corporate Finance and Retail Operations teams.",
+        "No experience supporting site selection or business development teams with market data analysis."
+      ],
+      "transferable_matches": [
+        "Academic project lead experience can transfer to managing small-scale data tasks and timelines.",
+        "Machine learning and predictive modeling skills (Python/TensorFlow) could eventually be leveraged for advanced demand forecasting or consumer insight analysis."
+      ],
+      "recommendation_tier": "Reach",
+      "ats_keyword_matches": [
+        "Data Analyst",
+        "Python",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "Excel",
+        "data analysis",
+        "reporting",
+        "insights"
+      ],
+      "tailored_summary": "",
+      "tailored_skills": [],
+      "tailored_core_skills": {},
+      "tailored_competencies": [],
+      "tailored_impact_strengths": [],
+      "tailored_experience_rewrites": [],
+      "tailored_experience_bullets": [],
+      "claim_warnings": [],
+      "cold_email": "",
+      "resume_file": "",
+      "tailored_accuracy_score": null,
+      "tailored_match_reasons": [],
+      "tailored_matched_strengths": [],
+      "tailored_skill_gaps": [],
+      "tailored_ats_keyword_matches": [],
+      "quality_iterations": 0,
+      "quality_gate_passed": false,
+      "quality_gate_history": [],
+      "is_new": true,
+      "first_seen_run_id": "20260527T014440",
+      "last_seen_run_id": "20260527T014440",
+      "dedupe_key_used": "url:https://www.linkedin.com/jobs/view/4414007431"
+    },
+    {
+      "source": "linkedin",
+      "title": "Data Analyst",
+      "company": "Think Selection",
+      "location": "Oxfordshire, England, UK",
+      "salary": "",
+      "description": "An Oxford based publishing company has asked Think Selection to find a Data Analyst to support reporting, business intelligence and data analysis across its finance and operational teams. This is an exciting opportunity for a commercially minded and analytically driven individual to support both the finance and wider business teams. You’ll produce regular financial and operational reports using Excel and Power BI, helping improve data accessibility across the business. The role will also include developing and maintaining dashboards, supporting budgeting and forecasting activities, analysing financial and operational data, and identifying trends, risks and opportunities to support business performance and operational efficiency. Working closely with finance and senior colleagues, you’ll also help improve reporting workflows, automate processes where possible and provide analysis to support wider business decision\\-making. Candidates should have experience in financial analysis, reporting or data analytics, strong Excel and Power BI skills and the ability to interpret and present data clearly to both technical and non\\-technical stakeholders. Experience improving reporting processes, automating workflows or supporting operational efficiencies would also be advantageous. You'll be based fom the Oxford offices during the week. Hybrid working, a competitive salary and benefits package are offered with the role. If this opportunity looks of interest to you, please contact Danny Parnes at Think Selection with your CV and current salary or expectations, in confidence – danny@thinkselection.com",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417746086",
+      "posted_at": "2026-05-21",
+      "source_id": "li-4417746086",
+      "raw": {
+        "id": "li-4417746086",
+        "site": "linkedin",
+        "job_url": "https://www.linkedin.com/jobs/view/4417746086",
+        "job_url_direct": null,
+        "title": "Data Analyst",
+        "company": "Think Selection",
+        "location": "Oxfordshire, England, UK",
+        "date_posted": "2026-05-21",
+        "job_type": "fulltime",
+        "salary_source": null,
+        "interval": null,
+        "min_amount": null,
+        "max_amount": null,
+        "currency": null,
+        "is_remote": false,
+        "job_level": "mid-senior level",
+        "job_function": "Analyst and Finance",
+        "listing_type": null,
+        "emails": "danny@thinkselection.com",
+        "description": "An Oxford based publishing company has asked Think Selection to find a Data Analyst to support reporting, business intelligence and data analysis across its finance and operational teams. This is an exciting opportunity for a commercially minded and analytically driven individual to support both the finance and wider business teams.\n \n\n\n\n  \n\n\n\n\n\n You’ll produce regular financial and operational reports using Excel and Power BI, helping improve data accessibility across the business. The role will also include developing and maintaining dashboards, supporting budgeting and forecasting activities, analysing financial and operational data, and identifying trends, risks and opportunities to support business performance and operational efficiency.\n \n\n\n\n  \n\n\n\n\n\n Working closely with finance and senior colleagues, you’ll also help improve reporting workflows, automate processes where possible and provide analysis to support wider business decision\\-making.\n \n\n\n\n  \n\n\n\n\n\n Candidates should have experience in financial analysis, reporting or data analytics, strong Excel and Power BI skills and the ability to interpret and present data clearly to both technical and non\\-technical stakeholders. Experience improving reporting processes, automating workflows or supporting operational efficiencies would also be advantageous.\n \n\n\n\n  \n\n\n\n\n\n You'll be based fom the Oxford offices during the week. Hybrid working, a competitive salary and benefits package are offered with the role.\n \n\n\n\n  \n\n\n\n\n\n If this opportunity looks of interest to you, please contact Danny Parnes at Think Selection with your CV and current salary or expectations, in confidence – danny@thinkselection.com",
+        "company_industry": "Book and Periodical Publishing, Data Infrastructure and Analytics, and Financial Services",
+        "company_url": "https://uk.linkedin.com/company/think-selection",
+        "company_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG_E0qCzfExbg/company-logo_100_100/B4EZTwAWgVGgAU-/0/1739193412138/think_selection_logo?e=2147483647&v=beta&t=B1bid0dyyZa2JygnUxBmMkQ14jD4Ya3ssVSUyiMrJlA",
+        "company_url_direct": null,
+        "company_addresses": null,
+        "company_num_employees": null,
+        "company_revenue": null,
+        "company_description": null,
+        "skills": null,
+        "experience_range": null,
+        "company_rating": null,
+        "company_reviews_count": null,
+        "vacancy_count": null,
+        "work_from_home_type": null
+      },
+      "match_score": 45,
+      "match_reasons": [
+        "The candidate is a recent graduate whose work experience consists entirely of short-term virtual job simulations (Forage) and academic projects, whereas the role requires professional experience in financial analysis, budgeting, and forecasting. However, the candidate possesses strong technical matches in Power BI and Excel, and is located in the UK."
+      ],
+      "accuracy_score": 45,
+      "matched_strengths": [
+        "Strong academic and simulation-based experience using Power BI (DAX, data modeling) to build interactive dashboards and surface KPIs.",
+        "Proficient in advanced Excel, which is a core requirement for the financial and operational reporting tasks.",
+        "Experience with Tableau and Python for data manipulation and presenting insights to stakeholders."
+      ],
+      "skill_gaps": [
+        "Lacks professional, non-academic work experience as a Data Analyst.",
+        "No demonstrated experience in financial analysis, budgeting, or forecasting activities.",
+        "No evidence of working directly with finance teams or handling corporate operational data in a real-world business environment."
+      ],
+      "transferable_matches": [
+        "Completed a BCG GenAI simulation involving the integration and interpretation of complex financial data from 10-K and 10-Q reports, which transfers well to the financial analysis requirements."
+      ],
+      "recommendation_tier": "Reach",
+      "ats_keyword_matches": [
+        "Data Analyst",
+        "Power BI",
+        "Excel",
+        "reporting",
+        "data analysis",
+        "dashboards",
+        "Python",
+        "Tableau"
+      ],
+      "tailored_summary": "",
+      "tailored_skills": [],
+      "tailored_core_skills": {},
+      "tailored_competencies": [],
+      "tailored_impact_strengths": [],
+      "tailored_experience_rewrites": [],
+      "tailored_experience_bullets": [],
+      "claim_warnings": [],
+      "cold_email": "",
+      "resume_file": "",
+      "tailored_accuracy_score": null,
+      "tailored_match_reasons": [],
+      "tailored_matched_strengths": [],
+      "tailored_skill_gaps": [],
+      "tailored_ats_keyword_matches": [],
+      "quality_iterations": 0,
+      "quality_gate_passed": false,
+      "quality_gate_history": [],
+      "is_new": true,
+      "first_seen_run_id": "20260527T014440",
+      "last_seen_run_id": "20260527T014440",
+      "dedupe_key_used": "url:https://www.linkedin.com/jobs/view/4417746086"
+    }
+  ]
+}
