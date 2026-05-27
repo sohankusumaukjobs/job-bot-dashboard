@@ -7,36 +7,67 @@ import type { RunIndexEntry, RunSnapshot } from "./types";
 // DOCXes alongside them) as static assets at /state/...
 const STATE_RUNS_DIR = join(process.cwd(), "public", "state", "runs");
 
+/**
+ * Parse a JSON file written by the bot, tolerating the invalid `NaN` /
+ * `Infinity` literals that Python's default `json.dumps` produces when
+ * `float('nan')` slips in (commonly from pandas/JobSpy's missing-value
+ * sentinel). We replace those tokens with `null` *only* when the strict
+ * parse fails — keeping the happy path zero-cost — and surface any other
+ * failure to the build log so empty-dashboard regressions can't hide again.
+ */
+function readJsonResilient<T>(path: string, label: string): T | null {
+  let raw: string;
+  try {
+    raw = readFileSync(path, "utf8");
+  } catch (err) {
+    console.error(`[loadRuns] read failed for ${label} (${path}):`, err);
+    return null;
+  }
+  try {
+    return JSON.parse(raw) as T;
+  } catch (firstErr) {
+    // Fall back: scrub bare NaN / Infinity / -Infinity tokens to null.
+    // Word-boundary regex so we don't touch strings that happen to contain
+    // "NaN" as part of a larger word.
+    const scrubbed = raw
+      .replace(/\bNaN\b/g, "null")
+      .replace(/\b-?Infinity\b/g, "null");
+    try {
+      const parsed = JSON.parse(scrubbed) as T;
+      console.warn(
+        `[loadRuns] ${label} contained NaN/Infinity literals; sanitized on read. Fix upstream serializer.`
+      );
+      return parsed;
+    } catch (secondErr) {
+      console.error(
+        `[loadRuns] JSON parse failed for ${label} (${path}). First error:`,
+        firstErr,
+        "After NaN scrub:",
+        secondErr
+      );
+      return null;
+    }
+  }
+}
+
 export function loadIndex(): RunIndexEntry[] {
   const indexPath = join(STATE_RUNS_DIR, "index.json");
   if (!existsSync(indexPath)) return [];
-  try {
-    const raw = JSON.parse(readFileSync(indexPath, "utf8"));
-    const runs: RunIndexEntry[] = Array.isArray(raw?.runs) ? raw.runs : [];
-    return runs.sort((a, b) => (b.run_id ?? "").localeCompare(a.run_id ?? ""));
-  } catch {
-    return [];
-  }
+  const raw = readJsonResilient<{ runs?: RunIndexEntry[] }>(indexPath, "index.json");
+  const runs: RunIndexEntry[] = Array.isArray(raw?.runs) ? raw!.runs! : [];
+  return runs.sort((a, b) => (b.run_id ?? "").localeCompare(a.run_id ?? ""));
 }
 
 export function loadRun(runId: string): RunSnapshot | null {
   const path = join(STATE_RUNS_DIR, `${runId}.json`);
   if (!existsSync(path)) return null;
-  try {
-    return JSON.parse(readFileSync(path, "utf8")) as RunSnapshot;
-  } catch {
-    return null;
-  }
+  return readJsonResilient<RunSnapshot>(path, `run ${runId}`);
 }
 
 export function loadBootstrap(): RunSnapshot | null {
   const path = join(STATE_RUNS_DIR, "bootstrap.json");
   if (!existsSync(path)) return null;
-  try {
-    return JSON.parse(readFileSync(path, "utf8")) as RunSnapshot;
-  } catch {
-    return null;
-  }
+  return readJsonResilient<RunSnapshot>(path, "bootstrap.json");
 }
 
 export function loadAllDailyRuns(): RunSnapshot[] {
