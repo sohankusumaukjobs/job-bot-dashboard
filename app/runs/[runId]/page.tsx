@@ -41,7 +41,7 @@ export default async function RunPage({ params }: Props) {
       ) : (
         <div className="grid gap-3">
           {snapshot.jobs.map((job, idx) => (
-            <JobCard key={job.apply_url || idx} job={job} />
+            <JobCard key={job.apply_url || idx} job={job} runId={runId} />
           ))}
         </div>
       )}

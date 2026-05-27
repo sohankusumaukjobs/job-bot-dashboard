@@ -1,6 +1,8 @@
 "use client";
+import Link from "next/link";
 import { useMemo, useState } from "react";
 import type { Job } from "@/lib/types";
+import { jobAnchor } from "./JobCard";
 
 interface Row {
   job: Job;
@@ -93,13 +95,28 @@ export default function AllJobsTable({ rows }: { rows: Row[] }) {
                 job.accuracy_score ??
                 job.match_score ??
                 0;
+              // Deep-link: jump straight to this job's card on the run page
+              const anchor = jobAnchor(job, from_run);
+              const runHref = from_run
+                ? `/runs/${from_run}#${anchor}`
+                : undefined;
               return (
                 <tr
                   key={`${from_run}-${job.apply_url || idx}`}
-                  className="border-t border-white/5 hover:bg-bg-card"
+                  className="border-t border-white/5 transition hover:bg-bg-card"
                 >
                   <td className="px-3 py-2 font-medium text-ink">
-                    {job.title || "—"}
+                    {runHref ? (
+                      <Link
+                        href={runHref}
+                        className="hover:text-accent-2 hover:underline"
+                        title="View in run →"
+                      >
+                        {job.title || "—"}
+                      </Link>
+                    ) : (
+                      job.title || "—"
+                    )}
                   </td>
                   <td className="px-3 py-2 text-ink-muted">{job.company || "—"}</td>
                   <td className="px-3 py-2 text-ink-muted">{job.location || "—"}</td>

@@ -1,3 +1,5 @@
+"use client";
+import { useState } from "react";
 import type { Job } from "@/lib/types";
 
 function scoreColor(score: number): string {
@@ -7,15 +9,50 @@ function scoreColor(score: number): string {
   return "bg-red/10 text-red ring-1 ring-red";
 }
 
-export default function JobCard({ job }: { job: Job }) {
+/** Stable anchor id for deep-linking to a specific job card. */
+export function jobAnchor(job: Job, runId?: string): string {
+  const key = job.apply_url || `${job.title}-${job.company}`;
+  // Use a short hash so the id is URL-safe
+  let h = 0;
+  for (let i = 0; i < key.length; i++) {
+    h = Math.imul(31, h) + key.charCodeAt(i);
+    h |= 0;
+  }
+  const prefix = runId ? `run-${runId}-` : "";
+  return `${prefix}job-${Math.abs(h).toString(36)}`;
+}
+
+export default function JobCard({
+  job,
+  runId,
+}: {
+  job: Job;
+  /** The run this job belongs to — used to set an anchor id for deep-linking. */
+  runId?: string;
+}) {
+  const [emailOpen, setEmailOpen] = useState(false);
+  const [copied, setCopied] = useState(false);
+
   const score =
     job.tailored_accuracy_score ?? job.accuracy_score ?? job.match_score ?? 0;
   const tier = job.recommendation_tier || "";
   const meta = [job.company, job.location, job.source]
     .filter(Boolean)
     .join(" · ");
+
+  function handleCopy() {
+    if (!job.cold_email) return;
+    navigator.clipboard.writeText(job.cold_email).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    });
+  }
+
   return (
-    <article className="rounded-xl border border-white/5 bg-bg-card p-4 transition hover:border-white/10">
+    <article
+      id={jobAnchor(job, runId)}
+      className="rounded-xl border border-white/5 bg-bg-card p-4 transition hover:border-white/10"
+    >
       <div className="flex items-start gap-4">
         <div className="min-w-0 flex-1">
           <h3 className="text-base font-semibold text-ink">
@@ -84,17 +121,45 @@ export default function JobCard({ job }: { job: Job }) {
           )}
         </div>
       )}
+
+      {/* ── Cold email (collapsible) ─────────────────────────────────── */}
+      {job.cold_email && (
+        <div className="mt-3 border-t border-white/5 pt-3">
+          <button
+            onClick={() => setEmailOpen((o) => !o)}
+            className="flex w-full items-center gap-2 text-left text-xs font-semibold text-ink-muted transition hover:text-ink"
+          >
+            <span>{emailOpen ? "▾" : "▸"}</span>
+            <span>✉️ Cold email</span>
+            {!emailOpen && (
+              <span className="ml-1 min-w-0 truncate font-normal italic opacity-60">
+                {job.cold_email.slice(0, 70)}…
+              </span>
+            )}
+          </button>
+
+          {emailOpen && (
+            <div className="mt-2 overflow-hidden rounded-lg border border-white/10 bg-bg-surface">
+              <pre className="max-h-72 overflow-y-auto p-3 font-sans text-xs leading-relaxed text-ink-muted whitespace-pre-wrap">
+                {job.cold_email}
+              </pre>
+              <div className="flex items-center justify-end border-t border-white/5 px-3 py-1.5">
+                <button
+                  onClick={handleCopy}
+                  className="text-[11px] font-semibold text-accent-2 transition hover:underline"
+                >
+                  {copied ? "✓ Copied!" : "📋 Copy to clipboard"}
+                </button>
+              </div>
+            </div>
+          )}
+        </div>
+      )}
     </article>
   );
 }
 
 function resumeHref(resumeFile: string): string {
-  // job.resume_file is a path relative to the bot's state/ dir
-  // (e.g. "resumes/20260527T1100/01_Acme_Engineer_82.docx"). The dashboard
-  // serves the synced state tree under /state/ so the public URL is:
-  //   /state/resumes/<run_id>/<file>.docx
-  // For older runs that stored the path as "resumes/<file>.docx" without a
-  // run_id, fall back to /state/<as-is> so they still work.
   const normalized = resumeFile.replace(/\\/g, "/").replace(/^\/+/, "");
   return `/state/${normalized}`;
 }
