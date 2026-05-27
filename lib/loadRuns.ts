@@ -84,6 +84,44 @@ export function loadAllJobsEver(): RunSnapshot[] {
   return snapshots;
 }
 
+/**
+ * Flat list of every job we've ever seen, paired with the run it first
+ * appeared in. Deduplicated by jobKey so the same posting from two runs
+ * collapses to one entry. Used by the Applied/Interview/Rejected pages,
+ * which filter this list client-side against localStorage.
+ */
+export function loadEveryJobWithRun(): {
+  job: import("./types").Job;
+  run_id: string;
+  date: string;
+}[] {
+  const snapshots = loadAllJobsEver();
+  const seen = new Map<
+    string,
+    { job: import("./types").Job; run_id: string; date: string }
+  >();
+  for (const snap of snapshots) {
+    const date = (snap.run_date || "").slice(0, 10);
+    for (const job of snap.jobs) {
+      const key =
+        (job.apply_url && job.apply_url.trim()) ||
+        `${(job.title || "").toLowerCase()}|${(job.company || "").toLowerCase()}`;
+      const existing = seen.get(key);
+      if (
+        !existing ||
+        (job.first_seen_run_id && job.first_seen_run_id < existing.run_id)
+      ) {
+        seen.set(key, {
+          job,
+          run_id: job.first_seen_run_id || snap.run_id,
+          date,
+        });
+      }
+    }
+  }
+  return Array.from(seen.values());
+}
+
 export function listAllSnapshotFiles(): string[] {
   if (!existsSync(STATE_RUNS_DIR)) return [];
   return readdirSync(STATE_RUNS_DIR).filter(

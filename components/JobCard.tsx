@@ -1,6 +1,12 @@
 "use client";
 import { useState } from "react";
 import type { Job } from "@/lib/types";
+import {
+  useJobStatus,
+  STATUS_LABELS,
+  STATUS_ICONS,
+  type JobStatus,
+} from "@/lib/jobStatus";
 
 function scoreColor(score: number): string {
   if (score >= 80) return "bg-accent/10 text-accent ring-1 ring-accent";
@@ -12,7 +18,6 @@ function scoreColor(score: number): string {
 /** Stable anchor id for deep-linking to a specific job card. */
 export function jobAnchor(job: Job, runId?: string): string {
   const key = job.apply_url || `${job.title}-${job.company}`;
-  // Use a short hash so the id is URL-safe
   let h = 0;
   for (let i = 0; i < key.length; i++) {
     h = Math.imul(31, h) + key.charCodeAt(i);
@@ -32,6 +37,11 @@ export default function JobCard({
 }) {
   const [emailOpen, setEmailOpen] = useState(false);
   const [copied, setCopied] = useState(false);
+  const [status, setStatus] = useJobStatus({
+    apply_url: job.apply_url,
+    title: job.title,
+    company: job.company,
+  });
 
   const score =
     job.tailored_accuracy_score ?? job.accuracy_score ?? job.match_score ?? 0;
@@ -48,10 +58,20 @@ export default function JobCard({
     });
   }
 
+  // Visual emphasis: dim rejected; subtle ring for applied/interview.
+  const statusRing =
+    status === "applied"
+      ? "ring-1 ring-accent-2/40"
+      : status === "interview"
+      ? "ring-1 ring-amber/50"
+      : status === "rejected"
+      ? "opacity-60"
+      : "";
+
   return (
     <article
       id={jobAnchor(job, runId)}
-      className="rounded-xl border border-white/5 bg-bg-card p-4 transition hover:border-white/10"
+      className={`rounded-xl border border-white/5 bg-bg-card p-4 transition hover:border-white/10 ${statusRing}`}
     >
       <div className="flex items-start gap-4">
         <div className="min-w-0 flex-1">
@@ -91,9 +111,14 @@ export default function JobCard({
             ✅ Gate passed
           </span>
         )}
-        {job.is_new && (
+        {job.is_new && !status && (
           <span className="rounded-full bg-accent-2/10 px-2.5 py-0.5 text-[11px] font-semibold text-accent-2">
             New
+          </span>
+        )}
+        {status && (
+          <span className="rounded-full bg-bg-surface px-2.5 py-0.5 text-[11px] font-semibold text-ink">
+            {STATUS_ICONS[status]} {STATUS_LABELS[status]}
           </span>
         )}
       </div>
@@ -121,6 +146,9 @@ export default function JobCard({
           )}
         </div>
       )}
+
+      {/* ── Status selector ─────────────────────────────────────────── */}
+      <StatusSelector status={status} onChange={setStatus} />
 
       {/* ── Cold email (collapsible) ─────────────────────────────────── */}
       {job.cold_email && (
@@ -156,6 +184,69 @@ export default function JobCard({
         </div>
       )}
     </article>
+  );
+}
+
+/** Pill button group for marking application status. */
+function StatusSelector({
+  status,
+  onChange,
+}: {
+  status: JobStatus;
+  onChange: (next: JobStatus) => void;
+}) {
+  const choices: { value: Exclude<JobStatus, "">; label: string; activeCls: string }[] = [
+    {
+      value: "applied",
+      label: `${STATUS_ICONS.applied} Applied`,
+      activeCls: "bg-accent-2/20 text-accent-2 border-accent-2/60",
+    },
+    {
+      value: "interview",
+      label: `${STATUS_ICONS.interview} Interview`,
+      activeCls: "bg-amber/20 text-amber border-amber/60",
+    },
+    {
+      value: "rejected",
+      label: `${STATUS_ICONS.rejected} Rejected`,
+      activeCls: "bg-red/20 text-red border-red/60",
+    },
+  ];
+
+  return (
+    <div className="mt-3 flex flex-wrap items-center gap-1.5">
+      <span className="mr-1 text-[11px] font-semibold uppercase tracking-wide text-ink-muted/70">
+        Status:
+      </span>
+      {choices.map((c) => {
+        const active = status === c.value;
+        return (
+          <button
+            key={c.value}
+            type="button"
+            onClick={() => onChange(active ? "" : c.value)}
+            aria-pressed={active}
+            className={`rounded-full border px-2.5 py-0.5 text-[11px] font-semibold transition ${
+              active
+                ? c.activeCls
+                : "border-white/10 bg-bg-surface text-ink-muted hover:border-white/30 hover:text-ink"
+            }`}
+          >
+            {c.label}
+          </button>
+        );
+      })}
+      {status && (
+        <button
+          type="button"
+          onClick={() => onChange("")}
+          className="ml-1 text-[11px] font-semibold text-ink-muted hover:text-ink"
+          title="Clear status"
+        >
+          Clear
+        </button>
+      )}
+    </div>
   );
 }
 
