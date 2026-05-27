@@ -1,0 +1,364 @@
+{
+  "version": 1,
+  "run_id": "20260527T110433",
+  "run_date": "2026-05-27T11:04:33",
+  "top_n": 3,
+  "total_scraped": 1,
+  "new_count": 1,
+  "returning_count": 0,
+  "profile": {
+    "profile_summary": "An analytical and technically proficient MSc Computer Science graduate with a strong foundation in data analysis, machine learning, and software development. Demonstrates practical experience in building end-to-end machine learning pipelines, developing interactive BI dashboards, and leveraging Generative AI for workflow automation. Proven ability to deliver high-accuracy predictive models and actionable business insights through structured academic projects and industry-aligned simulations.",
+    "target_roles": [
+      "Junior Data Analyst",
+      "Graduate Data Analyst",
+      "Junior Machine Learning Engineer",
+      "Data School Consultant",
+      "Business Intelligence Analyst"
+    ],
+    "seniority": "entry-level",
+    "core_skills": [
+      "Python",
+      "SQL",
+      "C",
+      "C++",
+      "Java",
+      "React",
+      "Node.js",
+      "Html",
+      "Power BI",
+      "DAX",
+      "Power Query",
+      "Tableau",
+      "Excel",
+      "Pandas",
+      "NumPy",
+      "TensorFlow",
+      "Keras",
+      "Scikit-learn",
+      "CNN",
+      "DenseNet"
+    ],
+    "transferable_skills": [
+      "Analytical Thinking",
+      "Problem Solving",
+      "Communication",
+      "Collaboration",
+      "Project Leadership",
+      "Data Visualization",
+      "Debugging and Troubleshooting"
+    ],
+    "industries": [
+      "Technology",
+      "Consulting"
+    ],
+    "search_queries": [
+      "Data Analyst",
+      "Junior Data Analyst",
+      "Graduate Data Analyst",
+      "Machine Learning Engineer",
+      "BI Analyst"
+    ],
+    "avoid_keywords": [
+      "Senior Data Scientist",
+      "Lead Data Analyst",
+      "Data Architect",
+      "Principal Engineer"
+    ],
+    "weak_match_warnings": [
+      "The candidate's professional experience consists entirely of virtual job simulations (Forage) and academic projects, with no commercial, on-the-job UK employment history."
+    ]
+  },
+  "searches": [
+    {
+      "name": "resume-generated-1",
+      "position": "Data Analyst",
+      "country": "GB",
+      "location": "United Kingdom",
+      "max_results": 10,
+      "sources": {
+        "indeed": {
+          "enabled": true
+        },
+        "linkedin": {
+          "enabled": true
+        },
+        "glassdoor": {
+          "enabled": true
+        },
+        "zip_recruiter": {
+          "enabled": true
+        },
+        "google": {
+          "enabled": true
+        }
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "source": "indeed",
+      "title": "Junior Commercial Data Analyst (Temp June-Sept 26)",
+      "company": "UniHomes",
+      "location": "Sheffield, ENG, GB",
+      "salary": "",
+      "description": "**Junior Commercial Data Analyst (Temp June\\-Sept 26\\)** -------------------------------------------------------- Sheffield City Centre (fully office\\-based) **£25,878 \\- £30,000 pa pro rata DOE** **Fixed\\-term (early June 2026 – 25th September 2026\\)** UniHomes is looking for a Junior Commercial Analyst to join the Commercial \\& Data team on a temporary basis and help us progress a backlog of analytical projects that will sharpen how we price, benchmark against competitors and report internal performance. This is a hands‑on, commercially‑flavoured analytical role with real visibility. You'll work on a defined set of self‑contained projects, with prepared datasets and source pointers supplied by the existing team and senior validation of every output before it is used. You won't need to navigate the full UniHomes data stack — the focus is on doing thoughtful, well‑structured commercial analysis and presenting it clearly. The projects you'll lead on are commercially oriented: building a repeatable competitor pricing tracker, supporting analysis on regional and property‑specific pricing, identifying cross‑department performance KPIs, and producing prototype reporting in Tableau and Salesforce. You'll also support wider market research, scenario analysis and documentation across the project set. Reporting into the Head of Commercial Strategy \\& Performance and working day‑to‑day with our senior finance and data teams, you'll be supported through weekly check‑ins, structured briefs and clear documentation expectations. This is an excellent first, fixed term role for a commercially curious graduate or penultimate‑year student who wants to see how commercial decisions are made in a fast‑moving business. **Key responsibilities:** * Lead delivery of a defined set of commercial analytical projects, including competitor pricing tracking, regional/property‑specific pricing analysis, internal KPI discovery and reporting prototypes. * Build and run a twice‑weekly competitor price check across bedrooms, regions and packages, and present findings in a usable format. * Support scenario analysis comparing current, regional and more granular pricing approaches. * Identify and propose cross‑department performance KPIs, and prototype reporting in Tableau and/or Salesforce. * Carry out structured market research from public sources and present findings clearly. * Document methodology, assumptions, exclusions and limitations for every piece of analysis. * Label outputs clearly as exploratory, validated, recommendation or operational, and route them to the named senior reviewer before use. * Attend weekly check‑ins to share progress, raise data issues and surface early findings. * Save working files and methodology notes so analysis can be picked up later by the permanent team. **Skills and experience:** * Recent graduate or penultimate/final‑year undergraduate in a quantitative discipline — Mathematics, Statistics, Data Science, Data Analytics, Economics (quantitative pathway), Physics, Engineering, Energy Studies, Environmental Science, Computer Science (analytics focus), Actuarial Science or similar. * Confident with Excel or Sheets; exposure to SQL or Python is desirable but not essential. * Comfortable testing relationships in structured data and presenting findings clearly. * Strong attention to detail and a habit of documenting what you've done and why. * Curious, organised and willing to ask questions when something doesn't look right. * Interest in utilities, property, energy data or the student housing sector is desirable but not essential. **About us:** At UniHomes, we’re on a mission to transform the entire student rental experience across the UK. As the market\\-leading student accommodation advertising platform and utility management service provider, we make finding and securing all\\-inclusive student accommodation simple, seamless, and stress\\-free. We’re not just another platform. UniHomes is developing innovative technology to deliver one go\\-to destination that supports the entire student rental journey. With an unwavering focus on our students, partner letting agents, operators and suppliers, we continually evolve and enhance our products and services to exceed expectations, while tackling market complexity with ease and transparency. Since launching in 2015, we’ve experienced rapid growth. Today, we operate in 60\\+ cities, partner with 1,000\\+ agents and operators, and are backed by Macquarie Capital and LDC. Our success has been recognised with accolades from EY Entrepreneur of the Year, Deloitte UK Technology Fast 50, The Negotiator Awards, and Great Place to Work® certification. Our 140\\+ strong team is based in the heart of Sheffield City Centre, where we’re driving innovation, expanding into new markets, and fostering a culture built on collaboration, creativity, and growth. If you’re ready to make a meaningful impact and help redefine how students find their perfect home, now is the time to join UniHomes. Be part of a team that’s opening new doors to better experiences, brighter ideas, and stress\\-free living. **We are a team driven and united by our core values:** * **Lead the Way** * **In it Together** * **Customers Matter** * **Keep it Simple** * **Rise Above Challenges** * **Make it Happen** **What do you get when you work here?** With people and culture at the heart of our organisation, we are continually enhancing our employee offer and culture. We are incredibly proud to have been officially certified as a Great Place to Work® (GPTW®) and an accredited Living Wage employer \\- all our employees earn a fair living wage above the government minimum wage. Working in our stunning new office at New Era Square in the centre of Sheffield, you will get complimentary breakfast, hot \\& cold drinks, snacks, pool table, holidays, length of service days, voluntary day, enhanced pension scheme, pension salary sacrifice scheme, healthcare scheme, Employee Assistant Programme, sick pay, enhanced maternity \\& paternity pay, career progression, a commitment to personal and professional development, employee awards, refer a friend scheme, staff discounts, mental health and financial support, and company social events. At UniHomes we are committed to fostering an inclusive and diverse workplace where everyone can thrive and which values individuals for their unique perspectives. We welcome candidates from all backgrounds, regardless of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, or sexual orientation. Please let us know if you require any reasonable adjustments to make the recruitment process more accessible to you. Applicants must already have the permanent and unrestricted right to work in the UK. Unfortunately, we are unable to offer visa sponsorship as we do not hold a sponsor licence. We want to hear your unique voice in your application. We love AI, but relying on it solely to write your cover letter and answer the application questions is a missed opportunity to showcase the originality and personality that will make you stand out. Show us the real you. **We do not accept CV submissions from recruitment agencies. Direct applications from individual candidates are encouraged. Thank you for your understanding.** qyozAhoKNW",
+      "apply_url": "https://unihomes.applytojob.com/apply/qyozAhoKNW/Junior-Commercial-Data-Analyst-Temp-JuneSept-26?source=INDE&~",
+      "posted_at": "2026-05-26",
+      "source_id": "in-d38d401725fe39f5",
+      "raw": {
+        "id": "in-d38d401725fe39f5",
+        "site": "indeed",
+        "job_url": "https://uk.indeed.com/viewjob?jk=d38d401725fe39f5",
+        "job_url_direct": "https://unihomes.applytojob.com/apply/qyozAhoKNW/Junior-Commercial-Data-Analyst-Temp-JuneSept-26?source=INDE&~",
+        "title": "Junior Commercial Data Analyst (Temp June-Sept 26)",
+        "company": "UniHomes",
+        "location": "Sheffield, ENG, GB",
+        "date_posted": "2026-05-26",
+        "job_type": "temporary",
+        "salary_source": null,
+        "interval": null,
+        "min_amount": null,
+        "max_amount": null,
+        "currency": null,
+        "is_remote": false,
+        "job_level": null,
+        "job_function": null,
+        "listing_type": null,
+        "emails": null,
+        "description": "**Junior Commercial Data Analyst (Temp June\\-Sept 26\\)**\n--------------------------------------------------------\n\n\nSheffield City Centre (fully office\\-based)\n\n**£25,878 \\- £30,000 pa pro rata DOE**  \n\n**Fixed\\-term (early June 2026 – 25th September 2026\\)**\n\n\nUniHomes is looking for a Junior Commercial Analyst to join the Commercial \\& Data team on a temporary basis and help us progress a backlog of analytical projects that will sharpen how we price, benchmark against competitors and report internal performance.  \n\n  \n\nThis is a hands‑on, commercially‑flavoured analytical role with real visibility. You'll work on a defined set of self‑contained projects, with prepared datasets and source pointers supplied by the existing team and senior validation of every output before it is used. You won't need to navigate the full UniHomes data stack — the focus is on doing thoughtful, well‑structured commercial analysis and presenting it clearly.  \n\n  \n\nThe projects you'll lead on are commercially oriented: building a repeatable competitor pricing tracker, supporting analysis on regional and property‑specific pricing, identifying cross‑department performance KPIs, and producing prototype reporting in Tableau and Salesforce. You'll also support wider market research, scenario analysis and documentation across the project set.  \n\n  \n\nReporting into the Head of Commercial Strategy \\& Performance and working day‑to‑day with our senior finance and data teams, you'll be supported through weekly check‑ins, structured briefs and clear documentation expectations.  \n\n  \n\nThis is an excellent first, fixed term role for a commercially curious graduate or penultimate‑year student who wants to see how commercial decisions are made in a fast‑moving business.  \n\n  \n\n**Key responsibilities:**\n\n* Lead delivery of a defined set of commercial analytical projects, including competitor pricing tracking, regional/property‑specific pricing analysis, internal KPI discovery and reporting prototypes.\n* Build and run a twice‑weekly competitor price check across bedrooms, regions and packages, and present findings in a usable format.\n* Support scenario analysis comparing current, regional and more granular pricing approaches.\n* Identify and propose cross‑department performance KPIs, and prototype reporting in Tableau and/or Salesforce.\n* Carry out structured market research from public sources and present findings clearly.\n* Document methodology, assumptions, exclusions and limitations for every piece of analysis.\n* Label outputs clearly as exploratory, validated, recommendation or operational, and route them to the named senior reviewer before use.\n* Attend weekly check‑ins to share progress, raise data issues and surface early findings.\n* Save working files and methodology notes so analysis can be picked up later by the permanent team.\n\n **Skills and experience:**\n\n* Recent graduate or penultimate/final‑year undergraduate in a quantitative discipline — Mathematics, Statistics, Data Science, Data Analytics, Economics (quantitative pathway), Physics, Engineering, Energy Studies, Environmental Science, Computer Science (analytics focus), Actuarial Science or similar.\n* Confident with Excel or Sheets; exposure to SQL or Python is desirable but not essential.\n* Comfortable testing relationships in structured data and presenting findings clearly.\n* Strong attention to detail and a habit of documenting what you've done and why.\n* Curious, organised and willing to ask questions when something doesn't look right.\n* Interest in utilities, property, energy data or the student housing sector is desirable but not essential.\n\n **About us:**\n\n\nAt UniHomes, we’re on a mission to transform the entire student rental experience across the UK. As the market\\-leading student accommodation advertising platform and utility management service provider, we make finding and securing all\\-inclusive student accommodation simple, seamless, and stress\\-free.  \n\n  \n\nWe’re not just another platform. UniHomes is developing innovative technology to deliver one go\\-to destination that supports the entire student rental journey. With an unwavering focus on our students, partner letting agents, operators and suppliers, we continually evolve and enhance our products and services to exceed expectations, while tackling market complexity with ease and transparency.  \n\n  \n\nSince launching in 2015, we’ve experienced rapid growth. Today, we operate in 60\\+ cities, partner with 1,000\\+ agents and operators, and are backed by Macquarie Capital and LDC. Our success has been recognised with accolades from EY Entrepreneur of the Year, Deloitte UK Technology Fast 50, The Negotiator Awards, and Great Place to Work® certification.  \n\n  \n\nOur 140\\+ strong team is based in the heart of Sheffield City Centre, where we’re driving innovation, expanding into new markets, and fostering a culture built on collaboration, creativity, and growth.  \n\n  \n\nIf you’re ready to make a meaningful impact and help redefine how students find their perfect home, now is the time to join UniHomes. Be part of a team that’s opening new doors to better experiences, brighter ideas, and stress\\-free living.  \n\n  \n\n**We are a team driven and united by our core values:**\n\n* **Lead the Way**\n* **In it Together**\n* **Customers Matter**\n* **Keep it Simple**\n* **Rise Above Challenges**\n* **Make it Happen**\n\n **What do you get when you work here?**\n\n\nWith people and culture at the heart of our organisation, we are continually enhancing our employee offer and culture. We are incredibly proud to have been officially certified as a Great Place to Work® (GPTW®) and an accredited Living Wage employer \\- all our employees earn a fair living wage above the government minimum wage.\n\n\nWorking in our stunning new office at New Era Square in the centre of Sheffield, you will get complimentary breakfast, hot \\& cold drinks, snacks, pool table, holidays, length of service days, voluntary day, enhanced pension scheme, pension salary sacrifice scheme, healthcare scheme, Employee Assistant Programme, sick pay, enhanced maternity \\& paternity pay, career progression, a commitment to personal and professional development, employee awards, refer a friend scheme, staff discounts, mental health and financial support, and company social events.\n\n\nAt UniHomes we are committed to fostering an inclusive and diverse workplace where everyone can thrive and which values individuals for their unique perspectives. We welcome candidates from all backgrounds, regardless of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, or sexual orientation.\n\n\nPlease let us know if you require any reasonable adjustments to make the recruitment process more accessible to you.\n\n\nApplicants must already have the permanent and unrestricted right to work in the UK. Unfortunately, we are unable to offer visa sponsorship as we do not hold a sponsor licence.\n\n\nWe want to hear your unique voice in your application. We love AI, but relying on it solely to write your cover letter and answer the application questions is a missed opportunity to showcase the originality and personality that will make you stand out. Show us the real you.\n\n\n**We do not accept CV submissions from recruitment agencies. Direct applications from individual candidates are encouraged. Thank you for your understanding.**\n\n\n\n\nqyozAhoKNW",
+        "company_industry": NaN,
+        "company_url": "https://uk.indeed.com/cmp/Unihomes-3",
+        "company_logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7329a8ad701fa14e13e8553a01f47c21",
+        "company_url_direct": "https://www.unihomes.co.uk/",
+        "company_addresses": "6th Floor, 1 New Era Square, Highfield, Sheffield S2 4RB",
+        "company_num_employees": "51 to 200",
+        "company_revenue": NaN,
+        "company_description": "UniHomes is the leading student property search portal and shared utility management service, helping students find their ideal accommodation with bills included.",
+        "skills": null,
+        "experience_range": null,
+        "company_rating": null,
+        "company_reviews_count": null,
+        "vacancy_count": null,
+        "work_from_home_type": null
+      },
+      "match_score": 68,
+      "match_reasons": [
+        "The candidate is an academic match (MSc Computer Science graduate) with strong technical skills in Excel, SQL, Python, and Tableau. However, the role is a strictly 100% office-based temporary position in Sheffield, and the candidate's resume does not indicate Sheffield residency or local availability. Additionally, the candidate's profile leans heavily towards Machine Learning/Engineering rather than purely commercial business analysis."
+      ],
+      "accuracy_score": 68,
+      "matched_strengths": [
+        "Holds an MSc in Computer Science, aligning with the preferred quantitative disciplines.",
+        "Demonstrated experience building dashboards in Tableau, which is a key requirement for the prototype reporting tasks.",
+        "Strong proficiency in Excel, Python, and SQL, exceeding the basic requirements for the role.",
+        "Experience with market research and data classification through the Deloitte Job Simulation."
+      ],
+      "skill_gaps": [
+        "No demonstrated experience or exposure to Salesforce, which is mentioned for prototype reporting.",
+        "Lack of explicit commercial/pricing analysis experience in a business environment (most experience is academic or simulated)."
+      ],
+      "transferable_matches": [
+        "Wildfire Detection project leadership transfers to the required skills of managing self-contained projects and documenting methodologies.",
+        "BCG GenAI financial chatbot simulation demonstrates an ability to interpret complex financial data (10-K/10-Q), which transfers well to commercial pricing analysis."
+      ],
+      "recommendation_tier": "Possible",
+      "ats_keyword_matches": [
+        "Data Analyst",
+        "Computer Science",
+        "Excel",
+        "SQL",
+        "Python",
+        "Tableau",
+        "Data Analysis",
+        "Power BI",
+        "documentation"
+      ],
+      "tailored_summary": "Junior Commercial Data Analyst with an MSc in Computer Science (Distinction) and hands-on experience delivering structured data analysis and reporting. Proficient in Excel, SQL, Python, and Tableau, with a proven ability to process complex datasets and document methodologies clearly. Demonstrated capability in competitor pricing tracking, data classification, and KPI discovery through simulated commercial projects. Committed to delivering validated, high-quality analytical insights to support strategic commercial decisions and regional pricing approaches.",
+      "tailored_skills": [
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "DAX",
+        "Power Query",
+        "Pandas",
+        "NumPy",
+        "SQL",
+        "Python",
+        "C++",
+        "Java",
+        "React",
+        "Node.js",
+        "Html",
+        "TensorFlow",
+        "Keras"
+      ],
+      "tailored_core_skills": {
+        "Data & BI": [
+          "Excel",
+          "Tableau",
+          "Power BI",
+          "DAX",
+          "Power Query",
+          "Pandas",
+          "NumPy"
+        ],
+        "Languages": [
+          "SQL",
+          "Python",
+          "C",
+          "C++",
+          "Java",
+          "React",
+          "Node.js",
+          "Html"
+        ],
+        "Machine Learning": [
+          "TensorFlow",
+          "Keras",
+          "Scikit-learn",
+          "CNN",
+          "DenseNet"
+        ],
+        "Cloud & DB": [
+          "AWS (S3)",
+          "Microsoft Azure",
+          "Snowflake"
+        ],
+        "Tools & Methods": [
+          "Salesforce (Exposure)",
+          "Prompt Engineering",
+          "Generative AI for Analytics"
+        ]
+      },
+      "tailored_competencies": [
+        "Commercial Analysis",
+        "Competitor Pricing Tracking",
+        "KPI Discovery",
+        "Market Research",
+        "Scenario Analysis",
+        "Data Classification",
+        "Methodology Documentation",
+        "Reporting Prototypes",
+        "Exploratory Data Analysis",
+        "Stakeholder Engagement"
+      ],
+      "tailored_impact_strengths": [
+        "Achieved 98.84% accuracy vs baseline on a predictive ML pipeline using DenseNet-based CNNs on 2,700+ high-resolution images.",
+        "Integrated and interpreted complex financial data from 10-K and 10-Q reports to build an AI-powered chatbot.",
+        "Improved model performance up to +16% vs baseline through architecture choice, hyperparameter tuning, and data augmentation."
+      ],
+      "tailored_experience_rewrites": [
+        {
+          "heading": "Deloitte Australia Data Analytics Job Simulation on Forage",
+          "role_line": "Role: Participant / Data Analyst",
+          "bullets": [
+            "Completed a Deloitte job simulation involving commercial data analysis, market research, and forensic technology.",
+            "Created an interactive data dashboard using Tableau to prototype reporting and track key performance metrics.",
+            "Used Excel to classify structured data, perform scenario analysis, and draw actionable business conclusions."
+          ]
+        },
+        {
+          "heading": "BCG GenAI Job Simulation on Forage",
+          "role_line": "Role: Participant / GenAI Developer",
+          "bullets": [
+            "Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.",
+            "Gained hands-on experience in Python programming, utilizing libraries such as pandas for structured data manipulation.",
+            "Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to deliver user-friendly financial insights."
+          ]
+        },
+        {
+          "heading": "Datacom Software Development Job Simulation on Forage",
+          "role_line": "Role: Participant / Software Developer",
+          "bullets": [
+            "Completed a simulation focused on how the software development team at Datacom approaches collaborative project delivery.",
+            "Reviewed a web application to identify performance bottlenecks, planning future improvements and documenting limitations.",
+            "Identified the root cause of application bugs and implemented targeted fixes to improve overall system stability."
+          ]
+        },
+        {
+          "heading": "Wildfire Detection System",
+          "role_line": "Role: Project Lead / Data & ML Engineer",
+          "bullets": [
+            "Built an end-to-end ML pipeline for early wildfire detection using DenseNet-based CNNs (TensorFlow/Keras) on 2,700+ high-resolution images.",
+            "Addressed class imbalance and brightness variation using augmentation and Multi-Scale Retinex preprocessing to achieve 98.84% accuracy vs baseline.",
+            "Visualized performance with Matplotlib/Seaborn, documented methodology and assumptions, and presented findings to stakeholders.",
+            "Used Generative AI tools to assist exploratory data analysis, refine SQL queries, debug code snippets, and document analysis workflows."
+          ]
+        },
+        {
+          "heading": "EDA & Dashboarding (Academic)",
+          "role_line": "Role: Data Analyst",
+          "bullets": [
+            "Built interactive Power BI dashboards using DAX and data modeling to surface regional KPIs and performance trends.",
+            "Ran reproducible ML experiments using Scikit-learn, applying feature engineering and model selection best practices to test relationships in structured data."
+          ]
+        }
+      ],
+      "tailored_experience_bullets": [
+        "Completed a Deloitte job simulation involving commercial data analysis, market research, and forensic technology.",
+        "Created an interactive data dashboard using Tableau to prototype reporting and track key performance metrics.",
+        "Used Excel to classify structured data, perform scenario analysis, and draw actionable business conclusions.",
+        "Completed a job simulation involving AI-powered financial chatbot development for BCG's GenAI Consulting team.",
+        "Gained hands-on experience in Python programming, utilizing libraries such as pandas for structured data manipulation.",
+        "Integrated and interpreted complex financial data from 10-K and 10-Q reports, employing rule-based logic to deliver user-friendly financial insights.",
+        "Completed a simulation focused on how the software development team at Datacom approaches collaborative project delivery.",
+        "Reviewed a web application to identify performance bottlenecks, planning future improvements and documenting limitations.",
+        "Identified the root cause of application bugs and implemented targeted fixes to improve overall system stability.",
+        "Built an end-to-end ML pipeline for early wildfire detection using DenseNet-based CNNs (TensorFlow/Keras) on 2,700+ high-resolution images.",
+        "Addressed class imbalance and brightness variation using augmentation and Multi-Scale Retinex preprocessing to achieve 98.84% accuracy vs baseline.",
+        "Visualized performance with Matplotlib/Seaborn, documented methodology and assumptions, and presented findings to stakeholders."
+      ],
+      "claim_warnings": [
+        "Skipped unsupported direct skill: C"
+      ],
+      "cold_email": "Dear Hiring Team,\n\nI am writing to express my strong interest in the Junior Commercial Data Analyst position at UniHomes in Sheffield. As a recent Computer Science graduate with a strong quantitative background, I bring hands-on experience in Excel, SQL, Python, and Tableau dashboard prototyping. My academic and simulation projects have trained me to conduct rigorous data classification, track competitor pricing, and document analytical methodologies with high attention to detail. I am highly motivated by UniHomes' rapid growth and would love the opportunity to help progress your backlog of commercial analytical projects this summer. Thank you for your time and consideration, and I look forward to the possibility of discussing how my skills align with your team's goals.",
+      "resume_file": "resumes\\01_UniHomes_Junior_Commercial_Data_Analyst_Temp_June_68.docx",
+      "tailored_accuracy_score": 85,
+      "tailored_match_reasons": [
+        "The candidate is an exceptionally strong match for this junior/graduate role, holding an MSc in Computer Science (Distinction) and possessing all the required technical skills (Excel, SQL, Python, Tableau).",
+        "The resume is highly tailored, featuring exact matches for the specific project responsibilities outlined in the job description (competitor pricing tracking, KPI discovery, scenario analysis).",
+        "The score is slightly held back because the candidate is based in the UK but the resume does not explicitly state Sheffield residency for this fully office-based role, and the professional experience consists primarily of virtual job simulations rather than permanent commercial employment."
+      ],
+      "tailored_matched_strengths": [
+        "Academic background perfectly aligns with the 'recent graduate in a quantitative discipline (Computer Science)' requirement.",
+        "Demonstrated experience in Excel, SQL, Python, and Tableau, which exceeds the basic requirements of the role.",
+        "Direct evidence of performing competitor pricing tracking, scenario analysis, and KPI discovery in simulated environments.",
+        "Strong focus on documenting methodologies, assumptions, and limitations, which is a key responsibility of the UniHomes role."
+      ],
+      "tailored_skill_gaps": [
+        "No direct professional experience in the utilities, property, or student housing sectors.",
+        "Salesforce exposure is listed as 'exposure' rather than hands-on project delivery."
+      ],
+      "tailored_ats_keyword_matches": [
+        "Junior Commercial Data Analyst",
+        "competitor pricing tracking",
+        "KPI discovery",
+        "scenario analysis",
+        "Tableau",
+        "Salesforce",
+        "Excel",
+        "SQL",
+        "Python",
+        "structured data",
+        "market research",
+        "document methodology",
+        "limitations"
+      ],
+      "quality_iterations": 1,
+      "quality_gate_passed": true,
+      "quality_gate_history": [
+        {
+          "iteration": 1,
+          "score": 85,
+          "gaps_at_this_iteration": [
+            "No direct professional experience in the utilities, property, or student housing sectors.",
+            "Salesforce exposure is listed as 'exposure' rather than hands-on project delivery."
+          ]
+        }
+      ],
+      "is_new": true,
+      "first_seen_run_id": "20260527T110433",
+      "last_seen_run_id": "20260527T110433",
+      "dedupe_key_used": "url:https://unihomes.applytojob.com/apply/qyozAhoKNW/Junior-Commercial-Data-Analyst-Temp-JuneSept-26?source=INDE"
+    }
+  ]
+}
