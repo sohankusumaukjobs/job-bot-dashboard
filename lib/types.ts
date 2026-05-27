@@ -1,0 +1,75 @@
+// Mirrors the Job dataclass in job_bot.py. Keep this in sync if you add fields.
+
+export interface Job {
+  source: string;
+  title: string;
+  company: string;
+  location: string;
+  salary?: string;
+  description?: string;
+  apply_url?: string;
+  posted_at?: string;
+  source_id?: string;
+
+  // Scoring
+  match_score?: number | null;
+  accuracy_score?: number | null;
+  match_reasons?: string[];
+  matched_strengths?: string[];
+  skill_gaps?: string[];
+  transferable_matches?: string[];
+  recommendation_tier?: string;
+  ats_keyword_matches?: string[];
+
+  // Tailored content
+  tailored_summary?: string;
+  tailored_skills?: string[];
+  tailored_core_skills?: Record<string, string[]>;
+  tailored_competencies?: string[];
+  tailored_impact_strengths?: string[];
+  tailored_experience_bullets?: string[];
+  cold_email?: string;
+  resume_file?: string;
+
+  // Quality gate
+  tailored_accuracy_score?: number | null;
+  quality_iterations?: number;
+  quality_gate_passed?: boolean;
+
+  // Cross-run identity
+  is_new?: boolean;
+  first_seen_run_id?: string;
+  last_seen_run_id?: string;
+  dedupe_key_used?: string;
+}
+
+export interface ResumeProfile {
+  profile_summary?: string;
+  target_roles?: string[];
+  seniority?: string;
+  core_skills?: string[];
+  search_queries?: string[];
+}
+
+export interface RunSnapshot {
+  version: number;
+  run_id: string;
+  run_date: string;        // ISO timestamp
+  is_bootstrap?: boolean;
+  top_n?: number;
+  total_scraped: number;
+  new_count?: number;
+  returning_count?: number;
+  profile: ResumeProfile | null;
+  searches?: Array<Record<string, unknown>>;
+  jobs: Job[];
+}
+
+export interface RunIndexEntry {
+  run_id: string;
+  run_date: string;
+  date: string;            // YYYY-MM-DD slice of run_date
+  new_count: number;
+  total_scraped: number;
+  top_n: number;
+}

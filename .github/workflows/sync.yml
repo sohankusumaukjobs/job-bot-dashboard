@@ -1,0 +1,48 @@
+name: Sync state from job-bot
+
+on:
+  schedule:
+    # Safety net — runs every 30 minutes even without a dispatch trigger.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [bot-run]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-state
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout dashboard repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Pull state/ from job-bot
+        env:
+          BOT_REPO_PAT: ${{ secrets.BOT_REPO_PAT }}
+          BOT_REPO_OWNER: sohankusumaukjobs
+          BOT_REPO_NAME: job-bot
+          BOT_REPO_BRANCH: main
+        run: node scripts/sync-state.mjs
+
+      - name: Commit + push changes (if any)
+        run: |
+          git config user.email "dashboard-sync@local"
+          git config user.name "Dashboard Sync"
+          git add state/
+          if git diff --cached --quiet; then
+            echo "No changes — nothing to commit."
+          else
+            git commit -m "sync: pull state from job-bot ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi
