@@ -1,7 +1,7 @@
 {
   "version": 1,
   "resume_hash": "a5f5a888728eba4553bb6d86e6361f5403a15c567bc139eab5b72bbd64a0b64d",
-  "updated_at": "2026-05-27T11:04:33",
+  "updated_at": "2026-05-27T15:54:14",
   "entries": {
     "url:https://tallisamosgroup.peoplehr.net/Pages/JobBoard/Opening.aspx?v=bd2a97f1-de2d-4e7e-aee1-32486938b4ed": {
       "first_seen_run_id": "20260527T104356",
@@ -212,6 +212,69 @@
       "title": "Junior Commercial Data Analyst (Temp June-Sept 26)",
       "company": "UniHomes",
       "apply_url": "https://unihomes.applytojob.com/apply/qyozAhoKNW/Junior-Commercial-Data-Analyst-Temp-JuneSept-26?source=INDE&~"
+    },
+    "url:http://uk.indeed.com/job/graduate-data-analyst-60e168705d2325bf": {
+      "first_seen_run_id": "20260527T155414",
+      "last_seen_run_id": "20260527T155414",
+      "title": "Graduate Data Analyst",
+      "company": "Cosy Direct",
+      "apply_url": "http://uk.indeed.com/job/graduate-data-analyst-60e168705d2325bf"
+    },
+    "url:https://jdpa.wd501.myworkdayjobs.com/en-US/JDPower/job/Remote-Europe/Data-Analyst_R-100354": {
+      "first_seen_run_id": "20260527T155414",
+      "last_seen_run_id": "20260527T155414",
+      "title": "Data Analyst",
+      "company": "JD Power",
+      "apply_url": "https://jdpa.wd501.myworkdayjobs.com/en-US/JDPower/job/Remote-Europe/Data-Analyst_R-100354"
+    },
+    "url:https://apply-v3.jobsync.io/indeed/r-app/b37998816213437e92070161b79c6d2bbbcd9d1954914e16d1174edc": {
+      "first_seen_run_id": "20260527T155414",
+      "last_seen_run_id": "20260527T155414",
+      "title": "Healthcare Core Data Analyst",
+      "company": "Bupa",
+      "apply_url": "https://apply-v3.jobsync.io/indeed/r-app/b37998816213437e92070161b79c6d2bbbcd9d1954914e16d1174edc/"
+    },
+    "url:https://jobs.ashbyhq.com/i6/87b5cff4-3b51-492b-a967-4ec3eb5e542f": {
+      "first_seen_run_id": "20260527T155414",
+      "last_seen_run_id": "20260527T155414",
+      "title": "Analytics Engineer",
+      "company": "i6 Group",
+      "apply_url": "https://jobs.ashbyhq.com/i6/87b5cff4-3b51-492b-a967-4ec3eb5e542f?utm_source=8XME4JoEaQ"
+    },
+    "url:https://app.screenloop.com/careers/legal500/job_posts/8552?tab=overview": {
+      "first_seen_run_id": "20260527T155414",
+      "last_seen_run_id": "20260527T155414",
+      "title": "CRM Marketing Automation Executive",
+      "company": "Legal 500",
+      "apply_url": "https://app.screenloop.com/careers/legal500/job_posts/8552?tab=overview"
+    },
+    "url:https://nfamilyclub.pinpointhq.com/postings/3045c51b-45ba-4c89-993b-c6062b341405": {
+      "first_seen_run_id": "20260527T155414",
+      "last_seen_run_id": "20260527T155414",
+      "title": "Analytics Engineer",
+      "company": "N Family Club",
+      "apply_url": "https://nfamilyclub.pinpointhq.com/postings/3045c51b-45ba-4c89-993b-c6062b341405?utm_medium=job_board&utm_source=indeed"
+    },
+    "url:https://apply.deloitte.co.uk/UKCareers/JobDetail/Associate-Director-Legal-Management-Consulting-Deloitte-Legal/23552?source=Indeed": {
+      "first_seen_run_id": "20260527T155414",
+      "last_seen_run_id": "20260527T155414",
+      "title": "Associate Director, Legal Management Consulting, Deloitte Legal",
+      "company": "Deloitte",
+      "apply_url": "https://apply.deloitte.co.uk/UKCareers/JobDetail/Associate-Director-Legal-Management-Consulting-Deloitte-Legal/23552?source=Indeed"
+    },
+    "url:https://jobs.egis-group.com/job/senior-application-operations-engineer-rmms-manager-confirm-in-south-mimms-jid-7346": {
+      "first_seen_run_id": "20260527T155414",
+      "last_seen_run_id": "20260527T155414",
+      "title": "Senior Application Operations Engineer (RMMS Manager – Confirm)",
+      "company": "Egis Group",
+      "apply_url": "https://jobs.egis-group.com/job/senior-application-operations-engineer-rmms-manager-confirm-in-south-mimms-jid-7346"
+    },
+    "url:http://uk.indeed.com/job/youth-worker-and-mentor-30-hours-week-6e9484311fa3728c": {
+      "first_seen_run_id": "20260527T155414",
+      "last_seen_run_id": "20260527T155414",
+      "title": "Youth Worker and Mentor (30 hours per week)",
+      "company": "Ignite Trust",
+      "apply_url": "http://uk.indeed.com/job/youth-worker-and-mentor-30-hours-week-6e9484311fa3728c"
     }
   }
 }
