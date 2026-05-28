@@ -1,4 +1,5 @@
 import DateSection from "@/components/DateSection";
+import EmptyState from "@/components/EmptyState";
 import Stats from "@/components/Stats";
 import { loadAllDailyRuns } from "@/lib/loadRuns";
 import { groupByDate } from "@/lib/groupByDate";
@@ -25,18 +26,17 @@ export default function DailyPage() {
 
   return (
     <div>
-      <header className="mb-6">
-        <h1 className="text-2xl font-bold tracking-tight text-ink">
+      <header className="mb-8">
+        <h2 className="font-display text-3xl font-bold tracking-tight text-ink">
           Daily Job Feed
-        </h1>
-        <p className="mt-1 text-sm text-ink-muted">
-          Each section below is one day's results. Only genuinely new jobs (not
-          seen in any earlier run) appear here. Looking for everything ever
-          scraped? See the{" "}
-          <a href="/all" className="text-accent-2 hover:underline">
-            All Jobs
-          </a>{" "}
-          tab.
+        </h2>
+        <p className="mt-2 max-w-2xl text-sm leading-relaxed text-ink-muted">
+          Each section below is one day&rsquo;s results. Only genuinely new jobs
+          (not seen in any earlier run) appear here. Looking for everything ever
+          scraped?{" "}
+          <a href="/all" className="text-primary hover:underline">
+            View All Jobs &rarr;
+          </a>
         </p>
       </header>
 
@@ -48,12 +48,18 @@ export default function DailyPage() {
       />
 
       {groups.length === 0 ? (
-        <div className="rounded-xl border border-white/5 bg-bg-card p-8 text-center">
-          <p className="text-ink-muted">
-            No runs yet. Once the job-bot pushes its first <code>state/runs/*.json</code>{" "}
-            file, this page will populate automatically.
-          </p>
-        </div>
+        <EmptyState
+          title="No runs yet"
+          body={
+            <>
+              Once the job-bot pushes its first{" "}
+              <code className="rounded bg-bg-elevated px-1 py-0.5 text-[11px]">
+                state/runs/*.json
+              </code>{" "}
+              file, this page will populate automatically.
+            </>
+          }
+        />
       ) : (
         groups.map((group) => <DateSection key={group.date} group={group} />)
       )}

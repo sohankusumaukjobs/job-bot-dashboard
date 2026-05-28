@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
+import { Cloud, CloudUpload, CloudDownload, Eye, EyeOff } from "lucide-react";
 import {
   getStoredPat,
   setStoredPat,
@@ -150,33 +151,36 @@ export default function SyncPanel() {
 
   const toneClass: Record<Tone, string> = {
     idle: "text-ink-muted",
-    ok: "text-accent",
-    err: "text-red",
-    busy: "text-amber",
+    ok: "text-success",
+    err: "text-danger",
+    busy: "text-warning",
   };
 
   return (
-    <div ref={panelRef} className="relative ml-auto">
+    <div ref={panelRef} className="relative">
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}
-        className="flex items-center gap-1.5 rounded-md border border-white/10 bg-bg-surface px-2.5 py-1 text-xs font-semibold text-ink-muted transition hover:border-white/30 hover:text-ink"
+        className="
+          relative inline-flex items-center gap-1.5 rounded-full
+          border border-border/[0.08] bg-bg-elevated/45 px-3 py-1.5
+          text-xs font-semibold text-ink-muted transition
+          hover:border-primary/40 hover:text-ink
+        "
         title="Cross-device sync via GitHub Gist"
       >
-        <span>☁️</span>
-        <span>Sync</span>
+        <Cloud size={14} strokeWidth={2.25} />
+        <span className="hidden sm:inline">Sync</span>
         {pat && (
-          <span className="rounded-full bg-accent/15 px-1.5 text-[10px] font-semibold text-accent">
-            on
-          </span>
+          <span className="absolute -top-1 -right-1 grid h-2.5 w-2.5 place-items-center rounded-full bg-success ring-2 ring-bg motion-safe:animate-pulse-soft" />
         )}
       </button>
 
       {open && (
-        <div className="absolute right-0 top-full z-20 mt-2 w-80 rounded-lg border border-white/10 bg-bg-card p-4 shadow-xl shadow-black/40">
+        <div className="absolute right-0 top-full z-20 mt-2 w-80 rounded-2xl border border-border/[0.08] bg-surface/95 p-4 shadow-card-lit backdrop-blur-glass">
           <div className="mb-3">
-            <h3 className="text-sm font-semibold text-ink">
-              ☁️ Cross-device sync
+            <h3 className="font-display text-sm font-bold text-ink">
+              Cross-device sync
             </h3>
             <p className="mt-1 text-[11px] leading-relaxed text-ink-muted">
               Stores your Applied/Interview/Rejected list in a{" "}
@@ -197,10 +201,10 @@ export default function SyncPanel() {
             </p>
           </div>
 
-          <label className="block text-[11px] font-semibold uppercase tracking-wide text-ink-muted">
+          <label className="block text-[10px] font-semibold uppercase tracking-wide text-ink-faint">
             GitHub PAT
           </label>
-          <div className="mt-1 flex gap-1">
+          <div className="mt-1.5 flex gap-1.5">
             <input
               type={showPat ? "text" : "password"}
               value={pat}
@@ -209,15 +213,15 @@ export default function SyncPanel() {
               placeholder="ghp_… or github_pat_…"
               spellCheck={false}
               autoComplete="off"
-              className="min-w-0 flex-1 rounded-md border border-white/10 bg-bg-surface px-2 py-1 text-xs text-ink placeholder:text-ink-muted/50 focus:border-accent focus:outline-none"
+              className="min-w-0 flex-1 rounded-lg border border-border/[0.08] bg-bg-elevated/60 px-2.5 py-1.5 text-xs text-ink placeholder:text-ink-muted/55 focus:border-primary/60 focus:outline-none"
             />
             <button
               type="button"
               onClick={() => setShowPat((s) => !s)}
-              className="rounded-md border border-white/10 bg-bg-surface px-2 text-[11px] text-ink-muted hover:text-ink"
+              className="grid h-8 w-8 place-items-center rounded-lg border border-border/[0.08] bg-bg-elevated/60 text-ink-muted hover:text-ink"
               title={showPat ? "Hide" : "Show"}
             >
-              {showPat ? "🙈" : "👁"}
+              {showPat ? <EyeOff size={13} /> : <Eye size={13} />}
             </button>
           </div>
 
@@ -226,17 +230,19 @@ export default function SyncPanel() {
               type="button"
               onClick={handleSave}
               disabled={msg.tone === "busy"}
-              className="flex-1 rounded-md bg-accent px-2 py-1.5 text-xs font-semibold text-bg transition hover:bg-emerald-400 disabled:opacity-50"
+              className="flex-1 inline-flex items-center justify-center gap-1.5 rounded-lg bg-primary px-2 py-1.5 text-xs font-semibold text-white transition hover:brightness-110 disabled:opacity-50"
             >
-              ⬆ Save to cloud
+              <CloudUpload size={13} strokeWidth={2.25} />
+              Save
             </button>
             <button
               type="button"
               onClick={handleLoad}
               disabled={msg.tone === "busy"}
-              className="flex-1 rounded-md border border-white/15 bg-bg-surface px-2 py-1.5 text-xs font-semibold text-ink transition hover:border-accent hover:text-accent disabled:opacity-50"
+              className="flex-1 inline-flex items-center justify-center gap-1.5 rounded-lg border border-border/[0.12] bg-bg-elevated/40 px-2 py-1.5 text-xs font-semibold text-ink transition hover:border-primary/50 hover:text-primary disabled:opacity-50"
             >
-              ⬇ Load from cloud
+              <CloudDownload size={13} strokeWidth={2.25} />
+              Load
             </button>
           </div>
 
@@ -246,7 +252,7 @@ export default function SyncPanel() {
             </p>
           )}
 
-          <div className="mt-3 space-y-1 border-t border-white/5 pt-3 text-[10px] text-ink-muted">
+          <div className="mt-3 space-y-1 border-t border-border/[0.05] pt-3 text-[10px] text-ink-muted">
             <div>
               Local: <span className="text-ink">{localCount}</span> job
               {localCount === 1 ? "" : "s"} tracked
@@ -261,7 +267,7 @@ export default function SyncPanel() {
                   href={`https://gist.github.com/${gistId}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-accent-2 underline"
+                  className="text-primary underline"
                 >
                   {gistId.slice(0, 10)}…
                 </a>
@@ -271,7 +277,7 @@ export default function SyncPanel() {
               <button
                 type="button"
                 onClick={handleSignOut}
-                className="mt-1 text-[10px] text-ink-muted underline hover:text-red"
+                className="mt-1 text-[10px] text-ink-muted underline hover:text-danger"
               >
                 Forget PAT on this device
               </button>

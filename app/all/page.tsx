@@ -8,9 +8,11 @@ export default function AllJobsPage() {
 
   return (
     <div>
-      <header className="mb-6">
-        <h1 className="text-2xl font-bold tracking-tight text-ink">All Jobs</h1>
-        <p className="mt-1 text-sm text-ink-muted">
+      <header className="mb-7">
+        <h2 className="font-display text-3xl font-bold tracking-tight text-ink">
+          All Jobs
+        </h2>
+        <p className="mt-2 max-w-2xl text-sm leading-relaxed text-ink-muted">
           Every unique job ever scraped — including the bootstrap baseline.
           Deduplicated by URL; the earliest run a job appeared in is its{" "}
           <em>first-seen</em> date.

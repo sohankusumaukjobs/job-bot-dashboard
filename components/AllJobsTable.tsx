@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+import { Search, ArrowUpRight, ArrowDownUp } from "lucide-react";
 import type { Job } from "@/lib/types";
 import { jobAnchor } from "./JobCard";
 
@@ -12,9 +13,29 @@ interface Row {
 
 type SortKey = "score" | "company" | "date" | "title";
 
+function scoreTone(score: number): { bg: string; color: string } {
+  if (score >= 80) return { bg: "rgba(34,197,94,0.16)",  color: "#22C55E" };
+  if (score >= 60) return { bg: "rgba(245,158,11,0.16)", color: "#F59E0B" };
+  if (score >= 40) return { bg: "rgba(79,156,249,0.16)", color: "#4F9CF9" };
+  return { bg: "rgba(239,68,68,0.16)", color: "#EF4444" };
+}
+
 export default function AllJobsTable({ rows }: { rows: Row[] }) {
   const [query, setQuery] = useState("");
   const [sort, setSort] = useState<SortKey>("date");
+
+  // Pick up #q= deep-links from the top header's search submit.
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const m = window.location.hash.match(/#q=([^&]+)/);
+    if (m) {
+      try {
+        setQuery(decodeURIComponent(m[1]));
+      } catch {
+        // ignore malformed hash
+      }
+    }
+  }, []);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -52,40 +73,60 @@ export default function AllJobsTable({ rows }: { rows: Row[] }) {
 
   return (
     <div>
-      <div className="mb-4 flex flex-wrap items-center gap-3">
-        <input
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          placeholder="Filter by title, company, location…"
-          className="flex-1 rounded-md border border-white/10 bg-bg-card px-3 py-2 text-sm text-ink placeholder:text-ink-muted/60 focus:border-accent focus:outline-none"
-        />
-        <select
-          value={sort}
-          onChange={(e) => setSort(e.target.value as SortKey)}
-          className="rounded-md border border-white/10 bg-bg-card px-3 py-2 text-sm text-ink"
-        >
-          <option value="date">Sort: First seen ↓</option>
-          <option value="score">Sort: Score ↓</option>
-          <option value="company">Sort: Company A→Z</option>
-          <option value="title">Sort: Title A→Z</option>
-        </select>
+      {/* Toolbar */}
+      <div className="mb-5 flex flex-wrap items-center gap-3">
+        <div className="search-pill flex-1 min-w-[200px]">
+          <Search size={15} strokeWidth={2} className="text-ink-muted" />
+          <input
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="Filter by title, company, location…"
+            className="text-sm"
+          />
+        </div>
+
+        <div className="relative">
+          <ArrowDownUp
+            size={14}
+            strokeWidth={2}
+            className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-ink-muted"
+          />
+          <select
+            value={sort}
+            onChange={(e) => setSort(e.target.value as SortKey)}
+            className="
+              h-9 cursor-pointer appearance-none rounded-full
+              border border-border/[0.08] bg-bg-elevated/45
+              pl-8 pr-4 text-xs font-semibold text-ink
+              focus:border-primary/60 focus:outline-none
+            "
+          >
+            <option value="date">Newest first</option>
+            <option value="score">Top score</option>
+            <option value="company">Company A–Z</option>
+            <option value="title">Title A–Z</option>
+          </select>
+        </div>
       </div>
 
       <p className="mb-3 text-xs text-ink-muted">
-        Showing {filtered.length} of {rows.length} unique jobs ever scraped.
+        Showing{" "}
+        <span className="font-semibold text-ink">{filtered.length}</span> of{" "}
+        <span className="font-semibold text-ink">{rows.length}</span> unique jobs
+        ever scraped.
       </p>
 
-      <div className="overflow-x-auto rounded-lg border border-white/5">
+      <div className="overflow-x-auto rounded-2xl border border-border/[0.06] bg-surface/40">
         <table className="w-full text-left text-sm">
-          <thead className="bg-bg-surface text-xs uppercase text-ink-muted">
+          <thead className="bg-bg-elevated/60 text-2xs uppercase tracking-wide text-ink-muted">
             <tr>
-              <th className="px-3 py-2">Title</th>
-              <th className="px-3 py-2">Company</th>
-              <th className="px-3 py-2">Location</th>
-              <th className="px-3 py-2">Source</th>
-              <th className="px-3 py-2 text-right">Score</th>
-              <th className="px-3 py-2">First seen</th>
-              <th className="px-3 py-2">Apply</th>
+              <th className="px-4 py-3 font-semibold">Title</th>
+              <th className="px-4 py-3 font-semibold">Company</th>
+              <th className="px-4 py-3 font-semibold">Location</th>
+              <th className="px-4 py-3 font-semibold">Source</th>
+              <th className="px-4 py-3 text-right font-semibold">Score</th>
+              <th className="px-4 py-3 font-semibold">First seen</th>
+              <th className="px-4 py-3 font-semibold">Apply</th>
             </tr>
           </thead>
           <tbody>
@@ -95,7 +136,7 @@ export default function AllJobsTable({ rows }: { rows: Row[] }) {
                 job.accuracy_score ??
                 job.match_score ??
                 0;
-              // Deep-link: jump straight to this job's card on the run page
+              const tone = scoreTone(score);
               const anchor = jobAnchor(job, from_run);
               const runHref = from_run
                 ? `/runs/${from_run}#${anchor}`
@@ -103,13 +144,13 @@ export default function AllJobsTable({ rows }: { rows: Row[] }) {
               return (
                 <tr
                   key={`${from_run}-${job.apply_url || idx}`}
-                  className="border-t border-white/5 transition hover:bg-bg-card"
+                  className="border-t border-border/[0.05] transition-colors hover:bg-surface-hover/40"
                 >
-                  <td className="px-3 py-2 font-medium text-ink">
+                  <td className="px-4 py-3 font-medium text-ink">
                     {runHref ? (
                       <Link
                         href={runHref}
-                        className="hover:text-accent-2 hover:underline"
+                        className="transition-colors hover:text-primary"
                         title="View in run →"
                       >
                         {job.title || "—"}
@@ -118,22 +159,28 @@ export default function AllJobsTable({ rows }: { rows: Row[] }) {
                       job.title || "—"
                     )}
                   </td>
-                  <td className="px-3 py-2 text-ink-muted">{job.company || "—"}</td>
-                  <td className="px-3 py-2 text-ink-muted">{job.location || "—"}</td>
-                  <td className="px-3 py-2 text-ink-muted">{job.source || "—"}</td>
-                  <td className="px-3 py-2 text-right tabular-nums text-ink">
-                    {score}
+                  <td className="px-4 py-3 text-ink-muted">{job.company || "—"}</td>
+                  <td className="px-4 py-3 text-ink-muted">{job.location || "—"}</td>
+                  <td className="px-4 py-3 text-ink-muted">{job.source || "—"}</td>
+                  <td className="px-4 py-3 text-right tabular-nums">
+                    <span
+                      className="inline-flex min-w-[2.25rem] items-center justify-center rounded-md px-1.5 py-0.5 text-xs font-bold"
+                      style={{ background: tone.bg, color: tone.color }}
+                    >
+                      {score}
+                    </span>
                   </td>
-                  <td className="px-3 py-2 text-ink-muted">{date || "—"}</td>
-                  <td className="px-3 py-2">
+                  <td className="px-4 py-3 text-ink-muted">{date || "—"}</td>
+                  <td className="px-4 py-3">
                     {job.apply_url ? (
                       <a
                         href={job.apply_url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-accent-2 hover:underline"
+                        className="inline-flex items-center gap-1 text-primary transition hover:underline"
                       >
                         Open
+                        <ArrowUpRight size={12} strokeWidth={2.5} />
                       </a>
                     ) : (
                       "—"
@@ -144,7 +191,10 @@ export default function AllJobsTable({ rows }: { rows: Row[] }) {
             })}
             {filtered.length === 0 && (
               <tr>
-                <td colSpan={7} className="px-3 py-6 text-center text-ink-muted">
+                <td
+                  colSpan={7}
+                  className="px-4 py-10 text-center text-sm text-ink-muted"
+                >
                   No jobs match your filter.
                 </td>
               </tr>

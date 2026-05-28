@@ -1,5 +1,15 @@
 "use client";
 import { useState } from "react";
+import {
+  ExternalLink,
+  Download,
+  Mail,
+  Copy,
+  Check,
+  ChevronDown,
+  Sparkles,
+  ShieldCheck,
+} from "lucide-react";
 import type { Job } from "@/lib/types";
 import {
   useJobStatus,
@@ -7,13 +17,6 @@ import {
   STATUS_ICONS,
   type JobStatus,
 } from "@/lib/jobStatus";
-
-function scoreColor(score: number): string {
-  if (score >= 80) return "bg-accent/10 text-accent ring-1 ring-accent";
-  if (score >= 60) return "bg-amber/10 text-amber ring-1 ring-amber";
-  if (score >= 40) return "bg-orange-500/10 text-orange-400 ring-1 ring-orange-400";
-  return "bg-red/10 text-red ring-1 ring-red";
-}
 
 /** Stable anchor id for deep-linking to a specific job card. */
 export function jobAnchor(job: Job, runId?: string): string {
@@ -25,6 +28,29 @@ export function jobAnchor(job: Job, runId?: string): string {
   }
   const prefix = runId ? `run-${runId}-` : "";
   return `${prefix}job-${Math.abs(h).toString(36)}`;
+}
+
+/** First letter(s) of a company name for the avatar fallback. */
+function initials(name?: string): string {
+  if (!name) return "·";
+  const parts = name.trim().split(/\s+/).slice(0, 2);
+  return parts.map((p) => p[0]?.toUpperCase() ?? "").join("");
+}
+
+/** Deterministic hue per company name, for variety in the avatar bg. */
+function avatarHue(seed: string): number {
+  let h = 0;
+  for (let i = 0; i < seed.length; i++) h = (h * 31 + seed.charCodeAt(i)) | 0;
+  return Math.abs(h) % 360;
+}
+
+function statusAccentClass(status: JobStatus, isNew?: boolean): string {
+  // 3px left bar that signals the card's state at-a-glance.
+  if (status === "applied")   return "before:bg-success";
+  if (status === "interview") return "before:bg-warning";
+  if (status === "rejected")  return "before:bg-danger";
+  if (isNew)                  return "before:bg-primary";
+  return "before:bg-ink-faint/40";
 }
 
 export default function JobCard({
@@ -46,9 +72,7 @@ export default function JobCard({
   const score =
     job.tailored_accuracy_score ?? job.accuracy_score ?? job.match_score ?? 0;
   const tier = job.recommendation_tier || "";
-  const meta = [job.company, job.location, job.source]
-    .filter(Boolean)
-    .join(" · ");
+  const company = job.company || "";
 
   function handleCopy() {
     if (!job.cold_email) return;
@@ -58,125 +82,210 @@ export default function JobCard({
     });
   }
 
-  // Visual emphasis: dim rejected; subtle ring for applied/interview.
-  const statusRing =
-    status === "applied"
-      ? "ring-1 ring-accent-2/40"
-      : status === "interview"
-      ? "ring-1 ring-amber/50"
-      : status === "rejected"
-      ? "opacity-60"
-      : "";
+  // Dim rejected so the eye skips it.
+  const dim = status === "rejected" ? "opacity-65" : "";
+
+  // Show up to 5 skill chips for visual balance.
+  const skills = (job.tailored_skills && job.tailored_skills.length
+    ? job.tailored_skills
+    : job.ats_keyword_matches ?? []
+  )
+    .slice(0, 5);
 
   return (
     <article
       id={jobAnchor(job, runId)}
-      className={`rounded-xl border border-white/5 bg-bg-card p-4 transition hover:border-white/10 ${statusRing}`}
+      className={`
+        group relative overflow-hidden rounded-xl border border-border/[0.06]
+        bg-surface p-5 shadow-card transition-all duration-200 ease-out
+        hover:-translate-y-0.5 hover:border-primary/30 hover:shadow-card-lit
+        before:absolute before:left-0 before:top-0 before:h-full before:w-[3px]
+        before:rounded-l-xl ${statusAccentClass(status, job.is_new)} ${dim}
+      `}
     >
+      {/* ── Top row: company avatar + title + score badge ─────────────── */}
       <div className="flex items-start gap-4">
+        <div
+          className="grid h-10 w-10 shrink-0 place-items-center rounded-full text-sm font-bold text-white shadow-[0_2px_8px_rgba(0,0,0,0.25)]"
+          style={{
+            background: `linear-gradient(135deg, hsl(${avatarHue(company)} 70% 55%), hsl(${(avatarHue(company) + 45) % 360} 75% 45%))`,
+          }}
+          aria-hidden="true"
+        >
+          {initials(company)}
+        </div>
+
         <div className="min-w-0 flex-1">
-          <h3 className="text-base font-semibold text-ink">
+          <h3 className="font-display text-[1.0625rem] font-bold leading-tight tracking-tight text-ink">
             {job.title || "Untitled role"}
           </h3>
-          <div className="mt-0.5 text-xs text-ink-muted">{meta}</div>
+          <div className="mt-1 truncate text-sm text-ink-muted">
+            {[job.company, job.location, job.source]
+              .filter(Boolean)
+              .join("  ·  ")}
+          </div>
           {job.salary && (
-            <div className="mt-1 text-xs font-semibold text-accent">
+            <div className="mt-1.5 text-xs font-semibold text-success">
               {job.salary}
             </div>
           )}
         </div>
-        <div
-          className={`flex h-12 w-12 shrink-0 items-center justify-center rounded-full text-base font-bold ${scoreColor(
-            score
-          )}`}
-        >
-          {score}
+
+        {/* Gradient score badge */}
+        <div className="shrink-0">
+          <div
+            className="
+              flex h-12 w-12 items-center justify-center rounded-full
+              bg-score-gradient text-white shadow-glow
+              tabular-nums
+            "
+          >
+            <span className="font-display text-base font-bold leading-none">
+              {score}
+            </span>
+          </div>
+          <div className="mt-1 text-center text-[10px] font-semibold uppercase tracking-wide text-ink-muted">
+            Match
+          </div>
         </div>
       </div>
 
+      {/* ── Description / summary ─────────────────────────────────────── */}
       {job.tailored_summary && (
-        <p className="mt-3 text-sm leading-relaxed text-ink-muted">
-          {job.tailored_summary}
-        </p>
+        <div className="relative mt-4">
+          <p className="line-clamp-3 text-sm leading-relaxed text-ink-muted">
+            {job.tailored_summary}
+          </p>
+          {/* Soft fade at bottom of clamp */}
+          <div className="pointer-events-none absolute bottom-0 left-0 right-0 h-6 bg-gradient-to-t from-surface to-transparent" />
+        </div>
       )}
 
-      <div className="mt-3 flex flex-wrap items-center gap-2">
+      {/* ── Status / tier / gate chips ────────────────────────────────── */}
+      <div className="mt-4 flex flex-wrap items-center gap-2">
         {tier && (
-          <span className="rounded-full bg-bg-surface px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-ink-muted">
+          <span className="chip" style={{ background: "rgba(123,97,255,0.12)", color: "#7B61FF" }}>
+            <Sparkles size={11} strokeWidth={2.25} />
             {tier}
           </span>
         )}
         {job.quality_gate_passed && (
-          <span className="rounded-full bg-accent/10 px-2.5 py-0.5 text-[11px] font-semibold text-accent">
-            ✅ Gate passed
+          <span className="chip" style={{ background: "rgba(34,197,94,0.14)", color: "#22C55E" }}>
+            <ShieldCheck size={11} strokeWidth={2.25} />
+            Gate Passed
           </span>
         )}
         {job.is_new && !status && (
-          <span className="rounded-full bg-accent-2/10 px-2.5 py-0.5 text-[11px] font-semibold text-accent-2">
+          <span className="chip" style={{ background: "rgba(79,156,249,0.14)", color: "#4F9CF9" }}>
             New
           </span>
         )}
         {status && (
-          <span className="rounded-full bg-bg-surface px-2.5 py-0.5 text-[11px] font-semibold text-ink">
-            {STATUS_ICONS[status]} {STATUS_LABELS[status]}
+          <span
+            className="chip"
+            style={{
+              background:
+                status === "applied"
+                  ? "rgba(34,197,94,0.16)"
+                  : status === "interview"
+                  ? "rgba(245,158,11,0.16)"
+                  : "rgba(239,68,68,0.16)",
+              color:
+                status === "applied"
+                  ? "#22C55E"
+                  : status === "interview"
+                  ? "#F59E0B"
+                  : "#EF4444",
+            }}
+          >
+            <span>{STATUS_ICONS[status]}</span>
+            {STATUS_LABELS[status]}
           </span>
         )}
       </div>
 
+      {/* ── Skill chips ───────────────────────────────────────────────── */}
+      {skills.length > 0 && (
+        <div className="mt-3 flex flex-wrap gap-1.5">
+          {skills.map((s) => (
+            <span key={s} className="chip">
+              {s}
+            </span>
+          ))}
+        </div>
+      )}
+
+      {/* ── Action row ────────────────────────────────────────────────── */}
       {(job.apply_url || job.resume_file) && (
-        <div className="mt-3 flex flex-wrap items-center gap-2">
+        <div className="mt-5 flex flex-wrap items-center gap-2">
           {job.apply_url && (
             <a
               href={job.apply_url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-1 rounded-md bg-accent px-3 py-1.5 text-sm font-semibold text-bg transition hover:bg-emerald-400"
+              className="btn-primary"
             >
-              Apply →
+              Apply
+              <ExternalLink size={14} strokeWidth={2.25} />
             </a>
           )}
           {job.resume_file && (
             <a
               href={resumeHref(job.resume_file)}
               download
-              className="inline-flex items-center gap-1 rounded-md border border-white/15 bg-bg-surface px-3 py-1.5 text-sm font-semibold text-ink transition hover:border-accent hover:text-accent"
+              className="btn-ghost"
             >
-              📄 Download resume
+              <Download size={14} strokeWidth={2.25} />
+              Resume
             </a>
           )}
         </div>
       )}
 
-      {/* ── Status selector ─────────────────────────────────────────── */}
+      {/* ── Status selector ───────────────────────────────────────────── */}
       <StatusSelector status={status} onChange={setStatus} />
 
-      {/* ── Cold email (collapsible) ─────────────────────────────────── */}
+      {/* ── Cold email (collapsible) ──────────────────────────────────── */}
       {job.cold_email && (
-        <div className="mt-3 border-t border-white/5 pt-3">
+        <div className="mt-4 border-t border-border/[0.06] pt-3">
           <button
             onClick={() => setEmailOpen((o) => !o)}
             className="flex w-full items-center gap-2 text-left text-xs font-semibold text-ink-muted transition hover:text-ink"
           >
-            <span>{emailOpen ? "▾" : "▸"}</span>
-            <span>✉️ Cold email</span>
+            <Mail size={13} strokeWidth={2.25} />
+            <span>Cold email</span>
             {!emailOpen && (
-              <span className="ml-1 min-w-0 truncate font-normal italic opacity-60">
+              <span className="ml-1 min-w-0 truncate font-normal italic text-ink-faint">
                 {job.cold_email.slice(0, 70)}…
               </span>
             )}
+            <ChevronDown
+              size={13}
+              className={`ml-auto shrink-0 transition-transform duration-200 ${emailOpen ? "rotate-180" : ""}`}
+            />
           </button>
 
           {emailOpen && (
-            <div className="mt-2 overflow-hidden rounded-lg border border-white/10 bg-bg-surface">
-              <pre className="max-h-72 overflow-y-auto p-3 font-sans text-xs leading-relaxed text-ink-muted whitespace-pre-wrap">
+            <div className="mt-2 overflow-hidden rounded-lg border border-border/[0.08] bg-bg-elevated/60">
+              <pre className="max-h-72 overflow-y-auto whitespace-pre-wrap p-3 font-sans text-xs leading-relaxed text-ink-muted">
                 {job.cold_email}
               </pre>
-              <div className="flex items-center justify-end border-t border-white/5 px-3 py-1.5">
+              <div className="flex items-center justify-end border-t border-border/[0.06] px-3 py-1.5">
                 <button
                   onClick={handleCopy}
-                  className="text-[11px] font-semibold text-accent-2 transition hover:underline"
+                  className="flex items-center gap-1.5 text-[11px] font-semibold text-primary transition hover:underline"
                 >
-                  {copied ? "✓ Copied!" : "📋 Copy to clipboard"}
+                  {copied ? (
+                    <>
+                      <Check size={12} strokeWidth={2.5} />
+                      Copied
+                    </>
+                  ) : (
+                    <>
+                      <Copy size={12} strokeWidth={2.25} />
+                      Copy
+                    </>
+                  )}
                 </button>
               </div>
             </div>
@@ -195,28 +304,36 @@ function StatusSelector({
   status: JobStatus;
   onChange: (next: JobStatus) => void;
 }) {
-  const choices: { value: Exclude<JobStatus, "">; label: string; activeCls: string }[] = [
+  const choices: {
+    value: Exclude<JobStatus, "">;
+    label: string;
+    activeBg: string;
+    activeColor: string;
+  }[] = [
     {
       value: "applied",
       label: `${STATUS_ICONS.applied} Applied`,
-      activeCls: "bg-accent-2/20 text-accent-2 border-accent-2/60",
+      activeBg: "rgba(34,197,94,0.16)",
+      activeColor: "#22C55E",
     },
     {
       value: "interview",
       label: `${STATUS_ICONS.interview} Interview`,
-      activeCls: "bg-amber/20 text-amber border-amber/60",
+      activeBg: "rgba(245,158,11,0.16)",
+      activeColor: "#F59E0B",
     },
     {
       value: "rejected",
       label: `${STATUS_ICONS.rejected} Rejected`,
-      activeCls: "bg-red/20 text-red border-red/60",
+      activeBg: "rgba(239,68,68,0.16)",
+      activeColor: "#EF4444",
     },
   ];
 
   return (
-    <div className="mt-3 flex flex-wrap items-center gap-1.5">
-      <span className="mr-1 text-[11px] font-semibold uppercase tracking-wide text-ink-muted/70">
-        Status:
+    <div className="mt-4 flex flex-wrap items-center gap-1.5">
+      <span className="mr-1 text-[10px] font-semibold uppercase tracking-wide text-ink-faint">
+        Status
       </span>
       {choices.map((c) => {
         const active = status === c.value;
@@ -226,11 +343,20 @@ function StatusSelector({
             type="button"
             onClick={() => onChange(active ? "" : c.value)}
             aria-pressed={active}
-            className={`rounded-full border px-2.5 py-0.5 text-[11px] font-semibold transition ${
+            className={`
+              rounded-full border px-2.5 py-0.5 text-[11px] font-semibold
+              transition-all duration-150 ease-spring
+              ${active ? "" : "border-border/[0.10] bg-bg-elevated/60 text-ink-muted hover:border-border/[0.25] hover:text-ink"}
+            `}
+            style={
               active
-                ? c.activeCls
-                : "border-white/10 bg-bg-surface text-ink-muted hover:border-white/30 hover:text-ink"
-            }`}
+                ? {
+                    background: c.activeBg,
+                    color: c.activeColor,
+                    borderColor: `${c.activeColor}99`,
+                  }
+                : undefined
+            }
           >
             {c.label}
           </button>
@@ -240,7 +366,7 @@ function StatusSelector({
         <button
           type="button"
           onClick={() => onChange("")}
-          className="ml-1 text-[11px] font-semibold text-ink-muted hover:text-ink"
+          className="ml-1 text-[10px] font-semibold text-ink-muted hover:text-danger"
           title="Clear status"
         >
           Clear

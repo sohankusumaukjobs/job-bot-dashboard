@@ -1,12 +1,376 @@
+/* ─────────────────────────────────────────────────────────────────────────
+ * Job Bot Dashboard — "Midnight Ink" design system
+ * Fonts are loaded from the Fontshare CDN (Cabinet Grotesk + Satoshi).
+ * Theme tokens are RGB-channel triplets so Tailwind can apply alpha via
+ * /<alpha-value>. See tailwind.config.ts for the matching aliases.
+ * ───────────────────────────────────────────────────────────────────────── */
+
+@import url("https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@400,500,700,800&f[]=satoshi@400,500,700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-html,
-body {
-  background: #0f1117;
-  color: #e8eaed;
-  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+/* ── Theme tokens ────────────────────────────────────────────────────────── */
+
+:root {
+  /* Dark mode is the default for first paint to avoid a flash. */
+  color-scheme: dark;
+
+  /* Surfaces */
+  --bg: 13 15 20;                /* #0D0F14 */
+  --bg-elevated: 28 32 48;       /* #1C2030 */
+  --surface: 21 24 32;           /* #151820 */
+  --surface-hover: 28 32 48;     /* #1C2030 */
+
+  /* Borders */
+  --border: 255 255 255;         /* used with /6 → rgba(255,255,255,0.06)  */
+  --divider: 255 255 255;        /* used with /7 → rgba(255,255,255,0.07)  */
+
+  /* Text */
+  --ink: 241 245 249;            /* #F1F5F9 */
+  --ink-muted: 139 149 167;      /* #8B95A7 */
+  --ink-faint: 74 85 104;        /* #4A5568 */
+
+  /* Accents */
+  --primary: 79 156 249;         /* #4F9CF9 */
+  --primary-soft: 79 156 249;
+  --violet: 123 97 255;          /* #7B61FF */
+  --success: 34 197 94;          /* #22C55E */
+  --warning: 245 158 11;         /* #F59E0B */
+  --danger:  239 68 68;          /* #EF4444 */
 }
 
-a { color: inherit; }
+:root.light {
+  color-scheme: light;
+
+  --bg: 248 249 252;             /* #F8F9FC */
+  --bg-elevated: 255 255 255;    /* #FFFFFF */
+  --surface: 255 255 255;        /* #FFFFFF */
+  --surface-hover: 244 246 251;  /* #F4F6FB */
+
+  --border: 15 23 42;            /* used with /8  → near-black hairlines */
+  --divider: 15 23 42;
+
+  --ink: 15 23 42;               /* #0F172A */
+  --ink-muted: 87 94 110;        /* dimmed body for light bg */
+  --ink-faint: 148 156 173;
+
+  /* Slightly deeper hues so the accents still pop on white. */
+  --primary: 41 121 219;         /* darker blue */
+  --primary-soft: 79 156 249;
+  --violet: 109 84 245;
+  --success: 22 163 74;
+  --warning: 217 119 6;
+  --danger: 220 38 38;
+}
+
+/* ── Base resets ─────────────────────────────────────────────────────────── */
+
+html,
+body {
+  background: rgb(var(--bg));
+  color: rgb(var(--ink));
+  font-family: "Satoshi", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    Roboto, sans-serif;
+  font-feature-settings: "ss01", "cv11";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  min-height: 100dvh;
+  /* Subtle radial sheen behind everything so the dark surface doesn't feel
+     flat. Imperceptible in light mode. */
+  background-image: radial-gradient(
+      1200px 600px at 12% -10%,
+      rgba(79, 156, 249, 0.08),
+      transparent 55%
+    ),
+    radial-gradient(
+      900px 500px at 92% 18%,
+      rgba(123, 97, 255, 0.07),
+      transparent 60%
+    );
+  background-attachment: fixed;
+}
+
+:root.light body {
+  background-image: radial-gradient(
+      1200px 600px at 12% -10%,
+      rgba(79, 156, 249, 0.06),
+      transparent 55%
+    ),
+    radial-gradient(
+      900px 500px at 92% 18%,
+      rgba(123, 97, 255, 0.04),
+      transparent 60%
+    );
+}
+
+a {
+  color: inherit;
+}
+
+::selection {
+  background: rgb(var(--primary) / 0.35);
+  color: rgb(var(--ink));
+}
+
+/* ── Display headings ────────────────────────────────────────────────────── */
+
+h1, h2, h3, h4, h5, h6,
+.font-display {
+  font-family: "Cabinet Grotesk", "Satoshi", ui-sans-serif, system-ui,
+    sans-serif;
+  letter-spacing: -0.01em;
+}
+
+/* ── Scrollbar (thin, on-brand) ──────────────────────────────────────────── */
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(var(--primary) / 0.6) rgb(var(--bg-elevated) / 0.5);
+}
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+*::-webkit-scrollbar-track {
+  background: rgb(var(--bg-elevated) / 0.4);
+  border-radius: 999px;
+}
+*::-webkit-scrollbar-thumb {
+  background: rgb(var(--primary) / 0.55);
+  border-radius: 999px;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: rgb(var(--primary) / 0.85);
+}
+
+/* ── Reusable component classes ──────────────────────────────────────────── */
+
+@layer components {
+  /* Glassmorphism KPI card. */
+  .glass-card {
+    position: relative;
+    border-radius: 1rem;
+    background: rgb(var(--surface) / 0.65);
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+    box-shadow: 0 1px 0 rgb(255 255 255 / 0.04) inset,
+      0 14px 40px -22px rgba(0, 0, 0, 0.55);
+  }
+  .glass-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1px;
+    background: linear-gradient(
+      135deg,
+      rgba(79, 156, 249, 0.45),
+      rgba(123, 97, 255, 0.12) 45%,
+      rgba(255, 255, 255, 0.05) 100%
+    );
+    -webkit-mask: linear-gradient(#000 0 0) content-box,
+      linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+  :root.light .glass-card {
+    background: rgb(var(--surface) / 0.85);
+    box-shadow: 0 14px 40px -28px rgba(15, 23, 42, 0.18);
+  }
+
+  /* Sticky top bar with glass blur. */
+  .glass-bar {
+    background: rgb(var(--bg) / 0.78);
+    backdrop-filter: blur(20px) saturate(150%);
+    -webkit-backdrop-filter: blur(20px) saturate(150%);
+    border-bottom: 1px solid rgb(var(--border) / 0.06);
+  }
+
+  /* Search pill input shell. */
+  .search-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    height: 36px;
+    padding: 0 0.875rem;
+    border-radius: 999px;
+    background: rgb(var(--bg-elevated) / 0.45);
+    border: 1px solid rgb(var(--border) / 0.08);
+    color: rgb(var(--ink));
+    transition: border-color 0.18s ease, background 0.18s ease,
+      box-shadow 0.18s ease;
+  }
+  .search-pill:focus-within {
+    border-color: rgb(var(--primary) / 0.6);
+    background: rgb(var(--bg-elevated) / 0.7);
+    box-shadow: 0 0 0 4px rgb(var(--primary) / 0.12);
+  }
+  .search-pill input {
+    background: transparent;
+    border: none;
+    outline: none;
+    width: 100%;
+    color: inherit;
+    font: inherit;
+  }
+  .search-pill input::placeholder {
+    color: rgb(var(--ink-muted));
+  }
+
+  /* Skill / tag chips. */
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.125rem 0.625rem;
+    border-radius: 999px;
+    font-size: 0.6875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    background: rgb(var(--primary) / 0.12);
+    color: rgb(var(--primary));
+  }
+
+  /* Solid primary action button. */
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.375rem;
+    height: 36px;
+    padding: 0 0.875rem;
+    border-radius: 0.5rem;
+    background: rgb(var(--primary));
+    color: white;
+    font-weight: 600;
+    font-size: 0.875rem;
+    transition: transform 0.18s cubic-bezier(0.34, 1.56, 0.64, 1),
+      box-shadow 0.18s ease, background 0.18s ease;
+    box-shadow: 0 6px 16px -6px rgb(var(--primary) / 0.55);
+  }
+  .btn-primary:hover {
+    transform: scale(1.02);
+    box-shadow: 0 10px 22px -6px rgb(var(--primary) / 0.65);
+  }
+  .btn-primary:active {
+    transform: scale(0.98);
+  }
+
+  /* Outlined / ghost button. */
+  .btn-ghost {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.375rem;
+    height: 36px;
+    padding: 0 0.875rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    border: 1px solid rgb(var(--border) / 0.12);
+    color: rgb(var(--ink));
+    font-weight: 600;
+    font-size: 0.875rem;
+    transition: border-color 0.18s ease, color 0.18s ease,
+      background 0.18s ease;
+  }
+  .btn-ghost:hover {
+    border-color: rgb(var(--primary) / 0.5);
+    color: rgb(var(--primary));
+    background: rgb(var(--primary) / 0.06);
+  }
+
+  /* Icon-only button. */
+  .btn-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 0.5rem;
+    color: rgb(var(--ink-muted));
+    transition: color 0.18s ease, background 0.18s ease;
+  }
+  .btn-icon:hover {
+    background: rgb(var(--border) / 0.08);
+    color: rgb(var(--ink));
+  }
+
+  /* Sidebar nav item. */
+  .nav-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    width: 100%;
+    padding: 0.625rem 0.875rem;
+    border-radius: 0.625rem;
+    color: rgb(var(--ink-muted));
+    font-weight: 500;
+    font-size: 0.875rem;
+    position: relative;
+    transition: color 0.18s ease, background 0.18s ease;
+  }
+  .nav-item:hover {
+    background: rgb(var(--border) / 0.04);
+    color: rgb(var(--ink));
+  }
+  .nav-item.active {
+    color: rgb(var(--primary));
+    background: rgb(var(--primary) / 0.10);
+  }
+  .nav-item.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 18%;
+    bottom: 18%;
+    width: 3px;
+    border-radius: 999px;
+    background: rgb(var(--primary));
+    box-shadow: 0 0 12px rgb(var(--primary) / 0.55);
+  }
+
+  /* Shimmer-loading band for skeletons. */
+  .skeleton {
+    position: relative;
+    overflow: hidden;
+    background: rgb(var(--bg-elevated));
+    border-radius: 0.5rem;
+  }
+  .skeleton::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgb(255 255 255 / 0.06),
+      transparent
+    );
+    animation: shimmer 1.5s ease-in-out infinite;
+    transform: translateX(-100%);
+  }
+}
+
+/* ── prefers-reduced-motion guard ────────────────────────────────────────── */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+  .nav-item.active::before {
+    box-shadow: none;
+  }
+}
