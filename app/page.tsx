@@ -26,14 +26,12 @@ export default function DailyPage() {
 
   return (
     <div>
-      <header className="mb-8">
-        <h2 className="font-display text-3xl font-bold tracking-tight text-ink">
+      <header className="mb-5">
+        <h2 className="font-display text-2xl font-bold tracking-tight text-ink sm:text-3xl">
           Daily Job Feed
         </h2>
-        <p className="mt-2 max-w-2xl text-sm leading-relaxed text-ink-muted">
-          Each section below is one day&rsquo;s results. Only genuinely new jobs
-          (not seen in any earlier run) appear here. Looking for everything ever
-          scraped?{" "}
+        <p className="mt-1.5 max-w-2xl text-sm leading-snug text-ink-muted">
+          One section per day. Only genuinely new jobs appear here —{" "}
           <a href="/all" className="text-primary hover:underline">
             View All Jobs &rarr;
           </a>

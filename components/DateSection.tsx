@@ -1,9 +1,7 @@
-"use client";
 import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
 import JobCard from "./JobCard";
 import type { DateGroup } from "@/lib/groupByDate";
-import { useInView } from "@/lib/anim";
 
 function formatDate(iso: string): string {
   const d = new Date(`${iso}T00:00:00`);
@@ -18,19 +16,26 @@ function formatDate(iso: string): string {
 function RunBlock({
   run,
   runLabel,
+  delayMs,
 }: {
   run: import("@/lib/types").RunSnapshot;
   runLabel: string;
+  delayMs: number;
 }) {
-  const [ref, visible] = useInView<HTMLDivElement>();
+  // CSS-only mount fade-in. We INTENTIONALLY do not use IntersectionObserver
+  // here: with the old useInView hook + a `rootMargin: "0px 0px -10% 0px"`
+  // bottom inset, the first run block frequently rendered below the
+  // "10% safe zone" at page load (the KPI row pushed it down on smaller
+  // viewports) and stayed at opacity-0 until the user scrolled. The
+  // animation already plays once per mount via the Tailwind keyframe,
+  // gated by `motion-safe:` so reduced-motion users see static content.
   return (
     <div
-      ref={ref}
-      className={`
+      className="
         rounded-2xl border border-border/[0.06] bg-bg-elevated/40 p-4 sm:p-5
-        transition-all duration-500 ease-out
-        ${visible ? "translate-y-0 opacity-100" : "translate-y-3 opacity-0"}
-      `}
+        motion-safe:animate-fade-rise
+      "
+      style={{ animationDelay: `${delayMs}ms` }}
     >
       {/* Run meta row */}
       <div className="mb-4 flex flex-wrap items-center gap-3 text-xs">
@@ -105,6 +110,7 @@ export default function DateSection({ group }: { group: DateGroup }) {
             key={run.run_id}
             run={run}
             runLabel={`Run ${group.runs.length - runIdx}`}
+            delayMs={runIdx * 80}
           />
         ))}
       </div>

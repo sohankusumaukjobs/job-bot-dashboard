@@ -28,8 +28,8 @@ function Sparkline({
   color: string;
 }) {
   if (!points.length) return null;
-  const w = 80;
-  const h = 24;
+  const w = 64;
+  const h = 18;
   const max = Math.max(...points);
   const min = Math.min(...points);
   const span = max - min || 1;
@@ -79,27 +79,27 @@ function KpiCard({ item, delayMs }: { item: Item; delayMs: number }) {
 
   return (
     <div
-      className="glass-card group relative overflow-hidden p-5 motion-safe:animate-fade-rise"
+      className="glass-card group relative overflow-hidden p-3.5 sm:p-4 motion-safe:animate-fade-rise"
       style={{ animationDelay: `${delayMs}ms` }}
     >
-      <div className="flex items-start justify-between">
+      <div className="flex items-start justify-between gap-2">
         <div
-          className="grid h-9 w-9 place-items-center rounded-xl"
+          className="grid h-8 w-8 shrink-0 place-items-center rounded-lg"
           style={{
             background: `linear-gradient(135deg, ${item.accent}33, transparent)`,
             color: item.accent,
           }}
         >
-          <Icon size={18} strokeWidth={1.85} />
+          <Icon size={16} strokeWidth={1.85} />
         </div>
         <Sparkline points={item.spark} color={item.accent} />
       </div>
 
-      <div className="mt-5">
-        <div className="font-display text-3xl font-bold tracking-tight tabular-nums text-ink">
+      <div className="mt-2.5">
+        <div className="font-display text-xl sm:text-2xl font-bold tracking-tight tabular-nums leading-tight text-ink">
           {display}
         </div>
-        <div className="mt-1 text-2xs font-semibold uppercase tracking-wide text-ink-muted">
+        <div className="mt-0.5 text-[10px] font-semibold uppercase tracking-wide text-ink-muted">
           {item.label}
         </div>
       </div>
@@ -160,7 +160,7 @@ export default function Stats({
   ];
 
   return (
-    <div className="mb-10 grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4">
+    <div className="mb-6 grid grid-cols-2 gap-2.5 sm:gap-3 lg:grid-cols-4">
       {items.map((item, idx) => (
         <KpiCard key={item.label} item={item} delayMs={idx * 60} />
       ))}

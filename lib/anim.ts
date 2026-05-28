@@ -44,19 +44,39 @@ export function useCountUp(target: number, durationMs = 800): number {
 
 /**
  * Returns `[ref, visible]`. `visible` flips to true the first time the
- * element enters the viewport. Used to trigger scroll-reveal animations.
- * Bypasses observation entirely under prefers-reduced-motion (always
- * visible).
+ * element enters the viewport, OR after a short safety timeout — whichever
+ * comes first.
+ *
+ * The safety timeout is critical: with a strict rootMargin or threshold,
+ * IntersectionObserver can fail to fire for elements that are technically
+ * "off-screen" at first paint (e.g. just below the fold) but become
+ * relevant the moment the user even slightly resizes / zooms / interacts.
+ * Without the fallback, those elements stay at opacity:0 forever.
+ *
+ * Defaults to a generous `rootMargin: "0px 0px 50% 0px"` so even partially
+ * below-the-fold content reveals on mount.
+ *
+ * Bypasses observation entirely under prefers-reduced-motion (always visible).
  */
 export function useInView<T extends Element>(
-  options: IntersectionObserverInit = { rootMargin: "0px 0px -10% 0px", threshold: 0.05 }
+  options: IntersectionObserverInit = {
+    rootMargin: "0px 0px 50% 0px",
+    threshold: 0,
+  },
+  fallbackMs = 600
 ): [React.RefObject<T | null>, boolean] {
   const ref = useRef<T | null>(null);
   const [visible, setVisible] = useState<boolean>(() => prefersReducedMotion());
 
   useEffect(() => {
-    if (visible || !ref.current || typeof IntersectionObserver === "undefined") {
-      return;
+    if (visible || typeof window === "undefined") return;
+
+    // Safety net: even if observer never fires, reveal after a short delay
+    // so content can't get stuck invisible. Cheap and harmless.
+    const timer = window.setTimeout(() => setVisible(true), fallbackMs);
+
+    if (!ref.current || typeof IntersectionObserver === "undefined") {
+      return () => window.clearTimeout(timer);
     }
     const node = ref.current;
     const obs = new IntersectionObserver((entries) => {
@@ -64,13 +84,17 @@ export function useInView<T extends Element>(
         if (entry.isIntersecting) {
           setVisible(true);
           obs.disconnect();
+          window.clearTimeout(timer);
           break;
         }
       }
     }, options);
     obs.observe(node);
-    return () => obs.disconnect();
-  }, [visible, options]);
+    return () => {
+      obs.disconnect();
+      window.clearTimeout(timer);
+    };
+  }, [visible, options, fallbackMs]);
 
   return [ref, visible];
 }

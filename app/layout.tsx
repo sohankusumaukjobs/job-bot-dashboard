@@ -32,7 +32,7 @@ export default function RootLayout({
             top header sticks to the top within this column. */}
         <div className="md:pl-[60px] lg:pl-sidebar">
           <TopHeader />
-          <main className="mx-auto w-full max-w-[1200px] px-4 py-6 sm:px-6 lg:px-10 lg:py-10 pb-24 md:pb-10">
+          <main className="mx-auto w-full max-w-[1200px] px-4 py-5 sm:px-6 lg:px-10 lg:py-6 pb-24 md:pb-10">
             {children}
           </main>
           <footer className="mx-auto w-full max-w-[1200px] px-4 pb-10 pt-2 text-center text-xs text-ink-muted sm:px-6 lg:px-10">
