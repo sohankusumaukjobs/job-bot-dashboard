@@ -4,6 +4,7 @@ import {
   ExternalLink,
   Download,
   Mail,
+  FileText,
   Copy,
   Check,
   ChevronDown,
@@ -63,6 +64,8 @@ export default function JobCard({
 }) {
   const [emailOpen, setEmailOpen] = useState(false);
   const [copied, setCopied] = useState(false);
+  const [letterOpen, setLetterOpen] = useState(false);
+  const [letterCopied, setLetterCopied] = useState(false);
   const [status, setStatus] = useJobStatus({
     apply_url: job.apply_url,
     title: job.title,
@@ -79,6 +82,14 @@ export default function JobCard({
     navigator.clipboard.writeText(job.cold_email).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
+    });
+  }
+
+  function handleCopyLetter() {
+    if (!job.cover_letter) return;
+    navigator.clipboard.writeText(job.cover_letter).then(() => {
+      setLetterCopied(true);
+      setTimeout(() => setLetterCopied(false), 2000);
     });
   }
 
@@ -276,6 +287,61 @@ export default function JobCard({
                   className="flex items-center gap-1.5 text-[11px] font-semibold text-primary transition hover:underline"
                 >
                   {copied ? (
+                    <>
+                      <Check size={12} strokeWidth={2.5} />
+                      Copied
+                    </>
+                  ) : (
+                    <>
+                      <Copy size={12} strokeWidth={2.25} />
+                      Copy
+                    </>
+                  )}
+                </button>
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* ── Cover letter (collapsible — humanized, longer than cold email) ── */}
+      {job.cover_letter && (
+        <div className="mt-3 border-t border-border/[0.06] pt-3">
+          <button
+            onClick={() => setLetterOpen((o) => !o)}
+            className="flex w-full items-center gap-2 text-left text-xs font-semibold text-ink-muted transition hover:text-ink"
+          >
+            <FileText
+              size={13}
+              strokeWidth={2.25}
+              className="text-violet"
+            />
+            <span>Cover letter</span>
+            {!letterOpen && (
+              <span className="ml-1 min-w-0 truncate font-normal italic text-ink-faint">
+                {job.cover_letter.slice(0, 70)}…
+              </span>
+            )}
+            <ChevronDown
+              size={13}
+              className={`ml-auto shrink-0 transition-transform duration-200 ${letterOpen ? "rotate-180" : ""}`}
+            />
+          </button>
+
+          {letterOpen && (
+            <div
+              className="mt-2 overflow-hidden rounded-lg border bg-bg-elevated/60"
+              style={{ borderColor: "rgba(123,97,255,0.25)" }}
+            >
+              <pre className="max-h-96 overflow-y-auto whitespace-pre-wrap p-3 font-sans text-xs leading-relaxed text-ink-muted">
+                {job.cover_letter}
+              </pre>
+              <div className="flex items-center justify-end border-t border-border/[0.06] px-3 py-1.5">
+                <button
+                  onClick={handleCopyLetter}
+                  className="flex items-center gap-1.5 text-[11px] font-semibold text-violet transition hover:underline"
+                >
+                  {letterCopied ? (
                     <>
                       <Check size={12} strokeWidth={2.5} />
                       Copied
