@@ -108,14 +108,14 @@ export default function JobCard({
       id={jobAnchor(job, runId)}
       className={`
         group relative overflow-hidden rounded-xl border border-border/[0.06]
-        bg-surface p-5 shadow-card transition-all duration-200 ease-out
+        bg-surface p-4 shadow-card transition-all duration-200 ease-out
         hover:-translate-y-0.5 hover:border-primary/30 hover:shadow-card-lit
         before:absolute before:left-0 before:top-0 before:h-full before:w-[3px]
-        before:rounded-l-xl ${statusAccentClass(status, job.is_new)} ${dim}
+        before:rounded-l-xl sm:p-5 ${statusAccentClass(status, job.is_new)} ${dim}
       `}
     >
       {/* ── Top row: company avatar + title + score badge ─────────────── */}
-      <div className="flex items-start gap-4">
+      <div className="flex items-start gap-3 sm:gap-4">
         <div
           className="grid h-10 w-10 shrink-0 place-items-center rounded-full text-sm font-bold text-white shadow-[0_2px_8px_rgba(0,0,0,0.25)]"
           style={{
@@ -127,10 +127,10 @@ export default function JobCard({
         </div>
 
         <div className="min-w-0 flex-1">
-          <h3 className="font-display text-[1.0625rem] font-bold leading-tight tracking-tight text-ink">
+          <h3 className="font-display text-[0.975rem] font-bold leading-tight tracking-tight text-ink sm:text-[1.0625rem]">
             {job.title || "Untitled role"}
           </h3>
-          <div className="mt-1 truncate text-sm text-ink-muted">
+          <div className="mt-1 break-words text-[13px] text-ink-muted sm:truncate sm:text-sm">
             {[job.company, job.location, job.source]
               .filter(Boolean)
               .join("  ·  ")}
@@ -146,12 +146,12 @@ export default function JobCard({
         <div className="shrink-0">
           <div
             className="
-              flex h-12 w-12 items-center justify-center rounded-full
-              bg-score-gradient text-white shadow-glow
-              tabular-nums
+              flex h-11 w-11 items-center justify-center rounded-full
+              bg-score-gradient text-white shadow-glow tabular-nums
+              sm:h-12 sm:w-12
             "
           >
-            <span className="font-display text-base font-bold leading-none">
+            <span className="font-display text-sm font-bold leading-none sm:text-base">
               {score}
             </span>
           </div>
@@ -226,15 +226,15 @@ export default function JobCard({
         </div>
       )}
 
-      {/* ── Action row ────────────────────────────────────────────────── */}
+      {/* ── Action row — buttons split full-width on mobile for easy taps ── */}
       {(job.apply_url || job.resume_file) && (
-        <div className="mt-5 flex flex-wrap items-center gap-2">
+        <div className="mt-5 flex items-center gap-2">
           {job.apply_url && (
             <a
               href={job.apply_url}
               target="_blank"
               rel="noopener noreferrer"
-              className="btn-primary"
+              className="btn-primary h-10 flex-1 sm:h-9 sm:flex-none"
             >
               Apply
               <ExternalLink size={14} strokeWidth={2.25} />
@@ -244,7 +244,7 @@ export default function JobCard({
             <a
               href={resumeHref(job.resume_file)}
               download
-              className="btn-ghost"
+              className="btn-ghost h-10 flex-1 sm:h-9 sm:flex-none"
             >
               <Download size={14} strokeWidth={2.25} />
               Resume

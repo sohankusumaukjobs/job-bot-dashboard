@@ -116,7 +116,72 @@ export default function AllJobsTable({ rows }: { rows: Row[] }) {
         ever scraped.
       </p>
 
-      <div className="overflow-x-auto rounded-2xl border border-border/[0.06] bg-surface/40">
+      {/* ── Mobile: card list (tables don't fit phone widths) ──────────── */}
+      <div className="flex flex-col gap-2.5 md:hidden">
+        {filtered.map(({ job, from_run, date }, idx) => {
+          const score =
+            job.tailored_accuracy_score ??
+            job.accuracy_score ??
+            job.match_score ??
+            0;
+          const tone = scoreTone(score);
+          const anchor = jobAnchor(job, from_run);
+          const runHref = from_run ? `/runs/${from_run}#${anchor}` : undefined;
+          return (
+            <div
+              key={`m-${from_run}-${job.apply_url || idx}`}
+              className="rounded-xl border border-border/[0.06] bg-surface p-3.5 shadow-card"
+            >
+              <div className="flex items-start gap-3">
+                <div className="min-w-0 flex-1">
+                  <div className="font-display text-sm font-bold leading-tight text-ink">
+                    {runHref ? (
+                      <Link href={runHref} className="hover:text-primary">
+                        {job.title || "—"}
+                      </Link>
+                    ) : (
+                      job.title || "—"
+                    )}
+                  </div>
+                  <div className="mt-1 break-words text-xs text-ink-muted">
+                    {[job.company, job.location, job.source]
+                      .filter(Boolean)
+                      .join(" · ")}
+                  </div>
+                </div>
+                <span
+                  className="shrink-0 rounded-md px-2 py-0.5 text-xs font-bold tabular-nums"
+                  style={{ background: tone.bg, color: tone.color }}
+                >
+                  {score}
+                </span>
+              </div>
+              <div className="mt-2.5 flex items-center justify-between text-2xs text-ink-muted">
+                <span>First seen {date || "—"}</span>
+                {job.apply_url && (
+                  <a
+                    href={job.apply_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 font-semibold text-primary"
+                  >
+                    Open
+                    <ArrowUpRight size={12} strokeWidth={2.5} />
+                  </a>
+                )}
+              </div>
+            </div>
+          );
+        })}
+        {filtered.length === 0 && (
+          <p className="rounded-xl border border-border/[0.06] bg-surface p-6 text-center text-sm text-ink-muted">
+            No jobs match your filter.
+          </p>
+        )}
+      </div>
+
+      {/* ── Desktop: full table ────────────────────────────────────────── */}
+      <div className="hidden overflow-x-auto rounded-2xl border border-border/[0.06] bg-surface/40 md:block">
         <table className="w-full text-left text-sm">
           <thead className="bg-bg-elevated/60 text-2xs uppercase tracking-wide text-ink-muted">
             <tr>

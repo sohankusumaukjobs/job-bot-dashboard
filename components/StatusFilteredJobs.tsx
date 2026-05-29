@@ -129,11 +129,11 @@ export default function StatusFilteredJobs({
           }
         />
       ) : (
-        <div className="grid gap-3">
+        <div className="grid grid-cols-1 gap-3">
           {filtered.map(({ job, run_id }, idx) => (
             <div
               key={`${run_id}-${job.apply_url || idx}`}
-              className="motion-safe:animate-fade-rise"
+              className="min-w-0 motion-safe:animate-fade-rise"
               style={{ animationDelay: `${idx * 50}ms` }}
             >
               <JobCard job={job} runId={run_id} />

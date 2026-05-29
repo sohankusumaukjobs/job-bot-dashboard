@@ -57,11 +57,11 @@ export default async function RunPage({ params }: Props) {
       {snapshot.jobs.length === 0 ? (
         <p className="text-ink-muted">No new jobs in this run.</p>
       ) : (
-        <div className="grid gap-3">
+        <div className="grid grid-cols-1 gap-3">
           {snapshot.jobs.map((job, idx) => (
             <div
               key={job.apply_url || idx}
-              className="motion-safe:animate-fade-rise"
+              className="min-w-0 motion-safe:animate-fade-rise"
               style={{ animationDelay: `${idx * 50}ms` }}
             >
               <JobCard job={job} runId={runId} />

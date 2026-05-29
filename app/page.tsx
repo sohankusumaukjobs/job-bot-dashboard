@@ -59,7 +59,9 @@ export default function DailyPage() {
           }
         />
       ) : (
-        groups.map((group) => <DateSection key={group.date} group={group} />)
+        groups.map((group, i) => (
+          <DateSection key={group.date} group={group} defaultOpen={i === 0} />
+        ))
       )}
     </div>
   );

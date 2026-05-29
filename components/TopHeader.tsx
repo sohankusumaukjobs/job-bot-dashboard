@@ -49,13 +49,22 @@ export default function TopHeader() {
         lg:pl-[calc(240px+1.5rem)]
       "
     >
-      {/* Page title — primary on the left so users always know where they are. */}
-      <h1 className="font-display text-lg font-bold tracking-tight text-ink md:text-xl">
+      {/* Page title — hidden on mobile while the search is expanded so the
+          input has room (otherwise title + search + sync + avatar overflow a
+          ~360px viewport). */}
+      <h1
+        className={`
+          font-display text-lg font-bold tracking-tight text-ink md:text-xl
+          ${mobileSearchOpen ? "hidden md:block" : ""}
+        `}
+      >
         {title}
       </h1>
 
       {/* Centred / right-aligned controls */}
-      <div className="ml-auto flex items-center gap-2">
+      <div
+        className={`flex items-center gap-2 ${mobileSearchOpen ? "ml-0 flex-1 md:ml-auto md:flex-none" : "ml-auto"}`}
+      >
         {/* Desktop search pill */}
         <form
           onSubmit={onSearchSubmit}
@@ -72,12 +81,12 @@ export default function TopHeader() {
           />
         </form>
 
-        {/* Mobile search */}
-        <div className="md:hidden">
+        {/* Mobile search — fills the row when open so it never overflows. */}
+        <div className={`md:hidden ${mobileSearchOpen ? "flex-1" : ""}`}>
           {mobileSearchOpen ? (
             <form
               onSubmit={onSearchSubmit}
-              className="search-pill flex w-56"
+              className="search-pill flex w-full"
               role="search"
             >
               <Search size={15} strokeWidth={2} className="text-ink-muted" />
