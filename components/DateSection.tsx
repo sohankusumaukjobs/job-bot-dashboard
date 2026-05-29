@@ -29,11 +29,16 @@ function RunBlock({
   run,
   runLabel,
   delayMs,
+  defaultOpen = true,
 }: {
   run: import("@/lib/types").RunSnapshot;
   runLabel: string;
   delayMs: number;
+  /** Newest run in a day opens by default; older runs start collapsed. */
+  defaultOpen?: boolean;
 }) {
+  const [open, setOpen] = useState(defaultOpen);
+
   return (
     <div
       className="
@@ -42,57 +47,73 @@ function RunBlock({
       "
       style={{ animationDelay: `${delayMs}ms` }}
     >
-      {/* Run meta row — wraps cleanly on mobile; stats drop to their own line */}
-      <div className="mb-4 flex flex-wrap items-center gap-x-3 gap-y-2 text-xs">
-        <span className="rounded-md bg-bg-elevated/80 px-2 py-0.5 font-mono text-[11px] font-semibold text-ink">
-          {runLabel}
-        </span>
-        {/* The long timestamp id is noise on phones — show from sm up only. */}
-        <span className="hidden font-mono text-ink-muted opacity-70 sm:inline">
-          {run.run_id}
-        </span>
+      {/* Run meta row — the toggle button holds the label + counts; the
+          "View run" link sits outside it (no nested interactive elements). */}
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-2 text-xs">
+        <button
+          type="button"
+          onClick={() => setOpen((o) => !o)}
+          aria-expanded={open}
+          className="flex min-w-0 flex-1 items-center gap-2 text-left transition hover:opacity-90"
+        >
+          {/* Rotating chevron — right when closed, down when open. */}
+          <span
+            className={`
+              grid h-5 w-5 shrink-0 place-items-center rounded-full
+              bg-primary/10 text-primary transition-transform duration-300 ease-spring
+              ${open ? "rotate-0" : "-rotate-90"}
+            `}
+          >
+            <ChevronDown size={13} strokeWidth={2.5} />
+          </span>
+          <span className="rounded-md bg-bg-elevated/80 px-2 py-0.5 font-mono text-[11px] font-semibold text-ink">
+            {runLabel}
+          </span>
+          <span className="flex flex-wrap items-center gap-x-2 gap-y-0.5 text-ink-muted">
+            <span>
+              <strong className="font-semibold text-success">
+                {run.new_count ?? run.jobs.length}
+              </strong>{" "}
+              new
+            </span>
+            <span className="opacity-50">·</span>
+            <span>
+              <strong className="font-semibold text-ink">{run.returning_count ?? 0}</strong>{" "}
+              ret.
+            </span>
+            <span className="opacity-50">·</span>
+            <span>
+              <strong className="font-semibold text-warning">{run.total_scraped}</strong>{" "}
+              scraped
+            </span>
+          </span>
+        </button>
+
         <Link
           href={`/runs/${run.run_id}`}
-          className="inline-flex items-center gap-0.5 font-semibold text-primary transition hover:underline"
+          className="inline-flex shrink-0 items-center gap-0.5 font-semibold text-primary transition hover:underline"
         >
           View run
           <ArrowUpRight size={12} strokeWidth={2.5} />
         </Link>
-        <span className="flex w-full flex-wrap items-center gap-x-3 gap-y-1 text-ink-muted sm:ml-auto sm:w-auto">
-          <span>
-            <strong className="font-semibold text-success">
-              {run.new_count ?? run.jobs.length}
-            </strong>{" "}
-            new
-          </span>
-          <span className="opacity-50">·</span>
-          <span>
-            <strong className="font-semibold text-ink">{run.returning_count ?? 0}</strong>{" "}
-            returning
-          </span>
-          <span className="opacity-50">·</span>
-          <span>
-            <strong className="font-semibold text-warning">{run.total_scraped}</strong>{" "}
-            scraped
-          </span>
-        </span>
       </div>
 
-      {run.jobs.length === 0 ? (
-        <p className="text-sm text-ink-muted">No new jobs in this run.</p>
-      ) : (
-        <div className="grid grid-cols-1 gap-3">
-          {run.jobs.map((job, idx) => (
-            <div
-              key={`${run.run_id}-${job.apply_url || idx}`}
-              className="min-w-0 motion-safe:animate-fade-rise"
-              style={{ animationDelay: `${idx * 50}ms` }}
-            >
-              <JobCard job={job} runId={run.run_id} />
-            </div>
-          ))}
-        </div>
-      )}
+      {open &&
+        (run.jobs.length === 0 ? (
+          <p className="mt-4 text-sm text-ink-muted">No new jobs in this run.</p>
+        ) : (
+          <div className="mt-4 grid grid-cols-1 gap-3">
+            {run.jobs.map((job, idx) => (
+              <div
+                key={`${run.run_id}-${job.apply_url || idx}`}
+                className="min-w-0 motion-safe:animate-fade-rise"
+                style={{ animationDelay: `${idx * 50}ms` }}
+              >
+                <JobCard job={job} runId={run.run_id} />
+              </div>
+            ))}
+          </div>
+        ))}
     </div>
   );
 }
@@ -168,6 +189,7 @@ export default function DateSection({
               run={run}
               runLabel={`Run ${runCount - runIdx}`}
               delayMs={runIdx * 60}
+              defaultOpen={runIdx === 0}
             />
           ))}
         </div>

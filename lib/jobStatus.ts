@@ -84,8 +84,15 @@ function getSnapshotMap(): StatusMap {
   return cachedMap;
 }
 
+// Must be a STABLE reference. Returning a fresh `{}` each call makes
+// useSyncExternalStore throw "getServerSnapshot should be cached to avoid an
+// infinite loop" and can abort hydration for the whole client tree — which
+// silently breaks every onClick on the page (collapsible toggles, status
+// buttons, etc.). One frozen empty map keeps the server snapshot identity-stable.
+const EMPTY_MAP: StatusMap = Object.freeze({}) as StatusMap;
+
 function getServerSnapshotMap(): StatusMap {
-  return {};
+  return EMPTY_MAP;
 }
 
 function persist(next: StatusMap) {
