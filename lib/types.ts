@@ -34,6 +34,9 @@ export interface Job {
    * the field. */
   cover_letter?: string;
   resume_file?: string;
+  /** Path (under /state/) to the per-job humanized cover letter DOCX,
+   * produced alongside the tailored resume. */
+  cover_letter_file?: string;
 
   // Quality gate
   tailored_accuracy_score?: number | null;

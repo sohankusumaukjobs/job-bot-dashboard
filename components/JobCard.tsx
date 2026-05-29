@@ -227,8 +227,8 @@ export default function JobCard({
       )}
 
       {/* ── Action row — buttons split full-width on mobile for easy taps ── */}
-      {(job.apply_url || job.resume_file) && (
-        <div className="mt-5 flex items-center gap-2">
+      {(job.apply_url || job.resume_file || job.cover_letter_file) && (
+        <div className="mt-5 flex flex-wrap items-center gap-2">
           {job.apply_url && (
             <a
               href={job.apply_url}
@@ -248,6 +248,17 @@ export default function JobCard({
             >
               <Download size={14} strokeWidth={2.25} />
               Resume
+            </a>
+          )}
+          {job.cover_letter_file && (
+            <a
+              href={resumeHref(job.cover_letter_file)}
+              download
+              className="btn-ghost h-10 flex-1 sm:h-9 sm:flex-none"
+              style={{ color: "rgb(var(--violet))", borderColor: "rgba(123,97,255,0.35)" }}
+            >
+              <FileText size={14} strokeWidth={2.25} />
+              Letter
             </a>
           )}
         </div>
