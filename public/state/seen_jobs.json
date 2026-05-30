@@ -1,7 +1,7 @@
 {
   "version": 1,
   "resume_hash": "a5f5a888728eba4553bb6d86e6361f5403a15c567bc139eab5b72bbd64a0b64d",
-  "updated_at": "2026-05-29T16:13:25",
+  "updated_at": "2026-05-30T09:11:37",
   "entries": {
     "url:https://www.linkedin.com/jobs/view/4419144899": {
       "first_seen_run_id": "20260528T174806",
@@ -1097,6 +1097,214 @@
       "company": "Nexus Life Sciences",
       "apply_url": "https://www.linkedin.com/jobs/view/4417666077",
       "content_key": "content:senior quality control analyst|nexus life sciences"
+    },
+    "url:http://uk.indeed.com/job/data-analyst-09b71f0ed3c328bc": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Data Analyst",
+      "company": "Mime",
+      "apply_url": "http://uk.indeed.com/job/data-analyst-09b71f0ed3c328bc",
+      "content_key": "content:data analyst|mime"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417303041": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Data Analyst",
+      "company": "AtkinsRéalis",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417303041",
+      "content_key": "content:data analyst|atkinsr alis"
+    },
+    "url:https://emea3.recruitmentplatform.com/tlk/pages/fo/advert/details.jsp?LG=UK&id=PT2FK026203F3VBQB6GV7791S&languageSelect=UK&nPostingTargetId=16693&sType=Indeed+Organic&source=Indeed": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Junior Data Analyst",
+      "company": "AMS",
+      "apply_url": "https://emea3.recruitmentplatform.com/tlk/pages/fo/advert/details.jsp?nPostingTargetId=16693&id=PT2FK026203F3VBQB6GV7791S&LG=UK&languageSelect=UK&source=Indeed&sType=Indeed+Organic",
+      "content_key": "content:junior data analyst|ams"
+    },
+    "url:https://betssongroup.com/job/quantitative-data-analyst": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Quantitative Data Analyst",
+      "company": "Betsson Group",
+      "apply_url": "https://betssongroup.com/job/quantitative-data-analyst/",
+      "content_key": "content:quantitative data analyst|betsson"
+    },
+    "url:https://app.vacancy-filler.co.uk/salescrm/Careers/CareersPage.aspx?e=LMo8nnTwYNYJ0bupHrDocjNxgr_x7RLOO1_pcQ_h1TNFQGEosTvlQf4Dizt6KhzlRAeLp96TGCRTd_f5cg2FQr3RcbmRh3cH": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Junior Data Analyst",
+      "company": "RUNSHAW COLLEGE",
+      "apply_url": "https://app.vacancy-filler.co.uk/salescrm/Careers/CareersPage.aspx?e=LMo8nnTwYNYJ0bupHrDocjNxgr_x7RLOO1_pcQ_h1TNFQGEosTvlQf4Dizt6KhzlRAeLp96TGCRTd_f5cg2FQr3RcbmRh3cH",
+      "content_key": "content:junior data analyst|runshaw college"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418262388": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Internal Business Systems Data Analyst",
+      "company": "Person Centred Software Ltd",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418262388",
+      "content_key": "content:internal business systems data analyst|person centred software"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420958887": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Data Analyst x2",
+      "company": "Recruit with Purpose",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420958887",
+      "content_key": "content:data analyst x2|recruit with purpose"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421324461": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Data Analyst",
+      "company": "Netrolynx AI",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421324461",
+      "content_key": "content:data analyst|netrolynx ai"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419834489": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Business Data Analyst",
+      "company": "Safran",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419834489",
+      "content_key": "content:business data analyst|safran"
+    },
+    "url:https://wiltshirefarmfoods-apetito.icims.com/jobs/8231/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Data Analyst",
+      "company": "apetito | Wiltshire Farm Foods",
+      "apply_url": "https://wiltshirefarmfoods-apetito.icims.com/jobs/8231/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "content_key": "content:data analyst|apetito wiltshire farm foods"
+    },
+    "url:https://jobs.dominos.co.uk/vacancies/624/aggregator-data-analyst.html?source=Indeed": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Aggregator Data Analyst",
+      "company": "Domino's",
+      "apply_url": "https://jobs.dominos.co.uk/vacancies/624/aggregator-data-analyst.html?source=Indeed",
+      "content_key": "content:aggregator data analyst|domino s"
+    },
+    "url:https://likewize.wd1.myworkdayjobs.com/en-US/External/job/Bristol-England-United-Kingdom/Data-Analyst_R-1377": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Data Analyst",
+      "company": "Likewize",
+      "apply_url": "https://likewize.wd1.myworkdayjobs.com/en-US/External/job/Bristol-England-United-Kingdom/Data-Analyst_R-1377",
+      "content_key": "content:data analyst|likewize"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419085425": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Data Analyst",
+      "company": "OLIVER | The Brandtech Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419085425",
+      "content_key": "content:data analyst|oliver the brandtech"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420918780": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Performance Analyst",
+      "company": "DWP Digital",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420918780",
+      "content_key": "content:performance analyst|dwp digital"
+    },
+    "url:https://jobs.lever.co/contentsquare/e8009d35-5b6d-41fd-b2ee-b2bb8ad5224a?lever-source=Indeed": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Professional Services Consultant – Strategic Consulting Track",
+      "company": "Contentsquare",
+      "apply_url": "https://jobs.lever.co/contentsquare/e8009d35-5b6d-41fd-b2ee-b2bb8ad5224a?lever-source=Indeed",
+      "content_key": "content:professional services consultant strategic consulting track|contentsquare"
+    },
+    "url:https://hire.jtgo.co.uk/clinicalpartners/Job/JobDetail?JobId=411&source=JobtrainIndeed": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Clinician Workforce and MI Analyst",
+      "company": "Clinical Partners",
+      "apply_url": "https://hire.jtgo.co.uk/clinicalpartners/Job/JobDetail?JobId=411&source=JobtrainIndeed",
+      "content_key": "content:clinician workforce and mi analyst|clinical partners"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417646301": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Business Systems Analyst",
+      "company": "Bright Purple",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417646301",
+      "content_key": "content:business systems analyst|bright purple"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420978533": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Digital Analyst",
+      "company": "Legal & General",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420978533",
+      "content_key": "content:digital analyst|legal general"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420438844": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "BI Analyst & IT Support",
+      "company": "Gordon Timber",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420438844",
+      "content_key": "content:bi analyst it support|gordon timber"
+    },
+    "url:https://www.linkedin.com/jobs/view/4408319780": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Data Analyst",
+      "company": "hackajob",
+      "apply_url": "https://www.linkedin.com/jobs/view/4408319780",
+      "content_key": "content:data analyst|hackajob"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418247427": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Data Analyst",
+      "company": "Harnham",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418247427",
+      "content_key": "content:data analyst|harnham"
+    },
+    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=dXNlcnNlYXJjaGNvbnRleHQ9MTkxMjE4OTIyJm93bmVyPTUwNzAwMDAmcGFnZWNsYXNzPUpvYnMmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0Jm93bmVydHlwZT1mYWlyJmpvYmxpc3Rfdmlld192YWM9MTk5OTY3OCZzZWFyY2hwYWdlPTQ3JnNlYXJjaHNvcnQ9Y2xvc2luZyZyZXFzaWc9MTc4MDEyMDg0OS1lOTdkOGMyY2ZiMGQ4ZjA4N2RiM2Q0NzI1YWY2NDI4MTE0NGM0YTEx": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Senior Data Analyst",
+      "company": "Scottish Forestry",
+      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=dXNlcnNlYXJjaGNvbnRleHQ9MTkxMjE4OTIyJm93bmVyPTUwNzAwMDAmcGFnZWNsYXNzPUpvYnMmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0Jm93bmVydHlwZT1mYWlyJmpvYmxpc3Rfdmlld192YWM9MTk5OTY3OCZzZWFyY2hwYWdlPTQ3JnNlYXJjaHNvcnQ9Y2xvc2luZyZyZXFzaWc9MTc4MDEyMDg0OS1lOTdkOGMyY2ZiMGQ4ZjA4N2RiM2Q0NzI1YWY2NDI4MTE0NGM0YTEx",
+      "content_key": "content:senior data analyst|scottish forestry"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420294524": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Senior Data Analyst - MarAnalytics",
+      "company": "FARFETCH",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420294524",
+      "content_key": "content:senior data analyst maranalytics|farfetch"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420918844": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Senior Data Analyst",
+      "company": "Lorien",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420918844",
+      "content_key": "content:senior data analyst|lorien"
+    },
+    "url:https://hivedhq.teamtailor.com/jobs/7822935-staff-data-analyst-driver-squad": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Staff Data Analyst (Driver Squad)",
+      "company": "HIVED",
+      "apply_url": "https://hivedhq.teamtailor.com/jobs/7822935-staff-data-analyst-driver-squad",
+      "content_key": "content:staff data analyst driver squad|hived"
+    },
+    "url:https://www.mottmac.com/en-gb/careers/explore-our-careers/senior-quantity-surveyor-14904": {
+      "first_seen_run_id": "20260530T091137",
+      "last_seen_run_id": "20260530T091137",
+      "title": "Senior Quantity Surveyor",
+      "company": "Mott MacDonald",
+      "apply_url": "https://www.mottmac.com/en-gb/careers/explore-our-careers/senior-quantity-surveyor-14904/",
+      "content_key": "content:senior quantity surveyor|mott macdonald"
     }
   }
 }
