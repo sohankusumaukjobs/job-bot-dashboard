@@ -1,7 +1,7 @@
 {
   "version": 1,
   "resume_hash": "a5f5a888728eba4553bb6d86e6361f5403a15c567bc139eab5b72bbd64a0b64d",
-  "updated_at": "2026-05-30T09:11:37",
+  "updated_at": "2026-05-31T11:57:30",
   "entries": {
     "url:https://www.linkedin.com/jobs/view/4419144899": {
       "first_seen_run_id": "20260528T174806",
@@ -1305,6 +1305,118 @@
       "company": "Mott MacDonald",
       "apply_url": "https://www.mottmac.com/en-gb/careers/explore-our-careers/senior-quantity-surveyor-14904/",
       "content_key": "content:senior quantity surveyor|mott macdonald"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419965924": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Data Analyst",
+      "company": "Severn Trent",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419965924",
+      "content_key": "content:data analyst|severn trent"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418811095": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "MS Excel / Google Sheets Evaluator | Remote",
+      "company": "Crossing Hurdles",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418811095",
+      "content_key": "content:ms excel google sheets evaluator remote|crossing hurdles"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419186581": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Data Analyst",
+      "company": "ARQ",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419186581",
+      "content_key": "content:data analyst|arq"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419429354": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Data Analyst",
+      "company": "KP Law",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419429354",
+      "content_key": "content:data analyst|kp law"
+    },
+    "url:https://www.linkedin.com/jobs/view/4411751026": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Analyst (Risk Technology)",
+      "company": "Zopa Bank",
+      "apply_url": "https://www.linkedin.com/jobs/view/4411751026",
+      "content_key": "content:analyst risk technology|zopa bank"
+    },
+    "url:http://uk.indeed.com/job/robotics-data-analyst-8b107cf6191c2998": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Robotics Data Analyst",
+      "company": "INDUSTRIAL CLEANING EQUIPMENT",
+      "apply_url": "http://uk.indeed.com/job/robotics-data-analyst-8b107cf6191c2998",
+      "content_key": "content:robotics data analyst|industrial cleaning equipment"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417942914": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Customer Data Analyst",
+      "company": "The Independent",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417942914",
+      "content_key": "content:customer data analyst|the independent"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418854336": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Performance Reporting Analyst (Ref: 18061)",
+      "company": "Ministry of Justice UK",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418854336",
+      "content_key": "content:performance reporting analyst ref 18061|ministry of justice uk"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419952854": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Data Analyst",
+      "company": "STRABAG",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419952854",
+      "content_key": "content:data analyst|strabag"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419436229": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Data Analyst",
+      "company": "FDJ UNITED",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419436229",
+      "content_key": "content:data analyst|fdj united"
+    },
+    "url:https://www.linkedin.com/jobs/view/4326226865": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Data Research Analyst – Financial Services (Remote)",
+      "company": "Forbes Advisor",
+      "apply_url": "https://www.linkedin.com/jobs/view/4326226865",
+      "content_key": "content:data research analyst financial services remote|forbes advisor"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418342495": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Data Analyst - TikTok LIVE",
+      "company": "TikTok",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418342495",
+      "content_key": "content:data analyst tiktok live|tiktok"
+    },
+    "url:https://www.linkedin.com/jobs/view/4402620098": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Customer Data Insights Analyst",
+      "company": "B&Q",
+      "apply_url": "https://www.linkedin.com/jobs/view/4402620098",
+      "content_key": "content:customer data insights analyst|b q"
+    },
+    "url:https://careers-consilio-lod.icims.com/jobs/3967/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": {
+      "first_seen_run_id": "20260531T115730",
+      "last_seen_run_id": "20260531T115730",
+      "title": "Senior Data Analyst",
+      "company": "Consilio LLC",
+      "apply_url": "https://careers-consilio-lod.icims.com/jobs/3967/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "content_key": "content:senior data analyst|consilio"
     }
   }
 }
