@@ -1,7 +1,7 @@
 {
   "version": 1,
   "resume_hash": "bd125ad12cb36e3c0cf03c459e8fab224a1ba242b2fb0d364b35b4401054e660",
-  "updated_at": "2026-05-31T12:51:32",
+  "updated_at": "2026-06-01T08:33:40",
   "entries": {
     "url:https://www.linkedin.com/jobs/view/4414886003": {
       "first_seen_run_id": "20260531T125132",
@@ -970,6 +970,230 @@
       "company": "Canonical",
       "apply_url": "https://grnh.se/annwwi8m1us",
       "content_key": "content:enterprise account executive|canonical"
+    },
+    "url:https://www.linkedin.com/jobs/view/4379662791": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Software Engineer, New Grad",
+      "company": "Deliveroo",
+      "apply_url": "https://www.linkedin.com/jobs/view/4379662791",
+      "content_key": "content:software engineer new grad|deliveroo"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420560749": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Graduate software engineer",
+      "company": "Meetup",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420560749",
+      "content_key": "content:graduate software engineer|meetup"
+    },
+    "url:https://www.linkedin.com/jobs/view/4412288786": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Junior Software Engineer",
+      "company": "Chetwood Bank",
+      "apply_url": "https://www.linkedin.com/jobs/view/4412288786",
+      "content_key": "content:junior software engineer|chetwood bank"
+    },
+    "url:http://uk.indeed.com/job/data-analyst-686249302b43e508": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Data Analyst",
+      "company": "MOUNTAIN PEAK TECHNOLOGY LTD",
+      "apply_url": "http://uk.indeed.com/job/data-analyst-686249302b43e508",
+      "content_key": "content:data analyst|mountain peak"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420677340": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "AI/ML Engineer Intern",
+      "company": "Melotech",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420677340",
+      "content_key": "content:ai ml engineer intern|melotech"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418811095": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "MS Excel / Google Sheets Evaluator | Remote",
+      "company": "Crossing Hurdles",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418811095",
+      "content_key": "content:ms excel google sheets evaluator remote|crossing hurdles"
+    },
+    "url:https://www.linkedin.com/jobs/view/4422035254": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Data Scientist",
+      "company": "Deloitte",
+      "apply_url": "https://www.linkedin.com/jobs/view/4422035254",
+      "content_key": "content:data scientist|deloitte"
+    },
+    "url:https://environmentagencyjobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/xf-9b64cc8d7412/candidate/so/pm/1/pl/1/opp/34233-Data-Analyst-Environmental-Markets-and-Regulation-Deposit-Return-Scheme-34233/en-GB": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Data Analyst – Environmental Markets and Regulation – Deposit Return Scheme - 34233",
+      "company": "Environment Agency",
+      "apply_url": "https://environmentagencyjobs.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/xf-9b64cc8d7412/candidate/so/pm/1/pl/1/opp/34233-Data-Analyst-Environmental-Markets-and-Regulation-Deposit-Return-Scheme-34233/en-GB",
+      "content_key": "content:data analyst environmental markets and regulation deposit return scheme 34233|environment agency"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417669379": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Data Science Specialist",
+      "company": "Pontoon Solutions",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417669379",
+      "content_key": "content:data science specialist|pontoon"
+    },
+    "url:http://uk.indeed.com/job/aiml-engineers-164b6e2e445fcd30": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "AI/ML Engineers",
+      "company": "Concept AI Ltd",
+      "apply_url": "http://uk.indeed.com/job/aiml-engineers-164b6e2e445fcd30",
+      "content_key": "content:ai ml engineers|concept ai"
+    },
+    "url:https://www.linkedin.com/jobs/view/4294742972": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Software Engineer, Machine Learning",
+      "company": "Meta",
+      "apply_url": "https://www.linkedin.com/jobs/view/4294742972",
+      "content_key": "content:software engineer machine learning|meta"
+    },
+    "url:https://www.linkedin.com/jobs/view/4422804227": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Data Scientist at VC-backed AI security startup",
+      "company": "Jack & Jill",
+      "apply_url": "https://www.linkedin.com/jobs/view/4422804227",
+      "content_key": "content:data scientist at vc backed ai security startup|jack jill"
+    },
+    "url:https://careers.itv.com/jobs/central-insights-manager-in-london.2792": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Central Insights Manager",
+      "company": "ITV",
+      "apply_url": "https://careers.itv.com/jobs/central-insights-manager-in-london.2792?utm_campaign=JobBoards&utm_source=Indeed",
+      "content_key": "content:central insights manager|itv"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420951458": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Senior Data Analyst",
+      "company": "Midnite",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420951458",
+      "content_key": "content:senior data analyst|midnite"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417933925": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Data Scientist",
+      "company": "RCQ Associates - Financial Markets Specialists",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417933925",
+      "content_key": "content:data scientist|rcq associates financial markets specialists"
+    },
+    "url:https://www.linkedin.com/jobs/view/4401731549": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Applied AI Engineer",
+      "company": "Fuse Energy",
+      "apply_url": "https://www.linkedin.com/jobs/view/4401731549",
+      "content_key": "content:applied ai engineer|fuse energy"
+    },
+    "url:https://www.linkedin.com/jobs/view/4223349087": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Software Engineer",
+      "company": "Aurora Energy Research",
+      "apply_url": "https://www.linkedin.com/jobs/view/4223349087",
+      "content_key": "content:software engineer|aurora energy research"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417632430": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Applied Data Scientist",
+      "company": "ADLIB Recruitment | B Corp™",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417632430",
+      "content_key": "content:applied data scientist|adlib recruitment b"
+    },
+    "url:https://careers.itv.com/jobs/reporting-data-analyst-in-manchester.2805": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Reporting & Data Analyst",
+      "company": "ITV",
+      "apply_url": "https://careers.itv.com/jobs/reporting-data-analyst-in-manchester.2805?utm_campaign=JobBoards&utm_source=Indeed",
+      "content_key": "content:reporting data analyst|itv"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421497415": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Data Scientist",
+      "company": "Digital Waffle",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421497415",
+      "content_key": "content:data scientist|digital waffle"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420967067": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Machine Learning Engineer",
+      "company": "Axiom Recruit",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420967067",
+      "content_key": "content:machine learning engineer|axiom recruit"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417941447": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Python Software Engineer - Hybrid working - Up to £275,000 Base (+ Bonus)",
+      "company": "Hunter Bond",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417941447",
+      "content_key": "content:python software engineer hybrid working up to 275 000 base bonus|hunter bond"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419413888": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "AI/ML Engineer",
+      "company": "Limbic",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419413888",
+      "content_key": "content:ai ml engineer|limbic"
+    },
+    "url:https://www.linkedin.com/jobs/view/4415388333": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Founding ML/RL Researcher",
+      "company": "Zealous Agency",
+      "apply_url": "https://www.linkedin.com/jobs/view/4415388333",
+      "content_key": "content:founding ml rl researcher|zealous agency"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417668799": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "AI/ML Engineer",
+      "company": "Saragoça da Matta & Silveiro de Barros - Sociedade de Advogados, R.L.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417668799",
+      "content_key": "content:ai ml engineer|sarago a da matta silveiro de barros sociedade de advogados r l"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417637165": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Senior Data Analyst",
+      "company": "HCLTech",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417637165",
+      "content_key": "content:senior data analyst|hcltech"
+    },
+    "url:https://www.linkedin.com/jobs/view/4414561395": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Senior ML / AI Engineer",
+      "company": "International Software Co",
+      "apply_url": "https://www.linkedin.com/jobs/view/4414561395",
+      "content_key": "content:senior ml ai engineer|international software"
+    },
+    "url:https://apply.workable.com/j/FAAB8686C2": {
+      "first_seen_run_id": "20260601T083340",
+      "last_seen_run_id": "20260601T083340",
+      "title": "Senior AI Product Manager, Fashion Discovery",
+      "company": "Lyst",
+      "apply_url": "https://apply.workable.com/j/FAAB8686C2",
+      "content_key": "content:senior ai product manager fashion discovery|lyst"
     }
   }
 }
