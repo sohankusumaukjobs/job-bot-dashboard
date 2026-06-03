@@ -1,7 +1,7 @@
 {
   "version": 1,
   "resume_hash": "bd125ad12cb36e3c0cf03c459e8fab224a1ba242b2fb0d364b35b4401054e660",
-  "updated_at": "2026-06-02T18:07:02",
+  "updated_at": "2026-06-03T09:16:58",
   "entries": {
     "url:https://www.linkedin.com/jobs/view/4414886003": {
       "first_seen_run_id": "20260531T125132",
@@ -1658,6 +1658,254 @@
       "company": "Evantis Recruitment",
       "apply_url": "https://www.linkedin.com/jobs/view/4423896799",
       "content_key": "content:data analyst|evantis recruitment"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418728647": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Analyst Intern",
+      "company": "Stealth",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418728647",
+      "content_key": "content:data analyst intern|stealth"
+    },
+    "url:http://uk.indeed.com/job/data-analyst-b17d81695f248fb6": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Analyst",
+      "company": "Aivra Health",
+      "apply_url": "http://uk.indeed.com/job/data-analyst-b17d81695f248fb6",
+      "content_key": "content:data analyst|aivra health"
+    },
+    "url:https://www.linkedin.com/jobs/view/4422686375": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Scientist",
+      "company": "Netrolynx AI",
+      "apply_url": "https://www.linkedin.com/jobs/view/4422686375",
+      "content_key": "content:data scientist|netrolynx ai"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421853158": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Scientist",
+      "company": "Compare the Market",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421853158",
+      "content_key": "content:data scientist|compare the market"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418584435": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Computer Vision Data Scientist",
+      "company": "Tesco",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418584435",
+      "content_key": "content:computer vision data scientist|tesco"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419675562": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Junior Data Scientist",
+      "company": "Why Hiring",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419675562",
+      "content_key": "content:junior data scientist|why hiring"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424062912": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Scientist - AI/ML | Remote",
+      "company": "Crossing Hurdles",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424062912",
+      "content_key": "content:data scientist ai ml remote|crossing hurdles"
+    },
+    "url:https://lowell.wd3.myworkdayjobs.com/en-US/LowellGroup_Careers2/job/Lowell-Leeds/Data-Analyst--Pricing-_R016105": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Analyst (Pricing)",
+      "company": "Lowell",
+      "apply_url": "https://lowell.wd3.myworkdayjobs.com/en-US/LowellGroup_Careers2/job/Lowell-Leeds/Data-Analyst--Pricing-_R016105",
+      "content_key": "content:data analyst pricing|lowell"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423933713": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Analyst (Contract)",
+      "company": "Digital Waffle",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423933713",
+      "content_key": "content:data analyst contract|digital waffle"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418779311": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Machine Learning Engineer",
+      "company": "SF Technology Partners",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418779311",
+      "content_key": "content:machine learning engineer|sf partners"
+    },
+    "url:https://huron.wd1.myworkdayjobs.com/huroncareers/job/Belfast---20-Adelaide-Street/Machine-Learning-Engineer_JR-0013617": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Machine Learning Engineer",
+      "company": "Huron Consulting Group",
+      "apply_url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Belfast---20-Adelaide-Street/Machine-Learning-Engineer_JR-0013617",
+      "content_key": "content:machine learning engineer|huron consulting"
+    },
+    "url:https://dfto.recruitgenie.co.uk/job-details.aspx?jobid=293719&source=Indeed": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Analytics Engineer",
+      "company": "DfT Operator",
+      "apply_url": "https://dfto.recruitgenie.co.uk/job-details.aspx?jobid=293719&source=Indeed",
+      "content_key": "content:analytics engineer|dft operator"
+    },
+    "url:https://careers.fairfinance.org.uk/jobs/7835414-senior-business-analyst-credit-risk": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Senior Business Analyst - Credit Risk",
+      "company": "Fair Finance",
+      "apply_url": "https://careers.fairfinance.org.uk/jobs/7835414-senior-business-analyst-credit-risk",
+      "content_key": "content:senior business analyst credit risk|fair finance"
+    },
+    "url:https://ensek.teamtailor.com/jobs/7815415-data-analyst-iii": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Analyst III",
+      "company": "ENSEK",
+      "apply_url": "https://ensek.teamtailor.com/jobs/7815415-data-analyst-iii",
+      "content_key": "content:data analyst iii|ensek"
+    },
+    "url:https://www.linkedin.com/jobs/view/4422337602": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Analyst - Risk",
+      "company": "N Consulting Global",
+      "apply_url": "https://www.linkedin.com/jobs/view/4422337602",
+      "content_key": "content:data analyst risk|n consulting global"
+    },
+    "url:https://www.linkedin.com/jobs/view/4410222667": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Scientist",
+      "company": "TalkTalk",
+      "apply_url": "https://www.linkedin.com/jobs/view/4410222667",
+      "content_key": "content:data scientist|talktalk"
+    },
+    "url:https://www.linkedin.com/jobs/view/4422407255": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Scientist | Artifical Intelligence",
+      "company": "FTI Consulting",
+      "apply_url": "https://www.linkedin.com/jobs/view/4422407255",
+      "content_key": "content:data scientist artifical intelligence|fti consulting"
+    },
+    "url:https://careers.serco.com/gb/en/job/SGJSGZGB309792EXTERNALENGB/People-Data-Analyst": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "People Data Analyst",
+      "company": "Serco",
+      "apply_url": "https://careers.serco.com/gb/en/job/SGJSGZGB309792EXTERNALENGB/People-Data-Analyst?utm_source=indeed&utm_medium=phenom-feeds",
+      "content_key": "content:people data analyst|serco"
+    },
+    "url:https://nwltest.valhalla.stage.jobs2web.com/career?career_job_req_id=13509&career_ns=job_listing&company=NWL&lang=en_US&source=Indeed": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Master Data Analyst - Sharpie, DYMO",
+      "company": "Newell Brands",
+      "apply_url": "https://nwltest.valhalla.stage.jobs2web.com/career?company=NWL&career_ns=job_listing&career_job_req_id=13509&lang=en_US&source=Indeed",
+      "content_key": "content:master data analyst sharpie dymo|newell brands"
+    },
+    "url:https://careers.sse.com/jobs/lead-data-analyst-aberdeen-aberdeenshire-aberdeenshire-united-kingdom-glasgow-renfrewshire-renfrewshire-inverness-highland-scotland-perth-perthshire-a11766d8-fba0-4192-9c37-78f5ee269cdd": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Lead Data Analyst",
+      "company": "SSE PLC",
+      "apply_url": "https://careers.sse.com/jobs/lead-data-analyst-aberdeen-aberdeenshire-aberdeenshire-united-kingdom-glasgow-renfrewshire-renfrewshire-inverness-highland-scotland-perth-perthshire-a11766d8-fba0-4192-9c37-78f5ee269cdd?source=",
+      "content_key": "content:lead data analyst|sse"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418770647": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Senior Data Analyst",
+      "company": "Glocomms",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418770647",
+      "content_key": "content:senior data analyst|glocomms"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423894749": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Business Data Analyst",
+      "company": "LMA Recruitment",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423894749",
+      "content_key": "content:business data analyst|lma recruitment"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419290082": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Freelance Data Science Engineer (Python & SQL)",
+      "company": "Mindrift",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419290082",
+      "content_key": "content:freelance data science engineer python sql|mindrift"
+    },
+    "url:https://songtradr.bamboohr.com/careers/159?postedDate=2026-06-02&source=indeed&src=indeed": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Senior Data Analyst",
+      "company": "songtradr",
+      "apply_url": "https://songtradr.bamboohr.com/careers/159?source=indeed&src=indeed&postedDate=2026-06-02",
+      "content_key": "content:senior data analyst|songtradr"
+    },
+    "url:https://huron.wd1.myworkdayjobs.com/huroncareers/job/Belfast---20-Adelaide-Street/Data-Science-Manager_JR-0013616": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Data Science Manager",
+      "company": "Huron Consulting Group",
+      "apply_url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Belfast---20-Adelaide-Street/Data-Science-Manager_JR-0013616",
+      "content_key": "content:data science manager|huron consulting"
+    },
+    "url:https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/London-GBR/Senior-Machine-Learning-Test-Engineer-United-Kingdom_26WD98891-1": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Senior Machine Learning Test Engineer United Kingdom",
+      "company": "Autodesk",
+      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/London-GBR/Senior-Machine-Learning-Test-Engineer-United-Kingdom_26WD98891-1",
+      "content_key": "content:senior machine learning test engineer united kingdom|autodesk"
+    },
+    "url:https://huron.wd1.myworkdayjobs.com/huroncareers/job/Belfast---20-Adelaide-Street/Machine-Learning-Engineer--Manager-_JR-0013618": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Machine Learning Engineer (Manager)",
+      "company": "Huron Consulting Group",
+      "apply_url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Belfast---20-Adelaide-Street/Machine-Learning-Engineer--Manager-_JR-0013618",
+      "content_key": "content:machine learning engineer manager|huron consulting"
+    },
+    "url:https://lbg.wd3.myworkdayjobs.com/en-US/LBG_Careers/job/Bristol/Product-Designer--UX-UI----12-Month-FTC_157897-1": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Product Designer (UX/UI) - 12 Month FTC",
+      "company": "Lloyds Banking Group",
+      "apply_url": "https://lbg.wd3.myworkdayjobs.com/en-US/LBG_Careers/job/Bristol/Product-Designer--UX-UI----12-Month-FTC_157897-1",
+      "content_key": "content:product designer ux ui 12 month ftc|lloyds banking"
+    },
+    "url:https://foundationpartners.teamtailor.com/jobs/7837836-senior-product-designer-remote-uk": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Senior Product Designer (Remote- UK)",
+      "company": "Foundation Partners Group",
+      "apply_url": "https://foundationpartners.teamtailor.com/jobs/7837836-senior-product-designer-remote-uk",
+      "content_key": "content:senior product designer remote uk|foundation partners"
+    },
+    "url:https://livenation.wd503.myworkdayjobs.com/en-US/LNExternalSite/job/Farringdon-London-United-Kingdom/Senior-Content-Marketing-Manager_JR-90677": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "Senior Content Marketing Manager",
+      "company": "Live Nation",
+      "apply_url": "https://livenation.wd503.myworkdayjobs.com/en-US/LNExternalSite/job/Farringdon-London-United-Kingdom/Senior-Content-Marketing-Manager_JR-90677",
+      "content_key": "content:senior content marketing manager|live nation"
+    },
+    "url:https://careers.westerleighgroup.co.uk/vacancies/472/fp-a-manager.html?source=Indeed": {
+      "first_seen_run_id": "20260603T091658",
+      "last_seen_run_id": "20260603T091658",
+      "title": "FP&A Manager",
+      "company": "Westerleigh Group",
+      "apply_url": "https://careers.westerleighgroup.co.uk/vacancies/472/fp-a-manager.html?source=Indeed",
+      "content_key": "content:fp a manager|westerleigh"
     }
   }
 }
