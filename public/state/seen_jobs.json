@@ -1,7 +1,7 @@
 {
   "version": 1,
   "resume_hash": "bd125ad12cb36e3c0cf03c459e8fab224a1ba242b2fb0d364b35b4401054e660",
-  "updated_at": "2026-06-04T19:24:11",
+  "updated_at": "2026-06-07T10:03:50",
   "entries": {
     "url:https://www.linkedin.com/jobs/view/4414886003": {
       "first_seen_run_id": "20260531T125132",
@@ -2402,6 +2402,582 @@
       "company": "Mott MacDonald",
       "apply_url": "https://www.mottmac.com/en-gb/careers/explore-our-careers/ecc-project-manager-14905/",
       "content_key": "content:ecc project manager|mott macdonald"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424464212": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Graduate Data Scientist",
+      "company": "Abound",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424464212",
+      "content_key": "content:graduate data scientist|abound"
+    },
+    "url:https://www.linkedin.com/jobs/view/4304449168": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Applied Data Scientist",
+      "company": "DataAnnotation",
+      "apply_url": "https://www.linkedin.com/jobs/view/4304449168",
+      "content_key": "content:applied data scientist|dataannotation"
+    },
+    "url:https://www.linkedin.com/jobs/view/4405262616": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "AI Training - Machine Learning Specialist (UK)",
+      "company": "Prolific",
+      "apply_url": "https://www.linkedin.com/jobs/view/4405262616",
+      "content_key": "content:ai training machine learning specialist uk|prolific"
+    },
+    "url:https://transamerica.wd5.myworkdayjobs.com/en-US/AUK_JobSite/job/Edinburgh-UK/Data-Analyst_R20061762-1": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "AEGON",
+      "apply_url": "https://transamerica.wd5.myworkdayjobs.com/en-US/AUK_JobSite/job/Edinburgh-UK/Data-Analyst_R20061762-1",
+      "content_key": "content:data analyst|aegon"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424589567": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "Ki",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424589567",
+      "content_key": "content:data analyst|ki"
+    },
+    "url:https://www.linkedin.com/jobs/view/4422409878": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "OEG",
+      "apply_url": "https://www.linkedin.com/jobs/view/4422409878",
+      "content_key": "content:data analyst|oeg"
+    },
+    "url:https://www.linkedin.com/jobs/view/4409947755": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "AI Engineer",
+      "company": "Curve Analytics",
+      "apply_url": "https://www.linkedin.com/jobs/view/4409947755",
+      "content_key": "content:ai engineer|curve analytics"
+    },
+    "url:https://grnh.se/kh7wkvss1us": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "OVO",
+      "apply_url": "https://grnh.se/kh7wkvss1us",
+      "content_key": "content:data analyst|ovo"
+    },
+    "url:https://careers.acisgroup.co.uk/job/bc494ceb-298b-4716-a93a-6a2e62fdfee0": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "Acis Group",
+      "apply_url": "https://careers.acisgroup.co.uk/job/bc494ceb-298b-4716-a93a-6a2e62fdfee0",
+      "content_key": "content:data analyst|acis"
+    },
+    "url:https://www.linkedin.com/jobs/view/4366152392": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Scientist – GenAI & AI Engineering",
+      "company": "Experian",
+      "apply_url": "https://www.linkedin.com/jobs/view/4366152392",
+      "content_key": "content:data scientist genai ai engineering|experian"
+    },
+    "url:https://careers.legalandgeneral.com/job/data-analyst-analytics-engineer-in-cardiff-jid-8425": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst (Analytics Engineer)",
+      "company": "legalandgeneral",
+      "apply_url": "https://careers.legalandgeneral.com/job/data-analyst-analytics-engineer-in-cardiff-jid-8425",
+      "content_key": "content:data analyst analytics engineer|legalandgeneral"
+    },
+    "url:https://www.networxrecruitment.com/Jobs/Advert/4217402?js=115&linkType=1": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "Dawsongroup",
+      "apply_url": "https://www.networxrecruitment.com/Jobs/Advert/4217402?js=115&linkType=1",
+      "content_key": "content:data analyst|dawsongroup"
+    },
+    "url:https://www.stern-energy.com/en/work-with-us-stern-energy": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "Stern energy",
+      "apply_url": "https://www.stern-energy.com/en/work-with-us-stern-energy/",
+      "content_key": "content:data analyst|stern energy"
+    },
+    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPUpvYnMmdXNlcnNlYXJjaGNvbnRleHQ9MTkyNTI1NjYyJmpvYmxpc3Rfdmlld192YWM9MjAwMDU0OSZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3Qmc2VhcmNocGFnZT0zNyZvd25lcj01MDcwMDAwJm93bmVydHlwZT1mYWlyJnNlYXJjaHNvcnQ9Y2xvc2luZyZyZXFzaWc9MTc4MDgxMjAyNC1jZjZlOWFmZmY3ZDQxNTBlMDE2NjlkZGI1NGFiMzMxMjk2YjRkYjc0": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "HM Revenue & Customs",
+      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPUpvYnMmdXNlcnNlYXJjaGNvbnRleHQ9MTkyNTI1NjYyJmpvYmxpc3Rfdmlld192YWM9MjAwMDU0OSZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3Qmc2VhcmNocGFnZT0zNyZvd25lcj01MDcwMDAwJm93bmVydHlwZT1mYWlyJnNlYXJjaHNvcnQ9Y2xvc2luZyZyZXFzaWc9MTc4MDgxMjAyNC1jZjZlOWFmZmY3ZDQxNTBlMDE2NjlkZGI1NGFiMzMxMjk2YjRkYjc0",
+      "content_key": "content:data analyst|hm revenue customs"
+    },
+    "url:https://edfenergy-1481212-gb-engb.sr-attrax.com/job/data-analyst-in-hove-jid-1986": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "EDF Energy Limited",
+      "apply_url": "https://edfenergy-1481212-gb-engb.sr-attrax.com/job/data-analyst-in-hove-jid-1986",
+      "content_key": "content:data analyst|edf energy"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421170233": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "EDF (UK)",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421170233",
+      "content_key": "content:data analyst|edf uk"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424558521": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst Contract (Databricks)",
+      "company": "Digital Waffle",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424558521",
+      "content_key": "content:data analyst contract databricks|digital waffle"
+    },
+    "url:https://www.linkedin.com/jobs/view/4422955339": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "ESG Data Analyst Internship",
+      "company": "Belmond",
+      "apply_url": "https://www.linkedin.com/jobs/view/4422955339",
+      "content_key": "content:esg data analyst internship|belmond"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419693570": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "Peaple Talent",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419693570",
+      "content_key": "content:data analyst|peaple talent"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417663814": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst Apprentice",
+      "company": "Haystack",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417663814",
+      "content_key": "content:data analyst apprentice|haystack"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423246131": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst II",
+      "company": "ENSEK",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423246131",
+      "content_key": "content:data analyst ii|ensek"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418799319": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Business Data Analyst",
+      "company": "Galeta",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418799319",
+      "content_key": "content:business data analyst|galeta"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424578065": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Scientist",
+      "company": "Yolk Recruitment Ltd",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424578065",
+      "content_key": "content:data scientist|yolk recruitment"
+    },
+    "url:https://www.linkedin.com/jobs/view/4415607616": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Scientist (Enterprise AI) | Remote",
+      "company": "Crossing Hurdles",
+      "apply_url": "https://www.linkedin.com/jobs/view/4415607616",
+      "content_key": "content:data scientist enterprise ai remote|crossing hurdles"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421807141": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Scientist",
+      "company": "Oxford Data Plan",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421807141",
+      "content_key": "content:data scientist|oxford data plan"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424688082": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Scientist",
+      "company": "Coefficient 🌀",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424688082",
+      "content_key": "content:data scientist|coefficient"
+    },
+    "url:https://tnl2.jometer.com/v2/job?jz=5a3hna8b174be16ebf1cf2d0e17ecca6730ebBAACQAIAAABQ": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Machine Learning Engineer (Generative AI, RAG & Conversational Systems)",
+      "company": "Sky",
+      "apply_url": "https://tnl2.jometer.com/v2/job?jz=5a3hna8b174be16ebf1cf2d0e17ecca6730ebBAACQAIAAABQ&utm_source=indeedorganic_rsr",
+      "content_key": "content:machine learning engineer generative ai rag conversational systems|sky"
+    },
+    "url:https://jobs.ashbyhq.com/faculty/98f476d9-39ea-4bcc-b908-a6f6b8119fb9": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Machine Learning Engineer",
+      "company": "Faculty",
+      "apply_url": "https://jobs.ashbyhq.com/faculty/98f476d9-39ea-4bcc-b908-a6f6b8119fb9?utm_source=GKq5ZB5eEl",
+      "content_key": "content:machine learning engineer|faculty"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423393695": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Analytics Engineer",
+      "company": "Bupa UK",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423393695",
+      "content_key": "content:analytics engineer|bupa uk"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419619150": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "eCommerce Data Analyst",
+      "company": "Next",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419619150",
+      "content_key": "content:ecommerce data analyst|next"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421126948": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Scientist",
+      "company": "PHMG",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421126948",
+      "content_key": "content:data scientist|phmg"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423952146": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Machine Learning Engineer",
+      "company": "AXA UK",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423952146",
+      "content_key": "content:machine learning engineer|axa uk"
+    },
+    "url:https://vacancies.wellingtoncollege.org.uk/job/892073": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Safeguarding Data Analyst & Administrator",
+      "company": "WELLINGTON COLLEGE",
+      "apply_url": "https://vacancies.wellingtoncollege.org.uk/job/892073?utm_source=indeed",
+      "content_key": "content:safeguarding data analyst administrator|wellington college"
+    },
+    "url:https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola/job/United-Kingdom-Glasgow/Technical-Business-Analyst_R-30108": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Technical Business Analyst",
+      "company": "Iberdrola Group",
+      "apply_url": "https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola/job/United-Kingdom-Glasgow/Technical-Business-Analyst_R-30108",
+      "content_key": "content:technical business analyst|iberdrola"
+    },
+    "url:https://www.linkedin.com/jobs/view/4415027223": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst (Python, PL/SQL) | $80/hr Remote",
+      "company": "Crossing Hurdles",
+      "apply_url": "https://www.linkedin.com/jobs/view/4415027223",
+      "content_key": "content:data analyst python pl sql 80 hr remote|crossing hurdles"
+    },
+    "url:https://www.linkedin.com/jobs/view/4408828871": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "Airtime",
+      "apply_url": "https://www.linkedin.com/jobs/view/4408828871",
+      "content_key": "content:data analyst|airtime"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418738994": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Pricing Analyst (Mid-Level)",
+      "company": "Adecco",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418738994",
+      "content_key": "content:pricing analyst mid level|adecco"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418798060": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Global Process Data Analyst",
+      "company": "Diageo",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418798060",
+      "content_key": "content:global process data analyst|diageo"
+    },
+    "url:https://singerinstrumentscoltd.peoplehr.net/Pages/JobBoard/Opening.aspx?v=fc9777c2-40b1-4a1e-bdb6-e3b6acec75b3": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Specialist / Annotator (Image Labeller) 6-month Fixed Term Contract",
+      "company": "Singer Instruments",
+      "apply_url": "https://singerinstrumentscoltd.peoplehr.net/Pages/JobBoard/Opening.aspx?v=fc9777c2-40b1-4a1e-bdb6-e3b6acec75b3",
+      "content_key": "content:data specialist annotator image labeller 6 month fixed term contract|singer instruments"
+    },
+    "url:https://jpmorganchase.contacthr.com/152350694": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Scientist Lead",
+      "company": "JPMorganChase",
+      "apply_url": "https://JPMorganChase.contacthr.com/152350694",
+      "content_key": "content:data scientist lead|jpmorganchase"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424640934": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Machine Learning Engineer",
+      "company": "hackajob",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424640934",
+      "content_key": "content:machine learning engineer|hackajob"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424195752": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Machine Learning Developer (Freelance)",
+      "company": "Mindrift",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424195752",
+      "content_key": "content:machine learning developer freelance|mindrift"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424130941": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Applied ML Researcher - Fully Remote | Upto $90/hr",
+      "company": "Mercor",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424130941",
+      "content_key": "content:applied ml researcher fully remote upto 90 hr|mercor"
+    },
+    "url:https://www.linkedin.com/jobs/view/4414633327": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "AI Software Engineer",
+      "company": "Moody's Corporation",
+      "apply_url": "https://www.linkedin.com/jobs/view/4414633327",
+      "content_key": "content:ai software engineer|moody s"
+    },
+    "url:https://www.linkedin.com/jobs/view/4371922011": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "AI Engineer",
+      "company": "Miro",
+      "apply_url": "https://www.linkedin.com/jobs/view/4371922011",
+      "content_key": "content:ai engineer|miro"
+    },
+    "url:https://www.peoplebank.com/pbank/owa/pbk24w12.main?p=bffdnZocgbgfgn3ouxLrrLnaodfjdbekn&r=INDEED": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Quality Assurance Data Analyst",
+      "company": "Mamas & Papas",
+      "apply_url": "https://www.peoplebank.com/pbank/owa/pbk24w12.main?p=bffdnZocgbgfgn3ouxLrrLnaodfjdbekn&r=INDEED",
+      "content_key": "content:quality assurance data analyst|mamas papas"
+    },
+    "url:https://jobs.ashbyhq.com/gen-digital/8365a601-3d1a-4157-8ac5-0b70c6aa2734": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Market Insights Manager",
+      "company": "Gen Digital Inc.",
+      "apply_url": "https://jobs.ashbyhq.com/gen-digital/8365a601-3d1a-4157-8ac5-0b70c6aa2734?utm_source=XvoRYEJl13",
+      "content_key": "content:market insights manager|gen digital"
+    },
+    "url:https://wise.jobs/job/lead-analyst-total-service-operations-in-london-jid-3625": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Lead Analyst - Total Service (Operations)",
+      "company": "Wise Australia Investments",
+      "apply_url": "https://wise.jobs/job/lead-analyst-total-service-operations-in-london-jid-3625",
+      "content_key": "content:lead analyst total service operations|wise australia investments"
+    },
+    "url:https://www.capgemini.com/jobs/492773-en_GB_SAPBTP": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "Capgemini",
+      "apply_url": "https://www.capgemini.com/jobs/492773-en_GB_SAPBTP/",
+      "content_key": "content:data analyst|capgemini"
+    },
+    "url:https://nhsprofessionalsweb.eploy.net/vacancies/4785/senior-data-analyst.html?source=Indeed": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Senior Data Analyst",
+      "company": "NHS Professionals",
+      "apply_url": "https://nhsprofessionalsweb.eploy.net/vacancies/4785/senior-data-analyst.html?source=Indeed",
+      "content_key": "content:senior data analyst|nhs professionals"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424655665": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Annotator | Remote",
+      "company": "CodeGeniusRecruit",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424655665",
+      "content_key": "content:data annotator remote|codegeniusrecruit"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423555857": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Analyst",
+      "company": "Booz Allen Hamilton",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423555857",
+      "content_key": "content:data analyst|booz allen hamilton"
+    },
+    "url:https://www.linkedin.com/jobs/view/4422944337": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Scientist (Product Analytics)",
+      "company": "Wordsmith AI",
+      "apply_url": "https://www.linkedin.com/jobs/view/4422944337",
+      "content_key": "content:data scientist product analytics|wordsmith ai"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423518761": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Data Scientist",
+      "company": "TrueNorth®",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423518761",
+      "content_key": "content:data scientist|truenorth"
+    },
+    "url:https://singerinstrumentscoltd.peoplehr.net/Pages/JobBoard/Opening.aspx?v=bdbd2279-1744-4eee-9786-668128b9ed82": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Machine Learning Engineer - 6-month Fixed Term Contract",
+      "company": "Singer Instruments",
+      "apply_url": "https://singerinstrumentscoltd.peoplehr.net/Pages/JobBoard/Opening.aspx?v=bdbd2279-1744-4eee-9786-668128b9ed82",
+      "content_key": "content:machine learning engineer 6 month fixed term contract|singer instruments"
+    },
+    "url:https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/GBR-London/Machine-Learning-Engineer---Fulfillment_JR101321": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Machine Learning Engineer - Fulfillment",
+      "company": "JD.com",
+      "apply_url": "https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/GBR-London/Machine-Learning-Engineer---Fulfillment_JR101321",
+      "content_key": "content:machine learning engineer fulfillment|jd com"
+    },
+    "url:https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/GBR-London/Software-Engineer---Search-and-Recommendation_JR101308": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Software Engineer - Recommendation",
+      "company": "JD.com",
+      "apply_url": "https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/GBR-London/Software-Engineer---Search-and-Recommendation_JR101308",
+      "content_key": "content:software engineer recommendation|jd com"
+    },
+    "url:https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/GBR-London/Software-Engineer---Search-and-Recommendation_JR101271": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Software Engineer - Search and Recommendation",
+      "company": "JD.com",
+      "apply_url": "https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/GBR-London/Software-Engineer---Search-and-Recommendation_JR101271",
+      "content_key": "content:software engineer search and recommendation|jd com"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424991752": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Radley James",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424991752",
+      "content_key": "content:artificial intelligence engineer|radley james"
+    },
+    "url:https://www.linkedin.com/jobs/view/4418758835": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Research Engineer - Start-up - London",
+      "company": "Oliver Bernard",
+      "apply_url": "https://www.linkedin.com/jobs/view/4418758835",
+      "content_key": "content:research engineer start up london|oliver bernard"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423251227": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Machine Learning Engineer",
+      "company": "IC Resources",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423251227",
+      "content_key": "content:machine learning engineer|ic resources"
+    },
+    "url:https://www.linkedin.com/jobs/view/4363068708": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Machine Learning Research Engineer",
+      "company": "Miro",
+      "apply_url": "https://www.linkedin.com/jobs/view/4363068708",
+      "content_key": "content:machine learning research engineer|miro"
+    },
+    "url:https://jobs.capitalone.co.uk/job/-/-/47643/96028449168": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Senior Manager Architect - Data",
+      "company": "Capital One",
+      "apply_url": "https://jobs.capitalone.co.uk/job/-/-/47643/96028449168",
+      "content_key": "content:senior manager architect data|capital one"
+    },
+    "url:https://genpact.wd108.myworkdayjobs.com/External_Careers/job/9752-G-UK-Ltd-Floor-24-110-Bishopsgate-London-UK/Associate-Principal---Industry-Advisory-3_JR10001292": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Associate Principal - Industry Advisory 3",
+      "company": "Genpact",
+      "apply_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/9752-G-UK-Ltd-Floor-24-110-Bishopsgate-London-UK/Associate-Principal---Industry-Advisory-3_JR10001292",
+      "content_key": "content:associate principal industry advisory 3|genpact"
+    },
+    "url:https://hslcompliancelimited.teamtailor.com/jobs/7855368-trainee-environmental-technician-falkirk-and-stirling-area": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Trainee Environmental Technician - Falkirk and Stirling area",
+      "company": "HSL Compliance",
+      "apply_url": "https://hslcompliancelimited.teamtailor.com/jobs/7855368-trainee-environmental-technician-falkirk-and-stirling-area",
+      "content_key": "content:trainee environmental technician falkirk and stirling area|hsl compliance"
+    },
+    "url:https://apply.workable.com/j/000CAC8579": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Lead Data Scientist",
+      "company": "DAY30",
+      "apply_url": "https://apply.workable.com/j/000CAC8579",
+      "content_key": "content:lead data scientist|day30"
+    },
+    "url:https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/GBR-London/Machine-Learning-Engineer_JR00911-1": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Machine Learning Engineer - Search and Recommendation",
+      "company": "JD.com",
+      "apply_url": "https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/GBR-London/Machine-Learning-Engineer_JR00911-1",
+      "content_key": "content:machine learning engineer search and recommendation|jd com"
+    },
+    "url:https://jobsearch.etoncollege.com/jobs/job/Personal-Assistant-to-Deputy-Head-Curriculum/1488": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Personal Assistant to Deputy Head (Curriculum)",
+      "company": "Eton College",
+      "apply_url": "https://jobsearch.etoncollege.com/jobs/job/Personal-Assistant-to-Deputy-Head-Curriculum/1488",
+      "content_key": "content:personal assistant to deputy head curriculum|eton college"
+    },
+    "url:https://grnh.se/i2v87ds72us": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Principal Machine Learning Engineer",
+      "company": "ComplyAdvantage",
+      "apply_url": "https://grnh.se/i2v87ds72us",
+      "content_key": "content:principal machine learning engineer|complyadvantage"
+    },
+    "url:https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/GBR-London/UX-Designer_JR010911M-1": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "UX Designer",
+      "company": "JD.com",
+      "apply_url": "https://jd.wd103.myworkdayjobs.com/Careers_at_JD/job/GBR-London/UX-Designer_JR010911M-1",
+      "content_key": "content:ux designer|jd com"
+    },
+    "url:https://job-boards.greenhouse.io/toogoodtogo/jobs/7763667003": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Staff Product Manager - Key Accounts",
+      "company": "Too Good To Go",
+      "apply_url": "https://job-boards.greenhouse.io/toogoodtogo/jobs/7763667003",
+      "content_key": "content:staff product manager key accounts|too good to go"
+    },
+    "url:https://careers.withwaymo.com/jobs/recruiter-emea-london-england-united-kingdom": {
+      "first_seen_run_id": "20260607T100350",
+      "last_seen_run_id": "20260607T100350",
+      "title": "Recruiter, EMEA",
+      "company": "Waymo",
+      "apply_url": "https://careers.withwaymo.com/jobs/recruiter-emea-london-england-united-kingdom",
+      "content_key": "content:recruiter emea|waymo"
     }
   }
 }
