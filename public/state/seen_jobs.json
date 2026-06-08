@@ -1,7 +1,7 @@
 {
   "version": 1,
   "resume_hash": "bd125ad12cb36e3c0cf03c459e8fab224a1ba242b2fb0d364b35b4401054e660",
-  "updated_at": "2026-06-07T10:03:50",
+  "updated_at": "2026-06-08T14:51:32",
   "entries": {
     "url:https://www.linkedin.com/jobs/view/4414886003": {
       "first_seen_run_id": "20260531T125132",
@@ -2978,6 +2978,318 @@
       "company": "Waymo",
       "apply_url": "https://careers.withwaymo.com/jobs/recruiter-emea-london-england-united-kingdom",
       "content_key": "content:recruiter emea|waymo"
+    },
+    "url:https://www.linkedin.com/jobs/view/4404445261": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst Project Intern (TikTok Shop - EMEA Data Science) - 2026 Start (BS/MS）",
+      "company": "TikTok",
+      "apply_url": "https://www.linkedin.com/jobs/view/4404445261",
+      "content_key": "content:data analyst project intern tiktok shop emea data science 2026 start bs ms|tiktok"
+    },
+    "url:https://www.linkedin.com/jobs/view/4425491530": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Graduate Data Scientist",
+      "company": "Intellect Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425491530",
+      "content_key": "content:graduate data scientist|intellect"
+    },
+    "url:http://uk.indeed.com/job/data-analyst-f795bfdba67b56f5": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst",
+      "company": "Gamstop Group",
+      "apply_url": "http://uk.indeed.com/job/data-analyst-f795bfdba67b56f5",
+      "content_key": "content:data analyst|gamstop"
+    },
+    "url:https://sainsburys.jobs/jobs/description/400064386": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Associate Analyst",
+      "company": "Sainsbury’s",
+      "apply_url": "https://sainsburys.jobs/jobs/description/400064386",
+      "content_key": "content:associate analyst|sainsbury s"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424579765": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst",
+      "company": "Aegon UK",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424579765",
+      "content_key": "content:data analyst|aegon uk"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424576696": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist",
+      "company": "Merlin Entertainments",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424576696",
+      "content_key": "content:data scientist|merlin entertainments"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421142482": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Graduate Analyst - Data, Analytics, Quantitative Analysis",
+      "company": "Highbury Consulting",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421142482",
+      "content_key": "content:graduate analyst data analytics quantitative analysis|highbury consulting"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424657712": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist (Tesco Mobile)",
+      "company": "Tesco",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424657712",
+      "content_key": "content:data scientist tesco mobile|tesco"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419685515": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist",
+      "company": "Chattermill",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419685515",
+      "content_key": "content:data scientist|chattermill"
+    },
+    "url:https://jobs.london.edu/members/modules/job/detail.php?record=1659": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst (Aware to Admit)",
+      "company": "London Business School",
+      "apply_url": "https://jobs.london.edu/members/modules/job/detail.php?record=1659",
+      "content_key": "content:data analyst aware to admit|london business school"
+    },
+    "url:https://www.linkedin.com/jobs/view/4413879165": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist - LDN",
+      "company": "Third Bridge Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4413879165",
+      "content_key": "content:data scientist ldn|third bridge"
+    },
+    "url:http://uk.indeed.com/job/data-analyst-96ad1e12c6bd48f4": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst",
+      "company": "Ibrahim and Ray Tech Ltd",
+      "apply_url": "http://uk.indeed.com/job/data-analyst-96ad1e12c6bd48f4",
+      "content_key": "content:data analyst|ibrahim and ray tech"
+    },
+    "url:https://jobs.reading.ac.uk/tlive_webrecruitment/wrd/run/ETREC179GF.open?VACANCY_ID=319934X8h0&WVID=9493791XsD": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Planning and Strategy Data Analyst",
+      "company": "University of Reading",
+      "apply_url": "https://jobs.reading.ac.uk/tlive_webrecruitment/wrd/run/ETREC179GF.open?WVID=9493791XsD&VACANCY_ID=319934X8h0",
+      "content_key": "content:planning and strategy data analyst|university of reading"
+    },
+    "url:https://mwhtreatmentweb.eploy.net/vacancies/3332/data-analyst.html?source=Indeed": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst",
+      "company": "MWH Treatment",
+      "apply_url": "https://mwhtreatmentweb.eploy.net/vacancies/3332/data-analyst.html?source=Indeed",
+      "content_key": "content:data analyst|mwh treatment"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421945582": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst",
+      "company": "ivee",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421945582",
+      "content_key": "content:data analyst|ivee"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421965164": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst",
+      "company": "Pertemps Managed Solutions",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421965164",
+      "content_key": "content:data analyst|pertemps managed"
+    },
+    "url:https://www.linkedin.com/jobs/view/4425415432": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst/Engineers",
+      "company": "Cognizant",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425415432",
+      "content_key": "content:data analyst engineers|cognizant"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424199186": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Research Data Scientist",
+      "company": "dunnhumby",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424199186",
+      "content_key": "content:research data scientist|dunnhumby"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424611922": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist - Agentic AI (Hybrid)",
+      "company": "Allstate",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424611922",
+      "content_key": "content:data scientist agentic ai hybrid|allstate"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423056349": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist",
+      "company": "Bupa UK",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423056349",
+      "content_key": "content:data scientist|bupa uk"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424224128": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist",
+      "company": "hackajob",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424224128",
+      "content_key": "content:data scientist|hackajob"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419604860": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist",
+      "company": "SHI Corporation UK Limited",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419604860",
+      "content_key": "content:data scientist|shi uk"
+    },
+    "url:https://www.linkedin.com/jobs/view/4419257559": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist",
+      "company": "TyneStack Ltd",
+      "apply_url": "https://www.linkedin.com/jobs/view/4419257559",
+      "content_key": "content:data scientist|tynestack"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424756155": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst (Analytics Engineer)",
+      "company": "Legal & General",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424756155",
+      "content_key": "content:data analyst analytics engineer|legal general"
+    },
+    "url:https://www.linkedin.com/jobs/view/4425239782": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst",
+      "company": "Southern Water",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425239782",
+      "content_key": "content:data analyst|southern water"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423075860": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist (Growth Team)",
+      "company": "Capital on Tap",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423075860",
+      "content_key": "content:data scientist growth team|capital on tap"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424401605": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist - Cybersecurity Analyst (Position located in Cheltenham, United Kingdom)",
+      "company": "KnowBe4",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424401605",
+      "content_key": "content:data scientist cybersecurity analyst position located in cheltenham united kingdom|knowbe4"
+    },
+    "url:https://www.linkedin.com/jobs/view/4411849312": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist / Statistician (Model Developer)",
+      "company": "Capital One",
+      "apply_url": "https://www.linkedin.com/jobs/view/4411849312",
+      "content_key": "content:data scientist statistician model developer|capital one"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424705058": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Business Data Analyst",
+      "company": "G.Digital",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424705058",
+      "content_key": "content:business data analyst|g digital"
+    },
+    "url:https://www.linkedin.com/jobs/view/4405461869": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Portfolio Data Analyst",
+      "company": "Addepar",
+      "apply_url": "https://www.linkedin.com/jobs/view/4405461869",
+      "content_key": "content:portfolio data analyst|addepar"
+    },
+    "url:https://www.linkedin.com/jobs/view/4393886820": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst (Payments)",
+      "company": "Teya",
+      "apply_url": "https://www.linkedin.com/jobs/view/4393886820",
+      "content_key": "content:data analyst payments|teya"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424197405": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Freelance Machine Learning Engineer",
+      "company": "Mindrift",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424197405",
+      "content_key": "content:freelance machine learning engineer|mindrift"
+    },
+    "url:https://wise.jobs/job/senior-software-engineer-i-europe-onboarding-experience-in-london-jid-3627": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Senior Software Engineer I - Europe Onboarding Experience",
+      "company": "Wise Australia Investments",
+      "apply_url": "https://wise.jobs/job/senior-software-engineer-i-europe-onboarding-experience-in-london-jid-3627",
+      "content_key": "content:senior software engineer i europe onboarding experience|wise australia investments"
+    },
+    "url:https://www.linkedin.com/jobs/view/4420708829": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst",
+      "company": "Michael James Associates",
+      "apply_url": "https://www.linkedin.com/jobs/view/4420708829",
+      "content_key": "content:data analyst|michael james associates"
+    },
+    "url:https://www.linkedin.com/jobs/view/4425455452": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Analyst",
+      "company": "Sanderson",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425455452",
+      "content_key": "content:data analyst|sanderson"
+    },
+    "url:https://grnh.se/fzis41s14us": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist - UK",
+      "company": "Focal Systems",
+      "apply_url": "https://grnh.se/fzis41s14us",
+      "content_key": "content:data scientist uk|focal systems"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421869420": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Data Scientist",
+      "company": "Rakuten Viber",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421869420",
+      "content_key": "content:data scientist|rakuten viber"
+    },
+    "url:https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8377?c=tetratech&lang=en-GB": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Water Technician",
+      "company": "Tetra Tech",
+      "apply_url": "https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8377?c=tetratech&lang=en-GB",
+      "content_key": "content:water technician|tetra tech"
+    },
+    "url:https://jobs.ashbyhq.com/motorway/50d54ddf-b4d1-4775-badd-a98d89e77743": {
+      "first_seen_run_id": "20260608T145132",
+      "last_seen_run_id": "20260608T145132",
+      "title": "Lead Product Designer",
+      "company": "Motorway",
+      "apply_url": "https://jobs.ashbyhq.com/motorway/50d54ddf-b4d1-4775-badd-a98d89e77743?utm_source=dV4VrR5KKV",
+      "content_key": "content:lead product designer|motorway"
     }
   }
 }
