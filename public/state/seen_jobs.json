@@ -1,7 +1,7 @@
 {
   "version": 1,
   "resume_hash": "bd125ad12cb36e3c0cf03c459e8fab224a1ba242b2fb0d364b35b4401054e660",
-  "updated_at": "2026-06-08T14:51:32",
+  "updated_at": "2026-06-09T13:16:19",
   "entries": {
     "url:https://www.linkedin.com/jobs/view/4414886003": {
       "first_seen_run_id": "20260531T125132",
@@ -3290,6 +3290,342 @@
       "company": "Motorway",
       "apply_url": "https://jobs.ashbyhq.com/motorway/50d54ddf-b4d1-4775-badd-a98d89e77743?utm_source=dV4VrR5KKV",
       "content_key": "content:lead product designer|motorway"
+    },
+    "url:https://jobs.experian.com/job/graduate-data-analyst-in-nottingham-england-jid-5249": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Graduate Data Analyst",
+      "company": "Experian",
+      "apply_url": "https://jobs.experian.com/job/graduate-data-analyst-in-nottingham-england-jid-5249",
+      "content_key": "content:graduate data analyst|experian"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421959465": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Junior Data Analyst",
+      "company": "ivee",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421959465",
+      "content_key": "content:junior data analyst|ivee"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421950848": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Graduate Data Analyst",
+      "company": "Stubben Edge",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421950848",
+      "content_key": "content:graduate data analyst|stubben edge"
+    },
+    "url:https://careers.marsh.com/global/en/job/R_353782/graduatedataanalyst": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Graduate Data Analyst",
+      "company": "Marsh McLennan",
+      "apply_url": "https://careers.marsh.com/global/en/job/R_353782/graduatedataanalyst",
+      "content_key": "content:graduate data analyst|marsh mclennan"
+    },
+    "url:https://www.linkedin.com/jobs/view/4422712283": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Data Scientist",
+      "company": "Wipro",
+      "apply_url": "https://www.linkedin.com/jobs/view/4422712283",
+      "content_key": "content:data scientist|wipro"
+    },
+    "url:https://join.com/companies/telusinternational/16280768-online-data-analyst-english-speaker-in-uk?pid=a13795120131dbe48464": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Online Data Analyst - English speaker in UK",
+      "company": "TELUS Digital",
+      "apply_url": "https://join.com/companies/telusinternational/16280768-online-data-analyst-english-speaker-in-uk?pid=a13795120131dbe48464",
+      "content_key": "content:online data analyst english speaker in uk|telus digital"
+    },
+    "url:https://www.linkedin.com/jobs/view/4425810505": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Junior Data Scientist",
+      "company": "Oho Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425810505",
+      "content_key": "content:junior data scientist|oho"
+    },
+    "url:https://matalan.jobs/search/18721?_referrer_=indeed": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Risk Data Analyst",
+      "company": "Matalan",
+      "apply_url": "https://matalan.jobs/search/18721?_referrer_=indeed",
+      "content_key": "content:risk data analyst|matalan"
+    },
+    "url:http://uk.indeed.com/job/data-analyst-355a0d31017832f2": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Data Analyst",
+      "company": "Green System Solutions",
+      "apply_url": "http://uk.indeed.com/job/data-analyst-355a0d31017832f2",
+      "content_key": "content:data analyst|green system"
+    },
+    "url:https://www.capgemini.com/jobs/474025-en_GB_SAPBTP": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "frog - Consultant - Data Analytics",
+      "company": "Capgemini",
+      "apply_url": "https://www.capgemini.com/jobs/474025-en_GB_SAPBTP/",
+      "content_key": "content:frog consultant data analytics|capgemini"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421963931": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Associate Data Scientist",
+      "company": "Sainsbury's",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421963931",
+      "content_key": "content:associate data scientist|sainsbury s"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421978017": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Data Scientist",
+      "company": "Sainsbury's",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421978017",
+      "content_key": "content:data scientist|sainsbury s"
+    },
+    "url:https://tnl2.jometer.com/v2/job?jx=54owaa6fca263216042f5e90bde629b064044BYAL2AYAAABQ&jz=5sc6488365501899ee573514731c12237e54eCAAFCBYKAAAQAAAAAAFA": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Data, BI & Analytics Generalists & Leadership",
+      "company": "Just Eat Takeaway.com",
+      "apply_url": "https://tnl2.jometer.com/v2/job?jx=54owaa6fca263216042f5e90bde629b064044BYAL2AYAAABQ&jz=5sc6488365501899ee573514731c12237e54eCAAFCBYKAAAQAAAAAAFA&utm_source=Joveo&utm_medium=CPL&utm_campaign=Indeedorganic",
+      "content_key": "content:data bi analytics generalists leadership|just eat takeaway com"
+    },
+    "url:https://www.atlascopcogroup.com/en/careers/jobs/job-overview/job-detail/customer-and-market-data-analyst---yin/169611": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Customer and Market Data Analyst - YIN",
+      "company": "Atlas Copco Group",
+      "apply_url": "https://www.atlascopcogroup.com/en/careers/jobs/job-overview/job-detail/customer-and-market-data-analyst---yin/169611",
+      "content_key": "content:customer and market data analyst yin|atlas copco"
+    },
+    "url:https://www.linkedin.com/jobs/view/4425180491": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Data Analyst",
+      "company": "Day1data",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425180491",
+      "content_key": "content:data analyst|day1data"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424282336": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Data Scientist, EMEIA Sales",
+      "company": "Apple",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424282336",
+      "content_key": "content:data scientist emeia sales|apple"
+    },
+    "url:https://www.linkedin.com/jobs/view/4426330068": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Applied Science Intern",
+      "company": "Microsoft",
+      "apply_url": "https://www.linkedin.com/jobs/view/4426330068",
+      "content_key": "content:applied science intern|microsoft"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424644789": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "AI Engineer",
+      "company": "bigspark",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424644789",
+      "content_key": "content:ai engineer|bigspark"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424605095": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "AI/ML Engineer",
+      "company": "Oho Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424605095",
+      "content_key": "content:ai ml engineer|oho"
+    },
+    "url:https://grnh.se/nvroe29h2us": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Product Manager - Reference Data",
+      "company": "Addepar",
+      "apply_url": "https://grnh.se/nvroe29h2us",
+      "content_key": "content:product manager reference data|addepar"
+    },
+    "url:https://jobs.smartrecruiters.com/Three-UK/744000131102278-vodafonethree-financial-data-analyst": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "VodafoneThree Financial Data Analyst",
+      "company": "VodafoneThree",
+      "apply_url": "https://jobs.smartrecruiters.com/Three-UK/744000131102278-vodafonethree-financial-data-analyst",
+      "content_key": "content:vodafonethree financial data analyst|vodafonethree"
+    },
+    "url:https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_display_apply_ind=Y&p_display_in_irish=N&p_internal_external=E&p_recruitment_id=186861&p_refresh_search=Y": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Data Analyst",
+      "company": "University of Oxford",
+      "apply_url": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_applicant_no=&p_recruitment_id=186861&p_process_type=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y",
+      "content_key": "content:data analyst|university of oxford"
+    },
+    "url:https://ats.rippling.com/rippling/jobs/3db8182c-1fb5-4642-86a0-4476be03c08c?jobSite=Indeed": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Compliance Governance Data Scientist",
+      "company": "Rippling",
+      "apply_url": "https://ats.rippling.com/rippling/jobs/3db8182c-1fb5-4642-86a0-4476be03c08c?jobSite=Indeed",
+      "content_key": "content:compliance governance data scientist|rippling"
+    },
+    "url:https://jobsearch.baesystems.com/job/she-data-analyst-systems-officer-00136831": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "SHE Data Analyst & Systems Officer",
+      "company": "BAE Systems",
+      "apply_url": "https://jobsearch.baesystems.com/job/she-data-analyst-systems-officer-00136831",
+      "content_key": "content:she data analyst systems officer|bae systems"
+    },
+    "url:https://qaqaheweb.eploy.net/vacancies/574/senior-data-analyst-l4-apprenticeship-trainer.html?source=Indeed": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Senior Data Analyst (L4) Apprenticeship Trainer",
+      "company": "QA",
+      "apply_url": "https://qaqaheweb.eploy.net/vacancies/574/senior-data-analyst-l4-apprenticeship-trainer.html?source=Indeed",
+      "content_key": "content:senior data analyst l4 apprenticeship trainer|qa"
+    },
+    "url:https://www.linkedin.com/jobs/view/4425997234": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Reinforcement Learning Engineer",
+      "company": "Predictiva",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425997234",
+      "content_key": "content:reinforcement learning engineer|predictiva"
+    },
+    "url:https://wise.jobs/job/senior-data-analyst-finance-reporting-in-london-jid-3630": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Senior Data Analyst - Finance Reporting",
+      "company": "Wise Australia Investments",
+      "apply_url": "https://wise.jobs/job/senior-data-analyst-finance-reporting-in-london-jid-3630",
+      "content_key": "content:senior data analyst finance reporting|wise australia investments"
+    },
+    "url:https://www.collinsongrouptalent.com/jobs/7874230-junior-data-analyst": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Junior Data Analyst",
+      "company": "COLLINSON",
+      "apply_url": "https://www.collinsongrouptalent.com/jobs/7874230-junior-data-analyst",
+      "content_key": "content:junior data analyst|collinson"
+    },
+    "url:https://jobs.ashbyhq.com/n8n/edd9e287-262e-4fcb-8aa5-2067e6526efa": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Product Data Analyst",
+      "company": "n8n",
+      "apply_url": "https://jobs.ashbyhq.com/n8n/edd9e287-262e-4fcb-8aa5-2067e6526efa?utm_source=3ZqYBLJ41R",
+      "content_key": "content:product data analyst|n8n"
+    },
+    "url:https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=d0f6f3fc-e22e-48cc-8d92-107e52c30ed5&jobId=592101&lang=en_US&source=IN": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Flight Data Analyst",
+      "company": "Acron Aviation",
+      "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d0f6f3fc-e22e-48cc-8d92-107e52c30ed5&ccId=19000101_000001&jobId=592101&source=IN&lang=en_US",
+      "content_key": "content:flight data analyst|acron aviation"
+    },
+    "url:https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-3/user-32/xf-4a83d817c70c/wid-1/candidate/so/pm/6/pl/17/opp/9513-Fleet-Data-Analyst-and-Administrative-Supervisor/en-GB": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Fleet Data Analyst and Administrative Supervisor",
+      "company": "Dyfed Powys Police",
+      "apply_url": "https://policejobswales.tal.net/vx/lang-en-GB/mobile-0/appcentre-9/brand-3/user-32/xf-4a83d817c70c/wid-1/candidate/so/pm/6/pl/17/opp/9513-Fleet-Data-Analyst-and-Administrative-Supervisor/en-GB",
+      "content_key": "content:fleet data analyst and administrative supervisor|dyfed powys police"
+    },
+    "url:https://hippodigitalweb.eploy.net/vacancies/1397/senior-data-analyst.html?source=Indeed": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Senior Data Analyst",
+      "company": "Hippo Digital Limited",
+      "apply_url": "https://hippodigitalweb.eploy.net/vacancies/1397/senior-data-analyst.html?source=Indeed",
+      "content_key": "content:senior data analyst|hippo digital"
+    },
+    "url:https://www.linkedin.com/jobs/view/4413421042": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Data Analyst",
+      "company": "Cisco",
+      "apply_url": "https://www.linkedin.com/jobs/view/4413421042",
+      "content_key": "content:data analyst|cisco"
+    },
+    "url:https://www.linkedin.com/jobs/view/4425675410": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Machine Learning Scientist",
+      "company": "Ground Truth Labs",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425675410",
+      "content_key": "content:machine learning scientist|ground truth"
+    },
+    "url:https://www.linkedin.com/jobs/view/4375697123": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Machine Learning Engineer",
+      "company": "algo1",
+      "apply_url": "https://www.linkedin.com/jobs/view/4375697123",
+      "content_key": "content:machine learning engineer|algo1"
+    },
+    "url:https://www.linkedin.com/jobs/view/4421988161": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Machine Learning Engineer",
+      "company": "G-Research",
+      "apply_url": "https://www.linkedin.com/jobs/view/4421988161",
+      "content_key": "content:machine learning engineer|g research"
+    },
+    "url:https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_display_apply_ind=Y&p_display_in_irish=N&p_internal_external=E&p_recruitment_id=186860&p_refresh_search=Y": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Project Manager",
+      "company": "University of Oxford",
+      "apply_url": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_applicant_no=&p_recruitment_id=186860&p_process_type=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y",
+      "content_key": "content:project manager|university of oxford"
+    },
+    "url:https://fca.wd3.myworkdayjobs.com/en-US/PSR_Careers/job/London/Payments-Data---Policy-Lead_JR0021597-3": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Payments Data & Policy Lead",
+      "company": "Financial Conduct Authority",
+      "apply_url": "https://fca.wd3.myworkdayjobs.com/en-US/PSR_Careers/job/London/Payments-Data---Policy-Lead_JR0021597-3",
+      "content_key": "content:payments data policy lead|financial conduct authority"
+    },
+    "url:https://careers.google.com/jobs/results/132754110574142150-staff-product-data-scientist": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Staff Product Data Scientist, Google Shopping",
+      "company": "Google",
+      "apply_url": "https://careers.google.com/jobs/results/132754110574142150-staff-product-data-scientist/",
+      "content_key": "content:staff product data scientist google shopping|google"
+    },
+    "url:https://jobs.smartrecruiters.com/Wise/744000130855878-ios-engineer": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "iOS Engineer",
+      "company": "Wise",
+      "apply_url": "https://jobs.smartrecruiters.com/Wise/744000130855878-ios-engineer",
+      "content_key": "content:ios engineer|wise"
+    },
+    "url:https://www.linkedin.com/jobs/view/4425260546": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Data Analyst",
+      "company": "Work Force Nexus",
+      "apply_url": "https://www.linkedin.com/jobs/view/4425260546",
+      "content_key": "content:data analyst|work force nexus"
+    },
+    "url:https://www.linkedin.com/jobs/view/4424739768": {
+      "first_seen_run_id": "20260609T131619",
+      "last_seen_run_id": "20260609T131619",
+      "title": "Artificial Intelligence Engineer",
+      "company": "bigspark",
+      "apply_url": "https://www.linkedin.com/jobs/view/4424739768",
+      "content_key": "content:artificial intelligence engineer|bigspark"
     }
   }
 }
