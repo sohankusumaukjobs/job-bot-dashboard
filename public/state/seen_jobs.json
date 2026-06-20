@@ -1,2227 +1,755 @@
 {
   "version": 1,
-  "resume_hash": "17fc3e5da186086fa44178fd40c7c0e15c6524fe53e08e6e0cee143de811e35d",
-  "updated_at": "2026-06-20T09:34:48",
+  "resume_hash": "5cee2f0a0ae00536e740f5c8bd69d4c59c7a2c4360aa0b17fff7ef28c8a6ab4e",
+  "updated_at": "2026-06-20T19:00:46",
   "entries": {
-    "url:https://www.linkedin.com/jobs/view/4422256235": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Junior Data Scientist",
-      "company": "Why Hiring",
-      "apply_url": "https://www.linkedin.com/jobs/view/4422256235",
-      "content_key": "content:junior data scientist|why hiring"
-    },
-    "url:https://apply.workable.com/j/2535DDC6B3": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer in Residence, Summer 2026",
-      "company": "Playfair Ltd",
-      "apply_url": "https://apply.workable.com/j/2535DDC6B3",
-      "content_key": "content:ai engineer in residence summer 2026|playfair"
-    },
-    "url:https://www.linkedin.com/jobs/view/4415371686": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Graduate Machine Learning Engineer",
-      "company": "Compare the Market",
-      "apply_url": "https://www.linkedin.com/jobs/view/4415371686",
-      "content_key": "content:graduate machine learning engineer|compare the market"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425491530": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Graduate Data Scientist",
-      "company": "Intellect Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425491530",
-      "content_key": "content:graduate data scientist|intellect"
-    },
-    "url:http://uk.indeed.com/job/ai-engineer-3c874871704cf843": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "Zephyr Tech Ltd",
-      "apply_url": "http://uk.indeed.com/job/ai-engineer-3c874871704cf843",
-      "content_key": "content:ai engineer|zephyr tech"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425486654": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "Intellect Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425486654",
-      "content_key": "content:machine learning engineer|intellect"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425483596": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Intellect Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425483596",
-      "content_key": "content:artificial intelligence engineer|intellect"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425810505": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Junior Data Scientist",
-      "company": "Oho Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425810505",
-      "content_key": "content:junior data scientist|oho"
-    },
-    "url:https://www.theaacareers.co.uk/apply/job-details?id=500000231654": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "The AA",
-      "apply_url": "https://www.theaacareers.co.uk/apply/job-details/?id=500000231654",
-      "content_key": "content:ai engineer|the aa"
-    },
-    "url:https://www.linkedin.com/jobs/view/4424688082": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "Coefficient 🌀",
-      "apply_url": "https://www.linkedin.com/jobs/view/4424688082",
-      "content_key": "content:data scientist|coefficient"
-    },
-    "url:https://www.linkedin.com/jobs/view/4422294870": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "Corriculo Recruitment",
-      "apply_url": "https://www.linkedin.com/jobs/view/4422294870",
-      "content_key": "content:ai engineer|corriculo recruitment"
-    },
-    "url:https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Chiswick-United-Kingdom/AI-Engineer---AI-Analyst_R322123": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer / AI Analyst",
-      "company": "Light & Wonder",
-      "apply_url": "https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Chiswick-United-Kingdom/AI-Engineer---AI-Analyst_R322123",
-      "content_key": "content:ai engineer ai analyst|light wonder"
-    },
-    "url:https://www.linkedin.com/jobs/view/4422293418": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "Anaplan",
-      "apply_url": "https://www.linkedin.com/jobs/view/4422293418",
-      "content_key": "content:ai engineer|anaplan"
-    },
-    "url:https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola/job/United-Kingdom-Glasgow/Data-Scientist_R-30026": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "Iberdrola Group",
-      "apply_url": "https://iberdrola.wd3.myworkdayjobs.com/en-US/Iberdrola/job/United-Kingdom-Glasgow/Data-Scientist_R-30026",
-      "content_key": "content:data scientist|iberdrola"
-    },
-    "url:https://jobs.ashbyhq.com/magentic/03a070ac-262f-4d87-8028-e78d98d3cb8e": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "Magentic",
-      "apply_url": "https://jobs.ashbyhq.com/magentic/03a070ac-262f-4d87-8028-e78d98d3cb8e?utm_source=LMQa6GDwWv",
-      "content_key": "content:data scientist|magentic"
-    },
-    "url:https://www.linkedin.com/jobs/view/4421119341": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "Haystack",
-      "apply_url": "https://www.linkedin.com/jobs/view/4421119341",
-      "content_key": "content:data scientist|haystack"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425574426": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "Flutter UK & Ireland",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425574426",
-      "content_key": "content:data scientist|flutter uk ireland"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425875539": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Graduate AI software engineer",
-      "company": "Bending Spoons",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425875539",
-      "content_key": "content:graduate ai software engineer|bending spoons"
-    },
-    "url:https://jobs.natwestgroup.com/jobs/17841058-applied-ai-engineer": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Applied AI Engineer",
-      "company": "NatWest Group",
-      "apply_url": "https://jobs.natwestgroup.com/jobs/17841058-applied-ai-engineer",
-      "content_key": "content:applied ai engineer|natwest"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426143299": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "ML Engineer",
-      "company": "Sky",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426143299",
-      "content_key": "content:ml engineer|sky"
-    },
-    "url:https://jobs.dayforcehcm.com/en-GB/jdemea/CANDIDATEPORTAL/jobs/33662": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Engineer (Maternity Cover 12 month FTC)",
-      "company": "JD Sports Fashion",
-      "apply_url": "https://jobs.dayforcehcm.com/en-GB/jdemea/CANDIDATEPORTAL/jobs/33662",
-      "content_key": "content:data engineer maternity cover 12 month ftc|jd sports fashion"
-    },
-    "url:https://field.pinpointhq.com/postings/fb210f7b-7f5c-4a99-ae52-9028ec3bc502": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Software Engineer - Data",
-      "company": "Field",
-      "apply_url": "https://field.pinpointhq.com/postings/fb210f7b-7f5c-4a99-ae52-9028ec3bc502?utm_medium=job_board&utm_source=indeed",
-      "content_key": "content:software engineer data|field"
-    },
-    "url:https://www.linkedin.com/jobs/view/4422712283": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "Wipro",
-      "apply_url": "https://www.linkedin.com/jobs/view/4422712283",
-      "content_key": "content:data scientist|wipro"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426300266": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist - Applied AI (Go-To-Market) 12 Months Fixed Term",
-      "company": "Trustpilot",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426300266",
-      "content_key": "content:data scientist applied ai go to market 12 months fixed term|trustpilot"
-    },
-    "url:https://www.linkedin.com/jobs/view/4423151353": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "ScottishPower",
-      "apply_url": "https://www.linkedin.com/jobs/view/4423151353",
-      "content_key": "content:data scientist|scottishpower"
-    },
-    "url:https://tnl2.jometer.com/v2/job?jz=5a3hna8b174be16ebf1cf2d0e17ecca6730ebBAACQAIAAABQ": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer (Generative AI, RAG & Conversational Systems)",
-      "company": "Sky",
-      "apply_url": "https://tnl2.jometer.com/v2/job?jz=5a3hna8b174be16ebf1cf2d0e17ecca6730ebBAACQAIAAABQ&utm_source=indeedorganic_rsr",
-      "content_key": "content:machine learning engineer generative ai rag conversational systems|sky"
-    },
-    "url:https://jobs.ashbyhq.com/faculty/98f476d9-39ea-4bcc-b908-a6f6b8119fb9": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "Faculty",
-      "apply_url": "https://jobs.ashbyhq.com/faculty/98f476d9-39ea-4bcc-b908-a6f6b8119fb9?utm_source=GKq5ZB5eEl",
-      "content_key": "content:machine learning engineer|faculty"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426332309": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist : ML Engineer",
-      "company": "TipTopJob",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426332309",
-      "content_key": "content:data scientist ml engineer|tiptopjob"
-    },
-    "url:https://search.jobs.barclays/job/glasgow/ai-engineer/13015/96172963264": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "Barclays",
-      "apply_url": "https://search.jobs.barclays/job/glasgow/ai-engineer/13015/96172963264",
-      "content_key": "content:ai engineer|barclays"
-    },
-    "url:https://careers.medpace.com/jobs/12785/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Engineer (AI) - London",
-      "company": "Medpace",
-      "apply_url": "https://careers.medpace.com/jobs/12785/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "content_key": "content:data engineer ai london|medpace"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426357473": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "Prism Digital",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426357473",
-      "content_key": "content:ai engineer|prism digital"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425251688": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist - Forecasting",
-      "company": "Tesco",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425251688",
-      "content_key": "content:data scientist forecasting|tesco"
-    },
-    "url:https://www.linkedin.com/jobs/view/4413886373": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist - Neural Net Forecasting",
-      "company": "Tesco",
-      "apply_url": "https://www.linkedin.com/jobs/view/4413886373",
-      "content_key": "content:data scientist neural net forecasting|tesco"
-    },
-    "url:https://click.appcast.io/t/GEiqHOKqLpPuE5g_m2E5c3Gfbkxn6eT6h01v6VsPgYk=": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Financial Crime Solutions - Data Scientist II",
-      "company": "Mastercard",
-      "apply_url": "https://click.appcast.io/t/GEiqHOKqLpPuE5g_m2E5c3Gfbkxn6eT6h01v6VsPgYk=",
-      "content_key": "content:financial crime solutions data scientist ii|mastercard"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426745176": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "Duku AI",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426745176",
-      "content_key": "content:machine learning engineer|duku ai"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426330068": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Applied Science Intern",
-      "company": "Microsoft",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426330068",
-      "content_key": "content:applied science intern|microsoft"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426567516": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "Cint",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426567516",
-      "content_key": "content:data scientist|cint"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425815497": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Experimentation Specialist",
-      "company": "Frasers Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425815497",
-      "content_key": "content:experimentation specialist|frasers"
-    },
-    "url:https://www.linkedin.com/jobs/view/4344206196": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "CGI",
-      "apply_url": "https://www.linkedin.com/jobs/view/4344206196",
-      "content_key": "content:data scientist|cgi"
-    },
-    "url:https://www.linkedin.com/jobs/view/4421126948": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "PHMG",
-      "apply_url": "https://www.linkedin.com/jobs/view/4421126948",
-      "content_key": "content:data scientist|phmg"
-    },
-    "url:https://www.linkedin.com/jobs/view/4416148261": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Applied Data Scientist",
-      "company": "dunnhumby",
-      "apply_url": "https://www.linkedin.com/jobs/view/4416148261",
-      "content_key": "content:applied data scientist|dunnhumby"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426098860": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Junior Data Scientist",
-      "company": "Information Tech Consultants",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426098860",
-      "content_key": "content:junior data scientist|information tech consultants"
-    },
-    "url:https://t.gohiring.com/h/17a1a318315e7bf497321b773065a50a3e860b72bfe2150ebb761b64b7d3268d?source=Indeed": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer - Intelligence Group",
-      "company": "SmartNumbers",
-      "apply_url": "https://t.gohiring.com/h/17a1a318315e7bf497321b773065a50a3e860b72bfe2150ebb761b64b7d3268d?source=Indeed",
-      "content_key": "content:machine learning engineer intelligence group|smartnumbers"
-    },
-    "url:https://www.linkedin.com/jobs/view/4423120095": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI/ML Engineer",
-      "company": "Stott and May",
-      "apply_url": "https://www.linkedin.com/jobs/view/4423120095",
-      "content_key": "content:ai ml engineer|stott and may"
-    },
-    "url:https://www.linkedin.com/jobs/view/4422272887": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Software Engineer | Remote",
-      "company": "Crossing Hurdles",
-      "apply_url": "https://www.linkedin.com/jobs/view/4422272887",
-      "content_key": "content:software engineer remote|crossing hurdles"
-    },
-    "url:https://www.linkedin.com/jobs/view/4405127326": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer (Recommenders)",
-      "company": "ASOS.com",
-      "apply_url": "https://www.linkedin.com/jobs/view/4405127326",
-      "content_key": "content:machine learning engineer recommenders|asos com"
-    },
-    "url:https://www.linkedin.com/jobs/view/4415695557": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "Baringa",
-      "apply_url": "https://www.linkedin.com/jobs/view/4415695557",
-      "content_key": "content:machine learning engineer|baringa"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426305591": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Engineer",
-      "company": "Creditsafe",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426305591",
-      "content_key": "content:data engineer|creditsafe"
-    },
-    "url:https://www.linkedin.com/jobs/view/4421965898": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "Persistent Systems",
-      "apply_url": "https://www.linkedin.com/jobs/view/4421965898",
-      "content_key": "content:machine learning engineer|persistent systems"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426220815": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "Digital Waffle",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426220815",
-      "content_key": "content:machine learning engineer|digital waffle"
-    },
-    "url:https://www.linkedin.com/jobs/view/4423155606": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI / ML Engineer",
-      "company": "SR2 | Socially Responsible Recruitment | Certified B Corporation™",
-      "apply_url": "https://www.linkedin.com/jobs/view/4423155606",
-      "content_key": "content:ai ml engineer|sr2 socially responsible recruitment certified b"
-    },
-    "url:https://relx.wd3.myworkdayjobs.com/en-US/ElsevierJobs/job/London/AI-Engineer_R114346": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "Elsevier",
-      "apply_url": "https://relx.wd3.myworkdayjobs.com/en-US/ElsevierJobs/job/London/AI-Engineer_R114346",
-      "content_key": "content:ai engineer|elsevier"
-    },
-    "url:https://relx.wd3.myworkdayjobs.com/en-US/relx/job/London/AI-Engineer_R114346-1": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "RELX Group",
-      "apply_url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/London/AI-Engineer_R114346-1",
-      "content_key": "content:ai engineer|relx"
-    },
-    "url:https://careers.simplify.co.uk/job/893446": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer - Azure & C# .NET",
-      "company": "Simplify Group",
-      "apply_url": "https://careers.simplify.co.uk/job/893446?utm_source=indeed",
-      "content_key": "content:ai engineer azure c net|simplify"
-    },
-    "url:https://grnh.se/up6osm974us": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "PlayStation",
-      "apply_url": "https://grnh.se/up6osm974us",
-      "content_key": "content:ai engineer|playstation"
-    },
-    "url:https://maddevs.io/careers/llm-engineer": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Applied AI / LLM Engineer (Python)",
-      "company": "Mad Devs",
-      "apply_url": "https://maddevs.io/careers/llm-engineer/",
-      "content_key": "content:applied ai llm engineer python|mad devs"
-    },
-    "url:https://careers.medpace.com/jobs/11795/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "Medpace",
-      "apply_url": "https://careers.medpace.com/jobs/11795/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "content_key": "content:ai engineer|medpace"
-    },
-    "url:https://www.linkedin.com/jobs/view/4420751012": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "Information Tech Consultants",
-      "apply_url": "https://www.linkedin.com/jobs/view/4420751012",
-      "content_key": "content:machine learning engineer|information tech consultants"
-    },
-    "url:https://www.linkedin.com/jobs/view/4423138000": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Artificial Intelligence Engineer",
-      "company": "numi",
-      "apply_url": "https://www.linkedin.com/jobs/view/4423138000",
-      "content_key": "content:artificial intelligence engineer|numi"
-    },
-    "url:https://www.linkedin.com/jobs/view/4423619050": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI/ML Engineering (All Levels)",
-      "company": "Toast",
-      "apply_url": "https://www.linkedin.com/jobs/view/4423619050",
-      "content_key": "content:ai ml engineering all levels|toast"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426204998": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Digital Waffle",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426204998",
-      "content_key": "content:artificial intelligence engineer|digital waffle"
-    },
-    "url:https://www.linkedin.com/jobs/view/4422715899": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Applied Scientist",
-      "company": "ASOS.com",
-      "apply_url": "https://www.linkedin.com/jobs/view/4422715899",
-      "content_key": "content:applied scientist|asos com"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425675410": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Scientist",
-      "company": "Ground Truth Labs",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425675410",
-      "content_key": "content:machine learning scientist|ground truth"
-    },
-    "url:https://www.linkedin.com/jobs/view/4352343601": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Software Engineer - ML (d/f/m)",
-      "company": "Personio",
-      "apply_url": "https://www.linkedin.com/jobs/view/4352343601",
-      "content_key": "content:software engineer ml d f m|personio"
-    },
-    "url:https://jobs.ashbyhq.com/Lime/0aa173e6-6f88-4997-8689-b7d7ac4e4b5f": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Project Manager, Operational Reporting & Insights",
-      "company": "Lime",
-      "apply_url": "https://jobs.ashbyhq.com/Lime/0aa173e6-6f88-4997-8689-b7d7ac4e4b5f?utm_source=4E9xjxE5la",
-      "content_key": "content:project manager operational reporting insights|lime"
-    },
-    "url:https://singerinstrumentscoltd.peoplehr.net/Pages/JobBoard/Opening.aspx?v=fc9777c2-40b1-4a1e-bdb6-e3b6acec75b3": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Specialist / Annotator (Image Labeller) 6-month Fixed Term Contract",
-      "company": "Singer Instruments",
-      "apply_url": "https://singerinstrumentscoltd.peoplehr.net/Pages/JobBoard/Opening.aspx?v=fc9777c2-40b1-4a1e-bdb6-e3b6acec75b3",
-      "content_key": "content:data specialist annotator image labeller 6 month fixed term contract|singer instruments"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425976798": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI / ML Engineer",
-      "company": "Forge Holiday Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425976798",
-      "content_key": "content:ai ml engineer|forge holiday"
-    },
-    "url:https://www.linkedin.com/jobs/view/4424640934": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "hackajob",
-      "apply_url": "https://www.linkedin.com/jobs/view/4424640934",
-      "content_key": "content:machine learning engineer|hackajob"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426220681": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer (£70k+ + Equity) at Social-impact AI startup backed by founders of Tide and Mumsnet",
-      "company": "Jack & Jill",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426220681",
-      "content_key": "content:machine learning engineer 70k equity at social impact ai startup backed by founders of tide and mumsnet|jack jill"
-    },
-    "url:https://jpmorganchase.contacthr.com/152410827": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Software Engineer III - Fullstack (Java, React, Python and AI) Engineer",
-      "company": "JPMorganChase",
-      "apply_url": "https://JPMorganChase.contacthr.com/152410827",
-      "content_key": "content:software engineer iii fullstack java react python and ai engineer|jpmorganchase"
-    },
-    "url:https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/33215": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineer",
-      "company": "Chubb Insurance",
-      "apply_url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/33215",
-      "content_key": "content:ai engineer|chubb insurance"
-    },
-    "url:https://clearroute.teamtailor.com/jobs/7860109-senior-platform-ai-engineer": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior Platform & AI Engineer",
-      "company": "ClearRoute",
-      "apply_url": "https://clearroute.teamtailor.com/jobs/7860109-senior-platform-ai-engineer",
-      "content_key": "content:senior platform ai engineer|clearroute"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426372023": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Artificial Intelligence Engineer",
-      "company": "TrueNorth®",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426372023",
-      "content_key": "content:artificial intelligence engineer|truenorth"
-    },
-    "url:https://www.linkedin.com/jobs/view/4421929556": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "XpertDirect",
-      "apply_url": "https://www.linkedin.com/jobs/view/4421929556",
-      "content_key": "content:machine learning engineer|xpertdirect"
-    },
-    "url:https://www.linkedin.com/jobs/view/4424193758": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Developer (Freelance)",
-      "company": "Mindrift",
-      "apply_url": "https://www.linkedin.com/jobs/view/4424193758",
-      "content_key": "content:machine learning developer freelance|mindrift"
-    },
-    "url:https://www.linkedin.com/jobs/view/4414558092": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "Graham Capital Management, L.P.",
-      "apply_url": "https://www.linkedin.com/jobs/view/4414558092",
-      "content_key": "content:machine learning engineer|graham capital management l p"
-    },
-    "url:http://uk.indeed.com/job/data-scientist-3032d7d17385a1b0": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "TalentHub Global Ltd",
-      "apply_url": "http://uk.indeed.com/job/data-scientist-3032d7d17385a1b0",
-      "content_key": "content:data scientist|talenthub global"
-    },
-    "url:https://usource.ripplehire.com/candidate?source=CAREERSITE&token=xHQWoFn4C242POo7xMpH": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Lead Data Engineer – Azure & Databricks_ Nottingham, Hybrid (Lead I - Data Engineering)",
-      "company": "UST",
-      "apply_url": "https://usource.ripplehire.com/candidate/?token=xHQWoFn4C242POo7xMpH&source=CAREERSITE#detail/job/60090",
-      "content_key": "content:lead data engineer azure databricks nottingham hybrid lead i data engineering|ust"
-    },
-    "url:https://www.dataidols.com/job/4104-2": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Lead Data Scientist",
-      "company": "Data Idols",
-      "apply_url": "https://www.dataidols.com/job/4104-2/",
-      "content_key": "content:lead data scientist|data idols"
-    },
-    "url:https://edfenergy-1481212-gb-engb.sr-attrax.com/job/senior-algorithmic-trading-strategist-in-london-jid-1998": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior Algorithmic Trading Strategist",
-      "company": "EDF Energy Limited",
-      "apply_url": "https://edfenergy-1481212-gb-engb.sr-attrax.com/job/senior-algorithmic-trading-strategist-in-london-jid-1998",
-      "content_key": "content:senior algorithmic trading strategist|edf energy"
-    },
-    "url:https://paypal.eightfold.ai/careers/job/274920220549": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Sr Data Scientist",
-      "company": "PayPal",
-      "apply_url": "https://paypal.eightfold.ai/careers/job/274920220549",
-      "content_key": "content:sr data scientist|paypal"
-    },
-    "url:https://vml-map.com/position/London/Experience/crm-strategist/8585271002": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "CRM Strategist",
-      "company": "Wunderman Thompson",
-      "apply_url": "https://vml-map.com/position/London/Experience/crm-strategist/8585271002/",
-      "content_key": "content:crm strategist|wunderman thompson"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425814143": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Applied Scientist",
-      "company": "DMCG Global",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425814143",
-      "content_key": "content:applied scientist|dmcg global"
-    },
-    "url:https://www.linkedin.com/jobs/view/4422247835": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior Data Engineer – Central London | Up to £80k + bonus",
-      "company": "Oliver Bernard",
-      "apply_url": "https://www.linkedin.com/jobs/view/4422247835",
-      "content_key": "content:senior data engineer central london up to 80k bonus|oliver bernard"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425812999": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "IMC Trading",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425812999",
-      "content_key": "content:machine learning engineer|imc trading"
-    },
-    "url:https://www.linkedin.com/jobs/view/4425634015": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist",
-      "company": "Sanderson Government & Defence",
-      "apply_url": "https://www.linkedin.com/jobs/view/4425634015",
-      "content_key": "content:data scientist|sanderson government defence"
-    },
-    "url:https://grnh.se/bbc4a512teu": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer",
-      "company": "IMC",
-      "apply_url": "https://grnh.se/bbc4a512teu",
-      "content_key": "content:machine learning engineer|imc"
-    },
-    "url:https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200656273-2114&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-gb%2Fdetails%2F200656273-2114%2Fsenior-machine-learning-engineer-music-recommendation-engine%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D2b6d4cb3-6484-11f1-b5bb-a785fb540bbe%26rx_job%3D200656273-2114%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260611T080420Z%26rx_vp%3Dcpc%26team%3DMLAI": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior Machine Learning Engineer - Music Recommendation Engine",
-      "company": "Apple",
-      "apply_url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200656273-2114&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-gb%2Fdetails%2F200656273-2114%2Fsenior-machine-learning-engineer-music-recommendation-engine%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D2b6d4cb3-6484-11f1-b5bb-a785fb540bbe%26rx_job%3D200656273-2114%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260611T080420Z%26rx_vp%3Dcpc%26team%3DMLAI",
-      "content_key": "content:senior machine learning engineer music recommendation engine|apple"
-    },
-    "url:https://singerinstrumentscoltd.peoplehr.net/Pages/JobBoard/Opening.aspx?v=bdbd2279-1744-4eee-9786-668128b9ed82": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Machine Learning Engineer - 6-month Fixed Term Contract",
-      "company": "Singer Instruments",
-      "apply_url": "https://singerinstrumentscoltd.peoplehr.net/Pages/JobBoard/Opening.aspx?v=bdbd2279-1744-4eee-9786-668128b9ed82",
-      "content_key": "content:machine learning engineer 6 month fixed term contract|singer instruments"
-    },
-    "url:https://jpmorganchase.contacthr.com/152350694": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Scientist Lead",
-      "company": "JPMorganChase",
-      "apply_url": "https://JPMorganChase.contacthr.com/152350694",
-      "content_key": "content:data scientist lead|jpmorganchase"
-    },
-    "url:https://careers.cognizant.com/global-en/jobs/00069210621/senior-ai-engineer": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior AI Engineer",
-      "company": "Cognizant",
-      "apply_url": "https://careers.cognizant.com/global-en/jobs/00069210621/senior-ai-engineer/",
-      "content_key": "content:senior ai engineer|cognizant"
-    },
-    "url:https://jobs.ashbyhq.com/quantum/e42d30b8-6b00-403e-9dcc-3eb313edf54b": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior AI Engineer",
-      "company": "Quantum",
-      "apply_url": "https://jobs.ashbyhq.com/quantum/e42d30b8-6b00-403e-9dcc-3eb313edf54b?utm_source=1bdvdNw5Zz",
-      "content_key": "content:senior ai engineer|quantum"
-    },
-    "url:https://tmhcc.wd108.myworkdayjobs.com/en-US/External/job/UK---London--St-Botolph-/Senior-AI-Engineer_2026-547": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior AI Engineer",
-      "company": "Tokio Marine HCC",
-      "apply_url": "https://tmhcc.wd108.myworkdayjobs.com/en-US/External/job/UK---London--St-Botolph-/Senior-AI-Engineer_2026-547",
-      "content_key": "content:senior ai engineer|tokio marine hcc"
-    },
-    "url:http://uk.indeed.com/job/senior-ai-engineer-ce1f8bafeba875ad": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior AI engineer",
-      "company": "Astreon Ai Group",
-      "apply_url": "http://uk.indeed.com/job/senior-ai-engineer-ce1f8bafeba875ad",
-      "content_key": "content:senior ai engineer|astreon ai"
-    },
-    "url:https://www.paconsulting.com/jobs/senior-ai-engineer-744000120547417": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior AI Engineer",
-      "company": "PA Consulting",
-      "apply_url": "https://www.paconsulting.com/jobs/senior-ai-engineer-744000120547417",
-      "content_key": "content:senior ai engineer|pa consulting"
-    },
-    "url:https://careers.medpace.com/jobs/12788/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior AI Engineer",
-      "company": "Medpace",
-      "apply_url": "https://careers.medpace.com/jobs/12788/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "content_key": "content:senior ai engineer|medpace"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426349122": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Python AI Engineer",
-      "company": "Crisil",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426349122",
-      "content_key": "content:python ai engineer|crisil"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426380750": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Trust In SODA",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426380750",
-      "content_key": "content:artificial intelligence engineer|trust in soda"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426089455": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Junior AI Engineer - Computer Vision",
-      "company": "InnovationTeam",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426089455",
-      "content_key": "content:junior ai engineer computer vision|innovationteam"
-    },
-    "url:https://careers.wipro.com/job/DATA-SCIENTIST-LEAD-L1%28CONTRACT%29/181017-en_US": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "DATA SCIENTIST LEAD L1(CONTRACT)",
-      "company": "Wipro UK",
-      "apply_url": "https://careers.wipro.com/job/DATA-SCIENTIST-LEAD-L1%28CONTRACT%29/181017-en_US",
-      "content_key": "content:data scientist lead l1 contract|wipro uk"
-    },
-    "url:https://vml-map.com/position/London/Technology/senior-adobe-application-consultant/8578519002": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior Adobe Application Consultant",
-      "company": "Wunderman Thompson",
-      "apply_url": "https://vml-map.com/position/London/Technology/senior-adobe-application-consultant/8578519002/",
-      "content_key": "content:senior adobe application consultant|wunderman thompson"
-    },
-    "url:https://www.dataidols.com/job/4106-2": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Data Science Manager",
-      "company": "Data Idols",
-      "apply_url": "https://www.dataidols.com/job/4106-2/",
-      "content_key": "content:data science manager|data idols"
-    },
-    "url:https://jobs.ashbyhq.com/faculty/76c7b295-da94-4e83-813b-25b1766f92a0": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Lead Data Scientist",
-      "company": "Faculty",
-      "apply_url": "https://jobs.ashbyhq.com/faculty/76c7b295-da94-4e83-813b-25b1766f92a0?utm_source=GKq5ZB5eEl",
-      "content_key": "content:lead data scientist|faculty"
-    },
-    "url:https://ecqf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/8633": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Agile / Scrum Master - Audience Measurement",
-      "company": "Ipsos",
-      "apply_url": "https://ecqf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/preview/8633",
-      "content_key": "content:agile scrum master audience measurement|ipsos"
-    },
-    "url:https://paypal.eightfold.ai/careers/job/274920220547": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Staff Data Scientist",
-      "company": "PayPal",
-      "apply_url": "https://paypal.eightfold.ai/careers/job/274920220547",
-      "content_key": "content:staff data scientist|paypal"
-    },
-    "url:https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/LONDON/CIB-Market-Risk-Transformation---Senior-Manager_JR00105902": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "CIB Market Risk Transformation – Senior Manager",
-      "company": "BBVA",
-      "apply_url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/LONDON/CIB-Market-Risk-Transformation---Senior-Manager_JR00105902",
-      "content_key": "content:cib market risk transformation senior manager|bbva"
-    },
-    "url:https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp000000BAHdMAO&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1866971030638899%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dde08685a-6509-11f1-a5b0-236856e2be91%26rx_job%3Da1KDp000000BAHdMAO%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260611T080402Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Staff Software Specialist - AI - Monetisation",
-      "company": "Meta",
-      "apply_url": "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KDp000000BAHdMAO&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1866971030638899%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3Dde08685a-6509-11f1-a5b0-236856e2be91%26rx_job%3Da1KDp000000BAHdMAO%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260611T080402Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
-      "content_key": "content:staff software specialist ai monetisation|meta"
-    },
-    "url:https://apply.deloitte.co.uk/UKCareers/JobDetail/Senior-Manager-AI-Solution-Architect-SG-A-Engineering-AI-Data-Technology-Transformation/23760?source=Indeed": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior Manager, AI Solution Architect, SG&A, Engineering, AI & Data, Technology & Transformation",
-      "company": "Deloitte",
-      "apply_url": "https://apply.deloitte.co.uk/UKCareers/JobDetail/Senior-Manager-AI-Solution-Architect-SG-A-Engineering-AI-Data-Technology-Transformation/23760?source=Indeed",
-      "content_key": "content:senior manager ai solution architect sg a engineering ai data technology transformation|deloitte"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426342805": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Lead AI and Data Scientist",
-      "company": "Talent Locker",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426342805",
-      "content_key": "content:lead ai and data scientist|talent locker"
-    },
-    "url:https://grnh.se/i2v87ds72us": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Principal Machine Learning Engineer",
-      "company": "ComplyAdvantage",
-      "apply_url": "https://grnh.se/i2v87ds72us",
-      "content_key": "content:principal machine learning engineer|complyadvantage"
-    },
-    "url:https://jobs.ashbyhq.com/faculty/70340093-7182-4d2c-b0d4-f383190856bf": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Lead Machine Learning Engineer - Retail",
-      "company": "Faculty",
-      "apply_url": "https://jobs.ashbyhq.com/faculty/70340093-7182-4d2c-b0d4-f383190856bf?utm_source=GKq5ZB5eEl",
-      "content_key": "content:lead machine learning engineer retail|faculty"
-    },
-    "url:https://www.linkedin.com/jobs/view/4422715958": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Principal Data Scientist - Finance",
-      "company": "SF Technology Partners",
-      "apply_url": "https://www.linkedin.com/jobs/view/4422715958",
-      "content_key": "content:principal data scientist finance|sf partners"
-    },
-    "url:https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/United-Kingdom-Remote/AI-Engineering-Team-Lead_R17751": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Engineering Team Lead",
-      "company": "Clario",
-      "apply_url": "https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/United-Kingdom-Remote/AI-Engineering-Team-Lead_R17751",
-      "content_key": "content:ai engineering team lead|clario"
-    },
-    "url:https://cbreglobal.avature.net/careers/JobDetail/268732": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "AI Senior Principal Engineer",
-      "company": "CBRE",
-      "apply_url": "https://cbreglobal.avature.net/careers/JobDetail/268732",
-      "content_key": "content:ai senior principal engineer|cbre"
-    },
-    "url:https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/5068": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Risk Control Practice Leader Energy- Worldwide",
-      "company": "SCOR",
-      "apply_url": "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/5068",
-      "content_key": "content:risk control practice leader energy worldwide|scor"
-    },
-    "url:https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/5058": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "MGA Operations Lead - EMEA",
-      "company": "SCOR",
-      "apply_url": "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/5058",
-      "content_key": "content:mga operations lead emea|scor"
-    },
-    "url:https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/5043": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Senior Risk Manager",
-      "company": "SCOR",
-      "apply_url": "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/5043",
-      "content_key": "content:senior risk manager|scor"
-    },
-    "url:https://careers.withwaymo.com/jobs/recruiter-emea-london-england-united-kingdom": {
-      "first_seen_run_id": "20260611T100232",
-      "last_seen_run_id": "20260611T100232",
-      "title": "Recruiter, EMEA",
-      "company": "Waymo",
-      "apply_url": "https://careers.withwaymo.com/jobs/recruiter-emea-london-england-united-kingdom",
-      "content_key": "content:recruiter emea|waymo"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426604667": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Junior Software Engineer (AI-Native)",
-      "company": "Homey",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426604667",
-      "content_key": "content:junior software engineer ai native|homey"
-    },
-    "url:https://www.linkedin.com/jobs/view/4419150436": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Generative AI Engineer",
-      "company": "Jumpstart",
-      "apply_url": "https://www.linkedin.com/jobs/view/4419150436",
-      "content_key": "content:generative ai engineer|jumpstart"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426818475": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Junior Data Scientist - Insite",
-      "company": "FAI",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426818475",
-      "content_key": "content:junior data scientist insite|fai"
-    },
     "url:https://www.linkedin.com/jobs/view/4418338607": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Data Scientist - Remote",
       "company": "YO HR Consultancy",
       "apply_url": "https://www.linkedin.com/jobs/view/4418338607",
       "content_key": "content:data scientist remote|yo hr consultancy"
     },
-    "url:https://www.linkedin.com/jobs/view/4429792578": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "Kinarden Search",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429792578",
-      "content_key": "content:data scientist|kinarden search"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426857482": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Adria Solutions Ltd",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426857482",
-      "content_key": "content:artificial intelligence engineer|adria"
-    },
-    "url:https://sccweb.eploy.net/vacancies/2275/ai-engineer.html?source=Indeed": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI Engineer",
-      "company": "SCC",
-      "apply_url": "https://sccweb.eploy.net/vacancies/2275/ai-engineer.html?source=Indeed",
-      "content_key": "content:ai engineer|scc"
-    },
-    "url:https://boardinternationalsa.applytojob.com/apply/c68pESg1yt/Associate-AI-Engineer-6month-Contract?source=INDE": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Associate AI Engineer (6-month contract)",
-      "company": "BOARD International",
-      "apply_url": "https://boardinternationalsa.applytojob.com/apply/c68pESg1yt/Associate-AI-Engineer-6month-Contract?source=INDE&~",
-      "content_key": "content:associate ai engineer 6 month contract|board international"
-    },
-    "url:https://www.linkedin.com/jobs/view/4428021681": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI Engineer",
-      "company": "Tata Consultancy Services",
-      "apply_url": "https://www.linkedin.com/jobs/view/4428021681",
-      "content_key": "content:ai engineer|tata consultancy services"
-    },
-    "url:https://grnh.se/m8wq8zq21us": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "MEDiSTRAVA",
-      "apply_url": "https://grnh.se/m8wq8zq21us",
-      "content_key": "content:data scientist|medistrava"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426479293": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "SoTalent",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426479293",
-      "content_key": "content:data scientist|sotalent"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426803391": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Machine Learning Engineer - Customer Solutions",
-      "company": "Unitary",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426803391",
-      "content_key": "content:machine learning engineer customer solutions|unitary"
-    },
-    "url:https://amswh.avature.net/careers/JobDetail/41257": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "MI Developer",
-      "company": "evoke",
-      "apply_url": "https://amswh.avature.net/careers/JobDetail/41257",
-      "content_key": "content:mi developer|evoke"
-    },
-    "url:https://ensek.teamtailor.com/jobs/7775398-data-scientist": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "ENSEK",
-      "apply_url": "https://ensek.teamtailor.com/jobs/7775398-data-scientist",
-      "content_key": "content:data scientist|ensek"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426474776": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "InterEx Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426474776",
-      "content_key": "content:data scientist|interex"
-    },
-    "url:https://www.linkedin.com/jobs/view/4423638334": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist (Gen AI)",
-      "company": "Nicholson Glover",
-      "apply_url": "https://www.linkedin.com/jobs/view/4423638334",
-      "content_key": "content:data scientist gen ai|nicholson glover"
-    },
-    "url:https://www.linkedin.com/jobs/view/4387101015": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "UBS",
-      "apply_url": "https://www.linkedin.com/jobs/view/4387101015",
-      "content_key": "content:data scientist|ubs"
-    },
-    "url:https://www.linkedin.com/jobs/view/4428062143": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Machine Learning Engineer",
-      "company": "Predictiva",
-      "apply_url": "https://www.linkedin.com/jobs/view/4428062143",
-      "content_key": "content:machine learning engineer|predictiva"
-    },
-    "url:https://grnh.se/e71cp1kv2us": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "WPP",
-      "apply_url": "https://grnh.se/e71cp1kv2us",
-      "content_key": "content:data scientist|wpp"
-    },
-    "url:https://www.linkedin.com/jobs/view/4400621286": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Machine Learning Engineer (Remote)",
-      "company": "StackAdapt",
-      "apply_url": "https://www.linkedin.com/jobs/view/4400621286",
-      "content_key": "content:machine learning engineer remote|stackadapt"
-    },
-    "url:https://jobs.ashbyhq.com/delfa/cedc4bef-4b7b-4c81-bfc6-1fd34f9b2f00": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Founder's Associate",
-      "company": "Delfa AI",
-      "apply_url": "https://jobs.ashbyhq.com/delfa/cedc4bef-4b7b-4c81-bfc6-1fd34f9b2f00?utm_source=yvlY2arWN8",
-      "content_key": "content:founder s associate|delfa ai"
-    },
-    "url:https://search.jobs.barclays/job/london/applied-ai-engineer-bpl/13015/96474954432": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Applied AI Engineer- BPL",
-      "company": "Barclays",
-      "apply_url": "https://search.jobs.barclays/job/london/applied-ai-engineer-bpl/13015/96474954432",
-      "content_key": "content:applied ai engineer bpl|barclays"
-    },
-    "url:https://jobs.lever.co/moonpig/26b67a79-604f-4e34-97ed-c7db7331cac6?lever-source=Indeed": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "ML Ops Engineer",
-      "company": "Moonpig",
-      "apply_url": "https://jobs.lever.co/moonpig/26b67a79-604f-4e34-97ed-c7db7331cac6?lever-source=Indeed",
-      "content_key": "content:ml ops engineer|moonpig"
-    },
-    "url:https://www.linkedin.com/jobs/view/4373974209": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Software Engineer II - Applied AI",
-      "company": "JPMorganChase",
-      "apply_url": "https://www.linkedin.com/jobs/view/4373974209",
-      "content_key": "content:software engineer ii applied ai|jpmorganchase"
-    },
-    "url:https://transak-inc.breezy.hr/p/148365e3be7501-data-scientist-london?source=indeed": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist, London",
-      "company": "Transak",
-      "apply_url": "https://transak-inc.breezy.hr/p/148365e3be7501-data-scientist-london?source=indeed",
-      "content_key": "content:data scientist london|transak"
-    },
-    "url:https://www.linkedin.com/jobs/view/4429245465": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "Oscar",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429245465",
-      "content_key": "content:data scientist|oscar"
-    },
-    "url:https://www.linkedin.com/jobs/view/4423075860": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist (Growth Team)",
-      "company": "Capital on Tap",
-      "apply_url": "https://www.linkedin.com/jobs/view/4423075860",
-      "content_key": "content:data scientist growth team|capital on tap"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426198337": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Applied ML Researcher - Fully Remote | Upto $90/hr",
-      "company": "Mercor",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426198337",
-      "content_key": "content:applied ml researcher fully remote upto 90 hr|mercor"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426240358": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426240358",
-      "content_key": "content:data scientist|halian managed services recruitment agency contract staffing"
-    },
-    "url:https://www.linkedin.com/jobs/view/4427326773": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "Highbury Consulting",
-      "apply_url": "https://www.linkedin.com/jobs/view/4427326773",
-      "content_key": "content:data scientist|highbury consulting"
-    },
-    "url:http://uk.indeed.com/job/aws-ai-consultant-4b2f1e891acd9481": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AWS AI Consultant",
-      "company": "Lambert Labs",
-      "apply_url": "http://uk.indeed.com/job/aws-ai-consultant-4b2f1e891acd9481",
-      "content_key": "content:aws ai consultant|lambert"
-    },
-    "url:https://www.linkedin.com/jobs/view/4406200438": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Experis UK",
-      "apply_url": "https://www.linkedin.com/jobs/view/4406200438",
-      "content_key": "content:artificial intelligence engineer|experis uk"
-    },
-    "url:https://www.linkedin.com/jobs/view/4346079777": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Machine Learning Engineer",
-      "company": "Huron",
-      "apply_url": "https://www.linkedin.com/jobs/view/4346079777",
-      "content_key": "content:machine learning engineer|huron"
-    },
-    "url:https://www.linkedin.com/jobs/view/4424893031": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI Engineer",
-      "company": "Alpha",
-      "apply_url": "https://www.linkedin.com/jobs/view/4424893031",
-      "content_key": "content:ai engineer|alpha"
-    },
-    "url:https://www.linkedin.com/jobs/view/4407058322": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Machine Learning Engineer",
-      "company": "Deliveroo",
-      "apply_url": "https://www.linkedin.com/jobs/view/4407058322",
-      "content_key": "content:machine learning engineer|deliveroo"
-    },
-    "url:https://www.linkedin.com/jobs/view/4429775146": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI/ML Engineer - Fully Remote | Upto $85/hr",
-      "company": "Mercor",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429775146",
-      "content_key": "content:ai ml engineer fully remote upto 85 hr|mercor"
-    },
-    "url:https://www.linkedin.com/jobs/view/4428044818": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI / ML Engineer",
-      "company": "Ventula Consulting",
-      "apply_url": "https://www.linkedin.com/jobs/view/4428044818",
-      "content_key": "content:ai ml engineer|ventula consulting"
-    },
-    "url:https://www.linkedin.com/jobs/view/4325994192": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI Engineer",
-      "company": "Millennium",
-      "apply_url": "https://www.linkedin.com/jobs/view/4325994192",
-      "content_key": "content:ai engineer|millennium"
-    },
-    "url:https://www.linkedin.com/jobs/view/4419197807": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Machine Learning Integration Engineer",
-      "company": "Darktrace",
-      "apply_url": "https://www.linkedin.com/jobs/view/4419197807",
-      "content_key": "content:machine learning integration engineer|darktrace"
-    },
-    "url:https://www.linkedin.com/jobs/view/4427334837": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Maxwell Bond",
-      "apply_url": "https://www.linkedin.com/jobs/view/4427334837",
-      "content_key": "content:artificial intelligence engineer|maxwell bond"
-    },
-    "url:https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/Avis-Budget-House-HQ/Data-Engineer---AI-Engineer_R0188748": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Engineer / AI Engineer",
-      "company": "Avis Budget Group",
-      "apply_url": "https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/Avis-Budget-House-HQ/Data-Engineer---AI-Engineer_R0188748",
-      "content_key": "content:data engineer ai engineer|avis budget"
-    },
-    "url:https://networkplus.pinpointhq.com/postings/ac75277b-6e27-44dd-9a54-6ea7a6c392fb": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI Engineer",
-      "company": "Network Plus",
-      "apply_url": "https://networkplus.pinpointhq.com/postings/ac75277b-6e27-44dd-9a54-6ea7a6c392fb?utm_medium=job_board&utm_source=indeed",
-      "content_key": "content:ai engineer|network plus"
-    },
-    "url:http://uk.indeed.com/job/ai-engineer-account-manager-18f4e013c44a0333": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI Engineer & Account Manager",
-      "company": "Atomic Digital Marketing",
-      "apply_url": "http://uk.indeed.com/job/ai-engineer-account-manager-18f4e013c44a0333",
-      "content_key": "content:ai engineer account manager|atomic digital marketing"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426932800": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Datatech Analytics",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426932800",
-      "content_key": "content:artificial intelligence engineer|datatech analytics"
-    },
-    "url:https://www.linkedin.com/jobs/view/4427326623": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Artificial Intelligence Engineer",
-      "company": "trg.recruitment",
-      "apply_url": "https://www.linkedin.com/jobs/view/4427326623",
-      "content_key": "content:artificial intelligence engineer|trg recruitment"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426620629": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "Simplify Software Experts LLC/ Simpli Software Solutions Inc",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426620629",
-      "content_key": "content:data scientist|simplify software experts simpli software"
-    },
-    "url:https://www.linkedin.com/jobs/view/4416124656": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "Primis",
-      "apply_url": "https://www.linkedin.com/jobs/view/4416124656",
-      "content_key": "content:data scientist|primis"
-    },
-    "url:http://uk.indeed.com/job/machine-learning-engineer-2a9528f40a381d62": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Machine Learning Engineer",
-      "company": "Valent",
-      "apply_url": "http://uk.indeed.com/job/machine-learning-engineer-2a9528f40a381d62",
-      "content_key": "content:machine learning engineer|valent"
-    },
-    "url:https://search.jobs.barclays/job/glasgow/machine-learning-engineer/13015/96302883344": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Machine Learning Engineer",
-      "company": "Barclays",
-      "apply_url": "https://search.jobs.barclays/job/glasgow/machine-learning-engineer/13015/96302883344",
-      "content_key": "content:machine learning engineer|barclays"
-    },
-    "url:https://www.linkedin.com/jobs/view/4428614808": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Machine Learning - AI Safety",
-      "company": "Microsoft",
-      "apply_url": "https://www.linkedin.com/jobs/view/4428614808",
-      "content_key": "content:machine learning ai safety|microsoft"
-    },
-    "url:https://www.linkedin.com/jobs/view/4401731549": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Applied AI Engineer",
-      "company": "Fuse Energy",
-      "apply_url": "https://www.linkedin.com/jobs/view/4401731549",
-      "content_key": "content:applied ai engineer|fuse energy"
-    },
-    "url:https://awepeople.wd3.myworkdayjobs.com/en-US/External_Careers/job/Reading-area/AI-Platform-Specialist_R29915-1": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI Platform Specialist",
-      "company": "AWE",
-      "apply_url": "https://awepeople.wd3.myworkdayjobs.com/en-US/External_Careers/job/Reading-area/AI-Platform-Specialist_R29915-1",
-      "content_key": "content:ai platform specialist|awe"
-    },
-    "url:https://www.gtrailwaycareers.com/jobs/vacancy/insights-lead-3575-monument-place/3593/description": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Insights Lead",
-      "company": "GTR",
-      "apply_url": "https://www.gtrailwaycareers.com/jobs/vacancy/insights-lead-3575-monument-place/3593/description/",
-      "content_key": "content:insights lead|gtr"
-    },
-    "url:https://grnh.se/o4mqsuyj1us": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Forward-Deployed Data Scientist II",
-      "company": "Braze",
-      "apply_url": "https://grnh.se/o4mqsuyj1us",
-      "content_key": "content:forward deployed data scientist ii|braze"
-    },
-    "url:https://www.linkedin.com/jobs/view/4427229446": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Applied Scientist",
-      "company": "Wolt",
-      "apply_url": "https://www.linkedin.com/jobs/view/4427229446",
-      "content_key": "content:applied scientist|wolt"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426293982": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Machine Learning Engineer",
-      "company": "Apple",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426293982",
-      "content_key": "content:machine learning engineer|apple"
-    },
-    "url:http://uk.indeed.com/job/ai-machine-learning-engineer-genai-llms-applied-ai-dd0b539ce0fdf7ca": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI / Machine Learning Engineer — GenAI, LLMs & Applied AI",
-      "company": "",
-      "apply_url": "http://uk.indeed.com/job/ai-machine-learning-engineer-genai-llms-applied-ai-dd0b539ce0fdf7ca",
-      "content_key": ""
-    },
-    "url:https://www.linkedin.com/jobs/view/4428697810": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "ML Engineer",
-      "company": "Selby Jennings",
-      "apply_url": "https://www.linkedin.com/jobs/view/4428697810",
-      "content_key": "content:ml engineer|selby jennings"
-    },
-    "url:https://www.linkedin.com/jobs/view/4142651542": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI Engineer",
-      "company": "DRW",
-      "apply_url": "https://www.linkedin.com/jobs/view/4142651542",
-      "content_key": "content:ai engineer|drw"
-    },
-    "url:http://uk.indeed.com/job/senior-python-ai-engineer-cadfe595f9586967": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Senior Python / AI Engineer",
-      "company": "The HR Dept",
-      "apply_url": "http://uk.indeed.com/job/senior-python-ai-engineer-cadfe595f9586967",
-      "content_key": "content:senior python ai engineer|the hr dept"
-    },
-    "url:https://recruit.vitality.co.uk/vacancies/21624/senior-data-scientist.html?source=Indeed": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Senior Data Scientist",
-      "company": "Vitality",
-      "apply_url": "https://recruit.vitality.co.uk/vacancies/21624/senior-data-scientist.html?source=Indeed",
-      "content_key": "content:senior data scientist|vitality"
-    },
-    "url:https://www.linkedin.com/jobs/view/4427471808": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI Software Engineer - Global Financial - £70k-£80k",
-      "company": "Hawksworth",
-      "apply_url": "https://www.linkedin.com/jobs/view/4427471808",
-      "content_key": "content:ai software engineer global financial 70k 80k|hawksworth"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426129059": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Intelix.AI",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426129059",
-      "content_key": "content:artificial intelligence engineer|intelix ai"
-    },
-    "url:https://app.enrola.co.uk/opportunity/6a3153282a9cb?ref_job_board=14": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Business Administration Apprentice Level 3",
-      "company": "South Thames College",
-      "apply_url": "https://app.enrola.co.uk/opportunity/6a3153282a9cb?ref_job_board=14",
-      "content_key": "content:business administration apprentice level 3|south thames college"
-    },
-    "url:https://jpmorganchase.contacthr.com/152465541": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Asset Management, Data Scientist, Vice President, London/Glasgow",
-      "company": "JPMorganChase",
-      "apply_url": "https://JPMorganChase.contacthr.com/152465541",
-      "content_key": "content:asset management data scientist vice president london glasgow|jpmorganchase"
-    },
-    "url:https://jpmorganchase.contacthr.com/152465466": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Lead Software Engineer - AWS - Lead AI/ML Platform Engineer",
-      "company": "JPMorganChase",
-      "apply_url": "https://JPMorganChase.contacthr.com/152465466",
-      "content_key": "content:lead software engineer aws lead ai ml platform engineer|jpmorganchase"
-    },
-    "url:https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/LONDON/Fund-Finance-Internship_JR00106771": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Corporate Lending (IB&F) Internship",
-      "company": "BBVA",
-      "apply_url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/LONDON/Fund-Finance-Internship_JR00106771",
-      "content_key": "content:corporate lending ib f internship|bbva"
-    },
-    "url:https://www.linkedin.com/jobs/view/4428469103": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist | Remote",
-      "company": "Crossing Hurdles",
-      "apply_url": "https://www.linkedin.com/jobs/view/4428469103",
-      "content_key": "content:data scientist remote|crossing hurdles"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426207906": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Data Scientist",
-      "company": "Digital Waffle",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426207906",
-      "content_key": "content:data scientist|digital waffle"
-    },
-    "url:https://livenation.wd503.myworkdayjobs.com/en-US/LNExternalSite/job/Work-From-Home---UK/Lead-Data---AI-Platform-Engineer--Remote--United-Kingdom-_JR-90907-2": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Lead Data & AI Platform Engineer (Remote, United Kingdom)",
-      "company": "Live Nation",
-      "apply_url": "https://livenation.wd503.myworkdayjobs.com/en-US/LNExternalSite/job/Work-From-Home---UK/Lead-Data---AI-Platform-Engineer--Remote--United-Kingdom-_JR-90907-2",
-      "content_key": "content:lead data ai platform engineer remote united kingdom|live nation"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426936310": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI/ML Engineer",
-      "company": "Capgemini",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426936310",
-      "content_key": "content:ai ml engineer|capgemini"
-    },
-    "url:https://jobs.smartrecruiters.com/Three-UK/744000132399929-senior-ai-engineer": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Senior AI Engineer",
-      "company": "VodafoneThree",
-      "apply_url": "https://jobs.smartrecruiters.com/Three-UK/744000132399929-senior-ai-engineer",
-      "content_key": "content:senior ai engineer|vodafonethree"
-    },
-    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPUpvYnMmb3duZXJ0eXBlPWZhaXImc2VhcmNoc29ydD1jbG9zaW5nJm93bmVyPTUwNzAwMDAmam9ibGlzdF92aWV3X3ZhYz0yMDAxNTcxJnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZ1c2Vyc2VhcmNoY29udGV4dD0xOTQzMjgzNzgmc2VhcmNocGFnZT00NCZyZXFzaWc9MTc4MTY5NzY0NC0wY2U4YTM4Y2U2YWZkYjY3MWIzNjA0NDk4MTU0ZGM3NWM0Nzg5ZjZm": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Delivery Manager (i.AI)",
-      "company": "",
-      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPUpvYnMmb3duZXJ0eXBlPWZhaXImc2VhcmNoc29ydD1jbG9zaW5nJm93bmVyPTUwNzAwMDAmam9ibGlzdF92aWV3X3ZhYz0yMDAxNTcxJnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZ1c2Vyc2VhcmNoY29udGV4dD0xOTQzMjgzNzgmc2VhcmNocGFnZT00NCZyZXFzaWc9MTc4MTY5NzY0NC0wY2U4YTM4Y2U2YWZkYjY3MWIzNjA0NDk4MTU0ZGM3NWM0Nzg5ZjZm",
-      "content_key": ""
-    },
-    "url:https://careers.redcloudtechnology.com/jobs/7892842-ai-engineer": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "AI Engineer",
-      "company": "RedCloud Technologies",
-      "apply_url": "https://careers.redcloudtechnology.com/jobs/7892842-ai-engineer",
-      "content_key": "content:ai engineer|redcloud"
-    },
-    "url:https://www.linkedin.com/jobs/view/4427042799": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Omnis Partners",
-      "apply_url": "https://www.linkedin.com/jobs/view/4427042799",
-      "content_key": "content:artificial intelligence engineer|omnis partners"
-    },
-    "url:https://jobsite.sheffield.ac.uk/job/Delivery-Lead/2730-en_GB": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Delivery Lead",
-      "company": "University of Sheffield",
-      "apply_url": "https://jobsite.sheffield.ac.uk/job/Delivery-Lead/2730-en_GB",
-      "content_key": "content:delivery lead|university of sheffield"
-    },
-    "url:https://jobs.marksandspencer.com/job-search/digital-tech/london-greater-london/biso/300007761312631": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "BISO",
-      "company": "Marks & Spencer",
-      "apply_url": "https://jobs.marksandspencer.com/job-search/digital-tech/london-greater-london/biso/300007761312631",
-      "content_key": "content:biso|marks spencer"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426857393": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Lead Data Science",
-      "company": "Women in Data®",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426857393",
-      "content_key": "content:lead data science|women in data"
-    },
-    "url:http://uk.indeed.com/job/lead-3d-machine-learning-engineer-computational-geometry-cad-automation-5508327fd0b3a229": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Lead 3D Machine Learning Engineer (Computational Geometry & CAD Automation)",
-      "company": "Kabil's Grillz",
-      "apply_url": "http://uk.indeed.com/job/lead-3d-machine-learning-engineer-computational-geometry-cad-automation-5508327fd0b3a229",
-      "content_key": "content:lead 3d machine learning engineer computational geometry cad automation|kabil s grillz"
-    },
-    "url:https://jobs.smartrecruiters.com/Entain/744000127033060": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Principal Machine Learning Engineer",
-      "company": "Entain",
-      "apply_url": "https://jobs.smartrecruiters.com/Entain/744000127033060",
-      "content_key": "content:principal machine learning engineer|entain"
-    },
-    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXJ0eXBlPWZhaXImdXNlcnNlYXJjaGNvbnRleHQ9MTk0MzI4Mzc4JnBhZ2VjbGFzcz1Kb2JzJm93bmVyPTUwNzAwMDAmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JmpvYmxpc3Rfdmlld192YWM9MjAwMTU2OSZzZWFyY2hwYWdlPTMwJnNlYXJjaHNvcnQ9Y2xvc2luZyZyZXFzaWc9MTc4MTY5NzYxMS1mZTljYzY4ZDEyYThhNDRjNGM2MTMzYmQ1ZjMxNDkxZTdiMTUzMDUx": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "R&D System Engagement Lead",
-      "company": "College of Policing",
-      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXJ0eXBlPWZhaXImdXNlcnNlYXJjaGNvbnRleHQ9MTk0MzI4Mzc4JnBhZ2VjbGFzcz1Kb2JzJm93bmVyPTUwNzAwMDAmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JmpvYmxpc3Rfdmlld192YWM9MjAwMTU2OSZzZWFyY2hwYWdlPTMwJnNlYXJjaHNvcnQ9Y2xvc2luZyZyZXFzaWc9MTc4MTY5NzYxMS1mZTljYzY4ZDEyYThhNDRjNGM2MTMzYmQ1ZjMxNDkxZTdiMTUzMDUx",
-      "content_key": "content:r d system engagement lead|college of policing"
-    },
-    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=c2VhcmNoc29ydD1jbG9zaW5nJm93bmVydHlwZT1mYWlyJmpvYmxpc3Rfdmlld192YWM9MjAwMTU2NyZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3QmdXNlcnNlYXJjaGNvbnRleHQ9MTk0MzI4Mzc4Jm93bmVyPTUwNzAwMDAmcGFnZWNsYXNzPUpvYnMmc2VhcmNocGFnZT00OSZyZXFzaWc9MTc4MTY5NzY1NS05OTJkYmUyMjRlZDk0ZWZhZjQ0ZWY4NDdmMDI4NzI1YWU4MTc3MTI2": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Senior Delivery Manager (i.AI)",
-      "company": "",
-      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=c2VhcmNoc29ydD1jbG9zaW5nJm93bmVydHlwZT1mYWlyJmpvYmxpc3Rfdmlld192YWM9MjAwMTU2NyZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3QmdXNlcnNlYXJjaGNvbnRleHQ9MTk0MzI4Mzc4Jm93bmVyPTUwNzAwMDAmcGFnZWNsYXNzPUpvYnMmc2VhcmNocGFnZT00OSZyZXFzaWc9MTc4MTY5NzY1NS05OTJkYmUyMjRlZDk0ZWZhZjQ0ZWY4NDdmMDI4NzI1YWU4MTc3MTI2",
-      "content_key": ""
-    },
-    "url:https://www.capgemini.com/jobs/499617-en_GB_SAPBTP": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Gen AI Engineer",
-      "company": "Capgemini",
-      "apply_url": "https://www.capgemini.com/jobs/499617-en_GB_SAPBTP/",
-      "content_key": "content:gen ai engineer|capgemini"
-    },
-    "url:https://www.capgemini.com/jobs/404560-en_GB+sap_btp": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Lead AI Engineer",
-      "company": "Capgemini",
-      "apply_url": "https://www.capgemini.com/jobs/404560-en_GB+sap_btp",
-      "content_key": "content:lead ai engineer|capgemini"
-    },
-    "url:https://jobs.booking.com/booking/jobs/29359/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Senior Data Science & Analytics Manager",
-      "company": "Booking.com",
-      "apply_url": "https://jobs.booking.com/booking/jobs/29359/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "content_key": "content:senior data science analytics manager|booking com"
-    },
-    "url:https://jobs.marksandspencer.com/job-search/digital-tech/london-greater-london/enterprise-architect-colleague-productivity-enablement/300007730210364": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Enterprise Architect - Colleague Productivity & Enablement",
-      "company": "Marks & Spencer",
-      "apply_url": "https://jobs.marksandspencer.com/job-search/digital-tech/london-greater-london/enterprise-architect-colleague-productivity-enablement/300007730210364",
-      "content_key": "content:enterprise architect colleague productivity enablement|marks spencer"
-    },
-    "url:https://grnh.se/kgy6bpex2us": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Senior CRM Strategist",
-      "company": "VML",
-      "apply_url": "https://grnh.se/kgy6bpex2us",
-      "content_key": "content:senior crm strategist|vml"
-    },
-    "url:https://grnh.se/ikm1kplc2us": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Senior CRM Strategist",
-      "company": "VML MAP",
-      "apply_url": "https://grnh.se/ikm1kplc2us",
-      "content_key": "content:senior crm strategist|vml map"
-    },
-    "url:https://www.capgemini.com/jobs/430077-en_GB+sap_btp": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Senior SAP Analytics Architect",
-      "company": "Capgemini",
-      "apply_url": "https://www.capgemini.com/jobs/430077-en_GB+sap_btp",
-      "content_key": "content:senior sap analytics architect|capgemini"
-    },
-    "url:https://jobs.zs.com/jobs/33788/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Talent Acquisition - Senior Recruiter (12 month FTC)",
-      "company": "ZS Associates",
-      "apply_url": "https://jobs.zs.com/jobs/33788/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-      "content_key": "content:talent acquisition senior recruiter 12 month ftc|zs associates"
-    },
-    "url:https://jobs.marksandspencer.com/job-search/digital-tech/salford-greater-manchester/enterprise-architect-central-functions/300007730064682": {
-      "first_seen_run_id": "20260617T120637",
-      "last_seen_run_id": "20260617T120637",
-      "title": "Enterprise Architect - Central Functions",
-      "company": "Marks & Spencer",
-      "apply_url": "https://jobs.marksandspencer.com/job-search/digital-tech/salford-greater-manchester/enterprise-architect-central-functions/300007730064682",
-      "content_key": "content:enterprise architect central functions|marks spencer"
-    },
-    "url:https://api.occupop.com/job/application/data-science-talent-network-b867d/indeed": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Data Science (Talent Network)",
-      "company": "IMRANDD",
-      "apply_url": "https://api.occupop.com/job/application/data-science-talent-network-b867d/indeed",
-      "content_key": "content:data science talent network|imrandd"
+    "url:https://www.linkedin.com/jobs/view/4426818475": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Junior Data Scientist - Insite",
+      "company": "FAI",
+      "apply_url": "https://www.linkedin.com/jobs/view/4426818475",
+      "content_key": "content:junior data scientist insite|fai"
     },
     "url:https://www.linkedin.com/jobs/view/4427711735": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Data Scientist Graduate",
       "company": "targetjobs UK",
       "apply_url": "https://www.linkedin.com/jobs/view/4427711735",
       "content_key": "content:data scientist graduate|targetjobs uk"
     },
-    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXJ0eXBlPWZhaXImb3duZXI9NTA3MDAwMCZzZWFyY2hzb3J0PWNsb3Npbmcmam9ibGlzdF92aWV3X3ZhYz0yMDAyMzc3JnNlYXJjaHBhZ2U9NDUmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnBhZ2VjbGFzcz1Kb2JzJnVzZXJzZWFyY2hjb250ZXh0PTE5NDc5MjcxNSZyZXFzaWc9MTc4MTkzNTIzOC1jMTcyZjI2Mzg5ZmNjMGRmYWNlYzU4MjhkMWY1YTI2MjdmYTA0ZmI2": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+    "url:https://api.occupop.com/job/application/data-science-talent-network-b867d/indeed": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data Science (Talent Network)",
+      "company": "IMRANDD",
+      "apply_url": "https://api.occupop.com/job/application/data-science-talent-network-b867d/indeed",
+      "content_key": "content:data science talent network|imrandd"
+    },
+    "url:https://www.linkedin.com/jobs/view/4426857482": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Adria Solutions Ltd",
+      "apply_url": "https://www.linkedin.com/jobs/view/4426857482",
+      "content_key": "content:artificial intelligence engineer|adria"
+    },
+    "url:https://www.linkedin.com/jobs/view/4428510940": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Junior AI Engineer",
+      "company": "Haystack",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428510940",
+      "content_key": "content:junior ai engineer|haystack"
+    },
+    "url:https://www.linkedin.com/jobs/view/4429252071": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data Scientist",
+      "company": "Lorien",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429252071",
+      "content_key": "content:data scientist|lorien"
+    },
+    "url:https://www.linkedin.com/jobs/view/4429706109": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data Scientist",
+      "company": "MEDiSTRAVA, an Inizio Company",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429706109",
+      "content_key": "content:data scientist|medistrava an inizio"
+    },
+    "url:https://www.linkedin.com/jobs/view/4427707671": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data Scientist | Remote",
+      "company": "Crossing Hurdles",
+      "apply_url": "https://www.linkedin.com/jobs/view/4427707671",
+      "content_key": "content:data scientist remote|crossing hurdles"
+    },
+    "url:https://www.linkedin.com/jobs/view/4428411998": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Graduate AI software engineer",
+      "company": "Bending Spoons",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428411998",
+      "content_key": "content:graduate ai software engineer|bending spoons"
+    },
+    "url:https://www.linkedin.com/jobs/view/4430039840": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Graduate data scientist",
+      "company": "Bending Spoons",
+      "apply_url": "https://www.linkedin.com/jobs/view/4430039840",
+      "content_key": "content:graduate data scientist|bending spoons"
+    },
+    "url:https://www.linkedin.com/jobs/view/4428045415": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "AI Engineer",
+      "company": "SCC",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428045415",
+      "content_key": "content:ai engineer|scc"
+    },
+    "url:https://www.linkedin.com/jobs/view/4423660114": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "AI Engineer",
+      "company": "Morson Edge (Financial Services)",
+      "apply_url": "https://www.linkedin.com/jobs/view/4423660114",
+      "content_key": "content:ai engineer|morson edge financial services"
+    },
+    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPUpvYnMmb3duZXJ0eXBlPWZhaXImdXNlcnNlYXJjaGNvbnRleHQ9MTk0ODM3MTY2Jm93bmVyPTUwNzAwMDAmc2VhcmNocGFnZT00NSZqb2JsaXN0X3ZpZXdfdmFjPTIwMDIzNzcmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaHNvcnQ9Y2xvc2luZyZyZXFzaWc9MTc4MTk3ODQzMy0zMjU3MmZkOWU4NzdiMDE5NmQzMWRjYjE5NGUyZmJiN2JjMGNkYzg5": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Data Scientist - FTC",
       "company": "Ofgem",
-      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXJ0eXBlPWZhaXImb3duZXI9NTA3MDAwMCZzZWFyY2hzb3J0PWNsb3Npbmcmam9ibGlzdF92aWV3X3ZhYz0yMDAyMzc3JnNlYXJjaHBhZ2U9NDUmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnBhZ2VjbGFzcz1Kb2JzJnVzZXJzZWFyY2hjb250ZXh0PTE5NDc5MjcxNSZyZXFzaWc9MTc4MTkzNTIzOC1jMTcyZjI2Mzg5ZmNjMGRmYWNlYzU4MjhkMWY1YTI2MjdmYTA0ZmI2",
+      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPUpvYnMmb3duZXJ0eXBlPWZhaXImdXNlcnNlYXJjaGNvbnRleHQ9MTk0ODM3MTY2Jm93bmVyPTUwNzAwMDAmc2VhcmNocGFnZT00NSZqb2JsaXN0X3ZpZXdfdmFjPTIwMDIzNzcmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaHNvcnQ9Y2xvc2luZyZyZXFzaWc9MTc4MTk3ODQzMy0zMjU3MmZkOWU4NzdiMDE5NmQzMWRjYjE5NGUyZmJiN2JjMGNkYzg5",
       "content_key": "content:data scientist ftc|ofgem"
     },
+    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=dXNlcnNlYXJjaGNvbnRleHQ9MTk0ODM3MTY2JnNlYXJjaHBhZ2U9NDUmb3duZXI9NTA3MDAwMCZvd25lcnR5cGU9ZmFpciZwYWdlY2xhc3M9Sm9icyZqb2JsaXN0X3ZpZXdfdmFjPTIwMDIzNzYmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaHNvcnQ9Y2xvc2luZyZyZXFzaWc9MTc4MTk3ODQzMy0zMjU3MmZkOWU4NzdiMDE5NmQzMWRjYjE5NGUyZmJiN2JjMGNkYzg5": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data Scientist",
+      "company": "Ofgem",
+      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=dXNlcnNlYXJjaGNvbnRleHQ9MTk0ODM3MTY2JnNlYXJjaHBhZ2U9NDUmb3duZXI9NTA3MDAwMCZvd25lcnR5cGU9ZmFpciZwYWdlY2xhc3M9Sm9icyZqb2JsaXN0X3ZpZXdfdmFjPTIwMDIzNzYmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaHNvcnQ9Y2xvc2luZyZyZXFzaWc9MTc4MTk3ODQzMy0zMjU3MmZkOWU4NzdiMDE5NmQzMWRjYjE5NGUyZmJiN2JjMGNkYzg5",
+      "content_key": "content:data scientist|ofgem"
+    },
     "url:https://ebet.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/100279": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Machine Learning Engineer",
       "company": "Compare The Market",
       "apply_url": "https://ebet.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/100279",
       "content_key": "content:machine learning engineer|compare the market"
     },
     "url:https://amspsr.avature.net/careersmarketplace/JobDetail/9165?source=Indeed": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Data Scientist",
       "company": "Public Sector Resourcing",
       "apply_url": "https://amspsr.avature.net/careersmarketplace/JobDetail/9165?recommendation=&source=Indeed&tags=",
       "content_key": "content:data scientist|public sector resourcing"
     },
-    "url:https://www.linkedin.com/jobs/view/4429706109": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Data Scientist",
-      "company": "MEDiSTRAVA, an Inizio Company",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429706109",
-      "content_key": "content:data scientist|medistrava an inizio"
+    "url:https://www.linkedin.com/jobs/view/4427843036": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Machine Learning Engineer",
+      "company": "ASOS.com",
+      "apply_url": "https://www.linkedin.com/jobs/view/4427843036",
+      "content_key": "content:machine learning engineer|asos com"
     },
-    "url:https://www.linkedin.com/jobs/view/4318542313": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Data Scientist I - QuantumBlack, AI by McKinsey",
-      "company": "QuantumBlack, AI by McKinsey",
-      "apply_url": "https://www.linkedin.com/jobs/view/4318542313",
-      "content_key": "content:data scientist i quantumblack ai by mckinsey|quantumblack ai by mckinsey"
+    "url:https://www.linkedin.com/jobs/view/4428062143": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Machine Learning Engineer",
+      "company": "Predictiva",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428062143",
+      "content_key": "content:machine learning engineer|predictiva"
     },
     "url:https://www.linkedin.com/jobs/view/4428084723": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Artificial Intelligence Engineer",
       "company": "SharpAtoms",
       "apply_url": "https://www.linkedin.com/jobs/view/4428084723",
       "content_key": "content:artificial intelligence engineer|sharpatoms"
     },
-    "url:https://www.linkedin.com/jobs/view/4429252071": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Data Scientist",
-      "company": "Lorien",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429252071",
-      "content_key": "content:data scientist|lorien"
+    "url:https://www.linkedin.com/jobs/view/4426803391": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Machine Learning Engineer - Customer Solutions",
+      "company": "Unitary",
+      "apply_url": "https://www.linkedin.com/jobs/view/4426803391",
+      "content_key": "content:machine learning engineer customer solutions|unitary"
     },
-    "url:https://www.linkedin.com/jobs/view/4430023265": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+    "url:https://www.linkedin.com/jobs/view/4430902575": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Data Scientist",
-      "company": "Ofgem",
-      "apply_url": "https://www.linkedin.com/jobs/view/4430023265",
-      "content_key": "content:data scientist|ofgem"
+      "company": "Kroo Bank",
+      "apply_url": "https://www.linkedin.com/jobs/view/4430902575",
+      "content_key": "content:data scientist|kroo bank"
+    },
+    "url:https://www.linkedin.com/jobs/view/4318542313": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data Scientist I - QuantumBlack, AI by McKinsey",
+      "company": "QuantumBlack, AI by McKinsey",
+      "apply_url": "https://www.linkedin.com/jobs/view/4318542313",
+      "content_key": "content:data scientist i quantumblack ai by mckinsey|quantumblack ai by mckinsey"
     },
     "url:https://www.linkedin.com/jobs/view/4430923918": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Data Scientist",
       "company": "Prospect 33",
       "apply_url": "https://www.linkedin.com/jobs/view/4430923918",
       "content_key": "content:data scientist|prospect 33"
     },
+    "url:https://www.linkedin.com/jobs/view/4430941444": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data Scientist",
+      "company": "Vantage Point Consulting Inc.",
+      "apply_url": "https://www.linkedin.com/jobs/view/4430941444",
+      "content_key": "content:data scientist|vantage point consulting"
+    },
     "url:https://www.linkedin.com/jobs/view/4426486965": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Data Scientist",
       "company": "Oxford Quantum Circuits (OQC)",
       "apply_url": "https://www.linkedin.com/jobs/view/4426486965",
       "content_key": "content:data scientist|oxford quantum circuits oqc"
     },
     "url:https://www.linkedin.com/jobs/view/4429253383": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Software Engineer",
       "company": "Kingfisher plc",
       "apply_url": "https://www.linkedin.com/jobs/view/4429253383",
       "content_key": "content:software engineer|kingfisher"
     },
     "url:https://www.linkedin.com/jobs/view/4429250662": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Software Engineer",
       "company": "Ask Silver",
       "apply_url": "https://www.linkedin.com/jobs/view/4429250662",
       "content_key": "content:software engineer|ask silver"
     },
     "url:https://www.linkedin.com/jobs/view/4250197984": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Software Engineer (Python) - AI Platform",
       "company": "Revolut",
       "apply_url": "https://www.linkedin.com/jobs/view/4250197984",
       "content_key": "content:software engineer python ai platform|revolut"
     },
-    "url:https://www.linkedin.com/jobs/view/4431168182": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Machine Learning Engineer",
-      "company": "Sardine",
-      "apply_url": "https://www.linkedin.com/jobs/view/4431168182",
-      "content_key": "content:machine learning engineer|sardine"
-    },
     "url:https://careers.ageas.co.uk/uk/en/job/AFEAGEGBREQ3693EXTERNALENUK/Analytical-Engineer": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Analytical Engineer",
       "company": "Ageas",
       "apply_url": "https://careers.ageas.co.uk/uk/en/job/AFEAGEGBREQ3693EXTERNALENUK/Analytical-Engineer?utm_source=indeed&utm_medium=phenom-feeds",
       "content_key": "content:analytical engineer|ageas"
     },
-    "url:https://ejqi.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/24011": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "AI Solutions Engineer",
-      "company": "Danske Bank",
-      "apply_url": "https://ejqi.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/24011",
-      "content_key": "content:ai solutions engineer|danske bank"
-    },
-    "url:https://www.linkedin.com/jobs/view/4430902575": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Data Scientist",
-      "company": "Kroo Bank",
-      "apply_url": "https://www.linkedin.com/jobs/view/4430902575",
-      "content_key": "content:data scientist|kroo bank"
-    },
-    "url:https://www.linkedin.com/jobs/view/4427843036": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Machine Learning Engineer",
-      "company": "ASOS.com",
-      "apply_url": "https://www.linkedin.com/jobs/view/4427843036",
-      "content_key": "content:machine learning engineer|asos com"
-    },
     "url:https://www.linkedin.com/jobs/view/4430410654": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Data Scientist",
       "company": "Formula.",
       "apply_url": "https://www.linkedin.com/jobs/view/4430410654",
       "content_key": "content:data scientist|formula"
     },
-    "url:https://www.linkedin.com/jobs/view/4430941444": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Data Scientist",
-      "company": "Vantage Point Consulting Inc.",
-      "apply_url": "https://www.linkedin.com/jobs/view/4430941444",
-      "content_key": "content:data scientist|vantage point consulting"
-    },
-    "url:http://uk.indeed.com/job/software-developer-a01b3a91c3a65955": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Software Developer",
-      "company": "B-hive Innovations Limited",
-      "apply_url": "http://uk.indeed.com/job/software-developer-a01b3a91c3a65955",
-      "content_key": "content:software developer|b hive innovations"
-    },
-    "url:https://www.linkedin.com/jobs/view/4429566183": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Data and AI Engineer",
-      "company": "KDR Talent Solutions",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429566183",
-      "content_key": "content:data and ai engineer|kdr talent"
-    },
-    "url:https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=d8eedab5-d750-47d2-ba1f-8bfec4820a1f&jobId=575362&lang=en_US&source=IN": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Applied AI Engineer – Prompting & Evaluation",
-      "company": "Klipboard",
-      "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d8eedab5-d750-47d2-ba1f-8bfec4820a1f&ccId=19000101_000001&jobId=575362&source=IN&lang=en_US",
-      "content_key": "content:applied ai engineer prompting evaluation|klipboard"
-    },
-    "url:https://www.linkedin.com/jobs/view/4428028668": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Tata Consultancy Services",
-      "apply_url": "https://www.linkedin.com/jobs/view/4428028668",
-      "content_key": "content:artificial intelligence engineer|tata consultancy services"
-    },
-    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=dXNlcnNlYXJjaGNvbnRleHQ9MTk0NzkyNzE1Jm93bmVyPTUwNzAwMDAmb3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPUpvYnMmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaHNvcnQ9Y2xvc2luZyZzZWFyY2hwYWdlPTQ1JmpvYmxpc3Rfdmlld192YWM9MjAwMjM3OCZyZXFzaWc9MTc4MTkzNTIzOC1jMTcyZjI2Mzg5ZmNjMGRmYWNlYzU4MjhkMWY1YTI2MjdmYTA0ZmI2": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Senior AI Engineer",
-      "company": "Ofgem",
-      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=dXNlcnNlYXJjaGNvbnRleHQ9MTk0NzkyNzE1Jm93bmVyPTUwNzAwMDAmb3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPUpvYnMmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0JnNlYXJjaHNvcnQ9Y2xvc2luZyZzZWFyY2hwYWdlPTQ1JmpvYmxpc3Rfdmlld192YWM9MjAwMjM3OCZyZXFzaWc9MTc4MTkzNTIzOC1jMTcyZjI2Mzg5ZmNjMGRmYWNlYzU4MjhkMWY1YTI2MjdmYTA0ZmI2",
-      "content_key": "content:senior ai engineer|ofgem"
-    },
-    "url:https://careers.bbc.co.uk/job/Senior-Data-Scientist/41299-en_GB": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Senior Data Scientist",
-      "company": "BBC",
-      "apply_url": "https://careers.bbc.co.uk/job/Senior-Data-Scientist/41299-en_GB",
-      "content_key": "content:senior data scientist|bbc"
+    "url:https://www.linkedin.com/jobs/view/4427341093": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Junior Data Scientist",
+      "company": "Information Tech Consultants",
+      "apply_url": "https://www.linkedin.com/jobs/view/4427341093",
+      "content_key": "content:junior data scientist|information tech consultants"
     },
     "url:https://www.linkedin.com/jobs/view/4426814577": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "AI/ML Researcher",
       "company": "Anson McCade",
       "apply_url": "https://www.linkedin.com/jobs/view/4426814577",
       "content_key": "content:ai ml researcher|anson mccade"
     },
-    "url:https://www.linkedin.com/jobs/view/4429546624": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+    "url:https://www.linkedin.com/jobs/view/4426474776": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data Scientist",
+      "company": "InterEx Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4426474776",
+      "content_key": "content:data scientist|interex"
+    },
+    "url:https://www.linkedin.com/jobs/view/4429245465": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data Scientist",
+      "company": "Oscar",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429245465",
+      "content_key": "content:data scientist|oscar"
+    },
+    "url:https://www.linkedin.com/jobs/view/4428484047": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Machine Learning Engineer",
-      "company": "ViVA Tech Talent",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429546624",
-      "content_key": "content:machine learning engineer|viva tech talent"
+      "company": "Information Tech Consultants",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428484047",
+      "content_key": "content:machine learning engineer|information tech consultants"
+    },
+    "url:http://uk.indeed.com/job/software-developer-a01b3a91c3a65955": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Software Developer",
+      "company": "B-hive Innovations Limited",
+      "apply_url": "http://uk.indeed.com/job/software-developer-a01b3a91c3a65955",
+      "content_key": "content:software developer|b hive innovations"
+    },
+    "url:http://uk.indeed.com/job/aws-ai-consultant-4b2f1e891acd9481": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "AWS AI Consultant",
+      "company": "Lambert Labs",
+      "apply_url": "http://uk.indeed.com/job/aws-ai-consultant-4b2f1e891acd9481",
+      "content_key": "content:aws ai consultant|lambert"
+    },
+    "url:http://uk.indeed.com/job/machine-learning-engineer-2a9528f40a381d62": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Machine Learning Engineer",
+      "company": "Valent",
+      "apply_url": "http://uk.indeed.com/job/machine-learning-engineer-2a9528f40a381d62",
+      "content_key": "content:machine learning engineer|valent"
+    },
+    "url:https://www.linkedin.com/jobs/view/4429775146": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "AI/ML Engineer - Fully Remote | Upto $85/hr",
+      "company": "Mercor",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429775146",
+      "content_key": "content:ai ml engineer fully remote upto 85 hr|mercor"
+    },
+    "url:https://www.linkedin.com/jobs/view/4429566183": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data and AI Engineer",
+      "company": "KDR Talent Solutions",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429566183",
+      "content_key": "content:data and ai engineer|kdr talent"
+    },
+    "url:https://www.linkedin.com/jobs/view/4428614808": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Machine Learning - AI Safety",
+      "company": "Microsoft",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428614808",
+      "content_key": "content:machine learning ai safety|microsoft"
+    },
+    "url:https://www.linkedin.com/jobs/view/4430077484": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "ML Engineer",
+      "company": "Great Value Hiring",
+      "apply_url": "https://www.linkedin.com/jobs/view/4430077484",
+      "content_key": "content:ml engineer|great value hiring"
+    },
+    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=am9ibGlzdF92aWV3X3ZhYz0yMDAyMzc4Jm93bmVyPTUwNzAwMDAmc2VhcmNocGFnZT00NSZ1c2Vyc2VhcmNoY29udGV4dD0xOTQ4MzcxNjYmb3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPUpvYnMmc2VhcmNoc29ydD1jbG9zaW5nJnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZyZXFzaWc9MTc4MTk3ODQzMy0zMjU3MmZkOWU4NzdiMDE5NmQzMWRjYjE5NGUyZmJiN2JjMGNkYzg5": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Senior AI Engineer",
+      "company": "Ofgem",
+      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=am9ibGlzdF92aWV3X3ZhYz0yMDAyMzc4Jm93bmVyPTUwNzAwMDAmc2VhcmNocGFnZT00NSZ1c2Vyc2VhcmNoY29udGV4dD0xOTQ4MzcxNjYmb3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPUpvYnMmc2VhcmNoc29ydD1jbG9zaW5nJnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZyZXFzaWc9MTc4MTk3ODQzMy0zMjU3MmZkOWU4NzdiMDE5NmQzMWRjYjE5NGUyZmJiN2JjMGNkYzg5",
+      "content_key": "content:senior ai engineer|ofgem"
     },
     "url:https://www.linkedin.com/jobs/view/4431135774": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Machine Learning Engineer",
       "company": "Encord",
       "apply_url": "https://www.linkedin.com/jobs/view/4431135774",
       "content_key": "content:machine learning engineer|encord"
     },
-    "url:https://www.linkedin.com/jobs/view/4428082891": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Data Engineer with AI/ML",
-      "company": "SharpAtoms",
-      "apply_url": "https://www.linkedin.com/jobs/view/4428082891",
-      "content_key": "content:data engineer with ai ml|sharpatoms"
-    },
-    "url:https://www.linkedin.com/jobs/view/4429218944": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Senior Software Engineer",
-      "company": "Sphere Digital Recruitment Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429218944",
-      "content_key": "content:senior software engineer|sphere digital recruitment"
-    },
-    "url:https://nasstar.pinpointhq.com/postings/f3248b0b-5f51-4575-8907-1103edd98d3d": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Cloud Engineering Consultant (Azure)",
-      "company": "Colibri Digital",
-      "apply_url": "https://nasstar.pinpointhq.com/postings/f3248b0b-5f51-4575-8907-1103edd98d3d?utm_medium=job_board&utm_source=indeed",
-      "content_key": "content:cloud engineering consultant azure|colibri digital"
-    },
-    "url:https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=d8eedab5-d750-47d2-ba1f-8bfec4820a1f&jobId=575363&lang=en_US&source=IN": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Senior Applied AI Engineer – Prompting & Evaluation",
+    "url:https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=d8eedab5-d750-47d2-ba1f-8bfec4820a1f&jobId=575362&lang=en_US&source=IN": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Applied AI Engineer – Prompting & Evaluation",
       "company": "Klipboard",
-      "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d8eedab5-d750-47d2-ba1f-8bfec4820a1f&ccId=19000101_000001&jobId=575363&source=IN&lang=en_US",
-      "content_key": "content:senior applied ai engineer prompting evaluation|klipboard"
+      "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d8eedab5-d750-47d2-ba1f-8bfec4820a1f&ccId=19000101_000001&jobId=575362&source=IN&lang=en_US",
+      "content_key": "content:applied ai engineer prompting evaluation|klipboard"
     },
-    "url:https://jpmorganchase.contacthr.com/152502407": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Applied AI/ML Lead - Intelligent Cloud Migration",
-      "company": "JPMorganChase",
-      "apply_url": "https://JPMorganChase.contacthr.com/152502407",
-      "content_key": "content:applied ai ml lead intelligent cloud migration|jpmorganchase"
-    },
-    "url:https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London/Senior-Data-Scientist-II_R114861": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Senior Data Scientist II",
-      "company": "LexisNexis Risk Solutions",
-      "apply_url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London/Senior-Data-Scientist-II_R114861",
-      "content_key": "content:senior data scientist ii|lexisnexis risk"
+    "url:https://careers.bbc.co.uk/job/Senior-Data-Scientist/41299-en_GB": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Senior Data Scientist",
+      "company": "BBCSTUDIOS",
+      "apply_url": "https://careers.bbc.co.uk/job/Senior-Data-Scientist/41299-en_GB",
+      "content_key": "content:senior data scientist|bbcstudios"
     },
     "url:https://relx.wd3.myworkdayjobs.com/en-US/relx/job/London/Senior-Data-Scientist-II_R114861-1": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Senior Data Scientist II",
       "company": "RELX Group",
       "apply_url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/London/Senior-Data-Scientist-II_R114861-1",
       "content_key": "content:senior data scientist ii|relx"
     },
-    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=dXNlcnNlYXJjaGNvbnRleHQ9MTk0NzkyNzE1JmpvYmxpc3Rfdmlld192YWM9MjAwMjM2OCZzZWFyY2hzb3J0PWNsb3Npbmcmb3duZXI9NTA3MDAwMCZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3Qmb3duZXJ0eXBlPWZhaXImc2VhcmNocGFnZT00MSZwYWdlY2xhc3M9Sm9icyZyZXFzaWc9MTc4MTkzNTIyOS0xYTY2NzIwNDlhNmI1ODZmMzQ5MmYwODZkMDQ1Nzg4YjZlOWEyNjhh": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXI9NTA3MDAwMCZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3QmdXNlcnNlYXJjaGNvbnRleHQ9MTk0ODM3MTY2JnNlYXJjaHBhZ2U9NDEmb3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPUpvYnMmc2VhcmNoc29ydD1jbG9zaW5nJmpvYmxpc3Rfdmlld192YWM9MjAwMjM2OCZyZXFzaWc9MTc4MTk3ODQzMi0yM2RkYWVjYWVkZjIyNDJiNmRkMzlkOGQ0NWI2YTUzY2JjMzNlZmI1": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Senior Performance Analyst (AI Chat)",
       "company": "Government Digital Service",
-      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=dXNlcnNlYXJjaGNvbnRleHQ9MTk0NzkyNzE1JmpvYmxpc3Rfdmlld192YWM9MjAwMjM2OCZzZWFyY2hzb3J0PWNsb3Npbmcmb3duZXI9NTA3MDAwMCZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3Qmb3duZXJ0eXBlPWZhaXImc2VhcmNocGFnZT00MSZwYWdlY2xhc3M9Sm9icyZyZXFzaWc9MTc4MTkzNTIyOS0xYTY2NzIwNDlhNmI1ODZmMzQ5MmYwODZkMDQ1Nzg4YjZlOWEyNjhh",
+      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXI9NTA3MDAwMCZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3QmdXNlcnNlYXJjaGNvbnRleHQ9MTk0ODM3MTY2JnNlYXJjaHBhZ2U9NDEmb3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPUpvYnMmc2VhcmNoc29ydD1jbG9zaW5nJmpvYmxpc3Rfdmlld192YWM9MjAwMjM2OCZyZXFzaWc9MTc4MTk3ODQzMi0yM2RkYWVjYWVkZjIyNDJiNmRkMzlkOGQ0NWI2YTUzY2JjMzNlZmI1",
       "content_key": "content:senior performance analyst ai chat|government digital service"
     },
     "url:https://jobs.smartrecruiters.com/Ubisoft2/744000133115606-business-intelligence-manager": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Business Intelligence Manager",
       "company": "Ubisoft",
       "apply_url": "https://jobs.smartrecruiters.com/Ubisoft2/744000133115606-business-intelligence-manager",
       "content_key": "content:business intelligence manager|ubisoft"
     },
     "url:https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/UK--London--New-Oxford-Street/Clinical-Programmer-Analyst_443034-1": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Clinical Programmer/Analyst",
       "company": "GSK",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/UK--London--New-Oxford-Street/Clinical-Programmer-Analyst_443034-1",
       "content_key": "content:clinical programmer analyst|gsk"
     },
+    "url:https://www.linkedin.com/jobs/view/4429287406": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Supply Chain Data Scientist",
+      "company": "Hays",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429287406",
+      "content_key": "content:supply chain data scientist|hays"
+    },
+    "url:https://grnh.se/o4mqsuyj1us": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Forward-Deployed Data Scientist II",
+      "company": "Braze",
+      "apply_url": "https://grnh.se/o4mqsuyj1us",
+      "content_key": "content:forward deployed data scientist ii|braze"
+    },
+    "url:https://www.linkedin.com/jobs/view/4428044818": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "AI / ML Engineer",
+      "company": "Ventula Consulting",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428044818",
+      "content_key": "content:ai ml engineer|ventula consulting"
+    },
+    "url:https://www.linkedin.com/jobs/view/4428082891": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Data Engineer with AI/ML",
+      "company": "SharpAtoms",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428082891",
+      "content_key": "content:data engineer with ai ml|sharpatoms"
+    },
+    "url:https://www.linkedin.com/jobs/view/4429242825": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Software Engineer",
+      "company": "TechShack",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429242825",
+      "content_key": "content:software engineer|techshack"
+    },
+    "url:https://nasstar.pinpointhq.com/postings/f3248b0b-5f51-4575-8907-1103edd98d3d": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Cloud Engineering Consultant (Azure)",
+      "company": "Colibri Digital",
+      "apply_url": "https://nasstar.pinpointhq.com/postings/f3248b0b-5f51-4575-8907-1103edd98d3d?utm_medium=job_board&utm_source=indeed",
+      "content_key": "content:cloud engineering consultant azure|colibri digital"
+    },
+    "url:https://www.linkedin.com/jobs/view/4429513893": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "AI Engineer",
+      "company": "Albany Growth",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429513893",
+      "content_key": "content:ai engineer|albany growth"
+    },
+    "url:https://www.linkedin.com/jobs/view/4426129059": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Intelix.AI",
+      "apply_url": "https://www.linkedin.com/jobs/view/4426129059",
+      "content_key": "content:artificial intelligence engineer|intelix ai"
+    },
+    "url:https://jobs.marksandspencer.com/job-search/digital-tech/london-greater-london/senior-software-engineer-recommendation-experiences/300007783090965": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Senior Software Engineer - Recommendation Experiences",
+      "company": "Marks & Spencer",
+      "apply_url": "https://jobs.marksandspencer.com/job-search/digital-tech/london-greater-london/senior-software-engineer-recommendation-experiences/300007783090965",
+      "content_key": "content:senior software engineer recommendation experiences|marks spencer"
+    },
+    "url:https://jpmorganchase.contacthr.com/152502407": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Applied AI/ML Lead - Intelligent Cloud Migration",
+      "company": "JPMorganChase",
+      "apply_url": "https://JPMorganChase.contacthr.com/152502407",
+      "content_key": "content:applied ai ml lead intelligent cloud migration|jpmorganchase"
+    },
+    "url:https://jpmorganchase.contacthr.com/152501658": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Lead Software Engineer - AI for Risk Technology",
+      "company": "JPMorganChase",
+      "apply_url": "https://JPMorganChase.contacthr.com/152501658",
+      "content_key": "content:lead software engineer ai for risk technology|jpmorganchase"
+    },
+    "url:https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London/Senior-Data-Scientist-II_R114861": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Senior Data Scientist II",
+      "company": "LexisNexis Risk Solutions",
+      "apply_url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London/Senior-Data-Scientist-II_R114861",
+      "content_key": "content:senior data scientist ii|lexisnexis risk"
+    },
     "url:https://www.firstcentralcareers.com/jobs/pricing-and-proposition/lead-data-scientist": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Lead Data Scientist",
       "company": "1st Central",
       "apply_url": "https://www.firstcentralcareers.com/jobs/pricing-and-proposition/lead-data-scientist",
       "content_key": "content:lead data scientist|1st central"
     },
+    "url:https://www.linkedin.com/jobs/view/4426845321": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Onsera Health",
+      "apply_url": "https://www.linkedin.com/jobs/view/4426845321",
+      "content_key": "content:senior machine learning engineer|onsera health"
+    },
+    "url:https://www.linkedin.com/jobs/view/4429546624": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Machine Learning Engineer",
+      "company": "ViVA Tech Talent",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429546624",
+      "content_key": "content:machine learning engineer|viva tech talent"
+    },
+    "url:https://www.linkedin.com/jobs/view/4429527439": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Senior Machine Learning Engineer",
+      "company": "ViVA Tech Talent",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429527439",
+      "content_key": "content:senior machine learning engineer|viva tech talent"
+    },
     "url:https://ebet.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/100252": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Senior Machine Learning Engineer - Customer AI",
       "company": "Compare The Market",
       "apply_url": "https://ebet.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/100252",
       "content_key": "content:senior machine learning engineer customer ai|compare the market"
     },
     "url:https://ebet.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/100267": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Senior Machine Learning Engineer",
       "company": "Compare The Market",
       "apply_url": "https://ebet.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/100267",
       "content_key": "content:senior machine learning engineer|compare the market"
     },
-    "url:https://www.linkedin.com/jobs/view/4429527439": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Senior Machine Learning Engineer",
-      "company": "ViVA Tech Talent",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429527439",
-      "content_key": "content:senior machine learning engineer|viva tech talent"
-    },
-    "url:https://www.linkedin.com/jobs/view/4426845321": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Onsera Health",
-      "apply_url": "https://www.linkedin.com/jobs/view/4426845321",
-      "content_key": "content:senior machine learning engineer|onsera health"
-    },
     "url:https://apply.workable.com/j/E1E3C728D2": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Senior Machine Learning Engineer",
       "company": "Houseful",
       "apply_url": "https://apply.workable.com/j/E1E3C728D2",
       "content_key": "content:senior machine learning engineer|houseful"
     },
     "url:https://www.linkedin.com/jobs/view/4426821900": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Senior Data Engineer - Python, SQL, Snowflake, dbt - New R&D Team (AI Trading Platform)",
       "company": "GL Global",
       "apply_url": "https://www.linkedin.com/jobs/view/4426821900",
       "content_key": "content:senior data engineer python sql snowflake dbt new r d team ai trading platform|gl global"
     },
-    "url:https://www.linkedin.com/jobs/view/4427366574": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Explore Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4427366574",
-      "content_key": "content:artificial intelligence engineer|explore"
+    "url:https://www.linkedin.com/jobs/view/4429218944": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Senior Software Engineer",
+      "company": "Sphere Digital Recruitment Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429218944",
+      "content_key": "content:senior software engineer|sphere digital recruitment"
+    },
+    "url:https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=d8eedab5-d750-47d2-ba1f-8bfec4820a1f&jobId=575363&lang=en_US&source=IN": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Senior Applied AI Engineer – Prompting & Evaluation",
+      "company": "Klipboard",
+      "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d8eedab5-d750-47d2-ba1f-8bfec4820a1f&ccId=19000101_000001&jobId=575363&source=IN&lang=en_US",
+      "content_key": "content:senior applied ai engineer prompting evaluation|klipboard"
     },
     "url:https://www.linkedin.com/jobs/view/4417115594": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Artificial Intelligence Engineer",
       "company": "THRivve by intelletec",
       "apply_url": "https://www.linkedin.com/jobs/view/4417115594",
       "content_key": "content:artificial intelligence engineer|thrivve by intelletec"
     },
-    "url:https://jpmorganchase.contacthr.com/152501658": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Lead Software Engineer - AI for Risk Technology",
-      "company": "JPMorganChase",
-      "apply_url": "https://JPMorganChase.contacthr.com/152501658",
-      "content_key": "content:lead software engineer ai for risk technology|jpmorganchase"
+    "url:https://www.linkedin.com/jobs/view/4427366574": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Explore Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4427366574",
+      "content_key": "content:artificial intelligence engineer|explore"
     },
     "url:https://jobs.marksandspencer.com/job-search/digital-tech/london-greater-london/staff-software-engineer-continuity/300007741959845": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Staff Software Engineer - Continuity",
       "company": "Marks & Spencer",
       "apply_url": "https://jobs.marksandspencer.com/job-search/digital-tech/london-greater-london/staff-software-engineer-continuity/300007741959845",
       "content_key": "content:staff software engineer continuity|marks spencer"
     },
+    "url:https://jobs.marksandspencer.com/job-search/digital-tech/london-greater-london/senior-software-engineer-order-management-platform/300007762330983": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Senior Software Engineer - Order Management platform",
+      "company": "Marks & Spencer",
+      "apply_url": "https://jobs.marksandspencer.com/job-search/digital-tech/london-greater-london/senior-software-engineer-order-management-platform/300007762330983",
+      "content_key": "content:senior software engineer order management platform|marks spencer"
+    },
     "url:https://greyparrotai.recruitee.com/o/lead-data-scientist?source=Indeed": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Lead Data Scientist",
       "company": "Greyparrot",
       "apply_url": "https://greyparrotai.recruitee.com/o/lead-data-scientist?source=Indeed",
       "content_key": "content:lead data scientist|greyparrot"
     },
     "url:https://careers.roche.com/de/de/job/202606-115300": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Principal Data Strategy & Analytics Specialist",
       "company": "Roche",
       "apply_url": "https://careers.roche.com/de/de/job/202606-115300",
       "content_key": "content:principal data strategy analytics specialist|roche"
     },
+    "url:https://jp.syneoshealth.com/careers/jobs/17890177-sr-programmer-sr-data-scientist-slash-analys-real-world-data-sas-slash-r": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Sr Programmer-Sr Data Scientist/Analys Real-World Data (SAS/R)",
+      "company": "サイネオス・ヘルス",
+      "apply_url": "https://jp.syneoshealth.com/careers/jobs/17890177-sr-programmer-sr-data-scientist-slash-analys-real-world-data-sas-slash-r",
+      "content_key": ""
+    },
     "url:https://www.linkedin.com/jobs/view/4426496989": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Data Scientist",
       "company": "MBN Solutions",
       "apply_url": "https://www.linkedin.com/jobs/view/4426496989",
       "content_key": "content:data scientist|mbn"
     },
     "url:https://www.linkedin.com/jobs/view/4429557868": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "VP, Head of Data Science",
       "company": "Penta Group",
       "apply_url": "https://www.linkedin.com/jobs/view/4429557868",
       "content_key": "content:vp head of data science|penta"
     },
     "url:https://grnh.se/wcaoq8h61us": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Staff Machine Learning Engineer, ML Efficiency",
       "company": "reddit",
       "apply_url": "https://grnh.se/wcaoq8h61us",
       "content_key": "content:staff machine learning engineer ml efficiency|reddit"
     },
     "url:https://grnh.se/6ak0mix91us": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Senior Machine Learning Engineer, Ads Foundational Representations",
       "company": "reddit",
       "apply_url": "https://grnh.se/6ak0mix91us",
       "content_key": "content:senior machine learning engineer ads foundational representations|reddit"
     },
     "url:https://jobs.comparethemarketcareers.com/en/job/100271": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Machine Learning Engineering Manager",
       "company": "Compare The Market",
       "apply_url": "https://jobs.comparethemarketcareers.com/en/job/100271",
       "content_key": "content:machine learning engineering manager|compare the market"
     },
     "url:https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Crawley-United-Kingdom/Senior-Cloud-Engineer_JR101309": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Senior Cloud Engineer",
       "company": "Viridien",
       "apply_url": "https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Crawley-United-Kingdom/Senior-Cloud-Engineer_JR101309",
       "content_key": "content:senior cloud engineer|viridien"
     },
+    "url:https://jobs.smartrecruiters.com/Entain/744000127033060": {
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
+      "title": "Principal Machine Learning Engineer",
+      "company": "Entain",
+      "apply_url": "https://jobs.smartrecruiters.com/Entain/744000127033060",
+      "content_key": "content:principal machine learning engineer|entain"
+    },
     "url:https://jpmorganchase.contacthr.com/152501839": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Applied AI ML Director - NLP / LLM and Graphs",
       "company": "JPMorganChase",
       "apply_url": "https://JPMorganChase.contacthr.com/152501839",
       "content_key": "content:applied ai ml director nlp llm and graphs|jpmorganchase"
     },
-    "url:https://www.linkedin.com/jobs/view/4429976642": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Artificial Intelligence / Machine Learning Engineer",
-      "company": "Airswift",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429976642",
-      "content_key": "content:artificial intelligence machine learning engineer|airswift"
-    },
     "url:https://www.linkedin.com/jobs/view/4429676021": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Mobile Engineer - Fully Remote | Upto $85/hr",
       "company": "Mercor",
       "apply_url": "https://www.linkedin.com/jobs/view/4429676021",
       "content_key": "content:mobile engineer fully remote upto 85 hr|mercor"
     },
-    "url:https://jp.syneoshealth.com/careers/jobs/17890177-sr-programmer-sr-data-scientist-slash-analys-real-world-data-sas-slash-r": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
-      "title": "Sr Programmer-Sr Data Scientist/Analys Real-World Data (SAS/R)",
-      "company": "サイネオス・ヘルス",
-      "apply_url": "https://jp.syneoshealth.com/careers/jobs/17890177-sr-programmer-sr-data-scientist-slash-analys-real-world-data-sas-slash-r",
-      "content_key": ""
-    },
     "url:https://careers.hcltech.com/job/AI-Solution-Architect-II/117138-en_US": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "AI Solution Architect II",
       "company": "HCLTech",
       "apply_url": "https://careers.hcltech.com/job/AI-Solution-Architect-II/117138-en_US",
       "content_key": "content:ai solution architect ii|hcltech"
     },
     "url:https://jpmorganchase.contacthr.com/152501821": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "AI Engineering Director",
       "company": "JPMorganChase",
       "apply_url": "https://JPMorganChase.contacthr.com/152501821",
       "content_key": "content:ai engineering director|jpmorganchase"
     },
     "url:http://uk.indeed.com/job/principal-scientist-analytical-chemist-odour-discovery-16be637e33a9e43d": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Principal Scientist, Analytical Chemist - Odour Discovery",
       "company": "Arctech Innovation",
       "apply_url": "http://uk.indeed.com/job/principal-scientist-analytical-chemist-odour-discovery-16be637e33a9e43d",
       "content_key": "content:principal scientist analytical chemist odour discovery|arctech innovation"
     },
     "url:https://expedia.wd108.myworkdayjobs.com/en-US/search/job/UK---London/Director--Enablement---Growth---TPSP-B2B-Operations_R-106917": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "Director, Enablement & Growth – TPSP B2B Operations",
       "company": "Expedia Group",
       "apply_url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/UK---London/Director--Enablement---Growth---TPSP-B2B-Operations_R-106917",
       "content_key": "content:director enablement growth tpsp b2b operations|expedia"
     },
     "url:https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Newport-United-Kingdom/HR-Business-Partner_2637971": {
-      "first_seen_run_id": "20260620T093448",
-      "last_seen_run_id": "20260620T093448",
+      "first_seen_run_id": "20260620T190046",
+      "last_seen_run_id": "20260620T190046",
       "title": "HR Business Partner",
       "company": "KLA",
       "apply_url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Newport-United-Kingdom/HR-Business-Partner_2637971",
