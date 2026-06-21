@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import Sidebar from "@/components/Sidebar";
 import TopHeader from "@/components/TopHeader";
 import BottomNav from "@/components/BottomNav";
+import AutoSync from "@/components/AutoSync";
 import { themePreloadScript } from "@/lib/theme";
 
 export const metadata: Metadata = {
@@ -26,6 +27,8 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-dvh antialiased">
+        {/* Headless: boots cross-device status auto-sync for the app lifetime. */}
+        <AutoSync />
         <Sidebar />
 
         {/* Content column is offset by the sidebar on md+ screens. The

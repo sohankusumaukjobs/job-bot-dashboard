@@ -222,6 +222,158 @@ export async function loadFromGist(
   };
 }
 
+// ── v2 entries API (timestamped, used by the auto-sync engine) ────────────
+
+import type { EntryMap } from "./jobStatus";
+
+export interface SyncPayloadV2 {
+  version: 2;
+  /** ISO timestamp of when this snapshot was written. */
+  saved_at: string;
+  /** Per-key { status, updatedAt } so devices merge without clobbering. */
+  entries: EntryMap;
+}
+
+/** Coerce any stored gist shape (v2 entries, v1 wrapped/bare map) → EntryMap. */
+function coerceEntries(parsed: unknown): EntryMap {
+  if (!parsed || typeof parsed !== "object") return {};
+  const obj = parsed as Record<string, unknown>;
+
+  // v2: { version: 2, entries: {...} }
+  if (obj.version === 2 && obj.entries && typeof obj.entries === "object") {
+    const out: EntryMap = {};
+    for (const [k, v] of Object.entries(obj.entries as Record<string, unknown>)) {
+      if (v && typeof v === "object" && "status" in (v as object)) {
+        const e = v as { status?: unknown; updatedAt?: unknown };
+        const status =
+          e.status === "applied" || e.status === "interview" || e.status === "rejected"
+            ? e.status
+            : "";
+        out[k] = { status, updatedAt: Number(e.updatedAt) || 0 };
+      }
+    }
+    return out;
+  }
+
+  // v1: { data: {key: status} } OR a bare {key: status} map. updatedAt 0 so any
+  // real v2 edit always wins.
+  const map =
+    "data" in obj && obj.data && typeof obj.data === "object"
+      ? (obj.data as Record<string, unknown>)
+      : obj;
+  const out: EntryMap = {};
+  for (const [k, v] of Object.entries(map)) {
+    if (v === "applied" || v === "interview" || v === "rejected") {
+      out[k] = { status: v, updatedAt: 0 };
+    }
+  }
+  return out;
+}
+
+/** Save the local entry map to the remote gist (create or update). */
+export async function saveEntriesToGist(
+  pat: string,
+  entries: EntryMap
+): Promise<{ gistId: string; ts: number }> {
+  if (!pat) throw new Error("GitHub PAT is required.");
+  const ts = Date.now();
+  const payload: SyncPayloadV2 = {
+    version: 2,
+    saved_at: new Date(ts).toISOString(),
+    entries: entries || {},
+  };
+  const content = JSON.stringify(payload, null, 2);
+
+  let gistId = await resolveGistId(pat);
+  if (gistId) {
+    await githubFetch(pat, `/gists/${gistId}`, {
+      method: "PATCH",
+      body: JSON.stringify({
+        description: GIST_DESCRIPTION,
+        files: { [GIST_FILENAME]: { content } },
+      }),
+    });
+  } else {
+    const created = await githubFetch(pat, `/gists`, {
+      method: "POST",
+      body: JSON.stringify({
+        description: GIST_DESCRIPTION,
+        public: false,
+        files: { [GIST_FILENAME]: { content } },
+      }),
+    });
+    gistId = created?.id;
+    if (!gistId) throw new Error("Gist creation succeeded but no id returned.");
+    setStoredGistId(gistId);
+  }
+  setLastSync(ts);
+  return { gistId, ts };
+}
+
+export interface LoadEntriesResult {
+  entries: EntryMap;
+  gistId: string;
+  /** Strong validator for cheap conditional polls (304 == no rate cost). */
+  etag: string;
+  /** True when the server returned 304 — caller should keep its prior data. */
+  notModified: boolean;
+}
+
+/**
+ * Load the remote entry map, optionally conditionally via an ETag. Returns
+ * notModified=true on a 304 (no body), so a background poll on an unchanged
+ * gist costs nothing against the authenticated rate limit.
+ * Returns null when no gist exists yet for this PAT.
+ */
+export async function loadEntriesFromGist(
+  pat: string,
+  etag?: string
+): Promise<LoadEntriesResult | null> {
+  if (!pat) throw new Error("GitHub PAT is required.");
+  const gistId = await resolveGistId(pat);
+  if (!gistId) return null;
+
+  const res = await fetch(`https://api.github.com/gists/${gistId}`, {
+    headers: {
+      Accept: "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+      Authorization: `Bearer ${pat}`,
+      ...(etag ? { "If-None-Match": etag } : {}),
+    },
+  });
+
+  if (res.status === 304) {
+    setLastSync(Date.now());
+    return { entries: {}, gistId, etag: etag || "", notModified: true };
+  }
+  if (res.status === 401) {
+    throw new Error("PAT rejected (401). Check the token has `gist` scope.");
+  }
+  if (!res.ok) {
+    throw new Error(`GitHub ${res.status}: ${res.statusText}`);
+  }
+
+  const newEtag = res.headers.get("ETag") || "";
+  const gist = await res.json();
+  const file = gist?.files?.[GIST_FILENAME];
+  setLastSync(Date.now());
+  if (!file?.content) {
+    return { entries: {}, gistId, etag: newEtag, notModified: false };
+  }
+  let parsed: unknown;
+  try {
+    parsed = JSON.parse(file.content);
+  } catch {
+    throw new Error("Remote gist content is not valid JSON.");
+  }
+  return {
+    entries: coerceEntries(parsed),
+    gistId,
+    etag: newEtag,
+    notModified: false,
+  };
+}
+
 /** Best-effort: how long ago we last synced, as a human string. */
 export function lastSyncRelative(now = Date.now()): string {
   const ts = getLastSync();
