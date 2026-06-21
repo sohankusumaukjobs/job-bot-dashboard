@@ -1,7 +1,11 @@
 import DateSection from "@/components/DateSection";
 import EmptyState from "@/components/EmptyState";
 import Stats from "@/components/Stats";
-import { loadAllDailyRuns } from "@/lib/loadRuns";
+import {
+  loadIndex,
+  loadRecentDailyRuns,
+  DAILY_FEED_RUN_LIMIT,
+} from "@/lib/loadRuns";
 import { groupByDate } from "@/lib/groupByDate";
 
 // Server component reads from the file system at build time; Next.js SSGs it
@@ -10,19 +14,23 @@ import { groupByDate } from "@/lib/groupByDate";
 // the page when new state JSONs landed in `public/state/`.
 
 export default function DailyPage() {
-  const snapshots = loadAllDailyRuns();
+  // KPI stats come from the lightweight index (new_count / total_scraped per
+  // run) so they stay accurate all-time without loading every run file. Only
+  // the most recent runs are loaded in full for rendering — older days live on
+  // the All Jobs page and per-run permalinks. This keeps the statically
+  // pre-rendered page bounded under Vercel's 19 MB ISR limit.
+  const index = loadIndex();
+  const snapshots = loadRecentDailyRuns();
   const groups = groupByDate(snapshots);
 
-  const totalRuns = snapshots.length;
-  const totalNewAllTime = snapshots.reduce(
-    (acc, s) => acc + (s.new_count ?? s.jobs.length),
+  const totalRuns = index.length;
+  const totalNewAllTime = index.reduce((acc, e) => acc + (e.new_count ?? 0), 0);
+  const totalScrapedAllTime = index.reduce(
+    (acc, e) => acc + (e.total_scraped ?? 0),
     0
   );
-  const totalScrapedAllTime = snapshots.reduce(
-    (acc, s) => acc + (s.total_scraped ?? s.jobs.length),
-    0
-  );
-  const latestRunDate = snapshots[0]?.run_date?.slice(0, 10);
+  const latestRunDate = (index[0]?.run_date ?? index[0]?.date)?.slice(0, 10);
+  const cappedOlderRuns = index.length > snapshots.length;
 
   return (
     <div>
@@ -36,6 +44,16 @@ export default function DailyPage() {
             View All Jobs &rarr;
           </a>
         </p>
+        {cappedOlderRuns && (
+          <p className="mt-1 max-w-2xl text-xs leading-snug text-ink-faint">
+            Showing the latest {DAILY_FEED_RUN_LIMIT} runs. Older runs remain on
+            the{" "}
+            <a href="/all" className="text-primary hover:underline">
+              All Jobs
+            </a>{" "}
+            page.
+          </p>
+        )}
       </header>
 
       <Stats
