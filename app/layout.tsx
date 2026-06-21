@@ -4,6 +4,8 @@ import Sidebar from "@/components/Sidebar";
 import TopHeader from "@/components/TopHeader";
 import BottomNav from "@/components/BottomNav";
 import AutoSync from "@/components/AutoSync";
+import WelcomeScreen from "@/components/WelcomeScreen";
+import { loadIndex } from "@/lib/loadRuns";
 import { themePreloadScript } from "@/lib/theme";
 
 export const metadata: Metadata = {
@@ -17,6 +19,8 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  // Latest run's new-job count for the welcome screen's dynamic subtitle.
+  const newToday = loadIndex()[0]?.new_count;
   return (
     <html lang="en">
       <head>
@@ -29,6 +33,8 @@ export default function RootLayout({
       <body className="min-h-dvh antialiased">
         {/* Headless: boots cross-device status auto-sync for the app lifetime. */}
         <AutoSync />
+        {/* One-time-per-session branded entrance. */}
+        <WelcomeScreen newToday={newToday} />
         <Sidebar />
 
         {/* Content column is offset by the sidebar on md+ screens. The

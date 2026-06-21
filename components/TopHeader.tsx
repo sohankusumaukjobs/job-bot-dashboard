@@ -4,6 +4,7 @@ import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { Search, X } from "lucide-react";
 import SyncPanel from "./SyncPanel";
+import { PROFILE } from "@/lib/profile";
 
 const PAGE_TITLES: Record<string, string> = {
   "/":          "Daily Feed",
@@ -124,17 +125,34 @@ export default function TopHeader() {
             SyncPanel; the panel internally renders an `☁️ Sync` button. */}
         <SyncPanel />
 
-        {/* Avatar */}
+        {/* Profile chip — avatar + name, collapses to just the avatar on mobile. */}
         <Link
           href="/"
-          aria-label="Profile"
+          aria-label={`${PROFILE.fullName} — profile`}
+          title={PROFILE.fullName}
           className="
-            ml-1 grid h-9 w-9 place-items-center rounded-full
-            bg-score-gradient text-sm font-bold text-white shadow-card
-            transition-transform duration-150 ease-spring hover:scale-105
+            ml-1 flex items-center gap-2 rounded-full
+            border border-transparent py-0.5 pl-0.5 pr-0.5 sm:pr-3
+            transition-all duration-150 ease-spring
+            hover:border-border/[0.10] hover:bg-bg-elevated/40
           "
         >
-          SK
+          <span
+            className="
+              grid h-9 w-9 shrink-0 place-items-center rounded-full
+              bg-score-gradient text-sm font-bold text-white shadow-card
+            "
+          >
+            {PROFILE.initials}
+          </span>
+          <span className="hidden min-w-0 flex-col leading-tight sm:flex">
+            <span className="truncate text-sm font-bold text-ink">
+              {PROFILE.name}
+            </span>
+            <span className="truncate text-[10px] font-medium uppercase tracking-wide text-ink-faint">
+              {PROFILE.role}
+            </span>
+          </span>
         </Link>
       </div>
     </header>

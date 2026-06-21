@@ -118,6 +118,19 @@ const config: Config = {
           "0%, 100%": { opacity: "1" },
           "50%":      { opacity: "0.55" },
         },
+        // Welcome-screen hero motifs.
+        "welcome-drift": {
+          "0%, 100%": { transform: "translate3d(0,0,0) scale(1)" },
+          "50%":      { transform: "translate3d(-3%,2%,0) scale(1.08)" },
+        },
+        twinkle: {
+          "0%, 100%": { opacity: "0.35" },
+          "50%":      { opacity: "1" },
+        },
+        "welcome-out": {
+          "0%":   { opacity: "1", transform: "scale(1)" },
+          "100%": { opacity: "0", transform: "scale(1.04)" },
+        },
       },
       animation: {
         "fade-rise": "fade-rise 0.4s ease-out both",
@@ -125,6 +138,9 @@ const config: Config = {
         shimmer:     "shimmer 1.5s ease-in-out infinite",
         float:       "float 3.5s ease-in-out infinite",
         "pulse-soft":"pulse-soft 2.4s ease-in-out infinite",
+        "welcome-drift": "welcome-drift 18s ease-in-out infinite",
+        twinkle:        "twinkle 3.2s ease-in-out infinite",
+        "welcome-out":  "welcome-out 0.42s ease-in both",
       },
       transitionTimingFunction: {
         spring: "cubic-bezier(0.34, 1.56, 0.64, 1)",
