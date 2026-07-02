@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: sync-state
@@ -58,4 +59,59 @@ jobs:
           else
             git commit -m "sync: pull state from job-bot ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
             git push
+          fi
+
+      # ── Failure alerting ──────────────────────────────────────────────
+      # The cron retries every 30 min, so a broken credential fails forever
+      # in silence unless someone watches the Actions tab. On the FIRST
+      # failure we open a pinned issue (GitHub emails the owner) and — if
+      # TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID secrets are configured — send
+      # a Telegram alert. While the issue stays open we don't re-alert
+      # (no spam); when a later run succeeds, the issue is auto-closed so
+      # the next distinct outage alerts again.
+      - name: Alert on failure (issue + optional Telegram)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITLE="🚨 Dashboard sync is failing"
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            echo "Alert issue #$EXISTING already open — not re-alerting."
+            exit 0
+          fi
+          gh issue create --title "$TITLE" --body "The state-sync workflow is failing, so the public dashboard is no longer receiving new runs.
+
+          Most common cause: the **BOT_REPO_PAT** secret expired (the log shows \`401 Bad credentials\`).
+
+          **Fix:**
+          1. Create a new fine-grained PAT — repo access: only the bot repo, permission: *Contents: Read-only*.
+          2. Update the \`BOT_REPO_PAT\` secret in this repo's *Settings → Secrets and variables → Actions*.
+          3. Re-run the sync workflow.
+
+          Failing run: $RUN_URL
+
+          _This issue was opened automatically; it will auto-close when a sync succeeds._"
+          if [ -n "$TG_TOKEN" ] && [ -n "$TG_CHAT" ]; then
+            curl -s -X POST "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" \
+              -d chat_id="${TG_CHAT}" \
+              --data-urlencode text="🚨 Dashboard sync is FAILING — new runs are not reaching the dashboard. Likely the BOT_REPO_PAT secret expired. Details: ${RUN_URL}" \
+              >/dev/null && echo "Telegram alert sent." || echo "Telegram alert failed (non-fatal)."
+          else
+            echo "Telegram secrets not configured — skipped Telegram alert."
+          fi
+
+      - name: Close alert issue on recovery
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="🚨 Dashboard sync is failing"
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            gh issue close "$EXISTING" --comment "Sync succeeded again — closing automatically. ✅"
+            echo "Closed alert issue #$EXISTING."
           fi
