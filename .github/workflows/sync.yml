@@ -21,12 +21,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout dashboard repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          # Node 20 reached end-of-life April 2026; 24 is the active LTS.
+          node-version: "24"
 
       - name: Pull state/ from job-bot
         env:
