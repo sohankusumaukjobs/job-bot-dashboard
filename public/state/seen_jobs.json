@@ -1,7 +1,7 @@
 {
   "version": 1,
   "resume_hash": "5cee2f0a0ae00536e740f5c8bd69d4c59c7a2c4360aa0b17fff7ef28c8a6ab4e",
-  "updated_at": "2026-07-04T18:05:50",
+  "updated_at": "2026-07-06T07:18:54",
   "entries": {
     "url:https://becomeanapprentice.qa.com/jobs/7999239-ai-engineer-apprentice": {
       "first_seen_run_id": "20260704T180550",
@@ -1034,6 +1034,254 @@
       "company": "University of Oxford",
       "apply_url": "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_applicant_no=&p_recruitment_id=187389&p_process_type=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y",
       "content_key": "content:postdoctoral researcher in immunology|university of oxford"
+    },
+    "url:https://www.linkedin.com/jobs/view/4431823996": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Graduate AI Engineer",
+      "company": "Allica Bank",
+      "apply_url": "https://www.linkedin.com/jobs/view/4431823996",
+      "content_key": "content:graduate ai engineer|allica bank"
+    },
+    "url:https://www.linkedin.com/jobs/view/4436023294": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Graduate data scientist",
+      "company": "Bending Spoons",
+      "apply_url": "https://www.linkedin.com/jobs/view/4436023294",
+      "content_key": "content:graduate data scientist|bending spoons"
+    },
+    "url:https://www.linkedin.com/jobs/view/4432355249": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI/ML Engineer",
+      "company": "Spait Infotech",
+      "apply_url": "https://www.linkedin.com/jobs/view/4432355249",
+      "content_key": "content:ai ml engineer|spait infotech"
+    },
+    "url:https://www.linkedin.com/jobs/view/4435552093": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Data Scientist",
+      "company": "hackajob",
+      "apply_url": "https://www.linkedin.com/jobs/view/4435552093",
+      "content_key": "content:data scientist|hackajob"
+    },
+    "url:https://www.linkedin.com/jobs/view/4414045698": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI Engineer",
+      "company": "Orbital",
+      "apply_url": "https://www.linkedin.com/jobs/view/4414045698",
+      "content_key": "content:ai engineer|orbital"
+    },
+    "url:https://www.linkedin.com/jobs/view/4416148261": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Applied Data Scientist",
+      "company": "dunnhumby",
+      "apply_url": "https://www.linkedin.com/jobs/view/4416148261",
+      "content_key": "content:applied data scientist|dunnhumby"
+    },
+    "url:https://www.linkedin.com/jobs/view/4432376004": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Data Scientist – Analytics & ML",
+      "company": "Terex Corporation",
+      "apply_url": "https://www.linkedin.com/jobs/view/4432376004",
+      "content_key": "content:data scientist analytics ml|terex"
+    },
+    "url:https://www.linkedin.com/jobs/view/4435798352": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI/ML Research Engineer",
+      "company": "Jobgether",
+      "apply_url": "https://www.linkedin.com/jobs/view/4435798352",
+      "content_key": "content:ai ml research engineer|jobgether"
+    },
+    "url:https://www.linkedin.com/jobs/view/4429262357": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI Engineer",
+      "company": "Acorn Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4429262357",
+      "content_key": "content:ai engineer|acorn"
+    },
+    "url:https://www.linkedin.com/jobs/view/4426357473": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI Engineer",
+      "company": "Prism Digital",
+      "apply_url": "https://www.linkedin.com/jobs/view/4426357473",
+      "content_key": "content:ai engineer|prism digital"
+    },
+    "url:https://www.linkedin.com/jobs/view/4435238697": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Data scientist",
+      "company": "Bending Spoons",
+      "apply_url": "https://www.linkedin.com/jobs/view/4435238697",
+      "content_key": "content:data scientist|bending spoons"
+    },
+    "url:https://www.linkedin.com/jobs/view/4434388491": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Data Scientist at Harmonic Security Inc.",
+      "company": "Jack & Jill",
+      "apply_url": "https://www.linkedin.com/jobs/view/4434388491",
+      "content_key": "content:data scientist at harmonic security inc|jack jill"
+    },
+    "url:https://www.linkedin.com/jobs/view/4416143846": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Data Scientist",
+      "company": "BAE Systems Digital Intelligence",
+      "apply_url": "https://www.linkedin.com/jobs/view/4416143846",
+      "content_key": "content:data scientist|bae systems digital intelligence"
+    },
+    "url:https://www.linkedin.com/jobs/view/4435421977": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI Engineer – HealthTech Start-up",
+      "company": "DigiTech Resourcing",
+      "apply_url": "https://www.linkedin.com/jobs/view/4435421977",
+      "content_key": "content:ai engineer healthtech start up|digitech resourcing"
+    },
+    "url:https://www.linkedin.com/jobs/view/4435532057": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Data Scientist",
+      "company": "myPOS",
+      "apply_url": "https://www.linkedin.com/jobs/view/4435532057",
+      "content_key": "content:data scientist|mypos"
+    },
+    "url:https://www.linkedin.com/jobs/view/4428191058": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Data Scientist",
+      "company": "ICON Strategic Solutions",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428191058",
+      "content_key": "content:data scientist|icon strategic"
+    },
+    "url:https://www.linkedin.com/jobs/view/4432352994": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI/ML Engineer",
+      "company": "Talent Locker",
+      "apply_url": "https://www.linkedin.com/jobs/view/4432352994",
+      "content_key": "content:ai ml engineer|talent locker"
+    },
+    "url:https://www.linkedin.com/jobs/view/4428614808": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Machine Learning - AI Safety",
+      "company": "Microsoft",
+      "apply_url": "https://www.linkedin.com/jobs/view/4428614808",
+      "content_key": "content:machine learning ai safety|microsoft"
+    },
+    "url:https://www.linkedin.com/jobs/view/4400621286": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Machine Learning Engineer (Remote)",
+      "company": "StackAdapt",
+      "apply_url": "https://www.linkedin.com/jobs/view/4400621286",
+      "content_key": "content:machine learning engineer remote|stackadapt"
+    },
+    "url:https://www.linkedin.com/jobs/view/4435465589": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Founding AI Engineer | Early Stage AI Start-Up | London",
+      "company": "Oho Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4435465589",
+      "content_key": "content:founding ai engineer early stage ai start up london|oho"
+    },
+    "url:https://www.linkedin.com/jobs/view/4434381843": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI Engineer ($100k-$250k + Equity) at Solveintelligence",
+      "company": "Jack & Jill",
+      "apply_url": "https://www.linkedin.com/jobs/view/4434381843",
+      "content_key": "content:ai engineer 100k 250k equity at solveintelligence|jack jill"
+    },
+    "url:https://www.linkedin.com/jobs/view/4434754597": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI Enablement Engineer",
+      "company": "Taktile",
+      "apply_url": "https://www.linkedin.com/jobs/view/4434754597",
+      "content_key": "content:ai enablement engineer|taktile"
+    },
+    "url:https://www.linkedin.com/jobs/view/4417173113": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI Deployment Engineer - Startups",
+      "company": "OpenAI",
+      "apply_url": "https://www.linkedin.com/jobs/view/4417173113",
+      "content_key": "content:ai deployment engineer startups|openai"
+    },
+    "url:https://www.linkedin.com/jobs/view/4436717335": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Industrial Data Scientist",
+      "company": "Recycleye",
+      "apply_url": "https://www.linkedin.com/jobs/view/4436717335",
+      "content_key": "content:industrial data scientist|recycleye"
+    },
+    "url:https://www.linkedin.com/jobs/view/4436776977": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Data Scientist (Credit Risk)",
+      "company": "Radius",
+      "apply_url": "https://www.linkedin.com/jobs/view/4436776977",
+      "content_key": "content:data scientist credit risk|radius"
+    },
+    "url:https://corpay.wd103.myworkdayjobs.com/en-US/Ext_001/job/London-Vincent-Square---IVP/Program-Manager--AI-Adoption---Initiatives_R08677": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Program Manager, AI Adoption & Initiatives",
+      "company": "Corpay",
+      "apply_url": "https://corpay.wd103.myworkdayjobs.com/en-US/Ext_001/job/London-Vincent-Square---IVP/Program-Manager--AI-Adoption---Initiatives_R08677",
+      "content_key": "content:program manager ai adoption initiatives|corpay"
+    },
+    "url:https://www.linkedin.com/jobs/view/4434977065": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Senior AI/ML Modelling Engineer",
+      "company": "Orbis Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4434977065",
+      "content_key": "content:senior ai ml modelling engineer|orbis"
+    },
+    "url:https://www.linkedin.com/jobs/view/4436987509": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "AI/ML Engineer",
+      "company": "DLA Piper",
+      "apply_url": "https://www.linkedin.com/jobs/view/4436987509",
+      "content_key": "content:ai ml engineer|dla piper"
+    },
+    "url:https://www.linkedin.com/jobs/view/4436902435": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Data Scientist - Graph Analytics",
+      "company": "Pangura",
+      "apply_url": "https://www.linkedin.com/jobs/view/4436902435",
+      "content_key": "content:data scientist graph analytics|pangura"
+    },
+    "url:https://www.linkedin.com/jobs/view/4432381451": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "Data Scientist Manager",
+      "company": "Coca-Cola Europacific Partners",
+      "apply_url": "https://www.linkedin.com/jobs/view/4432381451",
+      "content_key": "content:data scientist manager|coca cola europacific partners"
+    },
+    "url:https://www.linkedin.com/jobs/view/4435704975": {
+      "first_seen_run_id": "20260706T071854",
+      "last_seen_run_id": "20260706T071854",
+      "title": "UK-based Data Scientists (Train AI Models Part Time!)",
+      "company": "hackajob",
+      "apply_url": "https://www.linkedin.com/jobs/view/4435704975",
+      "content_key": "content:uk based data scientists train ai models part time|hackajob"
     }
   }
 }
