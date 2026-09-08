@@ -1,991 +1,863 @@
 {
   "version": 1,
-  "resume_hash": "5cee2f0a0ae00536e740f5c8bd69d4c59c7a2c4360aa0b17fff7ef28c8a6ab4e",
-  "updated_at": "2026-08-12T11:01:57",
+  "resume_hash": "038623c6949100062fca5ef360c9f9659125ed63a996dd721c038bdd21ea28b6",
+  "updated_at": "2026-09-08T18:23:43",
   "entries": {
-    "url:https://sagehr.my.salesforce-sites.com/careers/fRecruit__ApplyJob?vacancyNo=VN43058": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst Apprentice",
-      "company": "Sage",
-      "apply_url": "https://sagehr.my.salesforce-sites.com/careers/fRecruit__ApplyJob?vacancyNo=VN43058",
-      "content_key": "content:data analyst apprentice|sage"
+    "url:http://uk.indeed.com/job/it-support-apprentice-graduate-service-desk-analyst-01886087bd8b1fc4": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Apprentice / Graduate Service Desk Analyst",
+      "company": "GBA Group of Companies",
+      "apply_url": "http://uk.indeed.com/job/it-support-apprentice-graduate-service-desk-analyst-01886087bd8b1fc4",
+      "content_key": "content:it support apprentice graduate service desk analyst|gba of companies"
     },
-    "url:https://www.linkedin.com/jobs/view/4451417163": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Tesco",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451417163",
-      "content_key": "content:data scientist|tesco"
+    "url:http://uk.indeed.com/job/it-support-analyst-automation-ai-29ae2c2a4d2be513": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Analyst - Automation & AI",
+      "company": "Cevitr",
+      "apply_url": "http://uk.indeed.com/job/it-support-analyst-automation-ai-29ae2c2a4d2be513",
+      "content_key": "content:it support analyst automation ai|cevitr"
     },
-    "url:https://www.linkedin.com/jobs/view/4451513631": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist - Maidenhead (£40-45k",
-      "company": "Solas IT Recruitment",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451513631",
-      "content_key": "content:data scientist maidenhead 40 45k|solas it recruitment"
+    "url:http://uk.indeed.com/job/apprentice-it-support-enginner-bdd00df02734775e": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Apprentice IT Support Enginner",
+      "company": "",
+      "apply_url": "http://uk.indeed.com/job/apprentice-it-support-enginner-bdd00df02734775e",
+      "content_key": ""
     },
-    "url:https://www.linkedin.com/jobs/view/4439248809": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "ML Engineer – Generative AI",
-      "company": "DNV",
-      "apply_url": "https://www.linkedin.com/jobs/view/4439248809",
-      "content_key": "content:ml engineer generative ai|dnv"
+    "url:https://w3rl.co/158sh": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "L1 Service Desk Analyst - Part-Time",
+      "company": "XMA",
+      "apply_url": "https://w3rl.co/158sh",
+      "content_key": "content:l1 service desk analyst part time|xma"
     },
-    "url:https://www.linkedin.com/jobs/view/4448765327": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI Engineer",
-      "company": "The AA",
-      "apply_url": "https://www.linkedin.com/jobs/view/4448765327",
-      "content_key": "content:ai engineer|the aa"
+    "url:https://www.linkedin.com/jobs/view/4460370484": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "OneAdvanced",
+      "apply_url": "https://www.linkedin.com/jobs/view/4460370484",
+      "content_key": "content:service desk analyst|oneadvanced"
     },
-    "url:https://www.linkedin.com/jobs/view/4442849425": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI Engineer",
+    "url:https://www.linkedin.com/jobs/view/4455352032": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "RESPOND Support Engineer",
+      "company": "Darktrace",
+      "apply_url": "https://www.linkedin.com/jobs/view/4455352032",
+      "content_key": "content:respond support engineer|darktrace"
+    },
+    "url:https://www.linkedin.com/jobs/view/4463194950": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Desktop Analyst",
+      "company": "Héroux-Devtek",
+      "apply_url": "https://www.linkedin.com/jobs/view/4463194950",
+      "content_key": "content:it service desktop analyst|h roux devtek"
+    },
+    "url:http://uk.indeed.com/job/it-service-desk-analyst-977b01f0418ec1f7": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Desk Analyst",
+      "company": "Greenhalgh Kerr LLP",
+      "apply_url": "http://uk.indeed.com/job/it-service-desk-analyst-977b01f0418ec1f7",
+      "content_key": "content:it service desk analyst|greenhalgh kerr llp"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464612458": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "London Business School",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464612458",
+      "content_key": "content:service desk analyst|london business school"
+    },
+    "url:https://careers.gallagher.com/jobs/8326483-junior-technical-support-engineer": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Junior Technical Support Engineer",
+      "company": "Gallagher Group",
+      "apply_url": "https://careers.gallagher.com/jobs/8326483-junior-technical-support-engineer",
+      "content_key": "content:junior technical support engineer|gallagher"
+    },
+    "url:https://ats.rippling.com/skyportsdeliveries-limited/jobs/ff822e91-0993-4403-9509-c090a903352d?jobSite=Indeed": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Analyst",
+      "company": "Skyports limited",
+      "apply_url": "https://ats.rippling.com/skyportsdeliveries-limited/jobs/ff822e91-0993-4403-9509-c090a903352d?jobSite=Indeed",
+      "content_key": "content:it support analyst|skyports"
+    },
+    "url:http://uk.indeed.com/job/it-support-analyst-fb26c6aa16bc2276": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Analyst",
+      "company": "H+H Celcon",
+      "apply_url": "http://uk.indeed.com/job/it-support-analyst-fb26c6aa16bc2276",
+      "content_key": "content:it support analyst|h h celcon"
+    },
+    "url:https://www.linkedin.com/jobs/view/4461999464": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Junior IT Support Analyst",
+      "company": "Fasanara Capital",
+      "apply_url": "https://www.linkedin.com/jobs/view/4461999464",
+      "content_key": "content:junior it support analyst|fasanara capital"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464474916": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "1st Line Support Analyst",
+      "company": "FluidOne",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464474916",
+      "content_key": "content:1st line support analyst|fluidone"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464478125": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst (1st & 2nd Line IT Support)",
+      "company": "Cardinal Newman College Preston",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464478125",
+      "content_key": "content:service desk analyst 1st 2nd line it support|cardinal newman college preston"
+    },
+    "url:https://cardinalnewmancollege.talosats-careers.com/job/945939": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst (1st & 2nd Line IT Support)",
+      "company": "CARDINAL NEWMAN COLLEGE",
+      "apply_url": "https://cardinalnewmancollege.talosats-careers.com/job/945939",
+      "content_key": "content:service desk analyst 1st 2nd line it support|cardinal newman college"
+    },
+    "url:https://lockheedmartin.eightfold.ai/careers/job/996476750654?domain=lockheedmartin.com": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "Lockheed Martin",
+      "apply_url": "https://lockheedmartin.eightfold.ai/careers/job/996476750654?utm_source=indeed&domain=lockheedmartin.com",
+      "content_key": "content:service desk analyst|lockheed martin"
+    },
+    "url:https://www.jobs.leicspart.nhs.uk/Job/JobDetail?JobId=7199&source=JobtrainIndeed": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "Leicestershire Partnership Trust",
+      "apply_url": "https://www.jobs.leicspart.nhs.uk/Job/JobDetail?JobId=7199&source=JobtrainIndeed",
+      "content_key": "content:service desk analyst|leicestershire partnership trust"
+    },
+    "url:https://www.linkedin.com/jobs/view/4463137048": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "Leicestershire Partnership NHS Trust",
+      "apply_url": "https://www.linkedin.com/jobs/view/4463137048",
+      "content_key": "content:service desk analyst|leicestershire partnership nhs trust"
+    },
+    "url:https://www.linkedin.com/jobs/view/4456358298": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "1st Line IT Support Analyst",
+      "company": "Dawsongroup",
+      "apply_url": "https://www.linkedin.com/jobs/view/4456358298",
+      "content_key": "content:1st line it support analyst|dawsongroup"
+    },
+    "url:https://wd3.myworkdaysite.com/en-US/recruiting/edenpeople/Edenred_Careers/job/United-Kingdom---Swindon/International-Frontline-Technical-Support-Engineer_JR021037": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "International Frontline Technical Support Engineer",
+      "company": "Edenred",
+      "apply_url": "https://wd3.myworkdaysite.com/en-US/recruiting/edenpeople/Edenred_Careers/job/United-Kingdom---Swindon/International-Frontline-Technical-Support-Engineer_JR021037",
+      "content_key": "content:international frontline technical support engineer|edenred"
+    },
+    "url:https://grnh.se/4xvq4hsm6us": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer (6 month FTC)",
+      "company": "EVERWAY",
+      "apply_url": "https://grnh.se/4xvq4hsm6us",
+      "content_key": "content:technical support engineer 6 month ftc|everway"
+    },
+    "url:https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Uxbridge-UK-ZUK131/Technical-Support-Specialist_R67641": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Specialist",
+      "company": "Motorola Solutions",
+      "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Uxbridge-UK-ZUK131/Technical-Support-Specialist_R67641",
+      "content_key": "content:technical support specialist|motorola"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462827900": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Application Support Engineer",
+      "company": "Confirm",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462827900",
+      "content_key": "content:application support engineer|confirm"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462298711": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Support Engineer",
+      "company": "Quell",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462298711",
+      "content_key": "content:support engineer|quell"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462527211": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Analyst",
+      "company": "ALS",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462527211",
+      "content_key": "content:it support analyst|als"
+    },
+    "url:https://beta.jobs.nhs.uk/candidate/jobadvert/C9346-26-1053?__referrer=https%3A%2F%2Fwww.tewv.nhs.uk": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Desk Analyst",
+      "company": "Tees, Esk and Wear Valleys NHS Foundation Trust",
+      "apply_url": "https://beta.jobs.nhs.uk/candidate/jobadvert/C9346-26-1053?__referrer=https://www.tewv.nhs.uk",
+      "content_key": "content:it service desk analyst|tees esk and wear valleys nhs foundation trust"
+    },
+    "url:https://www.linkedin.com/jobs/view/4463376763": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Support Engineer",
+      "company": "Tact",
+      "apply_url": "https://www.linkedin.com/jobs/view/4463376763",
+      "content_key": "content:support engineer|tact"
+    },
+    "url:https://apply.workable.com/j/7EFF84AC10": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Analyst",
+      "company": "Infleqtion",
+      "apply_url": "https://apply.workable.com/j/7EFF84AC10",
+      "content_key": "content:it support analyst|infleqtion"
+    },
+    "url:https://www.linkedin.com/jobs/view/4440154574": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "Tony Blair Institute for Global Change",
+      "apply_url": "https://www.linkedin.com/jobs/view/4440154574",
+      "content_key": "content:service desk analyst|tony blair institute for global change"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462848815": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Desktop Support Analyst",
+      "company": "Acora - IT, Cyber & AI",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462848815",
+      "content_key": "content:desktop support analyst|acora it cyber ai"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462853708": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Help Desk Analyst",
+      "company": "ivolve care & support",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462853708",
+      "content_key": "content:help desk analyst|ivolve care support"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462850601": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Desk Analyst",
+      "company": "Key Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462850601",
+      "content_key": "content:it service desk analyst|key"
+    },
+    "url:https://www.linkedin.com/jobs/view/4459962925": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "1st Line IT Support Analyst",
       "company": "Adria Solutions Ltd",
-      "apply_url": "https://www.linkedin.com/jobs/view/4442849425",
-      "content_key": "content:ai engineer|adria"
-    },
-    "url:https://api.occupop.com/shared/job/data-analyst-ca2d9/indeed": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst",
-      "company": "London LGPS CIV",
-      "apply_url": "https://api.occupop.com/shared/job/data-analyst-ca2d9/indeed",
-      "content_key": "content:data analyst|london lgps civ"
-    },
-    "url:https://www.linkedin.com/jobs/view/4448045092": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst",
-      "company": "The Goodwood Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4448045092",
-      "content_key": "content:data analyst|the goodwood"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449389289": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst",
-      "company": "Ki",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449389289",
-      "content_key": "content:data analyst|ki"
-    },
-    "url:https://www.linkedin.com/jobs/view/4448069166": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst",
-      "company": "mthree",
-      "apply_url": "https://www.linkedin.com/jobs/view/4448069166",
-      "content_key": "content:data analyst|mthree"
-    },
-    "url:https://www.linkedin.com/jobs/view/4428998361": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst",
-      "company": "GlobalData Plc",
-      "apply_url": "https://www.linkedin.com/jobs/view/4428998361",
-      "content_key": "content:data analyst|globaldata"
-    },
-    "url:https://www.linkedin.com/jobs/view/4451018728": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "University of Southampton",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451018728",
-      "content_key": "content:data scientist|university of southampton"
-    },
-    "url:https://www.linkedin.com/jobs/view/4448026236": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Cyber Security Academy Southampton",
-      "apply_url": "https://www.linkedin.com/jobs/view/4448026236",
-      "content_key": "content:data scientist|cyber security academy southampton"
-    },
-    "url:https://www.linkedin.com/jobs/view/4452470253": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "EVera Recruitment",
-      "apply_url": "https://www.linkedin.com/jobs/view/4452470253",
-      "content_key": "content:data scientist|evera recruitment"
-    },
-    "url:https://www.linkedin.com/jobs/view/4436120078": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Core Data Scientist",
-      "company": "Optima Partners",
-      "apply_url": "https://www.linkedin.com/jobs/view/4436120078",
-      "content_key": "content:core data scientist|optima partners"
-    },
-    "url:http://uk.indeed.com/job/aiml-engineer-56d5cc950ba03b46": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI/ML Engineer",
-      "company": "Aivra Health",
-      "apply_url": "http://uk.indeed.com/job/aiml-engineer-56d5cc950ba03b46",
-      "content_key": "content:ai ml engineer|aivra health"
-    },
-    "url:https://careers.thefa.com/jobs/vacancy/grassroots-data-analyst---12-month-ftc-wnsl1116-wembley-stadium/3194/description": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Grassroots Data Analyst - 12 Month FTC",
-      "company": "The Football Association",
-      "apply_url": "https://careers.thefa.com/jobs/vacancy/grassroots-data-analyst---12-month-ftc-wnsl1116-wembley-stadium/3194/description/",
-      "content_key": "content:grassroots data analyst 12 month ftc|the football association"
-    },
-    "url:https://veoliauki.wd3.myworkdayjobs.com/VESCareers/job/London/Energy-Data-Analyst_JR31197": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Energy Data Analyst",
-      "company": "Veolia",
-      "apply_url": "https://veoliauki.wd3.myworkdayjobs.com/VESCareers/job/London/Energy-Data-Analyst_JR31197",
-      "content_key": "content:energy data analyst|veolia"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450358623": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst II",
-      "company": "ENSEK",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450358623",
-      "content_key": "content:data analyst ii|ensek"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450102927": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst",
-      "company": "Spencer Scott - Technology Recruitment",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450102927",
-      "content_key": "content:data analyst|spencer scott recruitment"
-    },
-    "url:https://umusic.wd5.myworkdayjobs.com/en-US/UMGUK/job/Kings-Cross-London/AI-Product-Engineer_UMG-27186": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI Product Engineer",
-      "company": "Universal Music Group",
-      "apply_url": "https://umusic.wd5.myworkdayjobs.com/en-US/UMGUK/job/Kings-Cross-London/AI-Product-Engineer_UMG-27186",
-      "content_key": "content:ai product engineer|universal music"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450729969": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "EverQuote Pro",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450729969",
-      "content_key": "content:data scientist|everquote pro"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449769052": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449769052",
-      "content_key": "content:data scientist|halian managed services recruitment agency contract staffing"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450253830": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Hastings Direct",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450253830",
-      "content_key": "content:data scientist|hastings direct"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450646045": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "EverQuote",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450646045",
-      "content_key": "content:data scientist|everquote"
-    },
-    "url:https://www.linkedin.com/jobs/view/4452394037": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Datatech Analytics",
-      "apply_url": "https://www.linkedin.com/jobs/view/4452394037",
-      "content_key": "content:data scientist|datatech analytics"
-    },
-    "url:https://www.linkedin.com/jobs/view/4451645833": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI Engineer",
-      "company": "Harnham",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451645833",
-      "content_key": "content:ai engineer|harnham"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449786795": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Research Engineer",
-      "company": "Thomson Reuters",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449786795",
-      "content_key": "content:research engineer|thomson reuters"
-    },
-    "url:https://www.linkedin.com/jobs/view/4429409590": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Machine learning Engineer",
-      "company": "Faculty",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429409590",
-      "content_key": "content:machine learning engineer|faculty"
-    },
-    "url:https://www.linkedin.com/jobs/view/4448048024": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Machine Learning Engineer",
-      "company": "RedTech Recruitment",
-      "apply_url": "https://www.linkedin.com/jobs/view/4448048024",
-      "content_key": "content:machine learning engineer|redtech recruitment"
-    },
-    "url:https://www.linkedin.com/jobs/view/4452636064": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "ML Research Engineer",
-      "company": "Aeris-UK",
-      "apply_url": "https://www.linkedin.com/jobs/view/4452636064",
-      "content_key": "content:ml research engineer|aeris uk"
-    },
-    "url:https://matalan.jobs/search/19006?_referrer_=indeed": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Customer Data Analyst",
-      "company": "Matalan",
-      "apply_url": "https://matalan.jobs/search/19006?_referrer_=indeed",
-      "content_key": "content:customer data analyst|matalan"
-    },
-    "url:http://uk.indeed.com/job/data-analyst-c217f92d0dd2c5ad": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst",
-      "company": "",
-      "apply_url": "http://uk.indeed.com/job/data-analyst-c217f92d0dd2c5ad",
-      "content_key": ""
-    },
-    "url:https://www.linkedin.com/jobs/view/4450797341": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst, Operations",
-      "company": "Brainlabs",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450797341",
-      "content_key": "content:data analyst operations|brainlabs"
-    },
-    "url:https://www.linkedin.com/jobs/view/4452603194": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Performance Analyst",
-      "company": "SSE plc",
-      "apply_url": "https://www.linkedin.com/jobs/view/4452603194",
-      "content_key": "content:performance analyst|sse"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450212939": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Artificial Intelligence Engineer",
-      "company": "Airtime",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450212939",
-      "content_key": "content:artificial intelligence engineer|airtime"
-    },
-    "url:https://www.linkedin.com/jobs/view/4448764687": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Liability Data Analyst",
-      "company": "Legal & General",
-      "apply_url": "https://www.linkedin.com/jobs/view/4448764687",
-      "content_key": "content:liability data analyst|legal general"
-    },
-    "url:https://datasite.wd1.myworkdayjobs.com/en-US/datasite/job/GBR---London/Junior-Growth-Manager_R36353": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Junior Growth Analyst - Sherpany",
-      "company": "Datasite",
-      "apply_url": "https://datasite.wd1.myworkdayjobs.com/en-US/datasite/job/GBR---London/Junior-Growth-Manager_R36353",
-      "content_key": "content:junior growth analyst sherpany|datasite"
-    },
-    "url:https://sky.talent-community.com/projects/data-scientist/72680": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Sky",
-      "apply_url": "https://sky.talent-community.com/projects/data-scientist/72680",
-      "content_key": "content:data scientist|sky"
-    },
-    "url:http://uk.indeed.com/job/data-scientist-db3645de75e9744c": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Link Scheme Ltd",
-      "apply_url": "http://uk.indeed.com/job/data-scientist-db3645de75e9744c",
-      "content_key": "content:data scientist|link scheme"
-    },
-    "url:https://umusic.wd5.myworkdayjobs.com/en-US/UMGUK/job/Kings-Cross-London/Analytics---Insights-Lead_UMG-27181": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Analytics & Insights Strategist",
-      "company": "Universal Music Group",
-      "apply_url": "https://umusic.wd5.myworkdayjobs.com/en-US/UMGUK/job/Kings-Cross-London/Analytics---Insights-Lead_UMG-27181",
-      "content_key": "content:analytics insights strategist|universal music"
-    },
-    "url:https://www.linkedin.com/jobs/view/4451635644": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "La Fosse",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451635644",
-      "content_key": "content:data scientist|la fosse"
-    },
-    "url:https://www.linkedin.com/jobs/view/4451520318": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "WHD Consulting Ltd.",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451520318",
-      "content_key": "content:data scientist|whd consulting"
-    },
-    "url:https://www.linkedin.com/jobs/view/4451431736": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "The Lanes Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451431736",
-      "content_key": "content:data scientist|the lanes"
-    },
-    "url:https://www.linkedin.com/jobs/view/4395865649": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Gamma",
-      "apply_url": "https://www.linkedin.com/jobs/view/4395865649",
-      "content_key": "content:data scientist|gamma"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450731378": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Dojo",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450731378",
-      "content_key": "content:data scientist|dojo"
-    },
-    "url:https://www.linkedin.com/jobs/view/4448080067": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "mthree",
-      "apply_url": "https://www.linkedin.com/jobs/view/4448080067",
-      "content_key": "content:data scientist|mthree"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449909016": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist (LLM)",
-      "company": "Qogita",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449909016",
-      "content_key": "content:data scientist llm|qogita"
-    },
-    "url:https://www.linkedin.com/jobs/view/4452355782": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Harnham",
-      "apply_url": "https://www.linkedin.com/jobs/view/4452355782",
-      "content_key": "content:data scientist|harnham"
-    },
-    "url:https://www.linkedin.com/jobs/view/4451671622": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "FairPlay Sports Media",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451671622",
-      "content_key": "content:data scientist|fairplay sports media"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449581704": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Machine Learning Engineer",
-      "company": "Anson McCade",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449581704",
-      "content_key": "content:machine learning engineer|anson mccade"
-    },
-    "url:https://www.linkedin.com/jobs/view/4452381062": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI Engineer",
-      "company": "Datatech Analytics",
-      "apply_url": "https://www.linkedin.com/jobs/view/4452381062",
-      "content_key": "content:ai engineer|datatech analytics"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450102659": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI / ML Engineer | AI Start-Up | London Hybrid | Up to £100,000",
-      "company": "VirtueTech Recruitment Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450102659",
-      "content_key": "content:ai ml engineer ai start up london hybrid up to 100 000|virtuetech recruitment"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449852852": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Applied AI/ML Engineer | FinTech Start-Up in Trading | London Hybrid 4 days/week | Up to £100k + Bonus",
-      "company": "VirtueTech Recruitment Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449852852",
-      "content_key": "content:applied ai ml engineer fintech start up in trading london hybrid 4 days week up to 100k bonus|virtuetech recruitment"
-    },
-    "url:https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Edinburgh/Technical-Data-Analyst_R11905-1": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Technical Data Analyst",
-      "company": "Clearwater Analytics (CWAN)",
-      "apply_url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Edinburgh/Technical-Data-Analyst_R11905-1",
-      "content_key": "content:technical data analyst|clearwater analytics cwan"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449819365": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst",
-      "company": "GoHenry",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449819365",
-      "content_key": "content:data analyst|gohenry"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450758110": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Service Analyst",
-      "company": "East Sussex County Council",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450758110",
-      "content_key": "content:service analyst|east sussex county council"
-    },
-    "url:https://www.linkedin.com/jobs/view/4430803025": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Technical Data Analyst",
-      "company": "Clearwater Analytics",
-      "apply_url": "https://www.linkedin.com/jobs/view/4430803025",
-      "content_key": "content:technical data analyst|clearwater analytics"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449735837": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Analytics Engineer",
-      "company": "EcoOnline",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449735837",
-      "content_key": "content:analytics engineer|ecoonline"
-    },
-    "url:https://www.linkedin.com/jobs/view/4429888137": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Analytics Consultant",
-      "company": "Version 1",
-      "apply_url": "https://www.linkedin.com/jobs/view/4429888137",
-      "content_key": "content:analytics consultant|version 1"
-    },
-    "url:https://www.linkedin.com/jobs/view/4440840071": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Logistics Data Analyst",
-      "company": "B&Q",
-      "apply_url": "https://www.linkedin.com/jobs/view/4440840071",
-      "content_key": "content:logistics data analyst|b q"
-    },
-    "url:https://www.linkedin.com/jobs/view/4452368497": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Operations Specialist at GEEIQ",
-      "company": "Jack & Jill",
-      "apply_url": "https://www.linkedin.com/jobs/view/4452368497",
-      "content_key": "content:data operations specialist at geeiq|jack jill"
-    },
-    "url:https://careers.oxfordeconomics.com/en/postings/7a335963-ac62-4347-bcb5-105ee4303fe6": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Sr. Economist / Data Scientist - Economic Impact",
-      "company": "Oxford Economics",
-      "apply_url": "https://careers.oxfordeconomics.com/en/postings/7a335963-ac62-4347-bcb5-105ee4303fe6",
-      "content_key": "content:sr economist data scientist economic impact|oxford economics"
-    },
-    "url:https://wise.jobs/job/ml-engineer-statistical-integrity-financial-crime-in-london-jid-3964": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "ML Engineer - Statistical Integrity (Financial Crime)",
-      "company": "Wise Australia Investments",
-      "apply_url": "https://wise.jobs/job/ml-engineer-statistical-integrity-financial-crime-in-london-jid-3964",
-      "content_key": "content:ml engineer statistical integrity financial crime|wise australia investments"
-    },
-    "url:https://www.linkedin.com/jobs/view/4442205576": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Machine Learning Engineer (UK)",
-      "company": "Bumble Inc.",
-      "apply_url": "https://www.linkedin.com/jobs/view/4442205576",
-      "content_key": "content:machine learning engineer uk|bumble"
-    },
-    "url:https://job-boards.eu.greenhouse.io/salaryfinancecareers/jobs/4950979101": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Change & AI Specialist",
-      "company": "Salary Finance",
-      "apply_url": "https://job-boards.eu.greenhouse.io/salaryfinancecareers/jobs/4950979101",
-      "content_key": "content:change ai specialist|salary finance"
-    },
-    "url:https://careers.british-business-bank.co.uk/postings/350cc5e7-9af1-46d1-b093-74b35a23573f": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Digital Marketing Content & Data Analyst",
-      "company": "British Business Bank plc",
-      "apply_url": "https://careers.british-business-bank.co.uk/postings/350cc5e7-9af1-46d1-b093-74b35a23573f?utm_medium=job_board&utm_source=indeed",
-      "content_key": "content:digital marketing content data analyst|british business bank"
-    },
-    "url:https://www.linkedin.com/jobs/view/4452459286": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "EPMA Data Analyst",
-      "company": "Cambridgeshire and Peterborough NHS Foundation Trust (CPFT)",
-      "apply_url": "https://www.linkedin.com/jobs/view/4452459286",
-      "content_key": "content:epma data analyst|cambridgeshire and peterborough nhs foundation trust cpft"
-    },
-    "url:https://jpmorganchase.contacthr.com/153059879": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Applied AI ML Lead-Python, LLM & Agentic AI",
-      "company": "JPMorganChase",
-      "apply_url": "https://JPMorganChase.contacthr.com/153059879",
-      "content_key": "content:applied ai ml lead python llm agentic ai|jpmorganchase"
-    },
-    "url:https://umusic.wd5.myworkdayjobs.com/en-US/UMGUK/job/Kings-Cross-London/AI-Product-Manager_UMG-27187": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI Product Manager",
-      "company": "Universal Music Group",
-      "apply_url": "https://umusic.wd5.myworkdayjobs.com/en-US/UMGUK/job/Kings-Cross-London/AI-Product-Manager_UMG-27187",
-      "content_key": "content:ai product manager|universal music"
-    },
-    "url:https://www.linkedin.com/jobs/view/4448798157": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Science Specialist",
-      "company": "BT Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4448798157",
-      "content_key": "content:data science specialist|bt"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449601040": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Science & AI Engineer",
-      "company": "BT Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449601040",
-      "content_key": "content:data science ai engineer|bt"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449123944": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Scientist",
-      "company": "Revoco",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449123944",
-      "content_key": "content:data scientist|revoco"
-    },
-    "url:https://www.linkedin.com/jobs/view/4451647804": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI Engineer",
-      "company": "Maxwell Bond",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451647804",
-      "content_key": "content:ai engineer|maxwell bond"
-    },
-    "url:https://www.linkedin.com/jobs/view/4452435349": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI Engineer / Machine Learning Engineer",
-      "company": "SmartAssets",
-      "apply_url": "https://www.linkedin.com/jobs/view/4452435349",
-      "content_key": "content:ai engineer machine learning engineer|smartassets"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450092705": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Machine Learning Engineer",
-      "company": "VEED",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450092705",
-      "content_key": "content:machine learning engineer|veed"
-    },
-    "url:https://www.linkedin.com/jobs/view/4441306566": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Machine Learning Engineer",
-      "company": "5V Video",
-      "apply_url": "https://www.linkedin.com/jobs/view/4441306566",
-      "content_key": "content:machine learning engineer|5v video"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449979567": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI Engineer",
-      "company": "Barclays",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449979567",
-      "content_key": "content:ai engineer|barclays"
-    },
-    "url:https://www.linkedin.com/jobs/view/4440677999": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "VLA Pre-training Engineer (Deep Learning)",
-      "company": "Humanoid",
-      "apply_url": "https://www.linkedin.com/jobs/view/4440677999",
-      "content_key": "content:vla pre training engineer deep learning|humanoid"
-    },
-    "url:https://www.linkedin.com/jobs/view/4441358021": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "AI Engineer",
-      "company": "JD.COM",
-      "apply_url": "https://www.linkedin.com/jobs/view/4441358021",
-      "content_key": "content:ai engineer|jd com"
-    },
-    "url:https://www.linkedin.com/jobs/view/4449872155": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Machine Learning Engineer (Up to £180k + equity)",
-      "company": "Oliver Bernard",
-      "apply_url": "https://www.linkedin.com/jobs/view/4449872155",
-      "content_key": "content:machine learning engineer up to 180k equity|oliver bernard"
-    },
-    "url:https://instituteofcancerresearchweb.eploy.net/vacancies/1536/clinical-data-analyst.html?source=Indeed": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Clinical Data Analyst",
-      "company": "ICR",
-      "apply_url": "https://instituteofcancerresearchweb.eploy.net/vacancies/1536/clinical-data-analyst.html?source=Indeed",
-      "content_key": "content:clinical data analyst|icr"
-    },
-    "url:https://www.linkedin.com/jobs/view/4442731967": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior Reporting Analyst",
-      "company": "AS Watson",
-      "apply_url": "https://www.linkedin.com/jobs/view/4442731967",
-      "content_key": "content:senior reporting analyst|as watson"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450601050": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior Data Analyst",
-      "company": "Halfords",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450601050",
-      "content_key": "content:senior data analyst|halfords"
-    },
-    "url:https://www.linkedin.com/jobs/view/4451946522": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Governance Analyst",
-      "company": "Vitality",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451946522",
-      "content_key": "content:data governance analyst|vitality"
-    },
-    "url:https://careers.harris.com/job/-/-/4832/99059029344": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Research Scientist",
-      "company": "L3Harris",
-      "apply_url": "https://careers.harris.com/job/-/-/4832/99059029344",
-      "content_key": "content:research scientist|l3harris"
-    },
-    "url:https://sky.talent-community.com/projects/senior-software-developer-(python)/72672": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior Software Developer (Python)",
-      "company": "Sky",
-      "apply_url": "https://sky.talent-community.com/projects/senior-software-developer-(python)/72672",
-      "content_key": "content:senior software developer python|sky"
-    },
-    "url:https://lbg.wd3.myworkdayjobs.com/en-US/LBG_Careers/job/Chester/Senior-Lending-Machine-Learning---AI-Engineer_161884-2": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior Machine Learning & AI Engineer - Consumer Data Science",
-      "company": "Lloyds Banking Group",
-      "apply_url": "https://lbg.wd3.myworkdayjobs.com/en-US/LBG_Careers/job/Chester/Senior-Lending-Machine-Learning---AI-Engineer_161884-2",
-      "content_key": "content:senior machine learning ai engineer consumer data science|lloyds banking"
-    },
-    "url:https://vacancies.bournemouth.ac.uk/vacancies/798/post-doctoral-research-assistant-in-digital-health-and-artificial-intelligence-fixed-term.html": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Post-Doctoral Research Assistant in Digital Health and Artificial Intelligence (Fixed-Term)",
-      "company": "Bournemouth University",
-      "apply_url": "https://vacancies.bournemouth.ac.uk/vacancies/798/post-doctoral-research-assistant-in-digital-health-and-artificial-intelligence-fixed-term.html",
-      "content_key": "content:post doctoral research assistant in digital health and artificial intelligence fixed term|bournemouth university"
-    },
-    "url:https://jobs.ashbyhq.com/trainline/1cf3f80c-8083-415a-967f-c125600a2c3d": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Trainline",
-      "apply_url": "https://jobs.ashbyhq.com/trainline/1cf3f80c-8083-415a-967f-c125600a2c3d?utm_source=6VXaWzyrjq",
-      "content_key": "content:senior machine learning engineer|trainline"
-    },
-    "url:https://jpmorganchase.contacthr.com/153061853": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior Lead Software Engineer - Python, Data, Cloud, AIML",
-      "company": "JPMorganChase",
-      "apply_url": "https://JPMorganChase.contacthr.com/153061853",
-      "content_key": "content:senior lead software engineer python data cloud aiml|jpmorganchase"
-    },
-    "url:https://search.jobs.barclays/job/knutsford/senior-ai-software-engineer/13015/99042388464": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior AI Software Engineer",
-      "company": "Barclays",
-      "apply_url": "https://search.jobs.barclays/job/knutsford/senior-ai-software-engineer/13015/99042388464",
-      "content_key": "content:senior ai software engineer|barclays"
-    },
-    "url:https://pacificlife.wd1.myworkdayjobs.com/PacificLifeReCareers/job/London-UK/Biometric-Research-Scientist---Actuary_R17499-1": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Biometric Research Scientist / Actuary",
-      "company": "Pacific Life",
-      "apply_url": "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeReCareers/job/London-UK/Biometric-Research-Scientist---Actuary_R17499-1",
-      "content_key": "content:biometric research scientist actuary|pacific life"
-    },
-    "url:https://careers.google.com/jobs/results/113532410179527366-research-scientist": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Research Scientist, Provenance, DeepMind",
-      "company": "DeepMind",
-      "apply_url": "https://careers.google.com/jobs/results/113532410179527366-research-scientist/",
-      "content_key": "content:research scientist provenance deepmind|deepmind"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450920297": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior AI/ML Engineer",
-      "company": "Ocho",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450920297",
-      "content_key": "content:senior ai ml engineer|ocho"
-    },
-    "url:https://www.linkedin.com/jobs/view/4432675060": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "LLM Engineer",
-      "company": "Ultralytics",
-      "apply_url": "https://www.linkedin.com/jobs/view/4432675060",
-      "content_key": "content:llm engineer|ultralytics"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450112998": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Machine Learning Engineer",
-      "company": "Evolve Group",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450112998",
-      "content_key": "content:machine learning engineer|evolve"
-    },
-    "url:https://jobs.lever.co/economicmodeling/58cd3476-a99a-432a-a2be-5de174607beb?lever-source=Indeed": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst (Arabic)",
-      "company": "Lightcast",
-      "apply_url": "https://jobs.lever.co/economicmodeling/58cd3476-a99a-432a-a2be-5de174607beb?lever-source=Indeed",
-      "content_key": "content:data analyst arabic|lightcast"
-    },
-    "url:https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Edinburgh/Lead-Financial-Data-Associate_R12011-1": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Lead Financial Data Associate",
-      "company": "Clearwater Analytics (CWAN)",
-      "apply_url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Edinburgh/Lead-Financial-Data-Associate_R12011-1",
-      "content_key": "content:lead financial data associate|clearwater analytics cwan"
-    },
-    "url:https://www.linkedin.com/jobs/view/4451552555": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Analyst",
-      "company": "Centre People Appointments",
-      "apply_url": "https://www.linkedin.com/jobs/view/4451552555",
-      "content_key": "content:data analyst|centre people appointments"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450050467": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Data Quality Analyst",
-      "company": "Arden University",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450050467",
-      "content_key": "content:data quality analyst|arden university"
-    },
-    "url:https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/5288": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior Research Analyst/Actuary, Longevity Research",
-      "company": "SCOR",
-      "apply_url": "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/5288",
-      "content_key": "content:senior research analyst actuary longevity research|scor"
-    },
-    "url:https://careers.blackrock.com/job/london/vice-president-software-engineer-private-markets-data/45831/99027453760": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Vice President, Software Engineer (Private Markets Data)",
-      "company": "BlackRock",
-      "apply_url": "https://careers.blackrock.com/job/london/vice-president-software-engineer-private-markets-data/45831/99027453760",
-      "content_key": "content:vice president software engineer private markets data|blackrock"
-    },
-    "url:https://etsy.wd5.myworkdayjobs.com/en-US/Depop_Careers/job/London-UK/Senior-Product-Manager---Ranking--ML-_JR5787": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior Product Manager - Ranking (ML)",
-      "company": "Depop",
-      "apply_url": "https://etsy.wd5.myworkdayjobs.com/en-US/Depop_Careers/job/London-UK/Senior-Product-Manager---Ranking--ML-_JR5787",
-      "content_key": "content:senior product manager ranking ml|depop"
-    },
-    "url:https://www.amazon.jobs/jobs/10499142/applied-science-manager-advertising-demand-tech?cmpid=DA_INAD200785B": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Applied Science Manager, Advertising Demand Tech",
-      "company": "Amazon.com",
-      "apply_url": "https://www.amazon.jobs/jobs/10499142/applied-science-manager-advertising-demand-tech?cmpid=DA_INAD200785B",
-      "content_key": "content:applied science manager advertising demand tech|amazon com"
-    },
-    "url:https://grnh.se/19384pjr1us": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Lead Data Analyst (Pricing & Monetization)",
-      "company": "Trustpilot",
-      "apply_url": "https://grnh.se/19384pjr1us",
-      "content_key": "content:lead data analyst pricing monetization|trustpilot"
-    },
-    "url:https://jobs.lever.co/wgsn/3828313b-07ff-4745-81f3-c5e3b208c6d3?lever-source=Indeed": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Business Development Manager, API",
-      "company": "WGSN",
-      "apply_url": "https://jobs.lever.co/wgsn/3828313b-07ff-4745-81f3-c5e3b208c6d3?lever-source=Indeed",
-      "content_key": "content:business development manager api|wgsn"
-    },
-    "url:http://uk.indeed.com/job/transport-planner-7125eeb3c95c9b02": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Transport Planner",
-      "company": "Eurokey Recycling Group",
-      "apply_url": "http://uk.indeed.com/job/transport-planner-7125eeb3c95c9b02",
-      "content_key": "content:transport planner|eurokey recycling"
-    },
-    "url:https://genpact.wd108.myworkdayjobs.com/External_Careers/job/9752-G-UK-Ltd-Floor-24-110-Bishopsgate-London-UK/Principal---Industry-Advisory_JR10003473": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Principal - Industry Advisory",
-      "company": "Genpact",
-      "apply_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/9752-G-UK-Ltd-Floor-24-110-Bishopsgate-London-UK/Principal---Industry-Advisory_JR10003473",
-      "content_key": "content:principal industry advisory|genpact"
-    },
-    "url:https://careers.ey.com/ey/job/London-Senior-Consultant-Tax-Technology-&-Transformation-Financial-Services-London-E14-5EY/1413850633": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior Consultant - Tax Technology & Transformation - Financial Services - London",
-      "company": "EY",
-      "apply_url": "https://careers.ey.com/ey/job/London-Senior-Consultant-Tax-Technology-&-Transformation-Financial-Services-London-E14-5EY/1413850633/",
-      "content_key": "content:senior consultant tax technology transformation financial services london|ey"
-    },
-    "url:https://careers.ey.com/ey/job/London-Manager%2C-Tax-Technology-and-Transformation%2C-London-E14-5EY/1422857733": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Manager, Tax Technology and Transformation, London",
-      "company": "EY",
-      "apply_url": "https://careers.ey.com/ey/job/London-Manager%2C-Tax-Technology-and-Transformation%2C-London-E14-5EY/1422857733/",
-      "content_key": "content:manager tax technology and transformation london|ey"
-    },
-    "url:https://www.linkedin.com/jobs/view/4450618129": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "RFID Analyst",
-      "company": "Primark",
-      "apply_url": "https://www.linkedin.com/jobs/view/4450618129",
-      "content_key": "content:rfid analyst|primark"
-    },
-    "url:https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=am9ibGlzdF92aWV3X3ZhYz0yMDA5MDY2JnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZvd25lcnR5cGU9ZmFpciZzZWFyY2hwYWdlPTQxJnVzZXJzZWFyY2hjb250ZXh0PTIwMzgwMTg1MyZzZWFyY2hzb3J0PWNsb3Npbmcmb3duZXI9NTA3MDAwMCZwYWdlY2xhc3M9Sm9icyZyZXFzaWc9MTc4NjUxNDQxNi01ZjJkN2M1MWFhOGNjNDFmYjU5MDY3MmE1MWE2ZTNiMDdhMjdlMWYy": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Police AI - Head of Data Science and Evaluation",
-      "company": "College of Policing",
-      "apply_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=am9ibGlzdF92aWV3X3ZhYz0yMDA5MDY2JnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZvd25lcnR5cGU9ZmFpciZzZWFyY2hwYWdlPTQxJnVzZXJzZWFyY2hjb250ZXh0PTIwMzgwMTg1MyZzZWFyY2hzb3J0PWNsb3Npbmcmb3duZXI9NTA3MDAwMCZwYWdlY2xhc3M9Sm9icyZyZXFzaWc9MTc4NjUxNDQxNi01ZjJkN2M1MWFhOGNjNDFmYjU5MDY3MmE1MWE2ZTNiMDdhMjdlMWYy",
-      "content_key": "content:police ai head of data science and evaluation|college of policing"
-    },
-    "url:https://careers.homeprotect.co.uk/jobs/8203587-engineering-manager-underwriting-pricing": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Engineering Manager - Underwriting & Pricing",
-      "company": "Homeprotect",
-      "apply_url": "https://careers.homeprotect.co.uk/jobs/8203587-engineering-manager-underwriting-pricing",
-      "content_key": "content:engineering manager underwriting pricing|homeprotect"
-    },
-    "url:https://job-boards.greenhouse.io/map/jobs/8682331002": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior CRM Project Manager",
-      "company": "",
-      "apply_url": "https://job-boards.greenhouse.io/map/jobs/8682331002",
-      "content_key": ""
-    },
-    "url:https://genpact.wd108.myworkdayjobs.com/External_Careers/job/9752-G-UK-Ltd-5-Merchant-Square-Paddington-London/Prinicipal---Finance-Advisory-2_JR10019873": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Prinicipal - Finance Advisory",
-      "company": "Genpact",
-      "apply_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/9752-G-UK-Ltd-5-Merchant-Square-Paddington-London/Prinicipal---Finance-Advisory-2_JR10019873",
-      "content_key": "content:prinicipal finance advisory|genpact"
-    },
-    "url:https://awg.wd3.myworkdayjobs.com/en-US/AW/job/Huntingdon/Counter-Fraud-and-Investigations-Manager_R39074-1": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Counter Fraud and Investigations Manager",
-      "company": "Anglian Water",
-      "apply_url": "https://awg.wd3.myworkdayjobs.com/en-US/AW/job/Huntingdon/Counter-Fraud-and-Investigations-Manager_R39074-1",
-      "content_key": "content:counter fraud and investigations manager|anglian water"
-    },
-    "url:https://grnh.se/2vxpfiwe1us": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Senior Product Marketing Manager, Business Banking",
-      "company": "Monzo",
-      "apply_url": "https://grnh.se/2vxpfiwe1us",
-      "content_key": "content:senior product marketing manager business banking|monzo"
-    },
-    "url:https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/UK---Hertfordshire---Stevenage/Director--Translational-Data-Sciences_445320": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Director, Translational Data Sciences",
-      "company": "GSK",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/UK---Hertfordshire---Stevenage/Director--Translational-Data-Sciences_445320",
-      "content_key": "content:director translational data sciences|gsk"
-    },
-    "url:https://jobs.justice.gov.uk/careers/JobDetail/20854-Proven-Reoffending-Analyst-Analysis-Directorate-Ministry-of-Justice/20854": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Proven Reoffending Analyst, Analysis Directorate, Ministry of Justice",
-      "company": "Ministry of Justice UK",
-      "apply_url": "https://jobs.justice.gov.uk/careers/JobDetail/20854-Proven-Reoffending-Analyst-Analysis-Directorate-Ministry-of-Justice/20854",
-      "content_key": "content:proven reoffending analyst analysis directorate ministry of justice|ministry of justice uk"
-    },
-    "url:http://uk.indeed.com/job/structural-geologist-critical-minerals-exploration-afe380e922bbc976": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Structural Geologist - Critical Minerals Exploration",
-      "company": "Alt Carbon Pvt Ltd",
-      "apply_url": "http://uk.indeed.com/job/structural-geologist-critical-minerals-exploration-afe380e922bbc976",
-      "content_key": "content:structural geologist critical minerals exploration|alt carbon pvt"
-    },
-    "url:https://rowdentech.pinpointhq.com/postings/5f8cf2d4-b29e-4559-aad1-2d96791e3e35": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Principal RF Hardware Engineer",
-      "company": "Rowden",
-      "apply_url": "https://rowdentech.pinpointhq.com/postings/5f8cf2d4-b29e-4559-aad1-2d96791e3e35?utm_medium=job_board&utm_source=indeed",
-      "content_key": "content:principal rf hardware engineer|rowden"
-    },
-    "url:https://www.ouh.nhs.uk/working-for-us/jobs/default.aspx?ref=Indeed": {
-      "first_seen_run_id": "20260812T110157",
-      "last_seen_run_id": "20260812T110157",
-      "title": "Congenital Heart Disease ODN Lead Nurse",
-      "company": "Oxford University Hospitals NHS Foundation Trust",
-      "apply_url": "https://www.ouh.nhs.uk/working-for-us/jobs/default.aspx?ref=Indeed#!/job/v8120142?_ts=",
-      "content_key": "content:congenital heart disease odn lead nurse|oxford university hospitals nhs foundation trust"
+      "apply_url": "https://www.linkedin.com/jobs/view/4459962925",
+      "content_key": "content:1st line it support analyst|adria"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464488153": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst (2nd Line)",
+      "company": "FluidOne",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464488153",
+      "content_key": "content:service desk analyst 2nd line|fluidone"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464619171": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Analyst",
+      "company": "Neg Earth Lights",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464619171",
+      "content_key": "content:it analyst|neg earth lights"
+    },
+    "url:https://jobs.forestryengland.uk/members/modules/job/detail.php?record=789": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Analyst",
+      "company": "Forestry England",
+      "apply_url": "https://jobs.forestryengland.uk/members/modules/job/detail.php?record=789",
+      "content_key": "content:it service analyst|forestry england"
+    },
+    "url:https://careers.fhft.nhs.uk/our-vacancies?ref=Indeed": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Desk Analyst",
+      "company": "Frimley Health NHS Foundation Trust",
+      "apply_url": "https://careers.fhft.nhs.uk/our-vacancies/?ref=Indeed#!/job/v8275951?_ts=",
+      "content_key": "content:it service desk analyst|frimley health nhs foundation trust"
+    },
+    "url:https://jobs.yourhousinggroup.co.uk/members/modules/job/detail.php?record=2588": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "1st Line Service Desk Analyst",
+      "company": "Your Housing Group",
+      "apply_url": "https://jobs.yourhousinggroup.co.uk/members/modules/job/detail.php?record=2588",
+      "content_key": "content:1st line service desk analyst|your housing"
+    },
+    "url:https://www.jobs.leicspart.nhs.uk/Job/JobDetail?JobId=7022&source=JobtrainIndeed": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Junior Service Desk Analyst",
+      "company": "Leicestershire Partnership Trust",
+      "apply_url": "https://www.jobs.leicspart.nhs.uk/Job/JobDetail?JobId=7022&source=JobtrainIndeed",
+      "content_key": "content:junior service desk analyst|leicestershire partnership trust"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464331392": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Technician",
+      "company": "Acorn Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464331392",
+      "content_key": "content:it support technician|acorn"
+    },
+    "url:https://www.linkedin.com/jobs/view/4414043307": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Desk Specialist (13323)",
+      "company": "Watches of Switzerland Group PLC",
+      "apply_url": "https://www.linkedin.com/jobs/view/4414043307",
+      "content_key": "content:it service desk specialist 13323|watches of switzerland"
+    },
+    "url:https://www.linkedin.com/jobs/view/4442859867": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Support Analyst",
+      "company": "FRP Advisory",
+      "apply_url": "https://www.linkedin.com/jobs/view/4442859867",
+      "content_key": "content:service desk support analyst|frp advisory"
+    },
+    "url:http://uk.indeed.com/job/1st-line-technical-support-engineer-a48b25aa0ac8311c": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "1st Line Technical Support Engineer",
+      "company": "CTS Group Ltd",
+      "apply_url": "http://uk.indeed.com/job/1st-line-technical-support-engineer-a48b25aa0ac8311c",
+      "content_key": "content:1st line technical support engineer|cts"
+    },
+    "url:https://www.linkedin.com/jobs/view/4426749175": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer - EMEA",
+      "company": "Sigma",
+      "apply_url": "https://www.linkedin.com/jobs/view/4426749175",
+      "content_key": "content:technical support engineer emea|sigma"
+    },
+    "url:https://www.linkedin.com/jobs/view/4463148389": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Digital Product Support Engineer",
+      "company": "Caesars Entertainment",
+      "apply_url": "https://www.linkedin.com/jobs/view/4463148389",
+      "content_key": "content:digital product support engineer|caesars entertainment"
+    },
+    "url:https://jobs.arts.ac.uk/job/12661-it-support-analyst": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support analyst",
+      "company": "University of the Arts London",
+      "apply_url": "https://jobs.arts.ac.uk/job/12661-it-support-analyst/",
+      "content_key": "content:it support analyst|university of the arts london"
+    },
+    "url:https://jobs.dayforcehcm.com/en-US/acadia/CANDIDATEPORTAL/jobs/6248": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Analyst",
+      "company": "4Wall Entertainment",
+      "apply_url": "https://jobs.dayforcehcm.com/en-US/acadia/CANDIDATEPORTAL/jobs/6248",
+      "content_key": "content:it support analyst|4wall entertainment"
+    },
+    "url:https://www.networxrecruitment.com/Jobs/Advert/4304800?js=115&linkType=1": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Analyst",
+      "company": "St Andrews Links",
+      "apply_url": "https://www.networxrecruitment.com/Jobs/Advert/4304800?js=115&linkType=1",
+      "content_key": "content:it support analyst|st andrews links"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464358920": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "United Utilities",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464358920",
+      "content_key": "content:service desk analyst|united utilities"
+    },
+    "url:https://www.linkedin.com/jobs/view/4463349181": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Deskside Support Analyst",
+      "company": "Markel",
+      "apply_url": "https://www.linkedin.com/jobs/view/4463349181",
+      "content_key": "content:deskside support analyst|markel"
+    },
+    "url:https://www.linkedin.com/jobs/view/4460492410": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Deskside Support Analyst",
+      "company": "Avencia Talent Solutions",
+      "apply_url": "https://www.linkedin.com/jobs/view/4460492410",
+      "content_key": "content:deskside support analyst|avencia talent"
+    },
+    "url:https://polypipe.wd103.myworkdayjobs.com/en-US/Careers/job/Polypipe-Doncaster-Broomhouse-Lane/Service-Desk-Analyst_JR102422-1": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "Genuit Group",
+      "apply_url": "https://polypipe.wd103.myworkdayjobs.com/en-US/Careers/job/Polypipe-Doncaster-Broomhouse-Lane/Service-Desk-Analyst_JR102422-1",
+      "content_key": "content:service desk analyst|genuit"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462507254": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Information Technology Support Engineer",
+      "company": "Radius",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462507254",
+      "content_key": "content:information technology support engineer|radius"
+    },
+    "url:https://www.linkedin.com/jobs/view/4452803685": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk - Linux & MacOS",
+      "company": "Methods",
+      "apply_url": "https://www.linkedin.com/jobs/view/4452803685",
+      "content_key": "content:service desk linux macos|methods"
+    },
+    "url:https://fsr.cvmailuk.com/ashurstperkinscoiecareers/main.cfm?jobId=78925&page=jobSpecific&queryString=srxksl%3D1&rcd=8700366": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Desk Analyst - 6 Month FTC",
+      "company": "Ashurst Perkins Coie",
+      "apply_url": "https://fsr.cvmailuk.com/ashurstperkinscoiecareers/main.cfm?page=jobSpecific&jobId=78925&rcd=8700366&queryString=srxksl%3D1",
+      "content_key": "content:it service desk analyst 6 month ftc|ashurst perkins coie"
+    },
+    "url:http://www.healthjobsuk.com/vacancy/8221131?ref=Indeed": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Pathology Service Desk Assistant",
+      "company": "Gateshead Health NHS Foundation Trust",
+      "apply_url": "http://www.healthjobsuk.com/vacancy/8221131?ref=Indeed",
+      "content_key": "content:pathology service desk assistant|gateshead health nhs foundation trust"
+    },
+    "url:https://careers.peabody.org.uk/members/modules/job/detail.php?record=1367": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "Peabody",
+      "apply_url": "https://careers.peabody.org.uk/members/modules/job/detail.php?record=1367",
+      "content_key": "content:service desk analyst|peabody"
+    },
+    "url:http://uk.indeed.com/job/it-service-desk-analyst-c3874988495ea6e7": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Desk Analyst",
+      "company": "Acrelec UK",
+      "apply_url": "http://uk.indeed.com/job/it-service-desk-analyst-c3874988495ea6e7",
+      "content_key": "content:it service desk analyst|acrelec uk"
+    },
+    "url:https://www.leedsandyorkpft.nhs.uk/careers/latest-jobs?ref=Indeed": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "Leeds and York Partnership NHS Foundation Trust",
+      "apply_url": "https://www.leedsandyorkpft.nhs.uk/careers/latest-jobs/?ref=Indeed#!/job/v8269584?_ts=",
+      "content_key": "content:service desk analyst|leeds and york partnership nhs foundation trust"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462832055": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "Canopius Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462832055",
+      "content_key": "content:service desk analyst|canopius"
+    },
+    "url:https://www.linkedin.com/jobs/view/4460464717": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "Hitachi Solutions Germany",
+      "apply_url": "https://www.linkedin.com/jobs/view/4460464717",
+      "content_key": "content:service desk analyst|hitachi germany"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464475769": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "PRIMUS Global Solutions (PRIMUS UK & Europe)",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464475769",
+      "content_key": "content:service desk analyst|primus global primus uk europe"
+    },
+    "url:http://uk.indeed.com/job/technical-support-engineer-automotive-software-ecu-systems-f291da7c0834fda4": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer – Automotive Software & ECU Systems",
+      "company": "Viezu technologies",
+      "apply_url": "http://uk.indeed.com/job/technical-support-engineer-automotive-software-ecu-systems-f291da7c0834fda4",
+      "content_key": "content:technical support engineer automotive software ecu systems|viezu"
+    },
+    "url:http://uk.indeed.com/job/technical-support-engineer-full-time-166da13bd652351f": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer (Full time)",
+      "company": "Carlyon Systems Ltd",
+      "apply_url": "http://uk.indeed.com/job/technical-support-engineer-full-time-166da13bd652351f",
+      "content_key": "content:technical support engineer full time|carlyon systems"
+    },
+    "url:https://careers-iomart.icims.com/jobs/2185/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "2nd Line Technical Support Engineer",
+      "company": "IOMART",
+      "apply_url": "https://careers-iomart.icims.com/jobs/2185/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "content_key": "content:2nd line technical support engineer|iomart"
+    },
+    "url:https://www.linkedin.com/jobs/view/4457939067": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Support Engineer",
+      "company": "Zinc",
+      "apply_url": "https://www.linkedin.com/jobs/view/4457939067",
+      "content_key": "content:support engineer|zinc"
+    },
+    "url:https://www.linkedin.com/jobs/view/4463605191": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer",
+      "company": "Plaid",
+      "apply_url": "https://www.linkedin.com/jobs/view/4463605191",
+      "content_key": "content:technical support engineer|plaid"
+    },
+    "url:https://www.linkedin.com/jobs/view/4463392348": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Field Engineer (f/m/d)",
+      "company": "3B Scientific",
+      "apply_url": "https://www.linkedin.com/jobs/view/4463392348",
+      "content_key": "content:field engineer f m d|3b scientific"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462839127": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer",
+      "company": "Accelero",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462839127",
+      "content_key": "content:technical support engineer|accelero"
+    },
+    "url:https://www.linkedin.com/jobs/view/4453325958": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support & Test Engineer",
+      "company": "IC Resources",
+      "apply_url": "https://www.linkedin.com/jobs/view/4453325958",
+      "content_key": "content:technical support test engineer|ic resources"
+    },
+    "url:https://www.linkedin.com/jobs/view/4452377793": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer",
+      "company": "My Product Path",
+      "apply_url": "https://www.linkedin.com/jobs/view/4452377793",
+      "content_key": "content:technical support engineer|my product path"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464622002": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Field Engineer",
+      "company": "Agilisys",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464622002",
+      "content_key": "content:field engineer|agilisys"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464610485": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Engineer",
+      "company": "Searchability®",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464610485",
+      "content_key": "content:it support engineer|searchability"
+    },
+    "url:https://www.linkedin.com/jobs/view/4453565438": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Support Analyst",
+      "company": "Bodycote",
+      "apply_url": "https://www.linkedin.com/jobs/view/4453565438",
+      "content_key": "content:it service support analyst|bodycote"
+    },
+    "url:https://www.linkedin.com/jobs/view/4461954395": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Deskside Support Analyst",
+      "company": "Markel International",
+      "apply_url": "https://www.linkedin.com/jobs/view/4461954395",
+      "content_key": "content:deskside support analyst|markel international"
+    },
+    "url:https://www.linkedin.com/jobs/view/4436106751": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Analyst: Application Support",
+      "company": "Norton Rose Fulbright",
+      "apply_url": "https://www.linkedin.com/jobs/view/4436106751",
+      "content_key": "content:analyst application support|norton rose fulbright"
+    },
+    "url:https://www.linkedin.com/jobs/view/4459965009": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer",
+      "company": "Lynx Recruitment",
+      "apply_url": "https://www.linkedin.com/jobs/view/4459965009",
+      "content_key": "content:technical support engineer|lynx recruitment"
+    },
+    "url:https://www.linkedin.com/jobs/view/4459977225": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Information Technology Support Analyst",
+      "company": "Intec Select",
+      "apply_url": "https://www.linkedin.com/jobs/view/4459977225",
+      "content_key": "content:information technology support analyst|intec select"
+    },
+    "url:https://www.linkedin.com/jobs/view/4449859649": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Support Specialist",
+      "company": "Sony Interactive Entertainment",
+      "apply_url": "https://www.linkedin.com/jobs/view/4449859649",
+      "content_key": "content:it support specialist|sony interactive entertainment"
+    },
+    "url:http://uk.indeed.com/job/service-desk-analyst-b54518b691c5e1fe": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Analyst",
+      "company": "Midland Computers Ltd",
+      "apply_url": "http://uk.indeed.com/job/service-desk-analyst-b54518b691c5e1fe",
+      "content_key": "content:service desk analyst|midland computers"
+    },
+    "url:https://apply.workable.com/j/64198C1D39": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer - Fixed Term Contract",
+      "company": "The Focusrite Group",
+      "apply_url": "https://apply.workable.com/j/64198C1D39",
+      "content_key": "content:technical support engineer fixed term contract|the focusrite"
+    },
+    "url:https://www.linkedin.com/jobs/view/4463611802": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer",
+      "company": "OPSWAT",
+      "apply_url": "https://www.linkedin.com/jobs/view/4463611802",
+      "content_key": "content:technical support engineer|opswat"
+    },
+    "url:https://www.linkedin.com/jobs/view/4434718201": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer - Digital Customer Success",
+      "company": "GRUNDFOS",
+      "apply_url": "https://www.linkedin.com/jobs/view/4434718201",
+      "content_key": "content:technical support engineer digital customer success|grundfos"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462287804": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Network Engineer (Technical Support)",
+      "company": "GoHire",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462287804",
+      "content_key": "content:network engineer technical support|gohire"
+    },
+    "url:https://careers.ground-control.co.uk/jobs/8341634-senior-technical-support-analyst": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Senior Technical Support Analyst",
+      "company": "Ground Control",
+      "apply_url": "https://careers.ground-control.co.uk/jobs/8341634-senior-technical-support-analyst",
+      "content_key": "content:senior technical support analyst|ground control"
+    },
+    "url:https://www.frontline-consultancy.com/wp-content/uploads/2026/08/Senior-Service-Desk-Analyst.pdf": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Senior Service Desk Analyst",
+      "company": "Frontline Consultancy & Business Services Ltd",
+      "apply_url": "https://www.frontline-consultancy.com/wp-content/uploads/2026/08/Senior-Service-Desk-Analyst.pdf",
+      "content_key": "content:senior service desk analyst|frontline consultancy business services"
+    },
+    "url:https://goaco.com/careers/19296-senior-service-desk-analyst-manchester-uk": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Senior Service Desk Analyst",
+      "company": "Goaco",
+      "apply_url": "https://goaco.com/careers/19296-senior-service-desk-analyst-manchester-uk/",
+      "content_key": "content:senior service desk analyst|goaco"
+    },
+    "url:https://bch.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-4/brand-6/xf-e3087649b2d5/candidate/so/pm/1/pl/29/opp/4780-ICT-Senior-Service-Desk-Analyst-Herts/en-GB": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "ICT Senior Service Desk Analyst - Herts",
+      "company": "Hertfordshire Constabulary",
+      "apply_url": "https://bch.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-4/brand-6/xf-e3087649b2d5/candidate/so/pm/1/pl/29/opp/4780-ICT-Senior-Service-Desk-Analyst-Herts/en-GB",
+      "content_key": "content:ict senior service desk analyst herts|hertfordshire constabulary"
+    },
+    "url:https://bch.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/xf-86c2a1924eac/candidate/so/pm/1/pl/14/opp/4780-ICT-Senior-Service-Desk-Analyst-Herts/en-GB": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "ICT Senior Service Desk Analyst - Herts",
+      "company": "Bedfordshire Police",
+      "apply_url": "https://bch.tal.net/vx/lang-en-GB/mobile-0/appcentre-13/brand-3/xf-86c2a1924eac/candidate/so/pm/1/pl/14/opp/4780-ICT-Senior-Service-Desk-Analyst-Herts/en-GB",
+      "content_key": "content:ict senior service desk analyst herts|bedfordshire police"
+    },
+    "url:https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/UK-Cheadle/Technical-Support-Engineer---Lab-Informatics_4039096": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer – Lab Informatics",
+      "company": "Agilent Technologies LDA UK Limited",
+      "apply_url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/UK-Cheadle/Technical-Support-Engineer---Lab-Informatics_4039096",
+      "content_key": "content:technical support engineer lab informatics|agilent lda uk"
+    },
+    "url:https://jobs.arjo.com/job/Gloucester-%28GBR%29-Spare-Parts-Administrator-Glou/1434561533": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Spare Parts Administrator",
+      "company": "Arjo",
+      "apply_url": "https://jobs.arjo.com/job/Gloucester-%28GBR%29-Spare-Parts-Administrator-Glou/1434561533/",
+      "content_key": "content:spare parts administrator|arjo"
+    },
+    "url:http://uk.indeed.com/job/technical-support-engineer-e685b971bf270d55": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer",
+      "company": "GIBIDI UK",
+      "apply_url": "http://uk.indeed.com/job/technical-support-engineer-e685b971bf270d55",
+      "content_key": "content:technical support engineer|gibidi uk"
+    },
+    "url:http://uk.indeed.com/job/technical-presales-engineer-efe2d67e08bd3c76": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Presales Engineer",
+      "company": "Mitsubishi Electric",
+      "apply_url": "http://uk.indeed.com/job/technical-presales-engineer-efe2d67e08bd3c76",
+      "content_key": "content:technical presales engineer|mitsubishi electric"
+    },
+    "url:http://uk.indeed.com/job/solar-technical-support-engineer-1e2d3fcde9958128": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Solar Technical Support Engineer",
+      "company": "Sustain",
+      "apply_url": "http://uk.indeed.com/job/solar-technical-support-engineer-1e2d3fcde9958128",
+      "content_key": "content:solar technical support engineer|sustain"
+    },
+    "url:https://www.linkedin.com/jobs/view/4444984852": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service & Technical Support Engineer £40,000",
+      "company": "Pulsar Measurement",
+      "apply_url": "https://www.linkedin.com/jobs/view/4444984852",
+      "content_key": "content:service technical support engineer 40 000|pulsar measurement"
+    },
+    "url:https://www.linkedin.com/jobs/view/4460461876": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Customer Support Engineer (French speaking)",
+      "company": "LexisNexis Risk Solutions",
+      "apply_url": "https://www.linkedin.com/jobs/view/4460461876",
+      "content_key": "content:customer support engineer french speaking|lexisnexis risk"
+    },
+    "url:https://www.linkedin.com/jobs/view/4443011700": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Product Support Engineer",
+      "company": "Thales",
+      "apply_url": "https://www.linkedin.com/jobs/view/4443011700",
+      "content_key": "content:product support engineer|thales"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462148544": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Senior Information Technology Support Engineer",
+      "company": "Vector Resourcing",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462148544",
+      "content_key": "content:senior information technology support engineer|vector resourcing"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462272293": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer-Hybrid",
+      "company": "Hinen",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462272293",
+      "content_key": "content:technical support engineer hybrid|hinen"
+    },
+    "url:https://apply-v3.jobsync.io/indeed/r-app/1a781e0bc7ae211e518f62d1cc103b8a478532a760ac4bf7cca2a30e": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "IT Service Support Manager",
+      "company": "Bupa",
+      "apply_url": "https://apply-v3.jobsync.io/indeed/r-app/1a781e0bc7ae211e518f62d1cc103b8a478532a760ac4bf7cca2a30e/",
+      "content_key": "content:it service support manager|bupa"
+    },
+    "url:https://jobs.lrqa.com/job/Birmingham-Service-Desk-Manager/1434725633": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Desk Manager",
+      "company": "LRQA group",
+      "apply_url": "https://jobs.lrqa.com/job/Birmingham-Service-Desk-Manager/1434725633/",
+      "content_key": "content:service desk manager|lrqa"
+    },
+    "url:https://www.linkedin.com/jobs/view/4464627477": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Digital Services Helpdesk Agent",
+      "company": "University Hospitals of North Midlands NHS Trust",
+      "apply_url": "https://www.linkedin.com/jobs/view/4464627477",
+      "content_key": "content:digital services helpdesk agent|university hospitals of north midlands nhs trust"
+    },
+    "url:https://www.linkedin.com/jobs/view/4452444103": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Service Hotline Engineer - Injection Moulding",
+      "company": "Wynne Consulting",
+      "apply_url": "https://www.linkedin.com/jobs/view/4452444103",
+      "content_key": "content:service hotline engineer injection moulding|wynne consulting"
+    },
+    "url:https://www.linkedin.com/jobs/view/4460966346": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Field Service Engineer",
+      "company": "Roke",
+      "apply_url": "https://www.linkedin.com/jobs/view/4460966346",
+      "content_key": "content:field service engineer|roke"
+    },
+    "url:https://jsv3.recruitics.com/redirect?rx_cid=3436&rx_jobId=R-01360206_rxr-1&rx_url=https%3A%2F%2Fjobs.thermofisher.com%2Fglobal%2Fen%2Fjob%2FR-01360206%2FTechnical-Support-Engineer-Operations%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D123525%26rx_id%3D09eae8e9-a98a-11f1-83f8-a35c1cd49e54%26rx_job%3DR-01360206_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260908T180407Z%26rx_vp%3Dcpc%26utm_medium%3Dppc%26utm_source%3Drecruitics_indeedorganic": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Technical Support Engineer - Operations",
+      "company": "Thermo Fisher Scientific",
+      "apply_url": "https://jsv3.recruitics.com/redirect?rx_cid=3436&rx_jobId=R-01360206_rxr-1&rx_url=https%3A%2F%2Fjobs.thermofisher.com%2Fglobal%2Fen%2Fjob%2FR-01360206%2FTechnical-Support-Engineer-Operations%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D123525%26rx_id%3D09eae8e9-a98a-11f1-83f8-a35c1cd49e54%26rx_job%3DR-01360206_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260908T180407Z%26rx_vp%3Dcpc%26utm_medium%3Dppc%26utm_source%3Drecruitics_indeedorganic",
+      "content_key": "content:technical support engineer operations|thermo fisher scientific"
+    },
+    "url:https://armstrongfluidtechnology.bamboohr.com/careers/975?postedDate=2026-08-27&source=indeed&src=indeed": {
+      "first_seen_run_id": "20260908T182343",
+      "last_seen_run_id": "20260908T182343",
+      "title": "Field Service Commercial GAS Engineer",
+      "company": "Armstrong Fluid Technology",
+      "apply_url": "https://armstrongfluidtechnology.bamboohr.com/careers/975?source=indeed&src=indeed&postedDate=2026-08-27",
+      "content_key": "content:field service commercial gas engineer|armstrong fluid"
     }
   }
 }
