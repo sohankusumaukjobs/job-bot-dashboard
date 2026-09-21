@@ -1,7 +1,7 @@
 {
   "version": 1,
   "resume_hash": "038623c6949100062fca5ef360c9f9659125ed63a996dd721c038bdd21ea28b6",
-  "updated_at": "2026-09-17T06:26:45",
+  "updated_at": "2026-09-21T11:57:24",
   "entries": {
     "url:http://uk.indeed.com/job/it-support-apprentice-graduate-service-desk-analyst-01886087bd8b1fc4": {
       "first_seen_run_id": "20260908T182343",
@@ -1602,6 +1602,390 @@
       "company": "BAE Systems",
       "apply_url": "https://jobsearch.baesystems.com/job/senior-technical-support-engineer-00137758",
       "content_key": "content:senior technical support engineer|bae systems"
+    },
+    "url:https://www.linkedin.com/jobs/view/4469150291": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "IT Support Engineer, 1st Line",
+      "company": "NVOY Technologies",
+      "apply_url": "https://www.linkedin.com/jobs/view/4469150291",
+      "content_key": "content:it support engineer 1st line|nvoy"
+    },
+    "url:http://www.healthjobsuk.com/vacancy/8303360?ref=Indeed": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Digital Service Desk Analyst",
+      "company": "Royal Surrey NHS Foundation Trust",
+      "apply_url": "http://www.healthjobsuk.com/vacancy/8303360?ref=Indeed",
+      "content_key": "content:digital service desk analyst|royal surrey nhs foundation trust"
+    },
+    "url:https://hrservices.plymouth.ac.uk/tlive_webrecruitment/wrd/run/ETREC179GF.open?VACANCY_ID=323252ZDVC&WVID=1602750fTZ": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Assistant Support Analyst",
+      "company": "Plymouth University",
+      "apply_url": "https://hrservices.plymouth.ac.uk/tlive_webrecruitment/wrd/run/ETREC179GF.open?WVID=1602750fTZ&VACANCY_ID=323252ZDVC",
+      "content_key": "content:assistant support analyst|plymouth university"
+    },
+    "url:https://www.linkedin.com/jobs/view/4462217074": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "IT Junior Support Analyst",
+      "company": "The Citco Group Limited",
+      "apply_url": "https://www.linkedin.com/jobs/view/4462217074",
+      "content_key": "content:it junior support analyst|the citco"
+    },
+    "url:https://www.linkedin.com/jobs/view/4469172567": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Deskside Support Analyst",
+      "company": "Acora - IT, Cyber & AI",
+      "apply_url": "https://www.linkedin.com/jobs/view/4469172567",
+      "content_key": "content:deskside support analyst|acora it cyber ai"
+    },
+    "url:https://www.linkedin.com/jobs/view/4466274556": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Service Desk Analyst",
+      "company": "Carpenters Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4466274556",
+      "content_key": "content:service desk analyst|carpenters"
+    },
+    "url:https://ce0382li.webitrent.com/ce0382li_webrecruitment/wrd/run/ETREC179GF.open?VACANCY_ID=537923Fnsa&WVID=7384220Foy": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Service Desk Analyst",
+      "company": "XPS Group",
+      "apply_url": "https://ce0382li.webitrent.com/ce0382li_webrecruitment/wrd/run/ETREC179GF.open?WVID=7384220Foy&VACANCY_ID=537923Fnsa",
+      "content_key": "content:service desk analyst|xps"
+    },
+    "url:http://newcastle.healthjobsuk.com/vacancy/8305909?ref=Indeed": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Junior IT Service Desk Analyst",
+      "company": "NHS",
+      "apply_url": "http://newcastle.healthjobsuk.com/vacancy/8305909?ref=Indeed",
+      "content_key": "content:junior it service desk analyst|nhs"
+    },
+    "url:https://www.linkedin.com/jobs/view/4469101275": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Service Desk Analyst - Bristol",
+      "company": "Experis UK",
+      "apply_url": "https://www.linkedin.com/jobs/view/4469101275",
+      "content_key": "content:service desk analyst bristol|experis uk"
+    },
+    "url:https://www.linkedin.com/jobs/view/4469137612": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Information Technology Support Analyst",
+      "company": "AlbaCo Ltd",
+      "apply_url": "https://www.linkedin.com/jobs/view/4469137612",
+      "content_key": "content:information technology support analyst|albaco"
+    },
+    "url:https://www.linkedin.com/jobs/view/4467840410": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "IT Support Analyst",
+      "company": "Bionical Health",
+      "apply_url": "https://www.linkedin.com/jobs/view/4467840410",
+      "content_key": "content:it support analyst|bionical health"
+    },
+    "url:https://recruitment.bma.org.uk/members/modules/job/detail.php?record=1239": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Service Desk Analyst",
+      "company": "British Medical Association",
+      "apply_url": "https://recruitment.bma.org.uk/members/modules/job/detail.php?record=1239",
+      "content_key": "content:service desk analyst|british medical association"
+    },
+    "url:https://apply.workable.com/j/2A87972FB3": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Endpoint Service Desk Analyst",
+      "company": "Academia Group",
+      "apply_url": "https://apply.workable.com/j/2A87972FB3",
+      "content_key": "content:endpoint service desk analyst|academia"
+    },
+    "url:https://apply.tlt.com/vacancies/5446/IND": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "1st Line Support Analyst",
+      "company": "TLT",
+      "apply_url": "https://apply.tlt.com/vacancies/5446/IND",
+      "content_key": "content:1st line support analyst|tlt"
+    },
+    "url:https://www.linkedin.com/jobs/view/4469132047": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Endpoint Service Desk Analyst",
+      "company": "Academia the Technology Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4469132047",
+      "content_key": "content:endpoint service desk analyst|academia the"
+    },
+    "url:https://www.linkedin.com/jobs/view/4457797523": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Service Desk Analyst",
+      "company": "Bell Integration",
+      "apply_url": "https://www.linkedin.com/jobs/view/4457797523",
+      "content_key": "content:service desk analyst|bell integration"
+    },
+    "url:https://www.linkedin.com/jobs/view/4467424055": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Service Desk Analyst",
+      "company": "Leidos",
+      "apply_url": "https://www.linkedin.com/jobs/view/4467424055",
+      "content_key": "content:service desk analyst|leidos"
+    },
+    "url:https://www.linkedin.com/jobs/view/4468703791": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "24*7 Service Desk Analyst",
+      "company": "NEC Software Solutions",
+      "apply_url": "https://www.linkedin.com/jobs/view/4468703791",
+      "content_key": "content:24 7 service desk analyst|nec software"
+    },
+    "url:https://www.linkedin.com/jobs/view/4414094855": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Technical Support Engineer",
+      "company": "Dematic",
+      "apply_url": "https://www.linkedin.com/jobs/view/4414094855",
+      "content_key": "content:technical support engineer|dematic"
+    },
+    "url:https://www.linkedin.com/jobs/view/4467834974": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Systems Support Engineer",
+      "company": "Portman Finance Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4467834974",
+      "content_key": "content:systems support engineer|portman finance"
+    },
+    "url:https://www.linkedin.com/jobs/view/4468216244": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Desktop Support Engineer",
+      "company": "Thorntons Law LLP",
+      "apply_url": "https://www.linkedin.com/jobs/view/4468216244",
+      "content_key": "content:desktop support engineer|thorntons law llp"
+    },
+    "url:https://www.linkedin.com/jobs/view/4466935491": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Helpdesk Support Analyst",
+      "company": "Convene",
+      "apply_url": "https://www.linkedin.com/jobs/view/4466935491",
+      "content_key": "content:helpdesk support analyst|convene"
+    },
+    "url:https://www.linkedin.com/jobs/view/4465999983": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "1st Line IT Service Desk Engineer",
+      "company": "Cloud People",
+      "apply_url": "https://www.linkedin.com/jobs/view/4465999983",
+      "content_key": "content:1st line it service desk engineer|cloud people"
+    },
+    "url:https://torus.livevacancies.co.uk": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Service Desk Analyst - 2nd Line - 2 Year Contract",
+      "company": "Torus",
+      "apply_url": "https://torus.livevacancies.co.uk/#!/page/The-Observatory-Liverpool-City-Centre-Office-/Service-Desk-Analyst-2nd-Line-2-Year-Contract-1182.html?source=Indeed",
+      "content_key": "content:service desk analyst 2nd line 2 year contract|torus"
+    },
+    "url:https://duncantoplis.co.uk/vacancies/it-service-desk-analyst": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "IT Service Desk Analyst",
+      "company": "Duncan & Toplis",
+      "apply_url": "https://duncantoplis.co.uk/vacancies/it-service-desk-analyst/",
+      "content_key": "content:it service desk analyst|duncan toplis"
+    },
+    "url:https://www.linkedin.com/jobs/view/4468853934": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Support Analyst",
+      "company": "United Talent Agency",
+      "apply_url": "https://www.linkedin.com/jobs/view/4468853934",
+      "content_key": "content:support analyst|united talent agency"
+    },
+    "url:https://www.linkedin.com/jobs/view/4468377892": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Systems Engineer",
+      "company": "Thrive",
+      "apply_url": "https://www.linkedin.com/jobs/view/4468377892",
+      "content_key": "content:systems engineer|thrive"
+    },
+    "url:https://www.linkedin.com/jobs/view/4450250908": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Customer Technical Support Engineer",
+      "company": "Motorola Solutions",
+      "apply_url": "https://www.linkedin.com/jobs/view/4450250908",
+      "content_key": "content:customer technical support engineer|motorola"
+    },
+    "url:https://www.linkedin.com/jobs/view/4466901246": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Service Desk Engineer",
+      "company": "Waterstons",
+      "apply_url": "https://www.linkedin.com/jobs/view/4466901246",
+      "content_key": "content:service desk engineer|waterstons"
+    },
+    "url:https://www.linkedin.com/jobs/view/4466903325": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Onsite Support Engineer",
+      "company": "Littlefish Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4466903325",
+      "content_key": "content:onsite support engineer|littlefish"
+    },
+    "url:https://www.linkedin.com/jobs/view/4469119329": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "First And Second Line IT Helpdesk Engineer",
+      "company": "DSM Group",
+      "apply_url": "https://www.linkedin.com/jobs/view/4469119329",
+      "content_key": "content:first and second line it helpdesk engineer|dsm"
+    },
+    "url:https://www.linkedin.com/jobs/view/4466263380": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "IT Service Engineer",
+      "company": "Salt",
+      "apply_url": "https://www.linkedin.com/jobs/view/4466263380",
+      "content_key": "content:it service engineer|salt"
+    },
+    "url:https://www.linkedin.com/jobs/view/4465567845": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Support Engineer",
+      "company": "Peaple Talent",
+      "apply_url": "https://www.linkedin.com/jobs/view/4465567845",
+      "content_key": "content:support engineer|peaple talent"
+    },
+    "url:https://careers.vestas.com/job/Warrington-Plant-Technical-Support-Engineer-Ches-WA3-6XG/1437926433": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Plant Technical Support Engineer",
+      "company": "Vestas",
+      "apply_url": "https://careers.vestas.com/job/Warrington-Plant-Technical-Support-Engineer-Ches-WA3-6XG/1437926433/",
+      "content_key": "content:plant technical support engineer|vestas"
+    },
+    "url:https://www.linkedin.com/jobs/view/4458003130": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Service Desk Analyst",
+      "company": "PentenAmio",
+      "apply_url": "https://www.linkedin.com/jobs/view/4458003130",
+      "content_key": "content:service desk analyst|pentenamio"
+    },
+    "url:https://apply.tlt.com/vacancies/5783/IND": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Senior IT Service Desk Analyst",
+      "company": "TLT",
+      "apply_url": "https://apply.tlt.com/vacancies/5783/IND",
+      "content_key": "content:senior it service desk analyst|tlt"
+    },
+    "url:http://uk.indeed.com/job/technical-support-engineer-f6d99c42e8eb9b05": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Technical Support Engineer",
+      "company": "LASERWIRE SOLUTIONS",
+      "apply_url": "http://uk.indeed.com/job/technical-support-engineer-f6d99c42e8eb9b05",
+      "content_key": "content:technical support engineer|laserwire"
+    },
+    "url:https://jobs.lever.co/outreach/d3df2218-20b8-4c4b-815e-aa02d7c0b9ee": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Technical Support Engineer Tier 3 - London, UK",
+      "company": "Outreach.io",
+      "apply_url": "https://jobs.lever.co/outreach/d3df2218-20b8-4c4b-815e-aa02d7c0b9ee",
+      "content_key": "content:technical support engineer tier 3 london uk|outreach io"
+    },
+    "url:https://grnh.se/8lwk7hhp1us": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Technical Support Engineer, Field - UK Remote",
+      "company": "Formlabs",
+      "apply_url": "https://grnh.se/8lwk7hhp1us",
+      "content_key": "content:technical support engineer field uk remote|formlabs"
+    },
+    "url:https://www.aixtron.com/de/karriere/stellenangebote/Field%20Service%20%26%20Technical%20Support%20Engineer_j3582554": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Field Service & Technical Support Engineer",
+      "company": "Aixtron SE",
+      "apply_url": "https://www.aixtron.com/de/karriere/stellenangebote/Field%20Service%20%26%20Technical%20Support%20Engineer_j3582554",
+      "content_key": "content:field service technical support engineer|aixtron se"
+    },
+    "url:https://www.linkedin.com/jobs/view/4467859298": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Technical Support Engineer Tier 3 - London, UK",
+      "company": "Outreach",
+      "apply_url": "https://www.linkedin.com/jobs/view/4467859298",
+      "content_key": "content:technical support engineer tier 3 london uk|outreach"
+    },
+    "url:https://www.linkedin.com/jobs/view/4422473775": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Technical Support Specialist - German Speaking",
+      "company": "Synthesia",
+      "apply_url": "https://www.linkedin.com/jobs/view/4422473775",
+      "content_key": "content:technical support specialist german speaking|synthesia"
+    },
+    "url:https://www.linkedin.com/jobs/view/4469102634": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Technical Support Engineer Hotline",
+      "company": "EcoFlow",
+      "apply_url": "https://www.linkedin.com/jobs/view/4469102634",
+      "content_key": "content:technical support engineer hotline|ecoflow"
+    },
+    "url:https://www.linkedin.com/jobs/view/4468233013": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "French Speaking Front Office IT Support Engineer",
+      "company": "MARGO",
+      "apply_url": "https://www.linkedin.com/jobs/view/4468233013",
+      "content_key": "content:french speaking front office it support engineer|margo"
+    },
+    "url:https://apply.workable.com/j/A57C3ECFDB": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Principal Service Desk Analyst",
+      "company": "Methods Business and Digital Technology",
+      "apply_url": "https://apply.workable.com/j/A57C3ECFDB",
+      "content_key": "content:principal service desk analyst|methods business and digital"
+    },
+    "url:https://duncantoplis.co.uk/vacancies/assurance-manager": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Assurance Manager",
+      "company": "Duncan & Toplis",
+      "apply_url": "https://duncantoplis.co.uk/vacancies/assurance-manager/",
+      "content_key": "content:assurance manager|duncan toplis"
+    },
+    "url:https://recipharmweb.eploy.net/vacancies/1262/technical-support-engineer.html?source=Indeed": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Technical Support Engineer",
+      "company": "Bespak",
+      "apply_url": "https://recipharmweb.eploy.net/vacancies/1262/technical-support-engineer.html?source=Indeed",
+      "content_key": "content:technical support engineer|bespak"
+    },
+    "url:https://careers-relfm.icims.com/jobs/15735/job?iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": {
+      "first_seen_run_id": "20260921T115724",
+      "last_seen_run_id": "20260921T115724",
+      "title": "Head of IT – Service & EUC",
+      "company": "Smollan",
+      "apply_url": "https://careers-relfm.icims.com/jobs/15735/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "content_key": "content:head of it service euc|smollan"
     }
   }
 }
